@@ -2,7 +2,7 @@ name: Update comic
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes (so TRMNL almost always sees a new one)
+    - cron: '*/5 * * * *'   # every 5 minutes
   workflow_dispatch:
 
 permissions:
@@ -14,49 +14,103 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch random C&H comic and write image URL to comic.json
+      - name: Fetch a random landscape C&H comic
         run: |
           python3 <<'EOF'
-          import json, re, urllib.request
+          import json, re, struct, urllib.request
 
-          # Fetch the random comic page. explosm.net redirects to a specific
-          # comic URL like /comics/<slug>; urllib follows redirects by default.
-          # Use a desktop User-Agent — some Next.js sites return different HTML
-          # to bots vs browsers.
-          req = urllib.request.Request(
-              "https://explosm.net/comics/random",
-              headers={
-                  "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                                "(KHTML, like Gecko) Chrome/120 Safari/537.36"
-              }
-          )
-          html = urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "ignore")
+          UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/120 Safari/537.36")
 
-          # The comic image URL is hosted at static.explosm.net with a
-          # date-coded directory path (YYYY/MM/<long-digits>/<slug>.png).
-          # This pattern excludes author photos (e.g. /2021/11/rob.jpg) and
-          # marketing assets.
-          pattern = re.compile(
+          IMG_PATTERN = re.compile(
               r'https://static\.explosm\.net/\d{4}/\d{2}/\d{6,}/[^/\s"\'<>]+\.(?:png|jpg|jpeg|gif)'
           )
-          m = pattern.search(html)
 
-          if m:
-              img_url = m.group(0)
+          def fetch(url, range_bytes=None):
+              headers = {"User-Agent": UA}
+              if range_bytes:
+                  headers["Range"] = f"bytes=0-{range_bytes}"
+              req = urllib.request.Request(url, headers=headers)
+              return urllib.request.urlopen(req, timeout=20).read()
+
+          def png_dims(data):
+              if data[:8] != b'\x89PNG\r\n\x1a\n' or len(data) < 24:
+                  return None
+              return struct.unpack('>II', data[16:24])
+
+          def jpeg_dims(data):
+              if data[:2] != b'\xff\xd8':
+                  return None
+              i = 2
+              while i < len(data) - 8:
+                  if data[i] != 0xFF:
+                      i += 1
+                      continue
+                  marker = data[i+1]
+                  if 0xC0 <= marker <= 0xCF and marker not in (0xC4, 0xC8, 0xCC):
+                      h = struct.unpack('>H', data[i+5:i+7])[0]
+                      w = struct.unpack('>H', data[i+7:i+9])[0]
+                      return w, h
+                  if i + 4 > len(data):
+                      return None
+                  seg_len = struct.unpack('>H', data[i+2:i+4])[0]
+                  i += 2 + seg_len
+              return None
+
+          def get_dims(data):
+              return png_dims(data) or jpeg_dims(data)
+
+          def find_random_comic_url():
+              """Hit explosm random and extract the comic image URL."""
+              html = fetch("https://explosm.net/comics/random").decode("utf-8", "ignore")
+              m = IMG_PATTERN.search(html)
+              return m.group(0) if m else None
+
+          # Try up to 15 random comics, keeping the first landscape one.
+          # 15 attempts * ~2 seconds each = ~30 seconds worst case, well under
+          # GitHub Actions job timeout limits.
+          tried = []
+          chosen_url = None
+          for attempt in range(15):
+              url = find_random_comic_url()
+              if not url or url in tried:
+                  continue
+              tried.append(url)
+              try:
+                  # Download just enough bytes to read dimensions.
+                  # PNG headers fit in the first 24 bytes, but JPEGs can need
+                  # several KB to reach the SOF marker. Grab 8KB to be safe.
+                  header = fetch(url, range_bytes=8192)
+                  dims = get_dims(header)
+                  if not dims:
+                      print(f"[{attempt}] Couldn't read dims for {url}")
+                      continue
+                  w, h = dims
+                  orientation = "landscape" if w > h else "portrait"
+                  print(f"[{attempt}] {w}x{h} {orientation}: {url}")
+                  if w > h:
+                      chosen_url = url
+                      break
+              except Exception as e:
+                  print(f"[{attempt}] Error checking {url}: {e}")
+                  continue
+
+          if chosen_url:
+              print(f"\nSelected: {chosen_url}")
           else:
-              # Fallback: any static.explosm.net image with a date path.
-              # Better to show *something* than break the dashboard.
-              fallback = re.search(
-                  r'https://static\.explosm\.net/\d{4}/\d{2}/[^\s"\'<>]+\.(?:png|jpg|jpeg|gif)',
-                  html
-              )
-              img_url = fallback.group(0) if fallback else ""
+              # Fallback: keep whatever the previous comic.json had (don't
+              # overwrite with empty). Or use the last URL we tried.
+              chosen_url = tried[-1] if tried else ""
+              print(f"\nNo landscape found in 15 tries. Using last tried: {chosen_url}")
 
-          data = {"img": img_url}
-          with open("comic.json", "w") as f:
-              json.dump(data, f, indent=2)
-
-          print(f"Wrote comic URL: {img_url}")
+          # Only write if we have something. Don't clobber a working file
+          # with empty data.
+          if chosen_url:
+              with open("comic.json", "w") as f:
+                  json.dump({"img": chosen_url}, f, indent=2)
+              print("Wrote comic.json")
+          else:
+              print("No URL to write — keeping existing comic.json")
           EOF
 
       - name: Commit if changed

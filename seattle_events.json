@@ -1,12 +1,76 @@
 {
   "hero": {
-    "name": "Loading…",
-    "date": "",
+    "name": "Lumen Field Stadium Tours",
+    "date": "2026-05-11",
     "time": "",
-    "date_pretty": "",
-    "venue": "",
-    "segment": "",
-    "genre": ""
+    "venue": "Lumen Field Stadium Tours",
+    "segment": "Miscellaneous",
+    "genre": "Undefined",
+    "date_pretty": "Mon May 11"
   },
-  "others": []
+  "others": [
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-05-11",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon May 11"
+    },
+    {
+      "name": "Tacoma Rainiers vs. Sugar Land Space Cowboys",
+      "date": "2026-05-12",
+      "time": "11:35:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Tue May 12"
+    },
+    {
+      "name": "VANA: THE LADY IN RED TOUR w/ special guests Eyes ",
+      "date": "2026-05-12",
+      "time": "19:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue May 12"
+    },
+    {
+      "name": "Raised By TV Events Presents: Seinfeld Trivia Nigh",
+      "date": "2026-05-12",
+      "time": "19:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Tue May 12"
+    },
+    {
+      "name": "Tight Five Tuesdays!",
+      "date": "2026-05-12",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue May 12"
+    },
+    {
+      "name": "Florence + The Machine - Everybody Scream Tour",
+      "date": "2026-05-12",
+      "time": "19:30:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue May 12"
+    },
+    {
+      "name": "Wild Nothing: Gemini Anniversary Tour",
+      "date": "2026-05-12",
+      "time": "20:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue May 12"
+    }
+  ]
 }

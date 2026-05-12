@@ -1,0 +1,116 @@
+name: Update now playing
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # once daily at 12:00 UTC (4am PT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: pip install --quiet Pillow
+
+      - name: Fetch TMDB now playing and dither posters
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+        run: |
+          mkdir -p posters
+          python3 <<'EOF'
+          import json, os, io, urllib.request
+          from PIL import Image, ImageEnhance, ImageOps
+
+          TOKEN = os.environ["TMDB_TOKEN"]
+          HEADERS = {"Authorization": f"Bearer {TOKEN}", "Accept": "application/json"}
+
+          def api_get(path):
+              req = urllib.request.Request(f"https://api.themoviedb.org/3{path}", headers=HEADERS)
+              return json.loads(urllib.request.urlopen(req, timeout=20).read())
+
+          def download_poster(poster_path):
+              url = f"https://image.tmdb.org/t/p/w342{poster_path}"
+              return urllib.request.urlopen(url, timeout=30).read()
+
+          def process_poster(image_bytes, target=(220, 330)):
+              """Aggressive contrast + sharpness + Floyd-Steinberg dither to 1-bit."""
+              img = Image.open(io.BytesIO(image_bytes)).convert('L')
+              img = ImageOps.autocontrast(img, cutoff=2)
+              img = ImageEnhance.Contrast(img).enhance(1.5)
+              img = ImageEnhance.Sharpness(img).enhance(1.3)
+              img = img.resize(target, Image.LANCZOS)
+              return img.convert('1', dither=Image.FLOYDSTEINBERG)
+
+          def fmt_runtime(minutes):
+              if not minutes:
+                  return ""
+              h, m = divmod(minutes, 60)
+              return f"{h}h {m}m" if h else f"{m}m"
+
+          # 1) Fetch list of now-playing movies
+          # region=US biases to what's actually in US theaters
+          listing = api_get("/movie/now_playing?region=US&language=en-US")
+          results = listing.get("results", [])
+
+          # Filter: must have a poster and be released recently
+          results = [r for r in results if r.get("poster_path")]
+          # Sort by popularity (TMDB pre-sorts but let's be explicit)
+          results.sort(key=lambda r: r.get("popularity", 0), reverse=True)
+
+          if not results:
+              raise SystemExit("TMDB returned no now-playing movies — keeping previous data")
+
+          # 2) Pick the #1 movie for the big poster, plus 4 more for the list
+          hero = results[0]
+          others = results[1:5]
+
+          # 3) Get genre name map (one extra API call)
+          genres_data = api_get("/genre/movie/list?language=en-US")
+          genre_map = {g["id"]: g["name"] for g in genres_data.get("genres", [])}
+
+          # 4) Get runtime for hero movie (now_playing doesn't include it)
+          hero_detail = api_get(f"/movie/{hero['id']}?language=en-US")
+          hero_runtime = hero_detail.get("runtime")
+
+          # 5) Download and process hero poster
+          poster_bytes = download_poster(hero["poster_path"])
+          processed = process_poster(poster_bytes)
+          processed.save("posters/now_playing_hero.png")
+          print(f"Saved hero poster for: {hero['title']}")
+
+          # 6) Build JSON output
+          output = {
+              "hero": {
+                  "title": hero.get("title", "")[:40],
+                  "rating": round(hero.get("vote_average", 0), 1),
+                  "runtime": fmt_runtime(hero_runtime),
+                  "release_date": hero.get("release_date", ""),
+                  "overview": hero.get("overview", "")[:200],
+                  "genres": [genre_map.get(gid, "") for gid in hero.get("genre_ids", [])[:3] if gid in genre_map],
+              },
+              "others": [
+                  {
+                      "title": o.get("title", "")[:35],
+                      "rating": round(o.get("vote_average", 0), 1),
+                  }
+                  for o in others
+              ],
+          }
+
+          with open("now_playing.json", "w") as f:
+              json.dump(output, f, indent=2, ensure_ascii=False)
+          print(f"Wrote now_playing.json with hero='{output['hero']['title']}' + {len(output['others'])} others")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add now_playing.json posters/
+          git diff --cached --quiet || git commit -m "Update now playing"
+          git push

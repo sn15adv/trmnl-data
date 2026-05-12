@@ -19,51 +19,60 @@ jobs:
           TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
         run: |
           python3 <<'EOF'
-          import json, os, urllib.request, urllib.parse
+          import json, os, sys, urllib.request, urllib.parse
           from datetime import datetime, timedelta, timezone
 
           KEY = os.environ["TICKETMASTER_KEY"]
 
-          # Window: now to 14 days from now (ISO 8601 with Z suffix per TM docs)
+          # Window: now to 14 days from now
           now = datetime.now(timezone.utc).replace(microsecond=0)
           end = now + timedelta(days=14)
           start_str = now.strftime("%Y-%m-%dT%H:%M:%SZ")
           end_str = end.strftime("%Y-%m-%dT%H:%M:%SZ")
 
-          # DMA 819 = Seattle-Tacoma. We also restrict by countryCode to exclude
-          # similarly-named venues elsewhere.
+          # Lat/long for Seattle center; 50 mile radius covers Bellevue, Everett,
+          # Tacoma — the whole metro area. More reliable than dmaId.
           params = {
               "apikey": KEY,
-              "dmaId": "819",
-              "countryCode": "US",
+              "latlong": "47.6062,-122.3321",
+              "radius": "50",
+              "unit": "miles",
               "startDateTime": start_str,
               "endDateTime": end_str,
-              "size": "20",  # over-fetch then filter
+              "size": "30",
               "sort": "date,asc",
           }
           query = urllib.parse.urlencode(params)
           url = f"https://app.ticketmaster.com/discovery/v2/events.json?{query}"
 
+          print(f"Requesting: {url.replace(KEY, '<REDACTED>')}")
+
           req = urllib.request.Request(url, headers={"Accept": "application/json"})
-          data = json.loads(urllib.request.urlopen(req, timeout=20).read())
+          try:
+              raw = urllib.request.urlopen(req, timeout=30).read()
+          except Exception as e:
+              print(f"HTTP error: {e}")
+              # Don't fail the workflow — just keep existing JSON
+              sys.exit(0)
 
+          data = json.loads(raw)
           events_raw = data.get("_embedded", {}).get("events", [])
-          if not events_raw:
-              raise SystemExit("Ticketmaster returned no Seattle events — keeping previous data")
+          print(f"Received {len(events_raw)} events from Ticketmaster")
 
-          # Build output: top 8 events
+          if not events_raw:
+              # No events found — log and exit cleanly (don't error)
+              print("No events found; keeping existing seattle_events.json")
+              sys.exit(0)
+
           events = []
           for e in events_raw[:8]:
-              # Date
               date_info = e.get("dates", {}).get("start", {})
               local_date = date_info.get("localDate", "")
               local_time = date_info.get("localTime", "")
 
-              # Venue
               venues = e.get("_embedded", {}).get("venues", [])
               venue_name = venues[0].get("name", "") if venues else ""
 
-              # Classification (Music, Sports, Arts & Theatre, etc.)
               classifications = e.get("classifications", [])
               segment = ""
               genre = ""
@@ -81,7 +90,6 @@ jobs:
                   "genre": genre,
               })
 
-          # Format date nicely (e.g. "Sat May 4")
           def pretty_date(iso_date):
               try:
                   dt = datetime.strptime(iso_date, "%Y-%m-%d")
@@ -92,11 +100,10 @@ jobs:
           for ev in events:
               ev["date_pretty"] = pretty_date(ev["date"])
 
-          # Hero = first event with the most interesting metadata
           hero = events[0]
           others = events[1:]
-
           output = {"hero": hero, "others": others}
+
           with open("seattle_events.json", "w") as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
           print(f"Wrote seattle_events.json: hero='{hero['name']}' + {len(others)} others")

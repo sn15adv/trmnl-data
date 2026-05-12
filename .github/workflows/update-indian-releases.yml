@@ -1,0 +1,135 @@
+name: Update indian releases
+
+on:
+  schedule:
+    - cron: '0 13 * * *'   # daily at 13:00 UTC (5am PT)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: pip install --quiet Pillow
+
+      - name: Fetch Indian regional releases this week and dither posters
+        env:
+          TMDB_TOKEN: ${{ secrets.TMDB_TOKEN }}
+        run: |
+          mkdir -p posters
+          python3 <<'EOF'
+          import json, os, io, urllib.request, urllib.parse
+          from datetime import date, timedelta
+          from PIL import Image, ImageEnhance, ImageOps
+
+          TOKEN = os.environ["TMDB_TOKEN"]
+          HEADERS = {"Authorization": f"Bearer {TOKEN}", "Accept": "application/json"}
+
+          # Window: today - 7 days to today + 21 days (recent + upcoming releases)
+          today = date.today()
+          gte = (today - timedelta(days=7)).isoformat()
+          lte = (today + timedelta(days=21)).isoformat()
+
+          # Languages: Hindi, Kannada, Tamil, Telugu, Malayalam
+          LANG_NAMES = {"hi": "Hindi", "kn": "Kannada", "ta": "Tamil", "te": "Telugu", "ml": "Malayalam"}
+          LANG_CODES = "|".join(LANG_NAMES.keys())
+
+          def api_get(url):
+              req = urllib.request.Request(url, headers=HEADERS)
+              return json.loads(urllib.request.urlopen(req, timeout=20).read())
+
+          def download_poster(poster_path):
+              url = f"https://image.tmdb.org/t/p/w342{poster_path}"
+              return urllib.request.urlopen(url, timeout=30).read()
+
+          def process_poster(image_bytes, target=(220, 330)):
+              img = Image.open(io.BytesIO(image_bytes)).convert('L')
+              img = ImageOps.autocontrast(img, cutoff=2)
+              img = ImageEnhance.Contrast(img).enhance(1.5)
+              img = ImageEnhance.Sharpness(img).enhance(1.3)
+              img = img.resize(target, Image.LANCZOS)
+              return img.convert('1', dither=Image.FLOYDSTEINBERG)
+
+          # Query: discover movies in target languages, releasing in the window,
+          # sorted by popularity desc
+          params = {
+              "with_original_language": LANG_CODES,
+              "primary_release_date.gte": gte,
+              "primary_release_date.lte": lte,
+              "sort_by": "popularity.desc",
+              "language": "en-US",
+              "page": 1,
+          }
+          query = "&".join(f"{k}={urllib.parse.quote(str(v), safe='|')}" for k, v in params.items())
+          listing = api_get(f"https://api.themoviedb.org/3/discover/movie?{query}")
+          results = listing.get("results", [])
+          results = [r for r in results if r.get("poster_path")]
+
+          if not results:
+              print("No Indian regional releases found in window — fallback to broader window")
+              # Try a wider window if nothing in the current one
+              gte = (today - timedelta(days=30)).isoformat()
+              lte = (today + timedelta(days=30)).isoformat()
+              params["primary_release_date.gte"] = gte
+              params["primary_release_date.lte"] = lte
+              query = "&".join(f"{k}={urllib.parse.quote(str(v), safe='|')}" for k, v in params.items())
+              listing = api_get(f"https://api.themoviedb.org/3/discover/movie?{query}")
+              results = [r for r in listing.get("results", []) if r.get("poster_path")]
+
+          if not results:
+              raise SystemExit("No Indian regional releases found at all — keeping previous data")
+
+          # Pick #1 for hero + 4 others
+          hero = results[0]
+          others = results[1:5]
+
+          # Get genre map
+          genres_data = api_get("https://api.themoviedb.org/3/genre/movie/list?language=en-US")
+          genre_map = {g["id"]: g["name"] for g in genres_data.get("genres", [])}
+
+          # Download + process hero poster
+          poster_bytes = download_poster(hero["poster_path"])
+          processed = process_poster(poster_bytes)
+          processed.save("posters/indian_releases_hero.png")
+          print(f"Hero: {hero['title']} ({LANG_NAMES.get(hero.get('original_language'), '?')})")
+
+          def fmt_lang(code):
+              return LANG_NAMES.get(code, code.upper())
+
+          output = {
+              "hero": {
+                  "title": hero.get("title", "")[:40],
+                  "original_title": hero.get("original_title", "")[:60],
+                  "language": fmt_lang(hero.get("original_language", "")),
+                  "rating": round(hero.get("vote_average", 0), 1),
+                  "release_date": hero.get("release_date", ""),
+                  "overview": hero.get("overview", "")[:200],
+                  "genres": [genre_map.get(gid, "") for gid in hero.get("genre_ids", [])[:3] if gid in genre_map],
+              },
+              "others": [
+                  {
+                      "title": o.get("title", "")[:30],
+                      "language": fmt_lang(o.get("original_language", "")),
+                      "release_date": o.get("release_date", ""),
+                  }
+                  for o in others
+              ],
+          }
+
+          with open("indian_releases.json", "w") as f:
+              json.dump(output, f, indent=2, ensure_ascii=False)
+          print(f"Wrote indian_releases.json with hero='{output['hero']['title']}' + {len(output['others'])} others")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add indian_releases.json posters/
+          git diff --cached --quiet || git commit -m "Update Indian releases"
+          git push

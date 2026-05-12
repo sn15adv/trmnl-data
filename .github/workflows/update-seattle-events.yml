@@ -1,0 +1,111 @@
+name: Update seattle events
+
+on:
+  schedule:
+    - cron: '30 13 * * *'   # daily at 13:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Seattle events from Ticketmaster
+        env:
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+        run: |
+          python3 <<'EOF'
+          import json, os, urllib.request, urllib.parse
+          from datetime import datetime, timedelta, timezone
+
+          KEY = os.environ["TICKETMASTER_KEY"]
+
+          # Window: now to 14 days from now (ISO 8601 with Z suffix per TM docs)
+          now = datetime.now(timezone.utc).replace(microsecond=0)
+          end = now + timedelta(days=14)
+          start_str = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+          end_str = end.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+          # DMA 819 = Seattle-Tacoma. We also restrict by countryCode to exclude
+          # similarly-named venues elsewhere.
+          params = {
+              "apikey": KEY,
+              "dmaId": "819",
+              "countryCode": "US",
+              "startDateTime": start_str,
+              "endDateTime": end_str,
+              "size": "20",  # over-fetch then filter
+              "sort": "date,asc",
+          }
+          query = urllib.parse.urlencode(params)
+          url = f"https://app.ticketmaster.com/discovery/v2/events.json?{query}"
+
+          req = urllib.request.Request(url, headers={"Accept": "application/json"})
+          data = json.loads(urllib.request.urlopen(req, timeout=20).read())
+
+          events_raw = data.get("_embedded", {}).get("events", [])
+          if not events_raw:
+              raise SystemExit("Ticketmaster returned no Seattle events — keeping previous data")
+
+          # Build output: top 8 events
+          events = []
+          for e in events_raw[:8]:
+              # Date
+              date_info = e.get("dates", {}).get("start", {})
+              local_date = date_info.get("localDate", "")
+              local_time = date_info.get("localTime", "")
+
+              # Venue
+              venues = e.get("_embedded", {}).get("venues", [])
+              venue_name = venues[0].get("name", "") if venues else ""
+
+              # Classification (Music, Sports, Arts & Theatre, etc.)
+              classifications = e.get("classifications", [])
+              segment = ""
+              genre = ""
+              if classifications:
+                  c = classifications[0]
+                  segment = c.get("segment", {}).get("name", "") or ""
+                  genre = c.get("genre", {}).get("name", "") or ""
+
+              events.append({
+                  "name": (e.get("name", "") or "")[:50],
+                  "date": local_date,
+                  "time": local_time,
+                  "venue": venue_name[:35],
+                  "segment": segment,
+                  "genre": genre,
+              })
+
+          # Format date nicely (e.g. "Sat May 4")
+          def pretty_date(iso_date):
+              try:
+                  dt = datetime.strptime(iso_date, "%Y-%m-%d")
+                  return dt.strftime("%a %b %-d")
+              except Exception:
+                  return iso_date
+
+          for ev in events:
+              ev["date_pretty"] = pretty_date(ev["date"])
+
+          # Hero = first event with the most interesting metadata
+          hero = events[0]
+          others = events[1:]
+
+          output = {"hero": hero, "others": others}
+          with open("seattle_events.json", "w") as f:
+              json.dump(output, f, indent=2, ensure_ascii=False)
+          print(f"Wrote seattle_events.json: hero='{hero['name']}' + {len(others)} others")
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seattle_events.json
+          git diff --cached --quiet || git commit -m "Update Seattle events"
+          git push

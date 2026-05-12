@@ -1,12 +1,37 @@
 {
   "hero": {
-    "title": "Loading…",
-    "original_title": "",
-    "language": "",
-    "rating": 0,
-    "release_date": "",
-    "overview": "",
-    "genres": []
+    "title": "Krishnavataram Part 1: The Heart (Hriday",
+    "original_title": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
+    "language": "Hindi",
+    "rating": 9.0,
+    "release_date": "2026-05-07",
+    "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection ",
+    "genres": [
+      "Adventure",
+      "Romance",
+      "Drama"
+    ]
   },
-  "others": []
+  "others": [
+    {
+      "title": "Drishyam 3",
+      "language": "Malayalam",
+      "release_date": "2026-05-21"
+    },
+    {
+      "title": "Pati Patni Aur Woh Do",
+      "language": "Hindi",
+      "release_date": "2026-05-15"
+    },
+    {
+      "title": "Karuppu",
+      "language": "Tamil",
+      "release_date": "2026-05-14"
+    },
+    {
+      "title": "Daadi Ki Shaadi",
+      "language": "Hindi",
+      "release_date": "2026-05-08"
+    }
+  ]
 }

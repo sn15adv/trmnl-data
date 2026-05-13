@@ -1,21 +1,17 @@
 {
   "hero": {
     "title": "Swapped",
-    "rating": 8.9,
+    "rating": 9.0,
     "runtime": "1h 42m",
     "release_date": "2026-05-01",
     "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a g",
     "genres": [
-      "Adventure",
       "Animation",
-      "Family"
+      "Family",
+      "Adventure"
     ]
   },
   "others": [
-    {
-      "title": "The Super Mario Galaxy Movie",
-      "rating": 6.7
-    },
     {
       "title": "Apex",
       "rating": 6.6
@@ -27,6 +23,10 @@
     {
       "title": "Michael",
       "rating": 7.6
+    },
+    {
+      "title": "Beast",
+      "rating": 6.8
     }
   ]
 }

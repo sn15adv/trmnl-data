@@ -14,24 +14,24 @@
   },
   "others": [
     {
-      "title": "Drishyam 3",
-      "language": "Malayalam",
-      "release_date": "2026-05-21"
-    },
-    {
-      "title": "Karuppu",
-      "language": "Tamil",
-      "release_date": "2026-05-14"
-    },
-    {
       "title": "Pati Patni Aur Woh Do",
       "language": "Hindi",
       "release_date": "2026-05-15"
     },
     {
-      "title": "Athiradi",
+      "title": "Peddi",
+      "language": "Telugu",
+      "release_date": "2026-06-03"
+    },
+    {
+      "title": "Daadi Ki Shaadi",
+      "language": "Hindi",
+      "release_date": "2026-05-08"
+    },
+    {
+      "title": "Dridam",
       "language": "Malayalam",
-      "release_date": "2026-05-14"
+      "release_date": "2026-05-08"
     }
   ]
 }

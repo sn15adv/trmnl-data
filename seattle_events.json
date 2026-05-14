@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Tacoma Rainiers vs. Sugar Land Space Cowboys",
-    "date": "2026-05-13",
-    "time": "18:05:00",
-    "venue": "Cheney Stadium",
-    "segment": "Sports",
-    "genre": "Baseball",
-    "date_pretty": "Wed May 13"
+    "name": "The Phantom of the Opera (Touring)",
+    "date": "2026-05-14",
+    "time": "13:00:00",
+    "venue": "Paramount Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "date_pretty": "Thu May 14"
   },
   "others": [
     {
-      "name": "Seattle Sounders FC vs. San Jose Earthquakes",
-      "date": "2026-05-13",
-      "time": "18:30:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Wed May 13"
+      "name": "Grease",
+      "date": "2026-05-14",
+      "time": "14:00:00",
+      "venue": "Village Theatre - Everett",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Thu May 14"
     },
     {
-      "name": "Yumi Zouma w/ Ducks Ltd.",
-      "date": "2026-05-13",
+      "name": "Washington Huskies Baseball vs. UCLA Bruins Baseba",
+      "date": "2026-05-14",
       "time": "19:00:00",
-      "venue": "Neumos",
+      "venue": "Husky Ballpark",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Thu May 14"
+    },
+    {
+      "name": "Nogu Svelo (21+ Event)",
+      "date": "2026-05-14",
+      "time": "19:00:00",
+      "venue": "Nectar Lounge",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Wed May 13"
+      "date_pretty": "Thu May 14"
     },
     {
-      "name": "Arm's Length: There's A Whole World... North Ameri",
-      "date": "2026-05-13",
-      "time": "19:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed May 13"
-    },
-    {
-      "name": "Trash Talk ",
-      "date": "2026-05-13",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Wed May 13"
+      "name": "Tacoma Rainiers vs. Sugar Land Space Cowboys",
+      "date": "2026-05-14",
+      "time": "19:05:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Thu May 14"
     },
     {
       "name": "The Phantom of the Opera (Touring)",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Wed May 13"
-    },
-    {
-      "name": "Carmen w/ Seattle Opera",
-      "date": "2026-05-13",
-      "time": "19:30:00",
-      "venue": "McCaw Hall",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Wed May 13"
+      "date_pretty": "Thu May 14"
     },
     {
       "name": "Barefoot in the Park",
-      "date": "2026-05-13",
+      "date": "2026-05-14",
       "time": "19:30:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Wed May 13"
+      "date_pretty": "Thu May 14"
+    },
+    {
+      "name": "Hayden Everett (Album Release) w/ Junaco, Kazmyn",
+      "date": "2026-05-14",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Thu May 14"
     }
   ]
 }

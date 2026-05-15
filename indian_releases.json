@@ -1,22 +1,22 @@
 {
   "hero": {
-    "title": "Krishnavataram Part 1: The Heart (Hriday",
-    "original_title": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
-    "language": "Hindi",
-    "rating": 7.0,
-    "release_date": "2026-05-07",
-    "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection ",
+    "title": "Karuppu",
+    "original_title": "கருப்பு",
+    "language": "Tamil",
+    "rating": 0.0,
+    "release_date": "2026-05-15",
+    "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
     "genres": [
-      "Adventure",
-      "Romance",
-      "Drama"
+      "Crime",
+      "Action",
+      "Fantasy"
     ]
   },
   "others": [
     {
-      "title": "Pati Patni Aur Woh Do",
-      "language": "Hindi",
-      "release_date": "2026-05-15"
+      "title": "Athiradi",
+      "language": "Malayalam",
+      "release_date": "2026-05-14"
     },
     {
       "title": "Peddi",
@@ -24,14 +24,14 @@
       "release_date": "2026-06-03"
     },
     {
-      "title": "Karuppu",
-      "language": "Tamil",
-      "release_date": "2026-05-15"
+      "title": "Dridam",
+      "language": "Malayalam",
+      "release_date": "2026-05-08"
     },
     {
-      "title": "Daadi Ki Shaadi",
+      "title": "Pati Patni Aur Woh Do",
       "language": "Hindi",
-      "release_date": "2026-05-08"
+      "release_date": "2026-05-15"
     }
   ]
 }

@@ -1,22 +1,22 @@
 {
   "hero": {
-    "title": "Karuppu",
-    "original_title": "கருப்பு",
-    "language": "Tamil",
-    "rating": 0.0,
+    "title": "Kartavya",
+    "original_title": "कर्तव्य",
+    "language": "Hindi",
+    "rating": 7.0,
     "release_date": "2026-05-15",
-    "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
+    "overview": "With his family's safety at stake and menacing threats closing in, a police officer must decide how far he'll go to uphold his duty.",
     "genres": [
       "Crime",
-      "Action",
-      "Fantasy"
+      "Drama",
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "Athiradi",
-      "language": "Malayalam",
-      "release_date": "2026-05-14"
+      "title": "Karuppu",
+      "language": "Tamil",
+      "release_date": "2026-05-15"
     },
     {
       "title": "Peddi",
@@ -24,9 +24,9 @@
       "release_date": "2026-06-03"
     },
     {
-      "title": "Dridam",
+      "title": "Athiradi",
       "language": "Malayalam",
-      "release_date": "2026-05-08"
+      "release_date": "2026-05-14"
     },
     {
       "title": "Pati Patni Aur Woh Do",

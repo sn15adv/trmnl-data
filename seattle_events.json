@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "TRIPPING DAISY: Playing 'I Am An Elastic Firecrack",
-    "date": "2026-05-15",
-    "time": "18:00:00",
-    "venue": "The Crocodile",
-    "segment": "Music",
-    "genre": "Alternative",
-    "date_pretty": "Fri May 15"
+    "name": "Washington Huskies Baseball vs. UCLA Bruins Baseba",
+    "date": "2026-05-16",
+    "time": "13:00:00",
+    "venue": "Husky Ballpark",
+    "segment": "Sports",
+    "genre": "Miscellaneous",
+    "date_pretty": "Sat May 16"
   },
   "others": [
     {
-      "name": "Red Rum Club",
-      "date": "2026-05-15",
-      "time": "18:30:00",
-      "venue": "Barboza",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri May 15"
+      "name": "The Phantom of the Opera (Touring)",
+      "date": "2026-05-16",
+      "time": "14:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat May 16"
+    },
+    {
+      "name": "Barefoot in the Park",
+      "date": "2026-05-16",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Sat May 16"
+    },
+    {
+      "name": "Grease",
+      "date": "2026-05-16",
+      "time": "14:00:00",
+      "venue": "Village Theatre - Everett",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat May 16"
+    },
+    {
+      "name": "Premium Experience for SMC: The Wicked Wiz of Oz",
+      "date": "2026-05-16",
+      "time": "15:00:00",
+      "venue": "Pantages Theater",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Sat May 16"
+    },
+    {
+      "name": "Seattle Men's Chorus Presents Wicked Wiz of Oz",
+      "date": "2026-05-16",
+      "time": "15:00:00",
+      "venue": "Pantages Theater",
+      "segment": "Arts & Theatre",
+      "genre": "Classical",
+      "date_pretty": "Sat May 16"
     },
     {
       "name": "Seattle Mariners vs. San Diego Padres",
-      "date": "2026-05-15",
-      "time": "18:40:00",
+      "date": "2026-05-16",
+      "time": "16:15:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Fri May 15"
+      "date_pretty": "Sat May 16"
     },
     {
-      "name": "Seattle Reign FC vs. NJ/NY Gotham FC",
-      "date": "2026-05-15",
-      "time": "19:00:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Fri May 15"
-    },
-    {
-      "name": "Washington Huskies Baseball vs. UCLA Bruins Baseba",
-      "date": "2026-05-15",
-      "time": "19:00:00",
-      "venue": "Husky Ballpark",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri May 15"
-    },
-    {
-      "name": "Becky Robinson",
-      "date": "2026-05-15",
-      "time": "19:00:00",
-      "venue": "Suquamish Clearwater Casino Event C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri May 15"
-    },
-    {
-      "name": "Martin Phillips",
-      "date": "2026-05-15",
-      "time": "19:00:00",
-      "venue": "6th & Proctor",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri May 15"
-    },
-    {
-      "name": "Majah Hype",
-      "date": "2026-05-15",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri May 15"
+      "name": "Trans Music Showcase",
+      "date": "2026-05-16",
+      "time": "17:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Sat May 16"
     }
   ]
 }

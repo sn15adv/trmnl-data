@@ -1,19 +1,22 @@
 {
   "articles": [
     {
+      "title": "Taiwan insists it is independent after Trump warning"
+    },
+    {
       "title": "Senior IS leader killed in joint operation, US and Nigeria say"
     },
     {
       "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves"
     },
     {
+      "title": "Whale found dead near Danish island after German rescue operation"
+    },
+    {
       "title": "US planning to charge ex-Cuban leader Raúl Castro"
     },
     {
       "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria"
-    },
-    {
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi"
     },
     {
       "title": "Man killed by 13ft shark in Western Australia"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Freight train and bus crash kills at least eight in Bangkok"
-    },
-    {
-      "title": "New outbreak of Ebola kills 80 in eastern DR Congo"
     }
   ]
 }

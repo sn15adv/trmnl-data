@@ -1,6 +1,9 @@
 {
   "articles": [
     {
+      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency"
+    },
+    {
       "title": "Hezbollah drone strike videos show evolving tactics against Israel"
     },
     {
@@ -26,9 +29,6 @@
     },
     {
       "title": "Canadian from hantavirus-hit cruise ship tests positive"
-    },
-    {
-      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele"
     }
   ]
 }

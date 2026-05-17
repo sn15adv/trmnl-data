@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Washington Huskies Baseball vs. UCLA Bruins Baseba",
-    "date": "2026-05-16",
+    "name": "The Phantom of the Opera (Touring)",
+    "date": "2026-05-17",
     "time": "13:00:00",
-    "venue": "Husky Ballpark",
-    "segment": "Sports",
-    "genre": "Miscellaneous",
-    "date_pretty": "Sat May 16"
+    "venue": "Paramount Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "date_pretty": "Sun May 17"
   },
   "others": [
     {
-      "name": "The Phantom of the Opera (Touring)",
-      "date": "2026-05-16",
-      "time": "14:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sat May 16"
+      "name": "Tacoma Rainiers vs. Sugar Land Space Cowboys",
+      "date": "2026-05-17",
+      "time": "13:35:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun May 17"
     },
     {
-      "name": "Barefoot in the Park",
-      "date": "2026-05-16",
+      "name": "Carmen w/ Seattle Opera",
+      "date": "2026-05-17",
       "time": "14:00:00",
-      "venue": "Taproot Theatre",
+      "venue": "McCaw Hall",
       "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Sat May 16"
+      "genre": "Theatre",
+      "date_pretty": "Sun May 17"
     },
     {
       "name": "Grease",
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "time": "14:00:00",
       "venue": "Village Theatre - Everett",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Sat May 16"
+      "date_pretty": "Sun May 17"
     },
     {
-      "name": "Premium Experience for SMC: The Wicked Wiz of Oz",
-      "date": "2026-05-16",
-      "time": "15:00:00",
-      "venue": "Pantages Theater",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Sat May 16"
-    },
-    {
-      "name": "Seattle Men's Chorus Presents Wicked Wiz of Oz",
-      "date": "2026-05-16",
-      "time": "15:00:00",
-      "venue": "Pantages Theater",
+      "name": "A Taste of Ireland",
+      "date": "2026-05-17",
+      "time": "16:00:00",
+      "venue": "Moore Theatre",
       "segment": "Arts & Theatre",
-      "genre": "Classical",
-      "date_pretty": "Sat May 16"
+      "genre": "Miscellaneous Theatre",
+      "date_pretty": "Sun May 17"
     },
     {
       "name": "Seattle Mariners vs. San Diego Padres",
-      "date": "2026-05-16",
-      "time": "16:15:00",
+      "date": "2026-05-17",
+      "time": "16:20:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Sat May 16"
+      "date_pretty": "Sun May 17"
     },
     {
-      "name": "Trans Music Showcase",
-      "date": "2026-05-16",
-      "time": "17:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat May 16"
+      "name": "Under the Kiawe Tree",
+      "date": "2026-05-17",
+      "time": "17:30:00",
+      "venue": "Smoke & Cedar at Muckleshoot Casino",
+      "segment": "Miscellaneous",
+      "genre": "Food & Drink",
+      "date_pretty": "Sun May 17"
+    },
+    {
+      "name": "The Phantom of the Opera (Touring)",
+      "date": "2026-05-17",
+      "time": "18:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sun May 17"
     }
   ]
 }

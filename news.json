@@ -1,13 +1,25 @@
 {
   "articles": [
     {
+      "title": "At least six Americans exposed to Ebola during DR Congo outbreak"
+    },
+    {
+      "title": "Shakira wins £50m tax refund from Spanish government"
+    },
+    {
       "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls"
     },
     {
-      "title": "Driver of crashed train tested positive for drugs, Thai police say"
+      "title": "Bodies of missing Italian divers found in Maldives"
     },
     {
-      "title": "WHO declares Ebola outbreak in DR Congo an international emergency"
+      "title": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say"
+    },
+    {
+      "title": "Strike over high fuel prices paralyses transport in Kenya"
+    },
+    {
+      "title": "Driver of crashed train tested positive for drugs, Thai police say"
     },
     {
       "title": "How worrying is the Ebola outbreak in DR Congo?"
@@ -17,18 +29,6 @@
     },
     {
       "title": "Moment two fighter jets collide mid-air at US air show"
-    },
-    {
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia"
-    },
-    {
-      "title": "Escaped tiger shot by German police after attacking man"
-    },
-    {
-      "title": "UAE reports strike near Abu Dhabi nuclear power plant"
-    },
-    {
-      "title": "'Everest Man' and 'Mountain Queen' break own records scaling world's tallest peak"
     }
   ]
 }

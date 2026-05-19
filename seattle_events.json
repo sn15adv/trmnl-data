@@ -1,50 +1,14 @@
 {
   "hero": {
-    "name": "Seattle Mariners vs. Chicago White Sox",
-    "date": "2026-05-18",
-    "time": "18:40:00",
-    "venue": "T-Mobile Park",
-    "segment": "Sports",
-    "genre": "Baseball",
-    "date_pretty": "Mon May 18"
+    "name": "Barefoot in the Park",
+    "date": "2026-05-19",
+    "time": "14:00:00",
+    "venue": "Taproot Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Performance Art",
+    "date_pretty": "Tue May 19"
   },
   "others": [
-    {
-      "name": "Dry Cleaning",
-      "date": "2026-05-18",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon May 18"
-    },
-    {
-      "name": "Kevin Morby",
-      "date": "2026-05-18",
-      "time": "20:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon May 18"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-05-18",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon May 18"
-    },
-    {
-      "name": "Barefoot in the Park",
-      "date": "2026-05-19",
-      "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Tue May 19"
-    },
     {
       "name": "Everett AquaSox vs. Tri-City Dust Devils",
       "date": "2026-05-19",
@@ -70,6 +34,42 @@
       "venue": "Clock-Out Lounge",
       "segment": "Miscellaneous",
       "genre": "",
+      "date_pretty": "Tue May 19"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-05-19",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue May 19"
+    },
+    {
+      "name": "The Phantom of the Opera (Touring)",
+      "date": "2026-05-19",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Tue May 19"
+    },
+    {
+      "name": "Craetorus EP Release Show w/ Shelby Natasha, Bonit",
+      "date": "2026-05-19",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Tue May 19"
+    },
+    {
+      "name": "St. Lucia",
+      "date": "2026-05-19",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Alternative",
       "date_pretty": "Tue May 19"
     }
   ]

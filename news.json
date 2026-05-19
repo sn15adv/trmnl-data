@@ -1,7 +1,13 @@
 {
   "articles": [
     {
+      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads"
+    },
+    {
       "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns"
+    },
+    {
+      "title": "Key people smuggler arrested after BBC uncovered identity"
     },
     {
       "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero"
@@ -23,12 +29,6 @@
     },
     {
       "title": "Jackson Pollock painting sells for record $181m at auction"
-    },
-    {
-      "title": "Two dead in Spain shooting, with babies reportedly among injured"
-    },
-    {
-      "title": "Tasmanian government apologises over stolen body parts scandal"
     }
   ]
 }

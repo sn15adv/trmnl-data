@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "Barefoot in the Park",
-    "date": "2026-05-19",
-    "time": "14:00:00",
+    "date": "2026-05-20",
+    "time": "10:30:00",
     "venue": "Taproot Theatre",
     "segment": "Arts & Theatre",
     "genre": "Performance Art",
-    "date_pretty": "Tue May 19"
+    "date_pretty": "Wed May 20"
   },
   "others": [
     {
+      "name": "Seattle Mariners vs. Chicago White Sox",
+      "date": "2026-05-20",
+      "time": "13:10:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Wed May 20"
+    },
+    {
       "name": "Everett AquaSox vs. Tri-City Dust Devils",
-      "date": "2026-05-19",
+      "date": "2026-05-20",
       "time": "",
       "venue": "Funko Field",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Tue May 19"
+      "date_pretty": "Wed May 20"
     },
     {
-      "name": "Seattle Mariners vs. Chicago White Sox",
-      "date": "2026-05-19",
-      "time": "18:40:00",
-      "venue": "T-Mobile Park",
+      "name": "Bug Hunter and The Narcissist Cookbook",
+      "date": "2026-05-20",
+      "time": "19:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed May 20"
+    },
+    {
+      "name": "Seattle Storm vs. Connecticut Sun",
+      "date": "2026-05-20",
+      "time": "19:00:00",
+      "venue": "Climate Pledge Arena",
       "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Tue May 19"
-    },
-    {
-      "name": "Raised By TV Events Presents: Arrested Development",
-      "date": "2026-05-19",
-      "time": "19:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Tue May 19"
-    },
-    {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-05-19",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue May 19"
+      "genre": "Basketball",
+      "date_pretty": "Wed May 20"
     },
     {
       "name": "The Phantom of the Opera (Touring)",
-      "date": "2026-05-19",
+      "date": "2026-05-20",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Tue May 19"
+      "date_pretty": "Wed May 20"
     },
     {
-      "name": "Craetorus EP Release Show w/ Shelby Natasha, Bonit",
-      "date": "2026-05-19",
+      "name": "Barefoot in the Park",
+      "date": "2026-05-20",
+      "time": "19:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Wed May 20"
+    },
+    {
+      "name": "The Faux Paws w/ Eli West *partially seated*",
+      "date": "2026-05-20",
       "time": "19:30:00",
       "venue": "Tractor",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Tue May 19"
-    },
-    {
-      "name": "St. Lucia",
-      "date": "2026-05-19",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Tue May 19"
+      "genre": "Folk",
+      "date_pretty": "Wed May 20"
     }
   ]
 }

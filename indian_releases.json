@@ -14,6 +14,16 @@
   },
   "others": [
     {
+      "title": "Pati Patni Aur Woh Do",
+      "language": "Hindi",
+      "release_date": "2026-05-15"
+    },
+    {
+      "title": "Aakhri Sawal",
+      "language": "Hindi",
+      "release_date": "2026-05-15"
+    },
+    {
       "title": "Karuppu",
       "language": "Tamil",
       "release_date": "2026-05-15"
@@ -22,16 +32,6 @@
       "title": "Peddi",
       "language": "Telugu",
       "release_date": "2026-06-03"
-    },
-    {
-      "title": "Athiradi",
-      "language": "Malayalam",
-      "release_date": "2026-05-14"
-    },
-    {
-      "title": "Pati Patni Aur Woh Do",
-      "language": "Hindi",
-      "release_date": "2026-05-15"
     }
   ]
 }

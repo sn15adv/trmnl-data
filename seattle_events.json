@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Everett AquaSox vs. Tri-City Dust Devils",
-    "date": "2026-05-22",
-    "time": "",
-    "venue": "Funko Field",
-    "segment": "Sports",
-    "genre": "Miscellaneous",
-    "date_pretty": "Fri May 22"
+    "name": "The Phantom of the Opera (Touring)",
+    "date": "2026-05-23",
+    "time": "14:00:00",
+    "venue": "Paramount Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "date_pretty": "Sat May 23"
   },
   "others": [
     {
-      "name": "Fareed Haque Trio (21+ Event)",
-      "date": "2026-05-22",
-      "time": "18:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri May 22"
-    },
-    {
-      "name": "Shane Torres, Kate Murphy, Phil Burton",
-      "date": "2026-05-22",
-      "time": "18:30:00",
-      "venue": "The Fremont Abbey",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri May 22"
-    },
-    {
-      "name": "Seattle Storm vs. Connecticut Sun",
-      "date": "2026-05-22",
-      "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Fri May 22"
-    },
-    {
-      "name": "Alex Thomas",
-      "date": "2026-05-22",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri May 22"
-    },
-    {
       "name": "Barefoot in the Park",
-      "date": "2026-05-22",
-      "time": "19:30:00",
+      "date": "2026-05-23",
+      "time": "14:00:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Fri May 22"
+      "date_pretty": "Sat May 23"
     },
     {
       "name": "Grease",
-      "date": "2026-05-22",
-      "time": "19:30:00",
+      "date": "2026-05-23",
+      "time": "14:00:00",
       "venue": "Village Theatre - Everett",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Fri May 22"
+      "date_pretty": "Sat May 23"
     },
     {
-      "name": "Lowertown",
-      "date": "2026-05-22",
-      "time": "20:00:00",
-      "venue": "Baba Yaga",
+      "name": "Washington Wolfpack vs. Beaumont Renegades",
+      "date": "2026-05-23",
+      "time": "15:00:00",
+      "venue": "Angel Of The Winds Arena",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sat May 23"
+    },
+    {
+      "name": "CMF Presents: Base Camp Featuring Claypool Gold",
+      "date": "2026-05-23",
+      "time": "16:00:00",
+      "venue": "Marymoor Park",
+      "segment": "Miscellaneous",
+      "genre": "Community/Civic",
+      "date_pretty": "Sat May 23"
+    },
+    {
+      "name": "Everett AquaSox vs. Tri-City Dust Devils",
+      "date": "2026-05-23",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sat May 23"
+    },
+    {
+      "name": "Just Another Gig - 2 DAY PASS",
+      "date": "2026-05-23",
+      "time": "",
+      "venue": "Airport Tavern",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat May 23"
+    },
+    {
+      "name": "Melody’s Echo Chamber – Unclouded Tour w/ Strange ",
+      "date": "2026-05-23",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
       "segment": "Music",
       "genre": "Alternative",
-      "date_pretty": "Fri May 22"
+      "date_pretty": "Sat May 23"
     }
   ]
 }

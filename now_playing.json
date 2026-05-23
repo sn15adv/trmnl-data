@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Lee Cronin's The Mummy",
-    "rating": 7.9,
+    "rating": 8.0,
     "runtime": "2h 13m",
     "release_date": "2026-04-17",
     "overview": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns int",
@@ -20,12 +20,12 @@
       "rating": 8.0
     },
     {
-      "title": "Apex",
-      "rating": 6.7
-    },
-    {
       "title": "Mortal Kombat II",
       "rating": 6.9
+    },
+    {
+      "title": "Apex",
+      "rating": 6.7
     }
   ]
 }

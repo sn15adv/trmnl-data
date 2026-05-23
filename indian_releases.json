@@ -1,35 +1,35 @@
 {
   "hero": {
-    "title": "Pati Patni Aur Woh Do",
-    "original_title": "पति पत्नी और वो दो",
+    "title": "System",
+    "original_title": "सिस्टम",
     "language": "Hindi",
-    "rating": 7.0,
-    "release_date": "2026-05-15",
-    "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+    "rating": 0.0,
+    "release_date": "2026-05-22",
+    "overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the ",
     "genres": [
-      "Comedy"
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "Kartavya",
+      "title": "Chand Mera Dil",
       "language": "Hindi",
-      "release_date": "2026-05-15"
-    },
-    {
-      "title": "Aakhri Sawal",
-      "language": "Hindi",
-      "release_date": "2026-05-15"
-    },
-    {
-      "title": "Karuppu",
-      "language": "Tamil",
-      "release_date": "2026-05-15"
+      "release_date": "2026-05-22"
     },
     {
       "title": "Drishyam 3",
       "language": "Malayalam",
       "release_date": "2026-05-21"
+    },
+    {
+      "title": "Peddi",
+      "language": "Telugu",
+      "release_date": "2026-06-03"
+    },
+    {
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "language": "Hindi",
+      "release_date": "2026-06-04"
     }
   ]
 }

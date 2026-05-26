@@ -1,59 +1,14 @@
 {
   "hero": {
-    "name": "Tractor Tavern Square Dance w/ Frying Pan Gustatio",
-    "date": "2026-05-25",
-    "time": "18:30:00",
-    "venue": "Tractor",
-    "segment": "Music",
-    "genre": "Country",
-    "date_pretty": "Mon May 25"
+    "name": "Art Workshops",
+    "date": "2026-05-26",
+    "time": "15:30:00",
+    "venue": "Nate Jackson's Super Funny Comedy C",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Tue May 26"
   },
   "others": [
-    {
-      "name": "Dethklok",
-      "date": "2026-05-25",
-      "time": "19:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Mon May 25"
-    },
-    {
-      "name": "Zain Zohaib",
-      "date": "2026-05-25",
-      "time": "19:00:00",
-      "venue": "Federal Way PAEC",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Mon May 25"
-    },
-    {
-      "name": "CHAPTERHOUSE: Whirlpool 35 - Performing their clas",
-      "date": "2026-05-25",
-      "time": "20:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Mon May 25"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-05-25",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon May 25"
-    },
-    {
-      "name": "Art Workshops",
-      "date": "2026-05-26",
-      "time": "15:30:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue May 26"
-    },
     {
       "name": "Chaos & Carnage w/ Thy Art Is Murder",
       "date": "2026-05-26",
@@ -70,6 +25,51 @@
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
+      "date_pretty": "Tue May 26"
+    },
+    {
+      "name": "SCRAMBLER JAM!",
+      "date": "2026-05-26",
+      "time": "19:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue May 26"
+    },
+    {
+      "name": "Vundabar w/ Goon",
+      "date": "2026-05-26",
+      "time": "19:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue May 26"
+    },
+    {
+      "name": "Raised By TV Events Presents: New Girl Trivia Nigh",
+      "date": "2026-05-26",
+      "time": "19:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Tue May 26"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-05-26",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue May 26"
+    },
+    {
+      "name": "Songwriter Round Featuring Sabrina Saed, Armour, M",
+      "date": "2026-05-26",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Alternative",
       "date_pretty": "Tue May 26"
     }
   ]

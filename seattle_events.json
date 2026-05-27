@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Art Workshops",
-    "date": "2026-05-26",
-    "time": "15:30:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Tue May 26"
+    "name": "Tacoma Rainiers vs. Las Vegas Aviators",
+    "date": "2026-05-27",
+    "time": "18:05:00",
+    "venue": "Cheney Stadium",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Wed May 27"
   },
   "others": [
     {
-      "name": "Chaos & Carnage w/ Thy Art Is Murder",
-      "date": "2026-05-26",
-      "time": "16:45:00",
-      "venue": "Showbox SODO",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue May 26"
-    },
-    {
-      "name": "Tacoma Rainiers vs. Las Vegas Aviators",
-      "date": "2026-05-26",
-      "time": "18:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Tue May 26"
-    },
-    {
-      "name": "SCRAMBLER JAM!",
-      "date": "2026-05-26",
-      "time": "19:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue May 26"
-    },
-    {
-      "name": "Vundabar w/ Goon",
-      "date": "2026-05-26",
+      "name": "INJI - 21 & Over",
+      "date": "2026-05-27",
       "time": "19:00:00",
       "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue May 26"
-    },
-    {
-      "name": "Raised By TV Events Presents: New Girl Trivia Nigh",
-      "date": "2026-05-26",
-      "time": "19:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Tue May 26"
-    },
-    {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-05-26",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Tue May 26"
+      "date_pretty": "Wed May 27"
     },
     {
-      "name": "Songwriter Round Featuring Sabrina Saed, Armour, M",
-      "date": "2026-05-26",
+      "name": "Seattle Storm vs. Washington Mystics",
+      "date": "2026-05-27",
+      "time": "19:00:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Wed May 27"
+    },
+    {
+      "name": "An Acoustic Evening with Trey Anastasio",
+      "date": "2026-05-27",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed May 27"
+    },
+    {
+      "name": "Barefoot in the Park",
+      "date": "2026-05-27",
+      "time": "19:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Wed May 27"
+    },
+    {
+      "name": "Jean Mann Single Release Show w/ Sam n' Aimz, Dog ",
+      "date": "2026-05-27",
       "time": "19:30:00",
       "venue": "Tractor",
       "segment": "Music",
       "genre": "Alternative",
-      "date_pretty": "Tue May 26"
+      "date_pretty": "Wed May 27"
+    },
+    {
+      "name": "Grease",
+      "date": "2026-05-27",
+      "time": "19:30:00",
+      "venue": "Village Theatre - Everett",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Wed May 27"
+    },
+    {
+      "name": "Lunar Pilots, Ludos, Finney",
+      "date": "2026-05-27",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed May 27"
     }
   ]
 }

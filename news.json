@@ -1,10 +1,13 @@
 {
   "articles": [
     {
+      "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city"
+    },
+    {
       "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns"
     },
     {
-      "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city"
+      "title": "Trump says US 'not satisfied' with Iran deal yet"
     },
     {
       "title": "Five people found alive after week trapped in flooded Laos cave"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Trump-backed challenger beats veteran US senator in Texas primary"
-    },
-    {
-      "title": "South Korea detains dissident who fled China in rubber boat"
     }
   ]
 }

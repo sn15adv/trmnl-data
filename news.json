@@ -1,6 +1,9 @@
 {
   "articles": [
     {
+      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders"
+    },
+    {
       "title": "Are US and Iran close to peace or sliding back to war?"
     },
     {
@@ -13,22 +16,19 @@
       "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions"
     },
     {
-      "title": "Man arrested after three injured in stabbing at Swiss train station"
+      "title": "Portugal breaks hottest May day record as Europe swelters in heatwave"
     },
     {
       "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll"
     },
     {
-      "title": "Sixteen pupils killed in Kenya school fire"
+      "title": "Man arrested after three injured in stabbing at Swiss train station"
+    },
+    {
+      "title": "Questions over safety as 16 pupils die in another Kenya school fire"
     },
     {
       "title": "Jill Biden says she thought husband was having a stroke during 2024 debate"
-    },
-    {
-      "title": "Australia charges woman who returned from Syria with joining Islamic State"
-    },
-    {
-      "title": "EU fines Temu €200m for allowing sale of illegal products"
     }
   ]
 }

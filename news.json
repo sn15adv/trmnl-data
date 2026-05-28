@@ -1,10 +1,13 @@
 {
   "articles": [
     {
-      "title": "US strikes Iran targets for second time in three days"
+      "title": "US strikes Iranian military site as Iran says it has targeted American base"
     },
     {
-      "title": "Israel issues evacuation order for swathes of southern Lebanon"
+      "title": "Sixteen pupils killed in Kenya school fire, local police say"
+    },
+    {
+      "title": "Israel strikes southern Lebanon after evacuation orders"
     },
     {
       "title": "Jill Biden says she thought husband was having a stroke during 2024 debate"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Five people found alive after week trapped in flooded Laos cave"
-    },
-    {
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing"
     }
   ]
 }

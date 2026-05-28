@@ -1,19 +1,25 @@
 {
   "articles": [
     {
+      "title": "Are US and Iran close to peace or sliding back to war?"
+    },
+    {
       "title": "Iran says it targeted American base after fresh US strikes"
+    },
+    {
+      "title": "Israel hits Lebanese capital in 'targeted strike'"
+    },
+    {
+      "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions"
     },
     {
       "title": "Man arrested after three injured in stabbing at Swiss train station"
     },
     {
-      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say"
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll"
     },
     {
       "title": "Sixteen pupils killed in Kenya school fire"
-    },
-    {
-      "title": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders"
     },
     {
       "title": "Jill Biden says she thought husband was having a stroke during 2024 debate"
@@ -23,12 +29,6 @@
     },
     {
       "title": "EU fines Temu €200m for allowing sale of illegal products"
-    },
-    {
-      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam"
-    },
-    {
-      "title": "Google worker charged with using internal data to make $1.2m on bets"
     }
   ]
 }

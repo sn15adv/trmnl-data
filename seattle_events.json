@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Grease",
-    "date": "2026-05-28",
-    "time": "14:00:00",
-    "venue": "Village Theatre - Everett",
-    "segment": "Arts & Theatre",
-    "genre": "Theatre",
-    "date_pretty": "Thu May 28"
+    "name": "MAGIC SWORD / DANCE WITH THE DEAD: The Face Off To",
+    "date": "2026-05-29",
+    "time": "18:00:00",
+    "venue": "The Crocodile",
+    "segment": "Music",
+    "genre": "Dance/Electronic",
+    "date_pretty": "Fri May 29"
   },
   "others": [
     {
-      "name": "Whose Mic!",
-      "date": "2026-05-28",
+      "name": "bixby",
+      "date": "2026-05-29",
+      "time": "18:00:00",
+      "venue": "Barboza",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Fri May 29"
+    },
+    {
+      "name": "Insomniac presents Steve Aoki (21 and Over Only)",
+      "date": "2026-05-29",
+      "time": "18:00:00",
+      "venue": "Victory Hall at The Boxyard",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "date_pretty": "Fri May 29"
+    },
+    {
+      "name": "The Black Keys: PEACHES 'N KREAM",
+      "date": "2026-05-29",
+      "time": "18:30:00",
+      "venue": "Remlinger Farms",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Fri May 29"
+    },
+    {
+      "name": "Tommy Davidson",
+      "date": "2026-05-29",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu May 28"
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Fri May 29"
     },
     {
       "name": "Tacoma Rainiers vs. Las Vegas Aviators",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "19:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Thu May 28"
+      "date_pretty": "Fri May 29"
     },
     {
-      "name": "Joe Jackson + Band - Hope and Fury Tour 2026",
-      "date": "2026-05-28",
-      "time": "19:30:00",
-      "venue": "Moore Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Thu May 28"
+      "name": "Seattle Mariners vs. Arizona Diamondbacks",
+      "date": "2026-05-29",
+      "time": "19:10:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Fri May 29"
     },
     {
       "name": "Barefoot in the Park",
-      "date": "2026-05-28",
+      "date": "2026-05-29",
       "time": "19:30:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Thu May 28"
-    },
-    {
-      "name": "Blackheart Honeymoon, OK TIGER, Whiting Tennis",
-      "date": "2026-05-28",
-      "time": "19:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Thu May 28"
-    },
-    {
-      "name": "Grease",
-      "date": "2026-05-28",
-      "time": "19:30:00",
-      "venue": "Village Theatre - Everett",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Thu May 28"
-    },
-    {
-      "name": "AROE EP Release Show",
-      "date": "2026-05-28",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Thu May 28"
+      "date_pretty": "Fri May 29"
     }
   ]
 }

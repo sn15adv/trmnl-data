@@ -17,11 +17,6 @@
       "release_date": "2026-05-22"
     },
     {
-      "title": "Drishyam 3",
-      "language": "Malayalam",
-      "release_date": "2026-05-21"
-    },
-    {
       "title": "Peddi",
       "language": "Telugu",
       "release_date": "2026-06-03"
@@ -30,6 +25,11 @@
       "title": "Hai Jawani Toh Ishq Hona Hai",
       "language": "Hindi",
       "release_date": "2026-06-04"
+    },
+    {
+      "title": "Kattalan",
+      "language": "Malayalam",
+      "release_date": "2026-05-28"
     }
   ]
 }

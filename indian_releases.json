@@ -1,35 +1,37 @@
 {
   "hero": {
-    "title": "System",
-    "original_title": "सिस्टम",
-    "language": "Hindi",
-    "rating": 7.5,
-    "release_date": "2026-05-22",
-    "overview": "When Neha Rajvansh, a privileged public prosecutor, meets Sarika Rawat, a courtroom stenographer from a humble background, their lives are thrown into upheaval where power defines truth, blurring the ",
+    "title": "Peddi",
+    "original_title": "పెద్ది",
+    "language": "Telugu",
+    "rating": 0.0,
+    "release_date": "2026-06-03",
+    "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "genres": [
-      "Thriller"
+      "Action",
+      "Drama",
+      "Adventure"
     ]
   },
   "others": [
-    {
-      "title": "Chand Mera Dil",
-      "language": "Hindi",
-      "release_date": "2026-05-22"
-    },
-    {
-      "title": "Peddi",
-      "language": "Telugu",
-      "release_date": "2026-06-03"
-    },
     {
       "title": "Hai Jawani Toh Ishq Hona Hai",
       "language": "Hindi",
       "release_date": "2026-06-04"
     },
     {
-      "title": "Kattalan",
-      "language": "Malayalam",
-      "release_date": "2026-05-28"
+      "title": "Cocktail 2",
+      "language": "Hindi",
+      "release_date": "2026-06-19"
+    },
+    {
+      "title": "Maa Inti Bangaram",
+      "language": "Telugu",
+      "release_date": "2026-06-19"
+    },
+    {
+      "title": "Maa Behen",
+      "language": "Hindi",
+      "release_date": "2026-06-04"
     }
   ]
 }

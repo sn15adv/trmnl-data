@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "MAGIC SWORD / DANCE WITH THE DEAD: The Face Off To",
-    "date": "2026-05-29",
-    "time": "18:00:00",
-    "venue": "The Crocodile",
-    "segment": "Music",
-    "genre": "Dance/Electronic",
-    "date_pretty": "Fri May 29"
+    "name": "Hot Wheels VIP Backstage Experience Sat May 30 at ",
+    "date": "2026-05-30",
+    "time": "12:30:00",
+    "venue": "Angel Of The Winds Arena",
+    "segment": "Miscellaneous",
+    "genre": "Undefined",
+    "date_pretty": "Sat May 30"
   },
   "others": [
     {
-      "name": "bixby",
-      "date": "2026-05-29",
-      "time": "18:00:00",
-      "venue": "Barboza",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Fri May 29"
+      "name": "Hot Wheels Monster Trucks Live Glow-N-Fire",
+      "date": "2026-05-30",
+      "time": "12:30:00",
+      "venue": "Angel Of The Winds Arena",
+      "segment": "Sports",
+      "genre": "Motorsports/Racing",
+      "date_pretty": "Sat May 30"
     },
     {
-      "name": "Insomniac presents Steve Aoki (21 and Over Only)",
-      "date": "2026-05-29",
-      "time": "18:00:00",
-      "venue": "Victory Hall at The Boxyard",
+      "name": "Rising Stars w/ Jesus Christ Superstar",
+      "date": "2026-05-30",
+      "time": "13:30:00",
+      "venue": "5th Avenue Theatre",
       "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Fri May 29"
+      "genre": "Country",
+      "date_pretty": "Sat May 30"
     },
     {
-      "name": "The Black Keys: PEACHES 'N KREAM",
-      "date": "2026-05-29",
-      "time": "18:30:00",
-      "venue": "Remlinger Farms",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri May 29"
-    },
-    {
-      "name": "Tommy Davidson",
-      "date": "2026-05-29",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
+      "name": "Blue Man Group: North American Tour",
+      "date": "2026-05-30",
+      "time": "14:00:00",
+      "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri May 29"
-    },
-    {
-      "name": "Tacoma Rainiers vs. Las Vegas Aviators",
-      "date": "2026-05-29",
-      "time": "19:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Fri May 29"
-    },
-    {
-      "name": "Seattle Mariners vs. Arizona Diamondbacks",
-      "date": "2026-05-29",
-      "time": "19:10:00",
-      "venue": "T-Mobile Park",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Fri May 29"
+      "genre": "Miscellaneous Theatre",
+      "date_pretty": "Sat May 30"
     },
     {
       "name": "Barefoot in the Park",
-      "date": "2026-05-29",
-      "time": "19:30:00",
+      "date": "2026-05-30",
+      "time": "14:00:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Fri May 29"
+      "date_pretty": "Sat May 30"
+    },
+    {
+      "name": "Grease",
+      "date": "2026-05-30",
+      "time": "14:00:00",
+      "venue": "Village Theatre - Everett",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat May 30"
+    },
+    {
+      "name": "Spite, Emmure, Psycho-Frame, Rev3rent",
+      "date": "2026-05-30",
+      "time": "17:30:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Metal",
+      "date_pretty": "Sat May 30"
+    },
+    {
+      "name": "Tacoma Rainiers vs. Las Vegas Aviators",
+      "date": "2026-05-30",
+      "time": "18:05:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sat May 30"
     }
   ]
 }

@@ -1,18 +1,23 @@
 {
   "hero": {
-    "title": "Peddi",
-    "original_title": "పెద్ది",
-    "language": "Telugu",
-    "rating": 0.0,
-    "release_date": "2026-06-03",
-    "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+    "title": "Blast",
+    "original_title": "Blast",
+    "language": "Tamil",
+    "rating": 7.0,
+    "release_date": "2026-05-28",
+    "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
     "genres": [
       "Action",
       "Drama",
-      "Adventure"
+      "Family"
     ]
   },
   "others": [
+    {
+      "title": "Peddi",
+      "language": "Telugu",
+      "release_date": "2026-06-03"
+    },
     {
       "title": "Hai Jawani Toh Ishq Hona Hai",
       "language": "Hindi",
@@ -21,17 +26,12 @@
     {
       "title": "Cocktail 2",
       "language": "Hindi",
-      "release_date": "2026-06-19"
+      "release_date": "2026-06-18"
     },
     {
       "title": "Maa Inti Bangaram",
       "language": "Telugu",
       "release_date": "2026-06-19"
-    },
-    {
-      "title": "Maa Behen",
-      "language": "Hindi",
-      "release_date": "2026-06-04"
     }
   ]
 }

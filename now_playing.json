@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Obsession",
-    "rating": 7.9,
+    "rating": 8.0,
     "runtime": "1h 48m",
     "release_date": "2026-05-15",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinis",
@@ -15,16 +15,16 @@
       "rating": 9.0
     },
     {
-      "title": "Chand Mera Dil",
-      "rating": 0.0
-    },
-    {
       "title": "Backrooms",
-      "rating": 6.5
+      "rating": 6.6
     },
     {
-      "title": "The Mandalorian and Grogu",
-      "rating": 6.8
+      "title": "Chand Mera Dil",
+      "rating": 1.0
+    },
+    {
+      "title": "Over Your Dead Body",
+      "rating": 7.0
     }
   ]
 }

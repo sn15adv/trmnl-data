@@ -1,59 +1,14 @@
 {
   "hero": {
-    "name": "Seattle Mariners vs. New York Mets",
-    "date": "2026-06-01",
-    "time": "18:40:00",
-    "venue": "T-Mobile Park",
+    "name": "Everett AquaSox vs. Eugene Emeralds",
+    "date": "2026-06-02",
+    "time": "",
+    "venue": "Funko Field",
     "segment": "Sports",
-    "genre": "Baseball",
-    "date_pretty": "Mon Jun 1"
+    "genre": "Miscellaneous",
+    "date_pretty": "Tue Jun 2"
   },
   "others": [
-    {
-      "name": "Claire Rosinkranz: My Lover Tour w/  Stevie Bill",
-      "date": "2026-06-01",
-      "time": "20:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Mon Jun 1"
-    },
-    {
-      "name": "Extreme Dwarfanator Wrestling (21+ Event)",
-      "date": "2026-06-01",
-      "time": "20:00:00",
-      "venue": "Club Sur",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "date_pretty": "Mon Jun 1"
-    },
-    {
-      "name": "Yot Club",
-      "date": "2026-06-01",
-      "time": "20:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Jun 1"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-06-01",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Jun 1"
-    },
-    {
-      "name": "Everett AquaSox vs. Eugene Emeralds",
-      "date": "2026-06-02",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Tue Jun 2"
-    },
     {
       "name": "Seattle Mariners vs. New York Mets",
       "date": "2026-06-02",
@@ -70,6 +25,51 @@
       "venue": "LTD Bar and Grill",
       "segment": "Sports",
       "genre": "Wrestling",
+      "date_pretty": "Tue Jun 2"
+    },
+    {
+      "name": "The North Sound featuring: Ascended Reality, Manis",
+      "date": "2026-06-02",
+      "time": "19:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Tue Jun 2"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-06-02",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jun 2"
+    },
+    {
+      "name": "LeAnn Rimes",
+      "date": "2026-06-02",
+      "time": "19:30:00",
+      "venue": "Taper Auditorium",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Tue Jun 2"
+    },
+    {
+      "name": "Clara La San",
+      "date": "2026-06-02",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "R&B",
+      "date_pretty": "Tue Jun 2"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-06-02",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
       "date_pretty": "Tue Jun 2"
     }
   ]

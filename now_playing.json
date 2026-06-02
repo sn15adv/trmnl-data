@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Obsession",
-    "rating": 8.0,
+    "rating": 7.9,
     "runtime": "1h 48m",
     "release_date": "2026-05-15",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinis",
@@ -12,19 +12,19 @@
   "others": [
     {
       "title": "Backrooms",
-      "rating": 6.8
+      "rating": 6.7
     },
     {
       "title": "Swapped",
       "rating": 9.0
     },
     {
-      "title": "Chand Mera Dil",
-      "rating": 5.5
+      "title": "Kattalan",
+      "rating": 6.0
     },
     {
-      "title": "Mortal Kombat II",
-      "rating": 6.8
+      "title": "Chand Mera Dil",
+      "rating": 3.8
     }
   ]
 }

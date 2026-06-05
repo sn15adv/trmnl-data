@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Grease",
-    "date": "2026-06-04",
-    "time": "14:00:00",
-    "venue": "Village Theatre - Everett",
-    "segment": "Arts & Theatre",
-    "genre": "Theatre",
-    "date_pretty": "Thu Jun 4"
+    "name": "Everett AquaSox vs. Eugene Emeralds",
+    "date": "2026-06-05",
+    "time": "",
+    "venue": "Funko Field",
+    "segment": "Sports",
+    "genre": "Miscellaneous",
+    "date_pretty": "Fri Jun 5"
   },
   "others": [
     {
-      "name": "Everett AquaSox vs. Eugene Emeralds",
-      "date": "2026-06-04",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Thu Jun 4"
-    },
-    {
-      "name": "Yacht Rock Revue",
-      "date": "2026-06-04",
-      "time": "18:00:00",
-      "venue": "Woodland Park Zoo",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Thu Jun 4"
-    },
-    {
-      "name": "Pronoia Program Benefit Show",
-      "date": "2026-06-04",
-      "time": "19:00:00",
-      "venue": "Chop Suey",
+      "name": "Bingo Loco presents Name That Song",
+      "date": "2026-06-05",
+      "time": "17:00:00",
+      "venue": "The Crocodile",
       "segment": "Miscellaneous",
       "genre": "",
-      "date_pretty": "Thu Jun 4"
+      "date_pretty": "Fri Jun 5"
     },
     {
-      "name": "Louis Tomlinson - How Did We Get Here? World Tour",
-      "date": "2026-06-04",
+      "name": "Jim Norton",
+      "date": "2026-06-05",
       "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Thu Jun 4"
+      "venue": "Tacoma Comedy Club",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Fri Jun 5"
     },
     {
-      "name": "Archspire w/ Undeath",
-      "date": "2026-06-04",
-      "time": "19:00:00",
-      "venue": "El Corazon",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Thu Jun 4"
-    },
-    {
-      "name": "My Cousin Tiera",
-      "date": "2026-06-04",
+      "name": "Jay Phillips",
+      "date": "2026-06-05",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Jun 4"
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Fri Jun 5"
+    },
+    {
+      "name": "Frida...A Self Portrait",
+      "date": "2026-06-05",
+      "time": "19:30:00",
+      "venue": "ACT Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Jun 5"
     },
     {
       "name": "Barefoot in the Park",
-      "date": "2026-06-04",
+      "date": "2026-06-05",
       "time": "19:30:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Thu Jun 4"
+      "date_pretty": "Fri Jun 5"
+    },
+    {
+      "name": "The Dreamboats",
+      "date": "2026-06-05",
+      "time": "19:30:00",
+      "venue": "Admiral Theatre - WA",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Fri Jun 5"
+    },
+    {
+      "name": "Grease",
+      "date": "2026-06-05",
+      "time": "19:30:00",
+      "venue": "Village Theatre - Everett",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Fri Jun 5"
     }
   ]
 }

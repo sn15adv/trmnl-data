@@ -1,22 +1,21 @@
 {
   "hero": {
-    "title": "Blast",
-    "original_title": "Blast",
-    "language": "Tamil",
-    "rating": 7.0,
-    "release_date": "2026-05-28",
-    "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+    "title": "Peddi",
+    "original_title": "పెద్ది",
+    "language": "Telugu",
+    "rating": 9.3,
+    "release_date": "2026-06-03",
+    "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "genres": [
       "Action",
-      "Drama",
-      "Family"
+      "Drama"
     ]
   },
   "others": [
     {
-      "title": "Peddi",
-      "language": "Telugu",
-      "release_date": "2026-06-03"
+      "title": "Maa Behen",
+      "language": "Hindi",
+      "release_date": "2026-06-04"
     },
     {
       "title": "Hai Jawani Toh Ishq Hona Hai",
@@ -29,7 +28,7 @@
       "release_date": "2026-06-19"
     },
     {
-      "title": "The Great Grand Superhero",
+      "title": "Return of the Jungle",
       "language": "Hindi",
       "release_date": "2026-05-29"
     }

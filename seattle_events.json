@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Everett AquaSox vs. Eugene Emeralds",
-    "date": "2026-06-05",
-    "time": "",
-    "venue": "Funko Field",
-    "segment": "Sports",
-    "genre": "Miscellaneous",
-    "date_pretty": "Fri Jun 5"
+    "name": "Barefoot in the Park",
+    "date": "2026-06-06",
+    "time": "14:00:00",
+    "venue": "Taproot Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Performance Art",
+    "date_pretty": "Sat Jun 6"
   },
   "others": [
     {
-      "name": "Bingo Loco presents Name That Song",
-      "date": "2026-06-05",
-      "time": "17:00:00",
-      "venue": "The Crocodile",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Fri Jun 5"
-    },
-    {
-      "name": "Jim Norton",
-      "date": "2026-06-05",
-      "time": "19:00:00",
-      "venue": "Tacoma Comedy Club",
-      "segment": "Arts & Theatre",
-      "genre": "",
-      "date_pretty": "Fri Jun 5"
-    },
-    {
-      "name": "Jay Phillips",
-      "date": "2026-06-05",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Jun 5"
-    },
-    {
-      "name": "Frida...A Self Portrait",
-      "date": "2026-06-05",
-      "time": "19:30:00",
-      "venue": "ACT Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri Jun 5"
-    },
-    {
-      "name": "Barefoot in the Park",
-      "date": "2026-06-05",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Fri Jun 5"
-    },
-    {
-      "name": "The Dreamboats",
-      "date": "2026-06-05",
-      "time": "19:30:00",
-      "venue": "Admiral Theatre - WA",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Jun 5"
-    },
-    {
       "name": "Grease",
-      "date": "2026-06-05",
-      "time": "19:30:00",
+      "date": "2026-06-06",
+      "time": "14:00:00",
       "venue": "Village Theatre - Everett",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Fri Jun 5"
+      "date_pretty": "Sat Jun 6"
+    },
+    {
+      "name": "Everett AquaSox vs. Eugene Emeralds",
+      "date": "2026-06-06",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sat Jun 6"
+    },
+    {
+      "name": "Coffin Break, The Scoffs, Sinister Six, Cheliceral",
+      "date": "2026-06-06",
+      "time": "17:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Sat Jun 6"
+    },
+    {
+      "name": "Therapy Gecko",
+      "date": "2026-06-06",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Jun 6"
+    },
+    {
+      "name": "Jim Norton",
+      "date": "2026-06-06",
+      "time": "18:00:00",
+      "venue": "Tacoma Comedy Club",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Sat Jun 6"
+    },
+    {
+      "name": "Bob Dylan",
+      "date": "2026-06-06",
+      "time": "18:30:00",
+      "venue": "Chateau Ste Michelle Winery",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sat Jun 6"
+    },
+    {
+      "name": "Chateau Ste Michelle: Tables & Cabanas - Bob Dylan",
+      "date": "2026-06-06",
+      "time": "18:30:00",
+      "venue": "Chateau Ste Michelle Winery",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sat Jun 6"
     }
   ]
 }

@@ -3,7 +3,7 @@
     "title": "Peddi",
     "original_title": "పెద్ది",
     "language": "Telugu",
-    "rating": 9.3,
+    "rating": 6.4,
     "release_date": "2026-06-03",
     "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
     "genres": [
@@ -23,14 +23,14 @@
       "release_date": "2026-06-04"
     },
     {
+      "title": "Bandar",
+      "language": "Hindi",
+      "release_date": "2026-06-05"
+    },
+    {
       "title": "Cocktail 2",
       "language": "Hindi",
       "release_date": "2026-06-19"
-    },
-    {
-      "title": "Return of the Jungle",
-      "language": "Hindi",
-      "release_date": "2026-05-29"
     }
   ]
 }

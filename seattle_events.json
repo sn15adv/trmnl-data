@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "School of Rock Seattle Presents: Rock N' Grohl, Th",
-    "date": "2026-06-07",
-    "time": "09:45:00",
-    "venue": "The Crocodile",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Sun Jun 7"
+    "name": "CMF Presents: Base Camp Featuring The Human League",
+    "date": "2026-06-08",
+    "time": "16:00:00",
+    "venue": "Marymoor Park",
+    "segment": "Miscellaneous",
+    "genre": "Community/Civic",
+    "date_pretty": "Mon Jun 8"
   },
   "others": [
     {
+      "name": "The Human League With Very Special Guests Soft Cel",
+      "date": "2026-06-08",
+      "time": "18:00:00",
+      "venue": "Marymoor Live - Presented By Toyota",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Mon Jun 8"
+    },
+    {
+      "name": "Clock-Out Lounge Presents: Collide-O-Scope",
+      "date": "2026-06-08",
+      "time": "20:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Arts & Theatre",
+      "genre": "Classical",
+      "date_pretty": "Mon Jun 8"
+    },
+    {
+      "name": "Lue Elizondo - Persona Non Grata Tour",
+      "date": "2026-06-08",
+      "time": "20:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Miscellaneous",
+      "genre": "Lecture/Seminar",
+      "date_pretty": "Mon Jun 8"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-06-08",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Jun 8"
+    },
+    {
+      "name": "Tacoma Rainiers vs. Albuquerque Isotopes",
+      "date": "2026-06-09",
+      "time": "11:35:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Tue Jun 9"
+    },
+    {
+      "name": "Art Workshop - Miniverse (Foodie Edition)",
+      "date": "2026-06-09",
+      "time": "15:30:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jun 9"
+    },
+    {
       "name": "Frida...A Self Portrait",
-      "date": "2026-06-07",
-      "time": "14:00:00",
+      "date": "2026-06-09",
+      "time": "19:00:00",
       "venue": "ACT Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Sun Jun 7"
-    },
-    {
-      "name": "Grease",
-      "date": "2026-06-07",
-      "time": "14:00:00",
-      "venue": "Village Theatre - Everett",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Jun 7"
-    },
-    {
-      "name": "Everett AquaSox vs. Eugene Emeralds",
-      "date": "2026-06-07",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Jun 7"
-    },
-    {
-      "name": "Midnight Skies, All Hype, Tragedy By Design",
-      "date": "2026-06-07",
-      "time": "17:30:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sun Jun 7"
-    },
-    {
-      "name": "Raised By TV Events Presents: all ages Hunger Game",
-      "date": "2026-06-07",
-      "time": "18:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Sun Jun 7"
-    },
-    {
-      "name": "Bob Dylan",
-      "date": "2026-06-07",
-      "time": "18:30:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Jun 7"
-    },
-    {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - Bob Dylan",
-      "date": "2026-06-07",
-      "time": "18:30:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Jun 7"
+      "date_pretty": "Tue Jun 9"
     }
   ]
 }

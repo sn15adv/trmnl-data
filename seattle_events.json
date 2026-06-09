@@ -1,59 +1,14 @@
 {
   "hero": {
-    "name": "CMF Presents: Base Camp Featuring The Human League",
-    "date": "2026-06-08",
-    "time": "16:00:00",
-    "venue": "Marymoor Park",
-    "segment": "Miscellaneous",
-    "genre": "Community/Civic",
-    "date_pretty": "Mon Jun 8"
+    "name": "Tacoma Rainiers vs. Albuquerque Isotopes",
+    "date": "2026-06-09",
+    "time": "11:35:00",
+    "venue": "Cheney Stadium",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Tue Jun 9"
   },
   "others": [
-    {
-      "name": "The Human League With Very Special Guests Soft Cel",
-      "date": "2026-06-08",
-      "time": "18:00:00",
-      "venue": "Marymoor Live - Presented By Toyota",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Jun 8"
-    },
-    {
-      "name": "Clock-Out Lounge Presents: Collide-O-Scope",
-      "date": "2026-06-08",
-      "time": "20:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Arts & Theatre",
-      "genre": "Classical",
-      "date_pretty": "Mon Jun 8"
-    },
-    {
-      "name": "Lue Elizondo - Persona Non Grata Tour",
-      "date": "2026-06-08",
-      "time": "20:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Miscellaneous",
-      "genre": "Lecture/Seminar",
-      "date_pretty": "Mon Jun 8"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-06-08",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Jun 8"
-    },
-    {
-      "name": "Tacoma Rainiers vs. Albuquerque Isotopes",
-      "date": "2026-06-09",
-      "time": "11:35:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Tue Jun 9"
-    },
     {
       "name": "Art Workshop - Miniverse (Foodie Edition)",
       "date": "2026-06-09",
@@ -70,6 +25,51 @@
       "venue": "ACT Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
+      "date_pretty": "Tue Jun 9"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-06-09",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jun 9"
+    },
+    {
+      "name": "The Toadies",
+      "date": "2026-06-09",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Tue Jun 9"
+    },
+    {
+      "name": "Troy Doherty",
+      "date": "2026-06-09",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Tue Jun 9"
+    },
+    {
+      "name": "PETE & BAS: Pete & Bas Save America w/ Delivery Bo",
+      "date": "2026-06-09",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Tue Jun 9"
+    },
+    {
+      "name": "'68 w/ Nate Bergman",
+      "date": "2026-06-09",
+      "time": "20:00:00",
+      "venue": "Funhouse",
+      "segment": "Music",
+      "genre": "Other",
       "date_pretty": "Tue Jun 9"
     }
   ]

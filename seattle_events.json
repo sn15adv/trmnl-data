@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Barefoot in the Park",
-    "date": "2026-06-10",
-    "time": "14:00:00",
-    "venue": "Taproot Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Performance Art",
-    "date_pretty": "Wed Jun 10"
+    "name": "America: The Happy Trails Tour 2026",
+    "date": "2026-06-11",
+    "time": "19:00:00",
+    "venue": "Paramount Theatre",
+    "segment": "Music",
+    "genre": "Rock",
+    "date_pretty": "Thu Jun 11"
   },
   "others": [
     {
+      "name": "Mike Love w/ Ethan Tucker",
+      "date": "2026-06-11",
+      "time": "19:00:00",
+      "venue": "Nectar Lounge",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Thu Jun 11"
+    },
+    {
+      "name": "KBCS Presents: Mary Gauthier w/ Jaimee Harris | Ce",
+      "date": "2026-06-11",
+      "time": "19:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Folk",
+      "date_pretty": "Thu Jun 11"
+    },
+    {
       "name": "Tacoma Rainiers vs. Albuquerque Isotopes",
-      "date": "2026-06-10",
-      "time": "18:05:00",
+      "date": "2026-06-11",
+      "time": "19:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Wed Jun 10"
+      "date_pretty": "Thu Jun 11"
     },
     {
       "name": "Frida...A Self Portrait",
-      "date": "2026-06-10",
-      "time": "19:00:00",
+      "date": "2026-06-11",
+      "time": "19:30:00",
       "venue": "ACT Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Wed Jun 10"
+      "date_pretty": "Thu Jun 11"
     },
     {
-      "name": "Seattle Storm vs. Los Angeles Sparks",
-      "date": "2026-06-10",
-      "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Wed Jun 10"
+      "name": "The Play That Goes Wrong",
+      "date": "2026-06-11",
+      "time": "19:30:00",
+      "venue": "Bagley Wright Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Thu Jun 11"
     },
     {
       "name": "Barefoot in the Park",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "19:30:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Wed Jun 10"
+      "date_pretty": "Thu Jun 11"
     },
     {
-      "name": "Rock For Pride 2026: Pride Cup",
-      "date": "2026-06-10",
+      "name": "Tigers Jaw, Pool Kids, Bleary Eyed",
+      "date": "2026-06-11",
       "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Wed Jun 10"
-    },
-    {
-      "name": "Saliva",
-      "date": "2026-06-10",
-      "time": "20:00:00",
-      "venue": "El Corazon",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Jun 10"
-    },
-    {
-      "name": "Shaun Crawford & The Reasons w/ Her Mountain Majes",
-      "date": "2026-06-10",
-      "time": "20:00:00",
-      "venue": "Tractor",
+      "venue": "The Crocodile",
       "segment": "Music",
       "genre": "Alternative",
-      "date_pretty": "Wed Jun 10"
+      "date_pretty": "Thu Jun 11"
     }
   ]
 }

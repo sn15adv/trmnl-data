@@ -6,13 +6,18 @@
     "release_date": "2026-05-15",
     "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinis",
     "genres": [
-      "Horror"
+      "Horror",
+      "Thriller"
     ]
   },
   "others": [
     {
       "title": "Peddi",
-      "rating": 6.1
+      "rating": 6.6
+    },
+    {
+      "title": "Mortal Kombat II",
+      "rating": 7.9
     },
     {
       "title": "The Mandalorian and Grogu",
@@ -21,10 +26,6 @@
     {
       "title": "Masters of the Universe",
       "rating": 7.4
-    },
-    {
-      "title": "Mortal Kombat II",
-      "rating": 7.9
     }
   ]
 }

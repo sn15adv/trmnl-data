@@ -1,22 +1,17 @@
 {
   "hero": {
-    "title": "Peddi",
-    "original_title": "పెద్ది",
-    "language": "Telugu",
-    "rating": 6.2,
-    "release_date": "2026-06-03",
-    "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+    "title": "Hai Jawani Toh Ishq Hona Hai",
+    "original_title": "है जवानी तो इश्क होना है",
+    "language": "Hindi",
+    "rating": 5.5,
+    "release_date": "2026-06-04",
+    "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
     "genres": [
-      "Action",
-      "Drama"
+      "Romance",
+      "Comedy"
     ]
   },
   "others": [
-    {
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "language": "Hindi",
-      "release_date": "2026-06-04"
-    },
     {
       "title": "Maa Behen",
       "language": "Hindi",
@@ -31,6 +26,11 @@
       "title": "Momacu",
       "language": "Hindi",
       "release_date": "2026-06-04"
+    },
+    {
+      "title": "Cocktail 2",
+      "language": "Hindi",
+      "release_date": "2026-06-19"
     }
   ]
 }

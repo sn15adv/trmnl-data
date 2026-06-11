@@ -1,16 +1,13 @@
 {
   "articles": [
     {
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises"
-    },
-    {
       "title": "El Niño under way and threatens weather extremes, scientists say"
     },
     {
       "title": "Deadly Sudan drone strike targets funeral procession"
     },
     {
-      "title": "US and Iran exchange strikes across Middle East for second day in a row"
+      "title": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans"
     },
     {
       "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises"
@@ -22,13 +19,16 @@
       "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'"
     },
     {
-      "title": "Artan to referee Uefa Super Cup after losing World Cup spot"
+      "title": "Artan to referee Uefa Super Cup after losing World Cup role"
     },
     {
       "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants"
     },
     {
       "title": "Knicks fans go wild as New York team makes biggest comeback in NBA Finals history"
+    },
+    {
+      "title": "Olivia Rodrigo sings about heartbreak but she's already chosen her wedding song"
     }
   ]
 }

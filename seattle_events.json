@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "America: The Happy Trails Tour 2026",
-    "date": "2026-06-11",
-    "time": "19:00:00",
-    "venue": "Paramount Theatre",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Thu Jun 11"
+    "name": "The Play That Goes Wrong",
+    "date": "2026-06-12",
+    "time": "14:00:00",
+    "venue": "Bagley Wright Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Performance Art",
+    "date_pretty": "Fri Jun 12"
   },
   "others": [
     {
-      "name": "Mike Love w/ Ethan Tucker",
-      "date": "2026-06-11",
-      "time": "19:00:00",
-      "venue": "Nectar Lounge",
+      "name": "CMF Presents: Base Camp Featuring The Dead South",
+      "date": "2026-06-12",
+      "time": "16:30:00",
+      "venue": "Marymoor Park",
+      "segment": "Miscellaneous",
+      "genre": "Community/Civic",
+      "date_pretty": "Fri Jun 12"
+    },
+    {
+      "name": "Bonnie Raitt",
+      "date": "2026-06-12",
+      "time": "17:00:00",
+      "venue": "Fort Worden",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Thu Jun 11"
+      "genre": "Pop",
+      "date_pretty": "Fri Jun 12"
     },
     {
-      "name": "KBCS Presents: Mary Gauthier w/ Jaimee Harris | Ce",
-      "date": "2026-06-11",
-      "time": "19:00:00",
-      "venue": "Tractor",
+      "name": "The Dead South",
+      "date": "2026-06-12",
+      "time": "18:30:00",
+      "venue": "Marymoor Live - Presented By Toyota",
       "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Thu Jun 11"
+      "genre": "Rock",
+      "date_pretty": "Fri Jun 12"
     },
     {
-      "name": "Tacoma Rainiers vs. Albuquerque Isotopes",
-      "date": "2026-06-11",
-      "time": "19:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Thu Jun 11"
-    },
-    {
-      "name": "Frida...A Self Portrait",
-      "date": "2026-06-11",
-      "time": "19:30:00",
-      "venue": "ACT Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Thu Jun 11"
-    },
-    {
-      "name": "The Play That Goes Wrong",
-      "date": "2026-06-11",
-      "time": "19:30:00",
-      "venue": "Bagley Wright Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Thu Jun 11"
-    },
-    {
-      "name": "Barefoot in the Park",
-      "date": "2026-06-11",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Thu Jun 11"
-    },
-    {
-      "name": "Tigers Jaw, Pool Kids, Bleary Eyed",
-      "date": "2026-06-11",
-      "time": "20:00:00",
+      "name": "Dungeons & Drag Queens Pride: Alaska Thunderfuck, ",
+      "date": "2026-06-12",
+      "time": "19:00:00",
       "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Thu Jun 11"
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Fri Jun 12"
+    },
+    {
+      "name": "Seattle Storm vs. Golden State Valkyries",
+      "date": "2026-06-12",
+      "time": "19:00:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Fri Jun 12"
+    },
+    {
+      "name": "Naomi Watanabe",
+      "date": "2026-06-12",
+      "time": "19:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Fri Jun 12"
+    },
+    {
+      "name": "JJ Williamson",
+      "date": "2026-06-12",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Fri Jun 12"
     }
   ]
 }

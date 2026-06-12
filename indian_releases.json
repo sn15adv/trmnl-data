@@ -1,36 +1,35 @@
 {
   "hero": {
-    "title": "Hai Jawani Toh Ishq Hona Hai",
-    "original_title": "है जवानी तो इश्क होना है",
+    "title": "Bandar",
+    "original_title": "बंदर",
     "language": "Hindi",
-    "rating": 5.5,
-    "release_date": "2026-06-04",
-    "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+    "rating": 7.0,
+    "release_date": "2026-06-05",
+    "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system",
     "genres": [
-      "Romance",
-      "Comedy"
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "Maa Behen",
+      "title": "Welcome to the Jungle",
       "language": "Hindi",
-      "release_date": "2026-06-04"
-    },
-    {
-      "title": "Bandar",
-      "language": "Hindi",
-      "release_date": "2026-06-05"
-    },
-    {
-      "title": "Momacu",
-      "language": "Hindi",
-      "release_date": "2026-06-04"
+      "release_date": "2026-06-25"
     },
     {
       "title": "Cocktail 2",
       "language": "Hindi",
       "release_date": "2026-06-19"
+    },
+    {
+      "title": "Alpha",
+      "language": "Hindi",
+      "release_date": "2026-07-03"
+    },
+    {
+      "title": "Haunted 3D: Ghosts of the Past",
+      "language": "Hindi",
+      "release_date": "2026-06-12"
     }
   ]
 }

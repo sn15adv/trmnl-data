@@ -13,19 +13,19 @@
   "others": [
     {
       "title": "Peddi",
-      "rating": 6.5
+      "rating": 6.8
     },
     {
       "title": "Mortal Kombat II",
-      "rating": 7.9
+      "rating": 8.0
+    },
+    {
+      "title": "Karuppu",
+      "rating": 7.5
     },
     {
       "title": "The Mandalorian and Grogu",
       "rating": 6.8
-    },
-    {
-      "title": "Masters of the Universe",
-      "rating": 7.4
     }
   ]
 }

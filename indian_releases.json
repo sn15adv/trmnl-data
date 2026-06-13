@@ -1,13 +1,13 @@
 {
   "hero": {
-    "title": "Bandar",
-    "original_title": "बंदर",
+    "title": "Haunted 3D: Ghosts of the Past",
+    "original_title": "Haunted 3D: Ghosts of the Past",
     "language": "Hindi",
-    "rating": 7.0,
-    "release_date": "2026-06-05",
-    "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system",
+    "rating": 0.0,
+    "release_date": "2026-06-12",
+    "overview": "Sequel to the 2011 Indian horror.",
     "genres": [
-      "Thriller"
+      "Horror"
     ]
   },
   "others": [
@@ -22,14 +22,14 @@
       "release_date": "2026-06-19"
     },
     {
+      "title": "Main Vaapas Aaunga",
+      "language": "Hindi",
+      "release_date": "2026-06-10"
+    },
+    {
       "title": "Alpha",
       "language": "Hindi",
       "release_date": "2026-07-03"
-    },
-    {
-      "title": "Haunted 3D: Ghosts of the Past",
-      "language": "Hindi",
-      "release_date": "2026-06-12"
     }
   ]
 }

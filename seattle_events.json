@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "WNBF/INBF Natural Columbia Classic",
-    "date": "2026-06-13",
-    "time": "10:00:00",
-    "venue": "Federal Way PAEC",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Sat Jun 13"
+    "name": "School of Rock Seattle Presents: AC/DC, White Stri",
+    "date": "2026-06-14",
+    "time": "09:45:00",
+    "venue": "The Crocodile",
+    "segment": "Music",
+    "genre": "Rock",
+    "date_pretty": "Sun Jun 14"
   },
   "others": [
     {
-      "name": "School of Rock West Seattle Presents: Motown/Stax ",
-      "date": "2026-06-13",
+      "name": "Convencion Latinas de exito: Jorge Lozano H.",
+      "date": "2026-06-14",
+      "time": "11:00:00",
+      "venue": "Theatre On the Square",
+      "segment": "Miscellaneous",
+      "genre": "Lecture/Seminar",
+      "date_pretty": "Sun Jun 14"
+    },
+    {
+      "name": "School of Rock West Seattle Presents: Pop Legends ",
+      "date": "2026-06-14",
       "time": "12:30:00",
       "venue": "Clock-Out Lounge",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Sat Jun 13"
+      "date_pretty": "Sun Jun 14"
     },
     {
-      "name": "School of Rock: Best of the 2000s",
-      "date": "2026-06-13",
-      "time": "13:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sat Jun 13"
+      "name": "Tacoma Rainiers vs. Albuquerque Isotopes",
+      "date": "2026-06-14",
+      "time": "13:35:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun Jun 14"
     },
     {
       "name": "Frida...A Self Portrait",
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "time": "14:00:00",
       "venue": "ACT Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Sat Jun 13"
+      "date_pretty": "Sun Jun 14"
     },
     {
       "name": "The Play That Goes Wrong",
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "time": "14:00:00",
       "venue": "Bagley Wright Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Sat Jun 13"
+      "date_pretty": "Sun Jun 14"
     },
     {
-      "name": "Barefoot in the Park",
-      "date": "2026-06-13",
+      "name": "Seattle Men's Chorus: Sing Along, Seattle!",
+      "date": "2026-06-14",
       "time": "14:00:00",
-      "venue": "Taproot Theatre",
+      "venue": "Neptune Theatre",
       "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Sat Jun 13"
+      "genre": "Classical",
+      "date_pretty": "Sun Jun 14"
     },
     {
-      "name": "School Of Rock West Seattle Presents: Led Zeppelin",
-      "date": "2026-06-13",
+      "name": "School of Rock West Seattle Presents: Garage Rock ",
+      "date": "2026-06-14",
       "time": "15:30:00",
       "venue": "Clock-Out Lounge",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Sat Jun 13"
-    },
-    {
-      "name": "CMF Presents: Base Camp Featuring Iration",
-      "date": "2026-06-13",
-      "time": "16:00:00",
-      "venue": "Marymoor Park",
-      "segment": "Miscellaneous",
-      "genre": "Community/Civic",
-      "date_pretty": "Sat Jun 13"
+      "date_pretty": "Sun Jun 14"
     }
   ]
 }

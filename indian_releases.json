@@ -12,24 +12,24 @@
   },
   "others": [
     {
-      "title": "Welcome to the Jungle",
-      "language": "Hindi",
-      "release_date": "2026-06-25"
-    },
-    {
-      "title": "Cocktail 2",
-      "language": "Hindi",
-      "release_date": "2026-06-19"
-    },
-    {
       "title": "Main Vaapas Aaunga",
       "language": "Hindi",
       "release_date": "2026-06-10"
     },
     {
-      "title": "Alpha",
+      "title": "Welcome to the Jungle",
       "language": "Hindi",
-      "release_date": "2026-07-03"
+      "release_date": "2026-06-25"
+    },
+    {
+      "title": "Governor",
+      "language": "Hindi",
+      "release_date": "2026-06-12"
+    },
+    {
+      "title": "Cocktail 2",
+      "language": "Hindi",
+      "release_date": "2026-06-19"
     }
   ]
 }

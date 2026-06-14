@@ -1,9 +1,6 @@
 {
   "articles": [
     {
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing"
-    },
-    {
       "title": "Lebanon says three killed in Israeli strike on Beirut suburb"
     },
     {
@@ -29,6 +26,9 @@
     },
     {
       "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death"
+    },
+    {
+      "title": "Armed men kidnap high-ranking security official in Haiti"
     }
   ]
 }

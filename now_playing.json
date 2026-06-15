@@ -12,20 +12,20 @@
   },
   "others": [
     {
-      "title": "Peddi",
-      "rating": 6.8
-    },
-    {
       "title": "Mortal Kombat II",
       "rating": 8.0
     },
     {
+      "title": "Peddi",
+      "rating": 6.8
+    },
+    {
       "title": "Karuppu",
-      "rating": 7.3
+      "rating": 7.2
     },
     {
       "title": "Disclosure Day",
-      "rating": 7.0
+      "rating": 6.9
     }
   ]
 }

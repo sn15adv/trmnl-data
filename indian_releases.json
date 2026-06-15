@@ -1,11 +1,11 @@
 {
   "hero": {
-    "title": "Haunted 3D: Ghosts of the Past",
-    "original_title": "Haunted 3D: Ghosts of the Past",
+    "title": "Haunted 3D: Echoes of the Past",
+    "original_title": "Haunted 3D: Echoes of the Past",
     "language": "Hindi",
     "rating": 0.0,
     "release_date": "2026-06-12",
-    "overview": "Sequel to the 2011 Indian horror.",
+    "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
     "genres": [
       "Horror"
     ]
@@ -17,14 +17,14 @@
       "release_date": "2026-06-10"
     },
     {
-      "title": "Welcome to the Jungle",
-      "language": "Hindi",
-      "release_date": "2026-06-25"
-    },
-    {
       "title": "Governor",
       "language": "Hindi",
       "release_date": "2026-06-12"
+    },
+    {
+      "title": "Welcome to the Jungle",
+      "language": "Hindi",
+      "release_date": "2026-06-25"
     },
     {
       "title": "Cocktail 2",

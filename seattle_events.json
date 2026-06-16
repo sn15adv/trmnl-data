@@ -1,50 +1,14 @@
 {
   "hero": {
-    "name": "World Cup: Match 16 Group G - Belgium vs Egypt",
-    "date": "2026-06-15",
-    "time": "12:00:00",
-    "venue": "Lumen Field",
+    "name": "Everett AquaSox vs. Hillsboro Hops",
+    "date": "2026-06-16",
+    "time": "",
+    "venue": "Funko Field",
     "segment": "Sports",
-    "genre": "Soccer",
-    "date_pretty": "Mon Jun 15"
+    "genre": "Miscellaneous",
+    "date_pretty": "Tue Jun 16"
   },
   "others": [
-    {
-      "name": "Chokerb- 21 & Over",
-      "date": "2026-06-15",
-      "time": "19:00:00",
-      "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon Jun 15"
-    },
-    {
-      "name": "Raised By TV Events Presents: Heated Rivalry Trivi",
-      "date": "2026-06-15",
-      "time": "20:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Mon Jun 15"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-06-15",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Jun 15"
-    },
-    {
-      "name": "Everett AquaSox vs. Hillsboro Hops",
-      "date": "2026-06-16",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Tue Jun 16"
-    },
     {
       "name": "KID CUDI PRESENTS: THE REBEL RAGERS TOUR 2026",
       "date": "2026-06-16",
@@ -70,6 +34,42 @@
       "venue": "ACT Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
+      "date_pretty": "Tue Jun 16"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-06-16",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jun 16"
+    },
+    {
+      "name": "Madison Beer: the locket tour",
+      "date": "2026-06-16",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Tue Jun 16"
+    },
+    {
+      "name": "ELIJAH SCOTT - In A Bar Somewhere Tour",
+      "date": "2026-06-16",
+      "time": "20:00:00",
+      "venue": "Baba Yaga",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Jun 16"
+    },
+    {
+      "name": "Witch Club Satan, Patriarchy",
+      "date": "2026-06-16",
+      "time": "20:00:00",
+      "venue": "Substation",
+      "segment": "Music",
+      "genre": "Metal",
       "date_pretty": "Tue Jun 16"
     }
   ]

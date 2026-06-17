@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Everett AquaSox vs. Hillsboro Hops",
-    "date": "2026-06-16",
-    "time": "",
-    "venue": "Funko Field",
-    "segment": "Sports",
-    "genre": "Miscellaneous",
-    "date_pretty": "Tue Jun 16"
+    "name": "CMF Presents: Base Camp Featuring Buju Banton & St",
+    "date": "2026-06-17",
+    "time": "16:00:00",
+    "venue": "Marymoor Park",
+    "segment": "Miscellaneous",
+    "genre": "Community/Civic",
+    "date_pretty": "Wed Jun 17"
   },
   "others": [
     {
-      "name": "KID CUDI PRESENTS: THE REBEL RAGERS TOUR 2026",
-      "date": "2026-06-16",
-      "time": "18:30:00",
-      "venue": "White River Amphitheatre",
+      "name": "Everett AquaSox vs. Hillsboro Hops",
+      "date": "2026-06-17",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Wed Jun 17"
+    },
+    {
+      "name": "Buju Banton & Stephen Marley: Roots and Rhymes Tou",
+      "date": "2026-06-17",
+      "time": "18:00:00",
+      "venue": "Marymoor Live - Presented By Toyota",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Tue Jun 16"
+      "genre": "Reggae",
+      "date_pretty": "Wed Jun 17"
     },
     {
       "name": "Seattle Mariners vs. Baltimore Orioles",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "time": "18:40:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Tue Jun 16"
+      "date_pretty": "Wed Jun 17"
     },
     {
       "name": "Frida...A Self Portrait",
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "time": "19:00:00",
       "venue": "ACT Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Tue Jun 16"
+      "date_pretty": "Wed Jun 17"
     },
     {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-06-16",
+      "name": "Trash Talk",
+      "date": "2026-06-17",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Tue Jun 16"
+      "date_pretty": "Wed Jun 17"
     },
     {
-      "name": "Madison Beer: the locket tour",
-      "date": "2026-06-16",
+      "name": "The Play That Goes Wrong",
+      "date": "2026-06-17",
       "time": "19:30:00",
-      "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Tue Jun 16"
+      "venue": "Bagley Wright Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Wed Jun 17"
     },
     {
-      "name": "ELIJAH SCOTT - In A Bar Somewhere Tour",
-      "date": "2026-06-16",
-      "time": "20:00:00",
-      "venue": "Baba Yaga",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Jun 16"
-    },
-    {
-      "name": "Witch Club Satan, Patriarchy",
-      "date": "2026-06-16",
-      "time": "20:00:00",
-      "venue": "Substation",
-      "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Tue Jun 16"
+      "name": "Barefoot in the Park",
+      "date": "2026-06-17",
+      "time": "19:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Wed Jun 17"
     }
   ]
 }

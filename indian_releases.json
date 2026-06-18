@@ -7,15 +7,12 @@
     "release_date": "2026-06-12",
     "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
     "genres": [
-      "Horror"
+      "Horror",
+      "Romance",
+      "Thriller"
     ]
   },
   "others": [
-    {
-      "title": "Main Vaapas Aaunga",
-      "language": "Hindi",
-      "release_date": "2026-06-10"
-    },
     {
       "title": "Bharat Bhhagya Viddhaata",
       "language": "Hindi",
@@ -24,6 +21,11 @@
     {
       "title": "Governor",
       "language": "Hindi",
+      "release_date": "2026-06-12"
+    },
+    {
+      "title": "Veerabhadrudu",
+      "language": "Telugu",
       "release_date": "2026-06-12"
     },
     {

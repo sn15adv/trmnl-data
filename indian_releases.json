@@ -1,37 +1,36 @@
 {
   "hero": {
-    "title": "Haunted 3D: Echoes of the Past",
-    "original_title": "Haunted 3D: Echoes of the Past",
+    "title": "Cocktail 2",
+    "original_title": "कॉकटेल २",
     "language": "Hindi",
     "rating": 0.0,
-    "release_date": "2026-06-12",
-    "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
+    "release_date": "2026-06-19",
+    "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emot",
     "genres": [
-      "Horror",
       "Romance",
-      "Thriller"
+      "Comedy"
     ]
   },
   "others": [
     {
-      "title": "Bharat Bhhagya Viddhaata",
-      "language": "Hindi",
-      "release_date": "2026-06-12"
-    },
-    {
-      "title": "Governor",
-      "language": "Hindi",
-      "release_date": "2026-06-12"
-    },
-    {
-      "title": "Cocktail 2",
-      "language": "Hindi",
-      "release_date": "2026-06-19"
+      "title": "Maa Inti Bangaram",
+      "language": "Telugu",
+      "release_date": "2026-06-18"
     },
     {
       "title": "Dhamaal 4",
       "language": "Hindi",
       "release_date": "2026-07-10"
+    },
+    {
+      "title": "Welcome to the Jungle",
+      "language": "Hindi",
+      "release_date": "2026-06-25"
+    },
+    {
+      "title": "Alpha",
+      "language": "Hindi",
+      "release_date": "2026-07-02"
     }
   ]
 }

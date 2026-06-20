@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "World Cup: Match 32 Group D- USA vs Australia",
-    "date": "2026-06-19",
-    "time": "12:00:00",
-    "venue": "Lumen Field",
-    "segment": "Sports",
-    "genre": "Soccer",
-    "date_pretty": "Fri Jun 19"
+    "name": "Frida...A Self Portrait",
+    "date": "2026-06-20",
+    "time": "14:00:00",
+    "venue": "ACT Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Miscellaneous",
+    "date_pretty": "Sat Jun 20"
   },
   "others": [
     {
+      "name": "School Of Rock - First Wave",
+      "date": "2026-06-20",
+      "time": "14:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Sat Jun 20"
+    },
+    {
+      "name": "The Play That Goes Wrong",
+      "date": "2026-06-20",
+      "time": "14:00:00",
+      "venue": "Bagley Wright Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Sat Jun 20"
+    },
+    {
+      "name": "Barefoot in the Park",
+      "date": "2026-06-20",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Sat Jun 20"
+    },
+    {
+      "name": "Enigma ASD Presents: Summer Music Performance Show",
+      "date": "2026-06-20",
+      "time": "15:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Sat Jun 20"
+    },
+    {
       "name": "Everett AquaSox vs. Hillsboro Hops",
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "time": "",
       "venue": "Funko Field",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Fri Jun 19"
+      "date_pretty": "Sat Jun 20"
     },
     {
-      "name": "Seattle Mariners vs. Boston Red Sox",
-      "date": "2026-06-19",
-      "time": "19:10:00",
-      "venue": "T-Mobile Park",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Fri Jun 19"
-    },
-    {
-      "name": "MrBallen: Lights out Live",
-      "date": "2026-06-19",
-      "time": "19:30:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Fri Jun 19"
-    },
-    {
-      "name": "Barefoot in the Park",
-      "date": "2026-06-19",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Fri Jun 19"
-    },
-    {
-      "name": "Boa",
-      "date": "2026-06-19",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Jun 19"
-    },
-    {
-      "name": "Agent Orange",
-      "date": "2026-06-19",
-      "time": "20:00:00",
-      "venue": "El Corazon",
+      "name": "School of Rock - 44 Days in 1991",
+      "date": "2026-06-20",
+      "time": "17:00:00",
+      "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Jun 19"
+      "genre": "Alternative",
+      "date_pretty": "Sat Jun 20"
     },
     {
-      "name": "Andre Nickatina with Special Guests (21+ Event)",
-      "date": "2026-06-19",
-      "time": "20:00:00",
-      "venue": "Nectar Lounge",
+      "name": "The Crane Wives - ACT II  With special guest Yasmi",
+      "date": "2026-06-20",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Jun 19"
+      "genre": "Folk",
+      "date_pretty": "Sat Jun 20"
     }
   ]
 }

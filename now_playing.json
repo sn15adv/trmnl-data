@@ -12,20 +12,20 @@
   },
   "others": [
     {
+      "title": "Cocktail 2",
+      "rating": 7.0
+    },
+    {
       "title": "Karuppu",
-      "rating": 7.1
+      "rating": 6.7
+    },
+    {
+      "title": "Toy Story 5",
+      "rating": 7.5
     },
     {
       "title": "Peddi",
       "rating": 6.2
-    },
-    {
-      "title": "Toy Story 5",
-      "rating": 7.4
-    },
-    {
-      "title": "Disclosure Day",
-      "rating": 6.7
     }
   ]
 }

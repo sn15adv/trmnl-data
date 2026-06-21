@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Frida...A Self Portrait",
-    "date": "2026-06-20",
-    "time": "14:00:00",
-    "venue": "ACT Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Miscellaneous",
-    "date_pretty": "Sat Jun 20"
+    "name": "School of Rock Seattle Presents: Rock 101, Joan Je",
+    "date": "2026-06-21",
+    "time": "09:45:00",
+    "venue": "The Crocodile",
+    "segment": "Music",
+    "genre": "Rock",
+    "date_pretty": "Sun Jun 21"
   },
   "others": [
     {
-      "name": "School Of Rock - First Wave",
-      "date": "2026-06-20",
-      "time": "14:00:00",
-      "venue": "Chop Suey",
+      "name": "GOLDEN: A K-Pop Kids Party!",
+      "date": "2026-06-21",
+      "time": "11:00:00",
+      "venue": "Neptune Theatre",
       "segment": "Music",
       "genre": "Pop",
-      "date_pretty": "Sat Jun 20"
+      "date_pretty": "Sun Jun 21"
+    },
+    {
+      "name": "School of Rock West Seattle Presents: California P",
+      "date": "2026-06-21",
+      "time": "12:30:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sun Jun 21"
+    },
+    {
+      "name": "Seattle Mariners vs. Boston Red Sox",
+      "date": "2026-06-21",
+      "time": "13:10:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun Jun 21"
+    },
+    {
+      "name": "Frida...A Self Portrait",
+      "date": "2026-06-21",
+      "time": "14:00:00",
+      "venue": "ACT Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sun Jun 21"
     },
     {
       "name": "The Play That Goes Wrong",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "time": "14:00:00",
       "venue": "Bagley Wright Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Sat Jun 20"
+      "date_pretty": "Sun Jun 21"
     },
     {
-      "name": "Barefoot in the Park",
-      "date": "2026-06-20",
-      "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Sat Jun 20"
-    },
-    {
-      "name": "Enigma ASD Presents: Summer Music Performance Show",
-      "date": "2026-06-20",
-      "time": "15:00:00",
+      "name": "School of Rock West Seattle Presents: Smells Like ",
+      "date": "2026-06-21",
+      "time": "15:30:00",
       "venue": "Clock-Out Lounge",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Sat Jun 20"
+      "genre": "Rock",
+      "date_pretty": "Sun Jun 21"
     },
     {
       "name": "Everett AquaSox vs. Hillsboro Hops",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "time": "",
       "venue": "Funko Field",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Sat Jun 20"
-    },
-    {
-      "name": "School of Rock - 44 Days in 1991",
-      "date": "2026-06-20",
-      "time": "17:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Jun 20"
-    },
-    {
-      "name": "The Crane Wives - ACT II  With special guest Yasmi",
-      "date": "2026-06-20",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Sat Jun 20"
+      "date_pretty": "Sun Jun 21"
     }
   ]
 }

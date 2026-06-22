@@ -3,7 +3,7 @@
     "title": "Cocktail 2",
     "original_title": "कॉकटेल २",
     "language": "Hindi",
-    "rating": 7.0,
+    "rating": 5.0,
     "release_date": "2026-06-19",
     "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emot",
     "genres": [
@@ -18,19 +18,19 @@
       "release_date": "2026-06-18"
     },
     {
-      "title": "Dhamaal 4",
-      "language": "Hindi",
-      "release_date": "2026-07-10"
-    },
-    {
       "title": "Welcome to the Jungle",
       "language": "Hindi",
       "release_date": "2026-06-25"
     },
     {
-      "title": "Alpha",
+      "title": "Dhamaal 4",
       "language": "Hindi",
-      "release_date": "2026-07-02"
+      "release_date": "2026-07-10"
+    },
+    {
+      "title": "Balan - The Boy",
+      "language": "Malayalam",
+      "release_date": "2026-06-19"
     }
   ]
 }

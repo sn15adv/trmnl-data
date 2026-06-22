@@ -13,19 +13,19 @@
   "others": [
     {
       "title": "Cocktail 2",
-      "rating": 7.0
-    },
-    {
-      "title": "Karuppu",
-      "rating": 6.7
+      "rating": 5.0
     },
     {
       "title": "Toy Story 5",
       "rating": 7.5
     },
     {
-      "title": "Peddi",
-      "rating": 6.2
+      "title": "Karuppu",
+      "rating": 6.7
+    },
+    {
+      "title": "The Mandalorian and Grogu",
+      "rating": 6.7
     }
   ]
 }

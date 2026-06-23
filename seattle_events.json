@@ -1,68 +1,14 @@
 {
   "hero": {
-    "name": "Seattle Storm vs. Dallas Wings",
-    "date": "2026-06-22",
-    "time": "19:00:00",
-    "venue": "Climate Pledge Arena",
-    "segment": "Sports",
-    "genre": "Basketball",
-    "date_pretty": "Mon Jun 22"
+    "name": "Art Workshop - Miniverse (Flower Magnets Edition)",
+    "date": "2026-06-23",
+    "time": "15:30:00",
+    "venue": "Nate Jackson's Super Funny Comedy C",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Tue Jun 23"
   },
   "others": [
-    {
-      "name": "RX Bandits",
-      "date": "2026-06-22",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Jun 22"
-    },
-    {
-      "name": "Value Select",
-      "date": "2026-06-22",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Mon Jun 22"
-    },
-    {
-      "name": "Raised By TV Events Presents: HS Girls Films Trivi",
-      "date": "2026-06-22",
-      "time": "20:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Mon Jun 22"
-    },
-    {
-      "name": "HONNE - 10 YEAR ANNIVERSARY TOUR",
-      "date": "2026-06-22",
-      "time": "20:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Music",
-      "genre": "R&B",
-      "date_pretty": "Mon Jun 22"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-06-22",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Jun 22"
-    },
-    {
-      "name": "Art Workshop - Miniverse (Flower Magnets Edition)",
-      "date": "2026-06-23",
-      "time": "15:30:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Jun 23"
-    },
     {
       "name": "Tacoma Rainiers vs. Round Rock Express",
       "date": "2026-06-23",
@@ -70,6 +16,60 @@
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
+      "date_pretty": "Tue Jun 23"
+    },
+    {
+      "name": "Frida...A Self Portrait",
+      "date": "2026-06-23",
+      "time": "19:00:00",
+      "venue": "ACT Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Tue Jun 23"
+    },
+    {
+      "name": "SCRAMBLER JAM!",
+      "date": "2026-06-23",
+      "time": "19:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Jun 23"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-06-23",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jun 23"
+    },
+    {
+      "name": "Fire Marshall Ventura w/ Mattlock and The Keys, Ia",
+      "date": "2026-06-23",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Reggae",
+      "date_pretty": "Tue Jun 23"
+    },
+    {
+      "name": "underscores w/ Umru",
+      "date": "2026-06-23",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jun 23"
+    },
+    {
+      "name": "Ibrahim Maalouf",
+      "date": "2026-06-23",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Jazz",
       "date_pretty": "Tue Jun 23"
     }
   ]

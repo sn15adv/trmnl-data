@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Cocktail 2",
-    "rating": 5.3,
+    "rating": 5.7,
     "runtime": "2h 29m",
     "release_date": "2026-06-19",
     "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emot",
@@ -12,20 +12,20 @@
   },
   "others": [
     {
-      "title": "Obsession",
-      "rating": 7.9
-    },
-    {
       "title": "Toy Story 5",
-      "rating": 7.5
-    },
-    {
-      "title": "Karuppu",
-      "rating": 6.7
+      "rating": 7.4
     },
     {
       "title": "The Mandalorian and Grogu",
       "rating": 6.7
+    },
+    {
+      "title": "Disclosure Day",
+      "rating": 6.7
+    },
+    {
+      "title": "Peddi",
+      "rating": 6.1
     }
   ]
 }

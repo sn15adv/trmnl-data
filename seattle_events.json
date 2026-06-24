@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Art Workshop - Miniverse (Flower Magnets Edition)",
-    "date": "2026-06-23",
-    "time": "15:30:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Tue Jun 23"
+    "name": "World Cup: Match 52 Group B - Qatar vs Bosnia-Herz",
+    "date": "2026-06-24",
+    "time": "12:00:00",
+    "venue": "Lumen Field",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "date_pretty": "Wed Jun 24"
   },
   "others": [
     {
       "name": "Tacoma Rainiers vs. Round Rock Express",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "time": "18:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Tue Jun 23"
+      "date_pretty": "Wed Jun 24"
     },
     {
       "name": "Frida...A Self Portrait",
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "time": "19:00:00",
       "venue": "ACT Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Tue Jun 23"
+      "date_pretty": "Wed Jun 24"
     },
     {
-      "name": "SCRAMBLER JAM!",
-      "date": "2026-06-23",
-      "time": "19:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Jun 23"
-    },
-    {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-06-23",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Jun 23"
-    },
-    {
-      "name": "Fire Marshall Ventura w/ Mattlock and The Keys, Ia",
-      "date": "2026-06-23",
+      "name": "Don Toliver: Octane Tour",
+      "date": "2026-06-24",
       "time": "19:30:00",
-      "venue": "Tractor",
+      "venue": "Climate Pledge Arena",
       "segment": "Music",
-      "genre": "Reggae",
-      "date_pretty": "Tue Jun 23"
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Wed Jun 24"
     },
     {
-      "name": "underscores w/ Umru",
-      "date": "2026-06-23",
+      "name": "Holly Humberstone",
+      "date": "2026-06-24",
       "time": "20:00:00",
       "venue": "The Showbox",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Jun 23"
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Wed Jun 24"
     },
     {
-      "name": "Ibrahim Maalouf",
-      "date": "2026-06-23",
+      "name": "Pride Kickoff @ Chop Suey with Mikey Moo, Drunk Dr",
+      "date": "2026-06-24",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Wed Jun 24"
+    },
+    {
+      "name": "BOSNIAN TAKEOVER: Emir Djulovic & Denial Ahmetovic",
+      "date": "2026-06-24",
       "time": "20:00:00",
       "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Jazz",
-      "date_pretty": "Tue Jun 23"
+      "genre": "Pop",
+      "date_pretty": "Wed Jun 24"
+    },
+    {
+      "name": "Our Lady Peace (21 and Over)",
+      "date": "2026-06-24",
+      "time": "20:00:00",
+      "venue": "Showbox SODO",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed Jun 24"
     }
   ]
 }

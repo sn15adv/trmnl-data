@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Cocktail 2",
-    "rating": 6.2,
+    "rating": 5.5,
     "runtime": "2h 29m",
     "release_date": "2026-06-19",
     "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emot",
@@ -16,16 +16,16 @@
       "rating": 7.4
     },
     {
+      "title": "Supergirl",
+      "rating": 6.3
+    },
+    {
       "title": "The Mandalorian and Grogu",
       "rating": 6.7
     },
     {
       "title": "Disclosure Day",
       "rating": 6.7
-    },
-    {
-      "title": "Voicemails for Isabelle",
-      "rating": 8.1
     }
   ]
 }

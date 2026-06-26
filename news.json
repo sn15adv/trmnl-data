@@ -1,13 +1,16 @@
 {
   "articles": [
     {
+      "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235"
+    },
+    {
       "title": "Earthquake is devastating blow to Venezuela at time of uncertainty"
     },
     {
       "title": "People flee as building collapses on Caracas outskirts"
     },
     {
-      "title": "France warns even young people's health at risk as Europe's heatwave shifts east"
+      "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east"
     },
     {
       "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Ryanair says it will reluctantly not charge parents to sit next to children"
-    },
-    {
-      "title": "Oil price falls back to pre-Iran war levels"
     }
   ]
 }

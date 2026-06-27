@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "The Play That Goes Wrong",
-    "date": "2026-06-26",
-    "time": "14:00:00",
-    "venue": "Bagley Wright Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Performance Art",
-    "date_pretty": "Fri Jun 26"
+    "name": "The Tacoma Washington Super Show",
+    "date": "2026-06-27",
+    "time": "11:00:00",
+    "venue": "Tacoma Dome",
+    "segment": "Miscellaneous",
+    "genre": "Hobby/Special Interest Expos",
+    "date_pretty": "Sat Jun 27"
   },
   "others": [
     {
-      "name": "Skillibeng; Badman She Love Tour w/ MOLIY",
-      "date": "2026-06-26",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Reggae",
-      "date_pretty": "Fri Jun 26"
-    },
-    {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - Rhiannon ",
-      "date": "2026-06-26",
-      "time": "18:00:00",
-      "venue": "Chateau Ste Michelle Winery",
+      "name": "Honky Tonk Matinee With Summer Dean!",
+      "date": "2026-06-27",
+      "time": "13:30:00",
+      "venue": "Tractor",
       "segment": "Music",
       "genre": "Country",
-      "date_pretty": "Fri Jun 26"
+      "date_pretty": "Sat Jun 27"
     },
     {
-      "name": "Rhiannon Giddens presents American Tunes: Lift Ev'",
-      "date": "2026-06-26",
-      "time": "18:00:00",
-      "venue": "Chateau Ste Michelle Winery",
+      "name": "Indiana Jones and the Raiders of the Lost Ark Live",
+      "date": "2026-06-27",
+      "time": "14:00:00",
+      "venue": "Taper Auditorium",
       "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Fri Jun 26"
-    },
-    {
-      "name": "Christian Johnson",
-      "date": "2026-06-26",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Jun 26"
-    },
-    {
-      "name": "Tacoma Rainiers vs. Round Rock Express",
-      "date": "2026-06-26",
-      "time": "19:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Fri Jun 26"
+      "genre": "Classical",
+      "date_pretty": "Sat Jun 27"
     },
     {
       "name": "Frida...A Self Portrait",
-      "date": "2026-06-26",
-      "time": "19:30:00",
+      "date": "2026-06-27",
+      "time": "14:00:00",
       "venue": "Union Arts Center",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Fri Jun 26"
+      "date_pretty": "Sat Jun 27"
     },
     {
       "name": "The Play That Goes Wrong",
-      "date": "2026-06-26",
-      "time": "19:30:00",
+      "date": "2026-06-27",
+      "time": "14:00:00",
       "venue": "Bagley Wright Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Fri Jun 26"
+      "date_pretty": "Sat Jun 27"
+    },
+    {
+      "name": "Trans Pride Music Festival",
+      "date": "2026-06-27",
+      "time": "16:30:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sat Jun 27"
+    },
+    {
+      "name": "Heavenly, The Umbrellas, Swansea Sound",
+      "date": "2026-06-27",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Sat Jun 27"
+    },
+    {
+      "name": "Seattle Storm vs. Atlanta Dream",
+      "date": "2026-06-27",
+      "time": "18:00:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Sat Jun 27"
     }
   ]
 }

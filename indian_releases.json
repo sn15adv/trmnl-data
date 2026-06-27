@@ -1,27 +1,18 @@
 {
   "hero": {
-    "title": "Cocktail 2",
-    "original_title": "कॉकटेल २",
+    "title": "Welcome to the Jungle",
+    "original_title": "Welcome to the Jungle",
     "language": "Hindi",
-    "rating": 5.5,
-    "release_date": "2026-06-19",
-    "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emot",
+    "rating": 0.0,
+    "release_date": "2026-06-25",
+    "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their wa",
     "genres": [
-      "Romance",
-      "Comedy"
+      "Action",
+      "Comedy",
+      "Adventure"
     ]
   },
   "others": [
-    {
-      "title": "Welcome to the Jungle",
-      "language": "Hindi",
-      "release_date": "2026-06-25"
-    },
-    {
-      "title": "Balan - The Boy",
-      "language": "Malayalam",
-      "release_date": "2026-06-19"
-    },
     {
       "title": "Alpha",
       "language": "Hindi",
@@ -30,6 +21,16 @@
     {
       "title": "Dhamaal 4",
       "language": "Hindi",
+      "release_date": "2026-07-10"
+    },
+    {
+      "title": "Ananthan Kaadu",
+      "language": "Malayalam",
+      "release_date": "2026-06-25"
+    },
+    {
+      "title": "Idhayam Murali",
+      "language": "Tamil",
       "release_date": "2026-07-10"
     }
   ]

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "The Tacoma Washington Super Show",
+    "name": "Trans Pride Music Festival",
     "date": "2026-06-27",
-    "time": "11:00:00",
-    "venue": "Tacoma Dome",
-    "segment": "Miscellaneous",
-    "genre": "Hobby/Special Interest Expos",
+    "time": "16:30:00",
+    "venue": "Chop Suey",
+    "segment": "Music",
+    "genre": "Rock",
     "date_pretty": "Sat Jun 27"
   },
   "others": [
     {
-      "name": "Honky Tonk Matinee With Summer Dean!",
-      "date": "2026-06-27",
-      "time": "13:30:00",
-      "venue": "Tractor",
+      "name": "School of Rock Seattle Presents: Rush, Modern Meta",
+      "date": "2026-06-28",
+      "time": "09:45:00",
+      "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Sat Jun 27"
+      "genre": "Rock",
+      "date_pretty": "Sun Jun 28"
     },
     {
-      "name": "Indiana Jones and the Raiders of the Lost Ark Live",
-      "date": "2026-06-27",
-      "time": "14:00:00",
-      "venue": "Taper Auditorium",
-      "segment": "Music",
-      "genre": "Classical",
-      "date_pretty": "Sat Jun 27"
-    },
-    {
-      "name": "Frida...A Self Portrait",
-      "date": "2026-06-27",
-      "time": "14:00:00",
-      "venue": "Union Arts Center",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sat Jun 27"
+      "name": "Tacoma Rainiers vs. Round Rock Express",
+      "date": "2026-06-28",
+      "time": "13:35:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun Jun 28"
     },
     {
       "name": "The Play That Goes Wrong",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "time": "14:00:00",
       "venue": "Bagley Wright Theatre",
       "segment": "Arts & Theatre",
       "genre": "Performance Art",
-      "date_pretty": "Sat Jun 27"
+      "date_pretty": "Sun Jun 28"
     },
     {
       "name": "Trans Pride Music Festival",
-      "date": "2026-06-27",
+      "date": "2026-06-28",
       "time": "16:30:00",
       "venue": "Chop Suey",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Sat Jun 27"
+      "date_pretty": "Sun Jun 28"
     },
     {
-      "name": "Heavenly, The Umbrellas, Swansea Sound",
-      "date": "2026-06-27",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
+      "name": "Frida...A Self Portrait",
+      "date": "2026-06-28",
+      "time": "19:00:00",
+      "venue": "Union Arts Center",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sun Jun 28"
+    },
+    {
+      "name": "Christian Johnson",
+      "date": "2026-06-28",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sun Jun 28"
+    },
+    {
+      "name": "Stewart Copeland - Have I Said Too Much",
+      "date": "2026-06-28",
+      "time": "20:00:00",
+      "venue": "Neptune Theatre",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Jun 27"
-    },
-    {
-      "name": "Seattle Storm vs. Atlanta Dream",
-      "date": "2026-06-27",
-      "time": "18:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Sat Jun 27"
+      "genre": "Rock",
+      "date_pretty": "Sun Jun 28"
     }
   ]
 }

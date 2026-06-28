@@ -3,7 +3,7 @@
     "title": "Welcome to the Jungle",
     "original_title": "Welcome to the Jungle",
     "language": "Hindi",
-    "rating": 0.0,
+    "rating": 5.7,
     "release_date": "2026-06-25",
     "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their wa",
     "genres": [
@@ -14,14 +14,14 @@
   },
   "others": [
     {
-      "title": "Alpha",
-      "language": "Hindi",
-      "release_date": "2026-07-02"
-    },
-    {
       "title": "Dhamaal 4",
       "language": "Hindi",
       "release_date": "2026-07-10"
+    },
+    {
+      "title": "Alpha",
+      "language": "Hindi",
+      "release_date": "2026-07-02"
     },
     {
       "title": "Ananthan Kaadu",

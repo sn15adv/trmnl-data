@@ -1,13 +1,13 @@
 {
   "hero": {
-    "title": "Cocktail 2",
-    "rating": 5.6,
-    "runtime": "2h 29m",
-    "release_date": "2026-06-19",
-    "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emot",
+    "title": "Disclosure Day",
+    "rating": 6.7,
+    "runtime": "2h 25m",
+    "release_date": "2026-06-12",
+    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces ",
     "genres": [
-      "Romance",
-      "Comedy"
+      "Science Fiction",
+      "Thriller"
     ]
   },
   "others": [
@@ -16,16 +16,16 @@
       "rating": 7.5
     },
     {
-      "title": "Disclosure Day",
-      "rating": 6.7
-    },
-    {
-      "title": "Supergirl",
-      "rating": 6.2
-    },
-    {
       "title": "Backrooms",
       "rating": 6.9
+    },
+    {
+      "title": "Scary Movie",
+      "rating": 5.5
+    },
+    {
+      "title": "Cocktail 2",
+      "rating": 5.8
     }
   ]
 }

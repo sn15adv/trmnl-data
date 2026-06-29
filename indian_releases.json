@@ -14,14 +14,14 @@
   },
   "others": [
     {
-      "title": "Dhamaal 4",
-      "language": "Hindi",
-      "release_date": "2026-07-10"
-    },
-    {
       "title": "Alpha",
       "language": "Hindi",
       "release_date": "2026-07-02"
+    },
+    {
+      "title": "Dhamaal 4",
+      "language": "Hindi",
+      "release_date": "2026-07-10"
     },
     {
       "title": "Ananthan Kaadu",
@@ -29,9 +29,9 @@
       "release_date": "2026-06-25"
     },
     {
-      "title": "Idhayam Murali",
-      "language": "Tamil",
-      "release_date": "2026-07-10"
+      "title": "Nagabandham",
+      "language": "Telugu",
+      "release_date": "2026-07-03"
     }
   ]
 }

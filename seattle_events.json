@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Trans Pride Music Festival",
-    "date": "2026-06-27",
-    "time": "16:30:00",
-    "venue": "Chop Suey",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Sat Jun 27"
+    "name": "Seattle Mariners vs. Los Angeles Angels",
+    "date": "2026-06-29",
+    "time": "18:40:00",
+    "venue": "T-Mobile Park",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Mon Jun 29"
   },
   "others": [
     {
-      "name": "School of Rock Seattle Presents: Rush, Modern Meta",
-      "date": "2026-06-28",
-      "time": "09:45:00",
-      "venue": "The Crocodile",
+      "name": "Alex Johnston, Reagan Leilani, BHAVYA, Lauren Fern",
+      "date": "2026-06-29",
+      "time": "19:30:00",
+      "venue": "Tractor",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Jun 28"
+      "genre": "Alternative",
+      "date_pretty": "Mon Jun 29"
     },
     {
-      "name": "Tacoma Rainiers vs. Round Rock Express",
-      "date": "2026-06-28",
-      "time": "13:35:00",
+      "name": "The Psycodelics",
+      "date": "2026-06-29",
+      "time": "20:00:00",
+      "venue": "Sunset Tavern",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Mon Jun 29"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-06-29",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Jun 29"
+    },
+    {
+      "name": "Everett AquaSox vs. Tri-City Dust Devils",
+      "date": "2026-06-30",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Tue Jun 30"
+    },
+    {
+      "name": "Tacoma Rainiers vs. Reno Aces",
+      "date": "2026-06-30",
+      "time": "18:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Sun Jun 28"
+      "date_pretty": "Tue Jun 30"
     },
     {
-      "name": "The Play That Goes Wrong",
-      "date": "2026-06-28",
-      "time": "14:00:00",
-      "venue": "Bagley Wright Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Sun Jun 28"
+      "name": "Seattle Mariners vs. Los Angeles Angels",
+      "date": "2026-06-30",
+      "time": "18:40:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Tue Jun 30"
     },
     {
-      "name": "Trans Pride Music Festival",
-      "date": "2026-06-28",
-      "time": "16:30:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Jun 28"
-    },
-    {
-      "name": "Frida...A Self Portrait",
-      "date": "2026-06-28",
+      "name": "Stavros Halkias: The Dreamboat Tour",
+      "date": "2026-06-30",
       "time": "19:00:00",
-      "venue": "Union Arts Center",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Jun 28"
-    },
-    {
-      "name": "Christian Johnson",
-      "date": "2026-06-28",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sun Jun 28"
-    },
-    {
-      "name": "Stewart Copeland - Have I Said Too Much",
-      "date": "2026-06-28",
-      "time": "20:00:00",
       "venue": "Neptune Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Jun 28"
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Tue Jun 30"
     }
   ]
 }

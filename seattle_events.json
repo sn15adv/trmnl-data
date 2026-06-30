@@ -1,50 +1,14 @@
 {
   "hero": {
-    "name": "Seattle Mariners vs. Los Angeles Angels",
-    "date": "2026-06-29",
-    "time": "18:40:00",
-    "venue": "T-Mobile Park",
+    "name": "Everett AquaSox vs. Tri-City Dust Devils",
+    "date": "2026-06-30",
+    "time": "",
+    "venue": "Funko Field",
     "segment": "Sports",
-    "genre": "Baseball",
-    "date_pretty": "Mon Jun 29"
+    "genre": "Miscellaneous",
+    "date_pretty": "Tue Jun 30"
   },
   "others": [
-    {
-      "name": "Alex Johnston, Reagan Leilani, BHAVYA, Lauren Fern",
-      "date": "2026-06-29",
-      "time": "19:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Mon Jun 29"
-    },
-    {
-      "name": "The Psycodelics",
-      "date": "2026-06-29",
-      "time": "20:00:00",
-      "venue": "Sunset Tavern",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Jun 29"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-06-29",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Jun 29"
-    },
-    {
-      "name": "Everett AquaSox vs. Tri-City Dust Devils",
-      "date": "2026-06-30",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Tue Jun 30"
-    },
     {
       "name": "Tacoma Rainiers vs. Reno Aces",
       "date": "2026-06-30",
@@ -70,6 +34,42 @@
       "venue": "Neptune Theatre",
       "segment": "Arts & Theatre",
       "genre": "Comedy",
+      "date_pretty": "Tue Jun 30"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-06-30",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jun 30"
+    },
+    {
+      "name": "MGK: Lost Americana Tour",
+      "date": "2026-06-30",
+      "time": "19:00:00",
+      "venue": "White River Amphitheatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Jun 30"
+    },
+    {
+      "name": "The Convalescence",
+      "date": "2026-06-30",
+      "time": "19:30:00",
+      "venue": "El Corazon",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Jun 30"
+    },
+    {
+      "name": "21 Rails, Strong Suit, Salt Horse",
+      "date": "2026-06-30",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Alternative",
       "date_pretty": "Tue Jun 30"
     }
   ]

@@ -3,7 +3,7 @@
     "title": "Welcome to the Jungle",
     "original_title": "Welcome to the Jungle",
     "language": "Hindi",
-    "rating": 5.7,
+    "rating": 5.3,
     "release_date": "2026-06-25",
     "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their wa",
     "genres": [
@@ -24,14 +24,14 @@
       "release_date": "2026-07-10"
     },
     {
-      "title": "Ananthan Kaadu",
-      "language": "Malayalam",
-      "release_date": "2026-06-25"
-    },
-    {
       "title": "Nagabandham",
       "language": "Telugu",
       "release_date": "2026-07-03"
+    },
+    {
+      "title": "Ananthan Kaadu",
+      "language": "Malayalam",
+      "release_date": "2026-06-25"
     }
   ]
 }

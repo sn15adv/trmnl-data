@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Everett AquaSox vs. Tri-City Dust Devils",
-    "date": "2026-06-30",
-    "time": "",
-    "venue": "Funko Field",
+    "name": "World Cup Round of 32: Belgium vs. Senegal (Match ",
+    "date": "2026-07-01",
+    "time": "13:00:00",
+    "venue": "Lumen Field",
     "segment": "Sports",
-    "genre": "Miscellaneous",
-    "date_pretty": "Tue Jun 30"
+    "genre": "Soccer",
+    "date_pretty": "Wed Jul 1"
   },
   "others": [
     {
+      "name": "Everett AquaSox vs. Tri-City Dust Devils",
+      "date": "2026-07-01",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Wed Jul 1"
+    },
+    {
+      "name": "Chateau Ste Michelle: Tables & Cabanas - Ziggy Mar",
+      "date": "2026-07-01",
+      "time": "19:00:00",
+      "venue": "Chateau Ste Michelle Winery",
+      "segment": "Music",
+      "genre": "Reggae",
+      "date_pretty": "Wed Jul 1"
+    },
+    {
+      "name": "Ziggy Marley: Brightside Tour 2026",
+      "date": "2026-07-01",
+      "time": "19:00:00",
+      "venue": "Chateau Ste Michelle Winery",
+      "segment": "Music",
+      "genre": "Reggae",
+      "date_pretty": "Wed Jul 1"
+    },
+    {
       "name": "Tacoma Rainiers vs. Reno Aces",
-      "date": "2026-06-30",
-      "time": "18:05:00",
+      "date": "2026-07-01",
+      "time": "19:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Tue Jun 30"
+      "date_pretty": "Wed Jul 1"
     },
     {
-      "name": "Seattle Mariners vs. Los Angeles Angels",
-      "date": "2026-06-30",
-      "time": "18:40:00",
-      "venue": "T-Mobile Park",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Tue Jun 30"
-    },
-    {
-      "name": "Stavros Halkias: The Dreamboat Tour",
-      "date": "2026-06-30",
-      "time": "19:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Tue Jun 30"
-    },
-    {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-06-30",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Jun 30"
-    },
-    {
-      "name": "MGK: Lost Americana Tour",
-      "date": "2026-06-30",
-      "time": "19:00:00",
-      "venue": "White River Amphitheatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Tue Jun 30"
-    },
-    {
-      "name": "The Convalescence",
-      "date": "2026-06-30",
+      "name": "Summer Walker: Still Finally Over It Tour",
+      "date": "2026-07-01",
       "time": "19:30:00",
-      "venue": "El Corazon",
+      "venue": "Climate Pledge Arena",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Jun 30"
+      "genre": "R&B",
+      "date_pretty": "Wed Jul 1"
     },
     {
-      "name": "21 Rails, Strong Suit, Salt Horse",
-      "date": "2026-06-30",
+      "name": "Canada Day Covers Night!",
+      "date": "2026-07-01",
       "time": "19:30:00",
       "venue": "Tractor",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Tue Jun 30"
+      "genre": "Other",
+      "date_pretty": "Wed Jul 1"
+    },
+    {
+      "name": "Esebree",
+      "date": "2026-07-01",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Wed Jul 1"
     }
   ]
 }

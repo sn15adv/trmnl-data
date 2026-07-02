@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "World Cup Round of 32: Belgium vs. Senegal (Match ",
-    "date": "2026-07-01",
-    "time": "13:00:00",
-    "venue": "Lumen Field",
+    "name": "Everett AquaSox vs. Tri-City Dust Devils",
+    "date": "2026-07-02",
+    "time": "",
+    "venue": "Funko Field",
     "segment": "Sports",
-    "genre": "Soccer",
-    "date_pretty": "Wed Jul 1"
+    "genre": "Miscellaneous",
+    "date_pretty": "Thu Jul 2"
   },
   "others": [
     {
-      "name": "Everett AquaSox vs. Tri-City Dust Devils",
-      "date": "2026-07-01",
-      "time": "",
-      "venue": "Funko Field",
+      "name": "Turnpike Troubadours",
+      "date": "2026-07-02",
+      "time": "18:00:00",
+      "venue": "Chateau Ste Michelle Winery",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Thu Jul 2"
+    },
+    {
+      "name": "Seattle Mariners vs. Los Angeles Angels",
+      "date": "2026-07-02",
+      "time": "18:40:00",
+      "venue": "T-Mobile Park",
       "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Wed Jul 1"
+      "genre": "Baseball",
+      "date_pretty": "Thu Jul 2"
     },
     {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - Ziggy Mar",
-      "date": "2026-07-01",
+      "name": "Bohemian Queen - Queen Tribute",
+      "date": "2026-07-02",
       "time": "19:00:00",
-      "venue": "Chateau Ste Michelle Winery",
+      "venue": "Suquamish Clearwater Resort Lawn",
       "segment": "Music",
-      "genre": "Reggae",
-      "date_pretty": "Wed Jul 1"
-    },
-    {
-      "name": "Ziggy Marley: Brightside Tour 2026",
-      "date": "2026-07-01",
-      "time": "19:00:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Reggae",
-      "date_pretty": "Wed Jul 1"
+      "genre": "Rock",
+      "date_pretty": "Thu Jul 2"
     },
     {
       "name": "Tacoma Rainiers vs. Reno Aces",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "time": "19:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Wed Jul 1"
+      "date_pretty": "Thu Jul 2"
     },
     {
-      "name": "Summer Walker: Still Finally Over It Tour",
-      "date": "2026-07-01",
+      "name": "Joshua Slone",
+      "date": "2026-07-02",
       "time": "19:30:00",
-      "venue": "Climate Pledge Arena",
+      "venue": "The Showbox",
       "segment": "Music",
-      "genre": "R&B",
-      "date_pretty": "Wed Jul 1"
+      "genre": "Folk",
+      "date_pretty": "Thu Jul 2"
     },
     {
-      "name": "Canada Day Covers Night!",
-      "date": "2026-07-01",
-      "time": "19:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Jul 1"
-    },
-    {
-      "name": "Esebree",
-      "date": "2026-07-01",
+      "name": "Mr Interstate, Zailee Haze, Mantle Collapse, Girl ",
+      "date": "2026-07-02",
       "time": "20:00:00",
       "venue": "Chop Suey",
       "segment": "Music",
       "genre": "Hip-Hop/Rap",
-      "date_pretty": "Wed Jul 1"
+      "date_pretty": "Thu Jul 2"
+    },
+    {
+      "name": "5 Seconds of Summer: EVERYONE'S A STAR! World Tour",
+      "date": "2026-07-02",
+      "time": "20:00:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Thu Jul 2"
     }
   ]
 }

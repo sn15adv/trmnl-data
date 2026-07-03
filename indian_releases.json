@@ -1,21 +1,25 @@
 {
   "hero": {
-    "title": "Welcome to the Jungle",
-    "original_title": "Welcome to the Jungle",
+    "title": "Alpha",
+    "original_title": "ऐल्फा",
     "language": "Hindi",
-    "rating": 5.3,
-    "release_date": "2026-06-25",
-    "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their wa",
+    "rating": 5.0,
+    "release_date": "2026-07-02",
+    "overview": "Two fierce female agents tackle dangerous missions in a thrilling world of espionage, as they navigate perilous situations, execute daring stunts, and face unexpected turns in this action-packed adven",
     "genres": [
       "Action",
-      "Comedy",
-      "Adventure"
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "Alpha",
+      "title": "Tavvai",
       "language": "Hindi",
+      "release_date": "2026-06-29"
+    },
+    {
+      "title": "Nagabandham - The Secret Treas",
+      "language": "Telugu",
       "release_date": "2026-07-02"
     },
     {
@@ -27,11 +31,6 @@
       "title": "Idhayam Murali",
       "language": "Tamil",
       "release_date": "2026-07-10"
-    },
-    {
-      "title": "Tavvai",
-      "language": "Hindi",
-      "release_date": "2026-06-29"
     }
   ]
 }

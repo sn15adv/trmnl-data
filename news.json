@@ -1,10 +1,13 @@
 {
   "articles": [
     {
-      "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia"
+      "title": "US marks its 250th birthday with fireworks, flyovers and extreme weather"
     },
     {
       "title": "Ukraine hits major oil terminal in Russia's St Petersburg"
+    },
+    {
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race"
     },
     {
       "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote"
-    },
-    {
-      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue"
     }
   ]
 }

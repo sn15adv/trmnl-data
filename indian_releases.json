@@ -13,6 +13,16 @@
   },
   "others": [
     {
+      "title": "Gatta Kusthi 2",
+      "language": "Tamil",
+      "release_date": "2026-07-03"
+    },
+    {
+      "title": "Satluj",
+      "language": "Hindi",
+      "release_date": "2026-07-03"
+    },
+    {
       "title": "Nagabandham - The Secret Treas",
       "language": "Telugu",
       "release_date": "2026-07-02"
@@ -21,16 +31,6 @@
       "title": "Tavvai",
       "language": "Hindi",
       "release_date": "2026-06-29"
-    },
-    {
-      "title": "Law & Order",
-      "language": "Malayalam",
-      "release_date": "2026-07-24"
-    },
-    {
-      "title": "Dhamaal 4",
-      "language": "Hindi",
-      "release_date": "2026-07-10"
     }
   ]
 }

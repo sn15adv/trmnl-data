@@ -12,16 +12,16 @@
   },
   "others": [
     {
+      "title": "Scary Movie",
+      "rating": 5.4
+    },
+    {
       "title": "Backrooms",
-      "rating": 6.9
+      "rating": 6.8
     },
     {
       "title": "Toy Story 5",
       "rating": 7.4
-    },
-    {
-      "title": "Scary Movie",
-      "rating": 5.4
     },
     {
       "title": "Citizen Vigilante",

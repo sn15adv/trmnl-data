@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "We will be closed on 4th of July-Stevie's Famous w",
-    "date": "2026-07-04",
-    "time": "02:00:00",
-    "venue": "Clock-Out Lounge",
-    "segment": "Miscellaneous",
-    "genre": "",
-    "date_pretty": "Sat Jul 4"
+    "name": "Tacoma Rainiers vs. Reno Aces",
+    "date": "2026-07-05",
+    "time": "13:35:00",
+    "venue": "Cheney Stadium",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Sun Jul 5"
   },
   "others": [
     {
       "name": "Seattle Mariners vs. Toronto Blue Jays",
-      "date": "2026-07-04",
-      "time": "13:10:00",
+      "date": "2026-07-05",
+      "time": "14:00:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Sat Jul 4"
-    },
-    {
-      "name": "Disco Dom",
-      "date": "2026-07-04",
-      "time": "16:00:00",
-      "venue": "Victory Hall at The Boxyard",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Jul 4"
-    },
-    {
-      "name": "4th of July Party! Rural Progess Presents: Melissa",
-      "date": "2026-07-04",
-      "time": "16:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Sat Jul 4"
+      "date_pretty": "Sun Jul 5"
     },
     {
       "name": "Everett AquaSox vs. Tri-City Dust Devils",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "time": "",
       "venue": "Funko Field",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Sat Jul 4"
+      "date_pretty": "Sun Jul 5"
     },
     {
-      "name": "BATTLE OF THE BANDS: NITE WAVE VS. THE UNDERHILLS ",
-      "date": "2026-07-04",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
+      "name": "Nate Jackson",
+      "date": "2026-07-05",
+      "time": "17:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sun Jul 5"
+    },
+    {
+      "name": "Nate Jackson",
+      "date": "2026-07-05",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sun Jul 5"
+    },
+    {
+      "name": "Wolfmother (21 and Over)",
+      "date": "2026-07-05",
+      "time": "20:00:00",
+      "venue": "The Showbox",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Sat Jul 4"
+      "date_pretty": "Sun Jul 5"
     },
     {
-      "name": "Seattle Storm vs. Portland Fire",
-      "date": "2026-07-04",
-      "time": "18:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Sat Jul 4"
+      "name": "Flammable",
+      "date": "2026-07-05",
+      "time": "22:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "date_pretty": "Sun Jul 5"
     },
     {
-      "name": "Tacoma Rainiers vs. Reno Aces",
-      "date": "2026-07-04",
-      "time": "19:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Sat Jul 4"
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-07-05",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Sun Jul 5"
     }
   ]
 }

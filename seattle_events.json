@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Tacoma Rainiers vs. Reno Aces",
-    "date": "2026-07-05",
-    "time": "13:35:00",
-    "venue": "Cheney Stadium",
+    "name": "World Cup Round of 16: USA vs. Belgium (Match 94)",
+    "date": "2026-07-06",
+    "time": "17:00:00",
+    "venue": "Lumen Field",
     "segment": "Sports",
-    "genre": "Baseball",
-    "date_pretty": "Sun Jul 5"
+    "genre": "Soccer",
+    "date_pretty": "Mon Jul 6"
   },
   "others": [
     {
-      "name": "Seattle Mariners vs. Toronto Blue Jays",
-      "date": "2026-07-05",
-      "time": "14:00:00",
-      "venue": "T-Mobile Park",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Sun Jul 5"
-    },
-    {
-      "name": "Everett AquaSox vs. Tri-City Dust Devils",
-      "date": "2026-07-05",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Jul 5"
-    },
-    {
-      "name": "Nate Jackson",
-      "date": "2026-07-05",
-      "time": "17:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Sun Jul 5"
-    },
-    {
-      "name": "Nate Jackson",
-      "date": "2026-07-05",
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-07-07",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Sun Jul 5"
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jul 7"
     },
     {
-      "name": "Wolfmother (21 and Over)",
-      "date": "2026-07-05",
+      "name": "CA7RIEL & Paco Amoroso: FREE SPIRITS WORLD TOUR",
+      "date": "2026-07-07",
       "time": "20:00:00",
-      "venue": "The Showbox",
+      "venue": "Paramount Theatre",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Jul 5"
+      "genre": "Latin",
+      "date_pretty": "Tue Jul 7"
     },
     {
-      "name": "Flammable",
-      "date": "2026-07-05",
-      "time": "22:00:00",
-      "venue": "Chop Suey",
+      "name": "White Denim w/ Arc Iris",
+      "date": "2026-07-07",
+      "time": "20:00:00",
+      "venue": "Tractor",
       "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Sun Jul 5"
+      "genre": "Other",
+      "date_pretty": "Tue Jul 7"
     },
     {
       "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-07-05",
+      "date": "2026-07-07",
       "time": "",
       "venue": "T-Mobile Park",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Sun Jul 5"
+      "date_pretty": "Tue Jul 7"
+    },
+    {
+      "name": "Top Gun: Maverick in Concert with the Seattle Symp",
+      "date": "2026-07-08",
+      "time": "19:30:00",
+      "venue": "Taper Auditorium",
+      "segment": "Music",
+      "genre": "Classical",
+      "date_pretty": "Wed Jul 8"
+    },
+    {
+      "name": "Joseph and the Amazing Technicolor Dreamcoat",
+      "date": "2026-07-08",
+      "time": "19:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Wed Jul 8"
+    },
+    {
+      "name": "Secretskill, Chimp Season, Ray Baron with Anastasi",
+      "date": "2026-07-08",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed Jul 8"
     }
   ]
 }

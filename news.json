@@ -1,9 +1,6 @@
 {
   "articles": [
     {
-      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz"
-    },
-    {
       "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling"
     },
     {
@@ -16,19 +13,22 @@
       "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China"
     },
     {
-      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine"
-    },
-    {
-      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail"
-    },
-    {
       "title": "Suspect ate Chick-fil-A and interacted with Charlie Kirk staff before shooting, court hears"
+    },
+    {
+      "title": "Trains and emergency calls affected after major outage at Australia's largest telecoms company"
     },
     {
       "title": "Utah boarding school where Paris Hilton alleged abuse as a teen loses its licence"
     },
     {
       "title": "Australia dock workers call for 28-hour week in AI talks"
+    },
+    {
+      "title": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation"
+    },
+    {
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine"
     }
   ]
 }

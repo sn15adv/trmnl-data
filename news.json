@@ -1,13 +1,16 @@
 {
   "articles": [
     {
-      "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz"
+      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz"
     },
     {
       "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling"
     },
     {
       "title": "Nato allies announce £37bn for new missile project"
+    },
+    {
+      "title": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?"
     },
     {
       "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Australia dock workers call for 28-hour week in AI talks"
-    },
-    {
-      "title": "Top Democrats press Maine Senate candidate to drop out of race over sexual assault allegation"
     }
   ]
 }

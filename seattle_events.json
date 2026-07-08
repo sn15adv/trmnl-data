@@ -1,50 +1,14 @@
 {
   "hero": {
-    "name": "Tight Five Tuesdays Open Mic!",
-    "date": "2026-07-07",
-    "time": "19:00:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Tue Jul 7"
+    "name": "Top Gun: Maverick in Concert with the Seattle Symp",
+    "date": "2026-07-08",
+    "time": "19:30:00",
+    "venue": "Taper Auditorium",
+    "segment": "Music",
+    "genre": "Classical",
+    "date_pretty": "Wed Jul 8"
   },
   "others": [
-    {
-      "name": "CA7RIEL & Paco Amoroso: FREE SPIRITS WORLD TOUR",
-      "date": "2026-07-07",
-      "time": "20:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Latin",
-      "date_pretty": "Tue Jul 7"
-    },
-    {
-      "name": "White Denim w/ Arc Iris",
-      "date": "2026-07-07",
-      "time": "20:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Jul 7"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-07-07",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Tue Jul 7"
-    },
-    {
-      "name": "Top Gun: Maverick in Concert with the Seattle Symp",
-      "date": "2026-07-08",
-      "time": "19:30:00",
-      "venue": "Taper Auditorium",
-      "segment": "Music",
-      "genre": "Classical",
-      "date_pretty": "Wed Jul 8"
-    },
     {
       "name": "Joseph and the Amazing Technicolor Dreamcoat",
       "date": "2026-07-08",
@@ -71,6 +35,42 @@
       "segment": "Music",
       "genre": "Pop",
       "date_pretty": "Wed Jul 8"
+    },
+    {
+      "name": "The Family Crest w/ BendreTheGiant",
+      "date": "2026-07-08",
+      "time": "20:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Jul 8"
+    },
+    {
+      "name": "Emmett Montgomery and Brett Hamil Present: Joketel",
+      "date": "2026-07-08",
+      "time": "20:30:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Wed Jul 8"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-07-08",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Wed Jul 8"
+    },
+    {
+      "name": "Max McNown",
+      "date": "2026-07-09",
+      "time": "18:30:00",
+      "venue": "Dune Peninsula",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Thu Jul 9"
     }
   ]
 }

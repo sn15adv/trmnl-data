@@ -14,14 +14,9 @@
   },
   "others": [
     {
-      "title": "Alpha",
+      "title": "Dhamaal 4",
       "language": "Hindi",
-      "release_date": "2026-07-02"
-    },
-    {
-      "title": "Nagabandham: The Secret Treasu",
-      "language": "Telugu",
-      "release_date": "2026-07-02"
+      "release_date": "2026-07-10"
     },
     {
       "title": "Gatta Kusthi 2",
@@ -29,9 +24,14 @@
       "release_date": "2026-07-03"
     },
     {
-      "title": "Dhamaal 4",
-      "language": "Hindi",
+      "title": "Idhayam Murali",
+      "language": "Tamil",
       "release_date": "2026-07-10"
+    },
+    {
+      "title": "Jana Nayagan",
+      "language": "Tamil",
+      "release_date": "2026-07-24"
     }
   ]
 }

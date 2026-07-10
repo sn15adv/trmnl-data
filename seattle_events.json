@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Max McNown",
-    "date": "2026-07-09",
-    "time": "18:30:00",
-    "venue": "Dune Peninsula",
-    "segment": "Music",
-    "genre": "Country",
-    "date_pretty": "Thu Jul 9"
+    "name": "Day Out With Thomas (TM), Thomas & Friends",
+    "date": "2026-07-10",
+    "time": "09:00:00",
+    "venue": "Northwest Railway Museum",
+    "segment": "Miscellaneous",
+    "genre": "Fairs & Festivals",
+    "date_pretty": "Fri Jul 10"
   },
   "others": [
     {
-      "name": "JINJER Duel North America Tour 2026",
-      "date": "2026-07-09",
-      "time": "19:00:00",
-      "venue": "Neptune Theatre",
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-10",
+      "time": "10:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 10"
+    },
+    {
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-10",
+      "time": "11:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 10"
+    },
+    {
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-10",
+      "time": "12:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 10"
+    },
+    {
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-10",
+      "time": "13:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 10"
+    },
+    {
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-10",
+      "time": "14:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 10"
+    },
+    {
+      "name": "CMF Presents: Base Camp Featuring Blues Traveler/G",
+      "date": "2026-07-10",
+      "time": "16:00:00",
+      "venue": "Marymoor Park",
+      "segment": "Miscellaneous",
+      "genre": "Community/Civic",
+      "date_pretty": "Fri Jul 10"
+    },
+    {
+      "name": "Souls of Mischief, Kjahn, DJ Indica Jones",
+      "date": "2026-07-10",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Thu Jul 9"
-    },
-    {
-      "name": "Celebrating Celine - Celine Dion Tribute ",
-      "date": "2026-07-09",
-      "time": "19:00:00",
-      "venue": "Suquamish Clearwater Resort Lawn",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Thu Jul 9"
-    },
-    {
-      "name": "JINJER Duel North America 2026 - MOVED TO NEPTUNE ",
-      "date": "2026-07-09",
-      "time": "19:00:00",
-      "venue": "Temple Theatre",
-      "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Thu Jul 9"
-    },
-    {
-      "name": "JAMN with Rainbow Jackson, Vanilla Abstract (21+ E",
-      "date": "2026-07-09",
-      "time": "19:30:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Jul 9"
-    },
-    {
-      "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-07-09",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Thu Jul 9"
-    },
-    {
-      "name": "Drew Martin x Adam Ezra Group",
-      "date": "2026-07-09",
-      "time": "19:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Thu Jul 9"
-    },
-    {
-      "name": "Pearl and The Oysters",
-      "date": "2026-07-09",
-      "time": "20:00:00",
-      "venue": "Belltown Yacht Club",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Thu Jul 9"
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Fri Jul 10"
     }
   ]
 }

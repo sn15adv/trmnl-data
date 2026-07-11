@@ -1,31 +1,30 @@
 {
   "hero": {
-    "title": "Satluj",
-    "original_title": "ਸਤਲੁਜ",
+    "title": "Ikka",
+    "original_title": "Ikka",
     "language": "Hindi",
-    "rating": 8.4,
-    "release_date": "2026-07-03",
-    "overview": "Triggered by the search for his missing aunt, human rights activist Jaswant Singh Khalra takes on a broken system in a courageous fight to uncover the conspiracy behind thousands of disappearances and",
+    "rating": 6.1,
+    "release_date": "2026-07-10",
+    "overview": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
     "genres": [
-      "Crime",
       "Drama",
-      "History"
+      "Thriller"
     ]
   },
   "others": [
+    {
+      "title": "Idhayam Murali",
+      "language": "Tamil",
+      "release_date": "2026-07-10"
+    },
     {
       "title": "Dhamaal 4",
       "language": "Hindi",
       "release_date": "2026-07-10"
     },
     {
-      "title": "Gatta Kusthi 2",
-      "language": "Tamil",
-      "release_date": "2026-07-03"
-    },
-    {
-      "title": "Idhayam Murali",
-      "language": "Tamil",
+      "title": "Lenin",
+      "language": "Telugu",
       "release_date": "2026-07-10"
     },
     {

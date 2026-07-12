@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "Day Out With Thomas (TM), Thomas & Friends",
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "time": "09:00:00",
     "venue": "Northwest Railway Museum",
     "segment": "Miscellaneous",
     "genre": "Fairs & Festivals",
-    "date_pretty": "Sat Jul 11"
+    "date_pretty": "Sun Jul 12"
   },
   "others": [
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "time": "10:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 11"
+      "date_pretty": "Sun Jul 12"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "time": "11:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 11"
-    },
-    {
-      "name": "Seattle Mariners - Batter Up Brewfest",
-      "date": "2026-07-11",
-      "time": "11:30:00",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Food & Drink",
-      "date_pretty": "Sat Jul 11"
+      "date_pretty": "Sun Jul 12"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "time": "12:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 11"
+      "date_pretty": "Sun Jul 12"
+    },
+    {
+      "name": "Seattle Reign FC vs. Portland Thorns",
+      "date": "2026-07-12",
+      "time": "13:00:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Sun Jul 12"
+    },
+    {
+      "name": "Avants Classics on the Green at Chateau Ste. Miche",
+      "date": "2026-07-12",
+      "time": "13:00:00",
+      "venue": "Chateau Ste Michelle Winery",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sun Jul 12"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "time": "13:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 11"
+      "date_pretty": "Sun Jul 12"
     },
     {
-      "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-07-11",
+      "name": "How To Train Your Dragon in Concert with the Seatt",
+      "date": "2026-07-12",
       "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sat Jul 11"
-    },
-    {
-      "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-11",
-      "time": "14:00:00",
-      "venue": "Northwest Railway Museum",
-      "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 11"
+      "venue": "Taper Auditorium",
+      "segment": "Music",
+      "genre": "Classical",
+      "date_pretty": "Sun Jul 12"
     }
   ]
 }

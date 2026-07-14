@@ -1,50 +1,14 @@
 {
   "hero": {
     "name": "Lumen Field Stadium Tours",
-    "date": "2026-07-13",
+    "date": "2026-07-14",
     "time": "10:30:00",
     "venue": "Lumen Field Stadium Tours",
     "segment": "Miscellaneous",
     "genre": "Undefined",
-    "date_pretty": "Mon Jul 13"
+    "date_pretty": "Tue Jul 14"
   },
   "others": [
-    {
-      "name": "PASSENGERPRINCESS, FEM&M",
-      "date": "2026-07-13",
-      "time": "20:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Mon Jul 13"
-    },
-    {
-      "name": "Clock-Out Lounge Presents: Collide-O-Scope",
-      "date": "2026-07-13",
-      "time": "20:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Arts & Theatre",
-      "genre": "Classical",
-      "date_pretty": "Mon Jul 13"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-07-13",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Jul 13"
-    },
-    {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-07-14",
-      "time": "10:30:00",
-      "venue": "Lumen Field Stadium Tours",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Tue Jul 14"
-    },
     {
       "name": "Joseph and the Amazing Technicolor Dreamcoat",
       "date": "2026-07-14",
@@ -70,6 +34,42 @@
       "venue": "Barboza",
       "segment": "Undefined",
       "genre": "",
+      "date_pretty": "Tue Jul 14"
+    },
+    {
+      "name": "John Cameron Mitchell (Hedwig 25th Anniversary Mov",
+      "date": "2026-07-14",
+      "time": "19:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Tue Jul 14"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-07-14",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jul 14"
+    },
+    {
+      "name": "Max Cooper",
+      "date": "2026-07-14",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Jul 14"
+    },
+    {
+      "name": "Max Cooper",
+      "date": "2026-07-14",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
       "date_pretty": "Tue Jul 14"
     }
   ]

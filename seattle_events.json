@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "Lumen Field Stadium Tours",
-    "date": "2026-07-14",
+    "date": "2026-07-15",
     "time": "10:30:00",
     "venue": "Lumen Field Stadium Tours",
     "segment": "Miscellaneous",
     "genre": "Undefined",
-    "date_pretty": "Tue Jul 14"
+    "date_pretty": "Wed Jul 15"
   },
   "others": [
     {
-      "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-07-14",
-      "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Tue Jul 14"
-    },
-    {
-      "name": "Bob Moses w/ Cannons",
-      "date": "2026-07-14",
-      "time": "18:30:00",
-      "venue": "Dune Peninsula",
-      "segment": "Music",
-      "genre": "Blues",
-      "date_pretty": "Tue Jul 14"
-    },
-    {
-      "name": "Fluorescents",
-      "date": "2026-07-14",
-      "time": "19:00:00",
-      "venue": "Barboza",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Jul 14"
-    },
-    {
       "name": "John Cameron Mitchell (Hedwig 25th Anniversary Mov",
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "time": "19:00:00",
       "venue": "Neptune Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Tue Jul 14"
+      "date_pretty": "Wed Jul 15"
     },
     {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-07-14",
+      "name": "Trash Talk ",
+      "date": "2026-07-15",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Tue Jul 14"
+      "date_pretty": "Wed Jul 15"
     },
     {
-      "name": "Max Cooper",
-      "date": "2026-07-14",
+      "name": "Hilary Duff: the lucky me tour",
+      "date": "2026-07-15",
+      "time": "19:00:00",
+      "venue": "White River Amphitheatre",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Wed Jul 15"
+    },
+    {
+      "name": "Joseph and the Amazing Technicolor Dreamcoat",
+      "date": "2026-07-15",
+      "time": "19:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Wed Jul 15"
+    },
+    {
+      "name": "lil hero",
+      "date": "2026-07-15",
       "time": "20:00:00",
-      "venue": "The Crocodile",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed Jul 15"
+    },
+    {
+      "name": "Streetlight Manifesto w/ AJJ",
+      "date": "2026-07-15",
+      "time": "20:00:00",
+      "venue": "Showbox SODO",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Jul 15"
+    },
+    {
+      "name": "KBCS Presents: Seth Walker w/ Brittany Collins *pa",
+      "date": "2026-07-15",
+      "time": "20:00:00",
+      "venue": "Tractor",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Tue Jul 14"
-    },
-    {
-      "name": "Max Cooper",
-      "date": "2026-07-14",
-      "time": "20:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Tue Jul 14"
+      "date_pretty": "Wed Jul 15"
     }
   ]
 }

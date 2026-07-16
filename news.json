@@ -1,19 +1,22 @@
 {
   "articles": [
     {
-      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43"
-    },
-    {
       "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine"
     },
     {
       "title": "Teenager accused of carrying out sabotage actions in Poland for Russia"
     },
     {
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43"
+    },
+    {
       "title": "Iran targets military bases as US launches wave of strikes"
     },
     {
       "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US"
+    },
+    {
+      "title": "At least one dead in Texas floods ravaging same area where campers died"
     },
     {
       "title": "Argentina face action over Falklands banner"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Children among dead at Algeria foster care home blaze - president"
-    },
-    {
-      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest"
     }
   ]
 }

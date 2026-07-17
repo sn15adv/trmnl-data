@@ -1,32 +1,31 @@
 {
   "hero": {
-    "title": "Toy Story 5",
-    "rating": 7.4,
-    "runtime": "1h 42m",
-    "release_date": "2026-06-19",
-    "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new",
+    "title": "Disclosure Day",
+    "rating": 6.7,
+    "runtime": "2h 26m",
+    "release_date": "2026-06-12",
+    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces ",
     "genres": [
-      "Animation",
-      "Family",
-      "Comedy"
+      "Science Fiction",
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "Moana",
-      "rating": 5.6
+      "title": "Toy Story 5",
+      "rating": 7.4
     },
     {
-      "title": "Disclosure Day",
-      "rating": 6.7
+      "title": "Moana",
+      "rating": 5.8
     },
     {
       "title": "Backrooms",
-      "rating": 6.9
+      "rating": 7.0
     },
     {
       "title": "The Furious",
-      "rating": 7.5
+      "rating": 7.4
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Are You Ready For It? - A Taylor Experience",
-    "date": "2026-07-16",
-    "time": "19:00:00",
-    "venue": "Suquamish Clearwater Resort Lawn",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Thu Jul 16"
+    "name": "Day Out With Thomas (TM), Thomas & Friends",
+    "date": "2026-07-17",
+    "time": "09:00:00",
+    "venue": "Northwest Railway Museum",
+    "segment": "Miscellaneous",
+    "genre": "Fairs & Festivals",
+    "date_pretty": "Fri Jul 17"
   },
   "others": [
     {
-      "name": "Seattle Sounders FC vs. Portland Timbers",
-      "date": "2026-07-16",
-      "time": "19:30:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Thu Jul 16"
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-17",
+      "time": "10:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 17"
     },
     {
-      "name": "Corrosion of Conformity, Whores, Crobot",
-      "date": "2026-07-16",
-      "time": "19:30:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Thu Jul 16"
-    },
-    {
-      "name": "i///u (21+ Event)",
-      "date": "2026-07-16",
-      "time": "19:30:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Jul 16"
-    },
-    {
-      "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-07-16",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Thu Jul 16"
-    },
-    {
-      "name": "Sam Taggart",
-      "date": "2026-07-16",
-      "time": "20:00:00",
-      "venue": "The Rabbit Box",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Thu Jul 16"
-    },
-    {
-      "name": "WAMU Theater Amplified Access: Ella Mai (Not an Ev",
-      "date": "2026-07-16",
-      "time": "20:00:00",
-      "venue": "WAMU Theater",
+      "name": "Lumen Field Stadium Tours",
+      "date": "2026-07-17",
+      "time": "10:30:00",
+      "venue": "Lumen Field Stadium Tours",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Thu Jul 16"
+      "date_pretty": "Fri Jul 17"
     },
     {
-      "name": "Ella Mai: Do You Still Love Me Tour",
-      "date": "2026-07-16",
-      "time": "20:00:00",
-      "venue": "WAMU Theater",
-      "segment": "Music",
-      "genre": "R&B",
-      "date_pretty": "Thu Jul 16"
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-17",
+      "time": "11:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 17"
+    },
+    {
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-17",
+      "time": "12:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 17"
+    },
+    {
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-17",
+      "time": "13:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 17"
+    },
+    {
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-17",
+      "time": "14:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 17"
+    },
+    {
+      "name": "Day Out With Thomas (TM), Thomas & Friends",
+      "date": "2026-07-17",
+      "time": "15:00:00",
+      "venue": "Northwest Railway Museum",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Fri Jul 17"
     }
   ]
 }

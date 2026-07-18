@@ -1,31 +1,32 @@
 {
   "hero": {
-    "title": "Disclosure Day",
-    "rating": 6.7,
-    "runtime": "2h 26m",
-    "release_date": "2026-06-12",
-    "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces ",
+    "title": "Moana",
+    "rating": 5.8,
+    "runtime": "1h 55m",
+    "release_date": "2026-07-10",
+    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her peo",
     "genres": [
-      "Science Fiction",
-      "Thriller"
+      "Family",
+      "Fantasy",
+      "Comedy"
     ]
   },
   "others": [
+    {
+      "title": "The Odyssey",
+      "rating": 7.5
+    },
     {
       "title": "Toy Story 5",
       "rating": 7.4
     },
     {
-      "title": "Moana",
-      "rating": 5.8
+      "title": "Disclosure Day",
+      "rating": 6.7
     },
     {
       "title": "Backrooms",
       "rating": 7.0
-    },
-    {
-      "title": "The Furious",
-      "rating": 7.4
     }
   ]
 }

@@ -1,28 +1,28 @@
 {
   "hero": {
-    "title": "Moana",
-    "rating": 5.8,
-    "runtime": "1h 55m",
-    "release_date": "2026-07-10",
-    "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her peo",
+    "title": "The Odyssey",
+    "rating": 7.7,
+    "runtime": "2h 53m",
+    "release_date": "2026-07-17",
+    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, ",
     "genres": [
-      "Family",
-      "Fantasy",
-      "Comedy"
+      "Adventure",
+      "Action",
+      "Fantasy"
     ]
   },
   "others": [
     {
-      "title": "The Odyssey",
-      "rating": 7.5
-    },
-    {
-      "title": "Toy Story 5",
-      "rating": 7.4
-    },
-    {
       "title": "Disclosure Day",
       "rating": 6.7
+    },
+    {
+      "title": "Moana",
+      "rating": 5.8
+    },
+    {
+      "title": "Minions & Monsters",
+      "rating": 6.4
     },
     {
       "title": "Backrooms",

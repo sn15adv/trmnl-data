@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "Day Out With Thomas (TM), Thomas & Friends",
-    "date": "2026-07-18",
+    "date": "2026-07-19",
     "time": "09:00:00",
     "venue": "Northwest Railway Museum",
     "segment": "Miscellaneous",
     "genre": "Fairs & Festivals",
-    "date_pretty": "Sat Jul 18"
+    "date_pretty": "Sun Jul 19"
   },
   "others": [
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "time": "10:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 18"
+      "date_pretty": "Sun Jul 19"
     },
     {
       "name": "Lumen Field Stadium Tours",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "time": "10:30:00",
       "venue": "Lumen Field Stadium Tours",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Sat Jul 18"
+      "date_pretty": "Sun Jul 19"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "time": "11:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 18"
+      "date_pretty": "Sun Jul 19"
+    },
+    {
+      "name": "Clock-Out Lounge Presents: South End Record Show- ",
+      "date": "2026-07-19",
+      "time": "12:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Sun Jul 19"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "time": "12:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 18"
+      "date_pretty": "Sun Jul 19"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-18",
+      "date": "2026-07-19",
       "time": "13:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 18"
+      "date_pretty": "Sun Jul 19"
     },
     {
-      "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-07-18",
-      "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sat Jul 18"
-    },
-    {
-      "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-18",
-      "time": "14:00:00",
-      "venue": "Northwest Railway Museum",
-      "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Sat Jul 18"
+      "name": "Seattle Mariners vs. San Francisco Giants",
+      "date": "2026-07-19",
+      "time": "13:10:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun Jul 19"
     }
   ]
 }

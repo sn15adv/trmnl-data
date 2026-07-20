@@ -1,7 +1,10 @@
 {
   "articles": [
     {
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for death of soldiers"
+      "title": "Trump imposes 50% tariff on Canadian imports"
+    },
+    {
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers"
     },
     {
       "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Merger deal between Paramount and Warner Bros paused by judge"
-    },
-    {
-      "title": "Hamas names Khalil al-Hayya as new overall leader"
     }
   ]
 }

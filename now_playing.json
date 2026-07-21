@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "The Odyssey",
-    "rating": 7.8,
+    "rating": 7.9,
     "runtime": "2h 53m",
     "release_date": "2026-07-17",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, ",
@@ -14,19 +14,19 @@
   "others": [
     {
       "title": "Moana",
-      "rating": 5.8
-    },
-    {
-      "title": "Backrooms",
-      "rating": 7.0
+      "rating": 5.7
     },
     {
       "title": "Disclosure Day",
       "rating": 6.7
     },
     {
-      "title": "Toy Story 5",
-      "rating": 7.4
+      "title": "Backrooms",
+      "rating": 7.1
+    },
+    {
+      "title": "Minions & Monsters",
+      "rating": 6.4
     }
   ]
 }

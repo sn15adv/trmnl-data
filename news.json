@@ -1,7 +1,10 @@
 {
   "articles": [
     {
-      "title": "US hits dozens of countries with new wave of tariffs"
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv"
+    },
+    {
+      "title": "Trump vows to investigate EU over fining of US tech companies"
     },
     {
       "title": "US and Iran trade more strikes in Gulf as fears of escalation mount"
@@ -16,6 +19,9 @@
       "title": "Four Palestinians and two Israelis killed in West Bank shooting"
     },
     {
+      "title": "US hits dozens of countries with new wave of tariffs"
+    },
+    {
       "title": "Nigeria's president approves largest military expansion in recent times"
     },
     {
@@ -23,12 +29,6 @@
     },
     {
       "title": "India's 'cockroach' protesters hold talks with government as stalemate continues"
-    },
-    {
-      "title": "Tanzanian lecturer arrested over anti-government protests charged with terrorism"
-    },
-    {
-      "title": "Tech titan ordered to pay ex-wife $644m in divorce settlement"
     }
   ]
 }

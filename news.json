@@ -1,6 +1,9 @@
 {
   "articles": [
     {
+      "title": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain"
+    },
+    {
       "title": "Ten killed in Russian attack on drone exhibition near Kyiv"
     },
     {
@@ -26,9 +29,6 @@
     },
     {
       "title": "World chess chief faces endgame after EU announces Russia war sanctions"
-    },
-    {
-      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'"
     }
   ]
 }

@@ -3,16 +3,25 @@
     "title": "Jana Nayagan",
     "original_title": "ஜன நாயகன்",
     "language": "Tamil",
-    "rating": 10.0,
+    "rating": 7.5,
     "release_date": "2026-07-22",
     "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer int",
     "genres": [
       "Action",
-      "Drama",
-      "Science Fiction"
+      "Drama"
     ]
   },
   "others": [
+    {
+      "title": "Toxic",
+      "language": "Kannada",
+      "release_date": "2026-08-15"
+    },
+    {
+      "title": "DC",
+      "language": "Tamil",
+      "release_date": "2026-08-07"
+    },
     {
       "title": "DELIVERY BOY",
       "language": "Tamil",
@@ -22,16 +31,6 @@
       "title": "Vishwanath & Sons",
       "language": "Tamil",
       "release_date": "2026-08-14"
-    },
-    {
-      "title": "DC",
-      "language": "Tamil",
-      "release_date": "2026-08-07"
-    },
-    {
-      "title": "Batwara 1947",
-      "language": "Hindi",
-      "release_date": "2026-08-13"
     }
   ]
 }

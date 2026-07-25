@@ -1,7 +1,13 @@
 {
   "articles": [
     {
+      "title": "More than 250,000 flee wildfires in France and Spain"
+    },
+    {
       "title": "Trump takes swipes at press during White House Correspondents' Dinner"
+    },
+    {
+      "title": "India's 'cockroach' protest called off after education minister quits"
     },
     {
       "title": "Iran-backed Houthis claim missile attack on Saudi Arabia"
@@ -23,12 +29,6 @@
     },
     {
       "title": "Trump vows to investigate EU over fining of US tech companies"
-    },
-    {
-      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history"
-    },
-    {
-      "title": "US hits dozens of countries with new wave of tariffs"
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "Day Out With Thomas (TM), Thomas & Friends",
-    "date": "2026-07-24",
+    "date": "2026-07-25",
     "time": "09:00:00",
     "venue": "Northwest Railway Museum",
     "segment": "Miscellaneous",
     "genre": "Fairs & Festivals",
-    "date_pretty": "Fri Jul 24"
+    "date_pretty": "Sat Jul 25"
   },
   "others": [
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "time": "10:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Fri Jul 24"
+      "date_pretty": "Sat Jul 25"
     },
     {
       "name": "Lumen Field Stadium Tours",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "time": "10:30:00",
       "venue": "Lumen Field Stadium Tours",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Fri Jul 24"
+      "date_pretty": "Sat Jul 25"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "time": "11:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Fri Jul 24"
+      "date_pretty": "Sat Jul 25"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "time": "12:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Fri Jul 24"
+      "date_pretty": "Sat Jul 25"
     },
     {
       "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "time": "13:00:00",
       "venue": "Northwest Railway Museum",
       "segment": "Miscellaneous",
       "genre": "Fairs & Festivals",
-      "date_pretty": "Fri Jul 24"
+      "date_pretty": "Sat Jul 25"
     },
     {
-      "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-24",
+      "name": "Hell's Kitchen (Touring)",
+      "date": "2026-07-25",
       "time": "14:00:00",
-      "venue": "Northwest Railway Museum",
-      "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Fri Jul 24"
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Jul 25"
     },
     {
-      "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-24",
-      "time": "15:00:00",
-      "venue": "Northwest Railway Museum",
-      "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Fri Jul 24"
+      "name": "Joseph and the Amazing Technicolor Dreamcoat",
+      "date": "2026-07-25",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Jul 25"
     }
   ]
 }

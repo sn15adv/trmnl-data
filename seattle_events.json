@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Day Out With Thomas (TM), Thomas & Friends",
-    "date": "2026-07-26",
-    "time": "09:00:00",
-    "venue": "Northwest Railway Museum",
-    "segment": "Miscellaneous",
-    "genre": "Fairs & Festivals",
-    "date_pretty": "Sun Jul 26"
+    "name": "Silent Movie Mondays - The General (1926)",
+    "date": "2026-07-27",
+    "time": "19:00:00",
+    "venue": "Paramount Theatre",
+    "segment": "Film",
+    "genre": "Miscellaneous",
+    "date_pretty": "Mon Jul 27"
   },
   "others": [
     {
-      "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-26",
-      "time": "10:00:00",
-      "venue": "Northwest Railway Museum",
-      "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Sun Jul 26"
+      "name": "Black Moth Super Rainbow w/ Giant Day",
+      "date": "2026-07-27",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Mon Jul 27"
     },
     {
-      "name": "Soul Food Sundays",
-      "date": "2026-07-26",
-      "time": "10:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Sun Jul 26"
+      "name": "Mexican Institute Of Sound & Meridian Brothers Pre",
+      "date": "2026-07-27",
+      "time": "20:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Mon Jul 27"
     },
     {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-07-26",
-      "time": "10:30:00",
-      "venue": "Lumen Field Stadium Tours",
+      "name": "Daniel Donato's Cosmic Country",
+      "date": "2026-07-27",
+      "time": "20:00:00",
+      "venue": "Airport Tavern",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Mon Jul 27"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-07-27",
+      "time": "",
+      "venue": "T-Mobile Park",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Sun Jul 26"
+      "date_pretty": "Mon Jul 27"
     },
     {
-      "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-26",
-      "time": "11:00:00",
-      "venue": "Northwest Railway Museum",
-      "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Sun Jul 26"
+      "name": "Tacoma Rainiers vs. Sacramento River Cats",
+      "date": "2026-07-28",
+      "time": "12:05:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Tue Jul 28"
     },
     {
-      "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-26",
-      "time": "12:00:00",
-      "venue": "Northwest Railway Museum",
-      "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Sun Jul 26"
+      "name": "Seattle Storm vs. Indiana Fever",
+      "date": "2026-07-28",
+      "time": "18:30:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Tue Jul 28"
     },
     {
-      "name": "Hell's Kitchen (Touring)",
-      "date": "2026-07-26",
-      "time": "13:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Jul 26"
-    },
-    {
-      "name": "Day Out With Thomas (TM), Thomas & Friends",
-      "date": "2026-07-26",
-      "time": "13:00:00",
-      "venue": "Northwest Railway Museum",
-      "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Sun Jul 26"
+      "name": "SCRAMBLER JAM!",
+      "date": "2026-07-28",
+      "time": "19:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Jul 28"
     }
   ]
 }

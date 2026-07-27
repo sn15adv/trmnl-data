@@ -1,19 +1,22 @@
 {
   "articles": [
     {
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux"
+    },
+    {
       "title": "Berlin Pride attack suspect shot and killed during police operation"
     },
     {
       "title": "What we know so far about the Berlin Pride ramming attack"
     },
     {
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat"
+    },
+    {
       "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say"
     },
     {
       "title": "PM pledges continued support for Ukraine ahead of Zelensky visit"
-    },
-    {
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux"
     },
     {
       "title": "Trump takes swipes at press during White House Correspondents' Dinner"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost"
-    },
-    {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia"
     }
   ]
 }

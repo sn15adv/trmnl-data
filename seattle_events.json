@@ -1,59 +1,14 @@
 {
   "hero": {
-    "name": "Silent Movie Mondays - The General (1926)",
-    "date": "2026-07-27",
-    "time": "19:00:00",
-    "venue": "Paramount Theatre",
-    "segment": "Film",
-    "genre": "Miscellaneous",
-    "date_pretty": "Mon Jul 27"
+    "name": "Tacoma Rainiers vs. Sacramento River Cats",
+    "date": "2026-07-28",
+    "time": "12:05:00",
+    "venue": "Cheney Stadium",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Tue Jul 28"
   },
   "others": [
-    {
-      "name": "Black Moth Super Rainbow w/ Giant Day",
-      "date": "2026-07-27",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon Jul 27"
-    },
-    {
-      "name": "Mexican Institute Of Sound & Meridian Brothers Pre",
-      "date": "2026-07-27",
-      "time": "20:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Mon Jul 27"
-    },
-    {
-      "name": "Daniel Donato's Cosmic Country",
-      "date": "2026-07-27",
-      "time": "20:00:00",
-      "venue": "Airport Tavern",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon Jul 27"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-07-27",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Jul 27"
-    },
-    {
-      "name": "Tacoma Rainiers vs. Sacramento River Cats",
-      "date": "2026-07-28",
-      "time": "12:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Tue Jul 28"
-    },
     {
       "name": "Seattle Storm vs. Indiana Fever",
       "date": "2026-07-28",
@@ -70,6 +25,51 @@
       "venue": "Chop Suey",
       "segment": "Music",
       "genre": "Other",
+      "date_pretty": "Tue Jul 28"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-07-28",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Jul 28"
+    },
+    {
+      "name": "Of Monsters and Men - The Mouse Parade Tour",
+      "date": "2026-07-28",
+      "time": "20:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Music",
+      "genre": "Folk",
+      "date_pretty": "Tue Jul 28"
+    },
+    {
+      "name": "Raised By TV Events Presents: Firefly Trivia Night",
+      "date": "2026-07-28",
+      "time": "20:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Tue Jul 28"
+    },
+    {
+      "name": "Steve Earle - 51 Years of Songs & Stories",
+      "date": "2026-07-28",
+      "time": "20:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Tue Jul 28"
+    },
+    {
+      "name": "The Passed, Pullover, Gwen, Punishment Canoe",
+      "date": "2026-07-28",
+      "time": "20:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Alternative",
       "date_pretty": "Tue Jul 28"
     }
   ]

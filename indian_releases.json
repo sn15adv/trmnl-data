@@ -1,22 +1,17 @@
 {
   "hero": {
-    "title": "Jana Nayagan",
-    "original_title": "ஜன நாயகன்",
-    "language": "Tamil",
-    "rating": 6.0,
-    "release_date": "2026-07-22",
-    "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer int",
+    "title": "Toxic",
+    "original_title": "ಟಾಕ್ಸಿಕ್",
+    "language": "Kannada",
+    "rating": 0.0,
+    "release_date": "2026-08-15",
+    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.",
     "genres": [
       "Action",
-      "Drama"
+      "Thriller"
     ]
   },
   "others": [
-    {
-      "title": "Toxic",
-      "language": "Kannada",
-      "release_date": "2026-08-15"
-    },
     {
       "title": "DC",
       "language": "Tamil",
@@ -31,6 +26,11 @@
       "title": "The India Story",
       "language": "Hindi",
       "release_date": "2026-07-24"
+    },
+    {
+      "title": "Batwara 1947",
+      "language": "Hindi",
+      "release_date": "2026-08-13"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "The Odyssey",
-    "rating": 8.0,
+    "rating": 7.9,
     "runtime": "2h 53m",
     "release_date": "2026-07-17",
     "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, ",
@@ -13,6 +13,10 @@
   },
   "others": [
     {
+      "title": "Spider-Man: Brand New Day",
+      "rating": 7.9
+    },
+    {
       "title": "Supergirl",
       "rating": 6.7
     },
@@ -21,12 +25,8 @@
       "rating": 5.9
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "rating": 7.6
-    },
-    {
-      "title": "Backrooms",
-      "rating": 7.1
+      "title": "Avatar Aang: The Last Airbender",
+      "rating": 9.4
     }
   ]
 }

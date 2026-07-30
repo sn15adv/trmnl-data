@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Joseph and the Amazing Technicolor Dreamcoat",
-    "date": "2026-07-29",
-    "time": "14:00:00",
-    "venue": "Taproot Theatre",
+    "name": "Garden Brothers Circus",
+    "date": "2026-07-30",
+    "time": "16:30:00",
+    "venue": "The Outlet Collection Seattle",
     "segment": "Arts & Theatre",
-    "genre": "Theatre",
-    "date_pretty": "Wed Jul 29"
+    "genre": "",
+    "date_pretty": "Thu Jul 30"
   },
   "others": [
     {
-      "name": "Tyler McGinnis with Izzy Burns, Ray Baron, The Orp",
-      "date": "2026-07-29",
+      "name": "Big Brass Extravaganza (21+ Event)",
+      "date": "2026-07-30",
       "time": "19:00:00",
       "venue": "Nectar Lounge",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Wed Jul 29"
+      "date_pretty": "Thu Jul 30"
+    },
+    {
+      "name": "The Drifters - R&B / Soul",
+      "date": "2026-07-30",
+      "time": "19:00:00",
+      "venue": "Suquamish Clearwater Resort Lawn",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Thu Jul 30"
+    },
+    {
+      "name": "You Look Like - Roast Battle",
+      "date": "2026-07-30",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Jul 30"
+    },
+    {
+      "name": "100.7 The Wolf's Secret Show Night 2",
+      "date": "2026-07-30",
+      "time": "19:00:00",
+      "venue": "Tulalip Amphitheatre",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Thu Jul 30"
     },
     {
       "name": "Tacoma Rainiers vs. Sacramento River Cats",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "19:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Wed Jul 29"
-    },
-    {
-      "name": "Edge of Paradise",
-      "date": "2026-07-29",
-      "time": "19:30:00",
-      "venue": "El Corazon",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Jul 29"
-    },
-    {
-      "name": "Tech Roast Seattle: Comedians Roast Techies",
-      "date": "2026-07-29",
-      "time": "19:30:00",
-      "venue": "Neptune Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Wed Jul 29"
+      "date_pretty": "Thu Jul 30"
     },
     {
       "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "time": "19:30:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Wed Jul 29"
+      "date_pretty": "Thu Jul 30"
     },
     {
-      "name": "Willow Avalon",
-      "date": "2026-07-29",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Undefined",
+      "name": "Garden Brothers Circus",
+      "date": "2026-07-30",
+      "time": "19:30:00",
+      "venue": "The Outlet Collection Seattle",
+      "segment": "Arts & Theatre",
       "genre": "",
-      "date_pretty": "Wed Jul 29"
-    },
-    {
-      "name": "Boy Heroine, Clean Fight, Abserdia",
-      "date": "2026-07-29",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Jul 29"
+      "date_pretty": "Thu Jul 30"
     }
   ]
 }

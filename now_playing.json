@@ -1,19 +1,19 @@
 {
   "hero": {
-    "title": "The Odyssey",
-    "rating": 7.9,
-    "runtime": "2h 53m",
-    "release_date": "2026-07-17",
-    "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, ",
+    "title": "Spider-Man: Brand New Day",
+    "rating": 8.0,
+    "runtime": "2h 25m",
+    "release_date": "2026-07-31",
+    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to ",
     "genres": [
-      "Adventure",
+      "Science Fiction",
       "Action",
-      "Fantasy"
+      "Adventure"
     ]
   },
   "others": [
     {
-      "title": "Spider-Man: Brand New Day",
+      "title": "The Odyssey",
       "rating": 7.9
     },
     {

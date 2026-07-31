@@ -1,21 +1,22 @@
 {
   "hero": {
-    "title": "Toxic",
-    "original_title": "ಟಾಕ್ಸಿಕ್",
-    "language": "Kannada",
+    "title": "DC",
+    "original_title": "டி சி",
+    "language": "Tamil",
     "rating": 0.0,
-    "release_date": "2026-08-15",
-    "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.",
+    "release_date": "2026-08-07",
+    "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in t",
     "genres": [
+      "Romance",
       "Action",
-      "Thriller"
+      "Drama"
     ]
   },
   "others": [
     {
-      "title": "DC",
-      "language": "Tamil",
-      "release_date": "2026-08-07"
+      "title": "Toxic",
+      "language": "Kannada",
+      "release_date": "2026-08-15"
     },
     {
       "title": "Vishwanath & Sons",

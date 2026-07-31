@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Garden Brothers Circus",
-    "date": "2026-07-30",
-    "time": "16:30:00",
-    "venue": "The Outlet Collection Seattle",
-    "segment": "Arts & Theatre",
+    "name": "Speed Networking",
+    "date": "2026-07-31",
+    "time": "15:30:00",
+    "venue": "Nate Jackson's Super Funny Comedy C",
+    "segment": "Miscellaneous",
     "genre": "",
-    "date_pretty": "Thu Jul 30"
+    "date_pretty": "Fri Jul 31"
   },
   "others": [
     {
-      "name": "Big Brass Extravaganza (21+ Event)",
-      "date": "2026-07-30",
-      "time": "19:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Jul 30"
+      "name": "CMF Presents: Base Camp Featuring Slightly Stoopid",
+      "date": "2026-07-31",
+      "time": "16:00:00",
+      "venue": "Marymoor Park",
+      "segment": "Miscellaneous",
+      "genre": "Community/Civic",
+      "date_pretty": "Fri Jul 31"
     },
     {
-      "name": "The Drifters - R&B / Soul",
-      "date": "2026-07-30",
-      "time": "19:00:00",
-      "venue": "Suquamish Clearwater Resort Lawn",
+      "name": "Garden Brothers Circus",
+      "date": "2026-07-31",
+      "time": "16:30:00",
+      "venue": "The Outlet Collection Seattle",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Fri Jul 31"
+    },
+    {
+      "name": "Old 97's, River Shook",
+      "date": "2026-07-31",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Thu Jul 30"
+      "date_pretty": "Fri Jul 31"
     },
     {
-      "name": "You Look Like - Roast Battle",
-      "date": "2026-07-30",
+      "name": "Slightly Stoopid - Road Trippin' Summer Tour 2026",
+      "date": "2026-07-31",
+      "time": "18:00:00",
+      "venue": "Marymoor Live - Presented By Toyota",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Fri Jul 31"
+    },
+    {
+      "name": "Trixx",
+      "date": "2026-07-31",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Thu Jul 30"
-    },
-    {
-      "name": "100.7 The Wolf's Secret Show Night 2",
-      "date": "2026-07-30",
-      "time": "19:00:00",
-      "venue": "Tulalip Amphitheatre",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Thu Jul 30"
+      "date_pretty": "Fri Jul 31"
     },
     {
       "name": "Tacoma Rainiers vs. Sacramento River Cats",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "time": "19:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Thu Jul 30"
+      "date_pretty": "Fri Jul 31"
     },
     {
-      "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-07-30",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Thu Jul 30"
-    },
-    {
-      "name": "Garden Brothers Circus",
-      "date": "2026-07-30",
-      "time": "19:30:00",
-      "venue": "The Outlet Collection Seattle",
-      "segment": "Arts & Theatre",
-      "genre": "",
-      "date_pretty": "Thu Jul 30"
+      "name": "Seattle Mariners vs. Minnesota Twins",
+      "date": "2026-07-31",
+      "time": "19:10:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Fri Jul 31"
     }
   ]
 }

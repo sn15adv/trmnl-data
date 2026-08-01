@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Speed Networking",
-    "date": "2026-07-31",
-    "time": "15:30:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Miscellaneous",
-    "genre": "",
-    "date_pretty": "Fri Jul 31"
+    "name": "Seattle Mariners vs. Minnesota Twins",
+    "date": "2026-08-01",
+    "time": "13:10:00",
+    "venue": "T-Mobile Park",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Sat Aug 1"
   },
   "others": [
     {
-      "name": "CMF Presents: Base Camp Featuring Slightly Stoopid",
-      "date": "2026-07-31",
-      "time": "16:00:00",
-      "venue": "Marymoor Park",
-      "segment": "Miscellaneous",
-      "genre": "Community/Civic",
-      "date_pretty": "Fri Jul 31"
+      "name": "Garden Brothers Circus",
+      "date": "2026-08-01",
+      "time": "13:30:00",
+      "venue": "The Outlet Collection Seattle",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Sat Aug 1"
+    },
+    {
+      "name": "Brownies & Lemonade Seattle",
+      "date": "2026-08-01",
+      "time": "14:00:00",
+      "venue": "Fisher Pavilion At Seattle Center",
+      "segment": "Music",
+      "genre": "Undefined",
+      "date_pretty": "Sat Aug 1"
+    },
+    {
+      "name": "Joseph and the Amazing Technicolor Dreamcoat",
+      "date": "2026-08-01",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Aug 1"
+    },
+    {
+      "name": "Paint-Your-Pet and Sip",
+      "date": "2026-08-01",
+      "time": "15:30:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Aug 1"
     },
     {
       "name": "Garden Brothers Circus",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "time": "16:30:00",
       "venue": "The Outlet Collection Seattle",
       "segment": "Arts & Theatre",
       "genre": "",
-      "date_pretty": "Fri Jul 31"
+      "date_pretty": "Sat Aug 1"
     },
     {
-      "name": "Old 97's, River Shook",
-      "date": "2026-07-31",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
+      "name": "Ed Sheeran: LOOP Tour",
+      "date": "2026-08-01",
+      "time": "17:30:00",
+      "venue": "Lumen Field",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Jul 31"
+      "genre": "Pop",
+      "date_pretty": "Sat Aug 1"
     },
     {
-      "name": "Slightly Stoopid - Road Trippin' Summer Tour 2026",
-      "date": "2026-07-31",
-      "time": "18:00:00",
-      "venue": "Marymoor Live - Presented By Toyota",
+      "name": "Koe Wetzel: All Ages to Enter, 21 & Over to Drink",
+      "date": "2026-08-01",
+      "time": "17:45:00",
+      "venue": "Dune Peninsula",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Jul 31"
-    },
-    {
-      "name": "Trixx",
-      "date": "2026-07-31",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Jul 31"
-    },
-    {
-      "name": "Tacoma Rainiers vs. Sacramento River Cats",
-      "date": "2026-07-31",
-      "time": "19:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Fri Jul 31"
-    },
-    {
-      "name": "Seattle Mariners vs. Minnesota Twins",
-      "date": "2026-07-31",
-      "time": "19:10:00",
-      "venue": "T-Mobile Park",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Fri Jul 31"
+      "genre": "Other",
+      "date_pretty": "Sat Aug 1"
     }
   ]
 }

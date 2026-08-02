@@ -1,7 +1,13 @@
 {
   "articles": [
     {
+      "title": "Helicopters fighting Greece wildfires collide in mid-air"
+    },
+    {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'"
+    },
+    {
+      "title": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal"
     },
     {
       "title": "How Spain's migrant crisis created a political storm - whipped up by social media"
@@ -23,12 +29,6 @@
     },
     {
       "title": "The Sopranos star Vincent Pastore dies aged 80"
-    },
-    {
-      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo"
-    },
-    {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say"
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "Garden Brothers Circus",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "time": "16:30:00",
     "venue": "The Outlet Collection Seattle",
     "segment": "Arts & Theatre",
     "genre": "",
-    "date_pretty": "Mon Aug 3"
+    "date_pretty": "Tue Aug 4"
   },
   "others": [
     {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - Lindsey S",
-      "date": "2026-08-03",
-      "time": "19:00:00",
+      "name": "Everett AquaSox vs. Vancouver Canadians",
+      "date": "2026-08-04",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Tue Aug 4"
+    },
+    {
+      "name": "Chateau Ste Michelle: Tables & Cabanas - Tedeschi ",
+      "date": "2026-08-04",
+      "time": "18:00:00",
       "venue": "Chateau Ste Michelle Winery",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Mon Aug 3"
+      "date_pretty": "Tue Aug 4"
     },
     {
-      "name": "LINDSEY STIRLING - DUALITY UNTAMED TOUR",
-      "date": "2026-08-03",
-      "time": "19:00:00",
+      "name": "Tedeschi Trucks Band: Future Soul 2026 Tour",
+      "date": "2026-08-04",
+      "time": "18:00:00",
       "venue": "Chateau Ste Michelle Winery",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Mon Aug 3"
+      "date_pretty": "Tue Aug 4"
     },
     {
-      "name": "Lionel Richie and Earth, Wind & Fire - Sing a Song",
-      "date": "2026-08-03",
-      "time": "19:30:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Mon Aug 3"
+      "name": "Seattle Mariners vs. Detroit Tigers",
+      "date": "2026-08-04",
+      "time": "18:40:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Tue Aug 4"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-08-04",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Aug 4"
     },
     {
       "name": "Garden Brothers Circus",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "time": "19:30:00",
       "venue": "The Outlet Collection Seattle",
       "segment": "Arts & Theatre",
       "genre": "",
-      "date_pretty": "Mon Aug 3"
+      "date_pretty": "Tue Aug 4"
     },
     {
-      "name": "The Fixx",
-      "date": "2026-08-03",
+      "name": "The Strike, Kids That Fly",
+      "date": "2026-08-04",
       "time": "20:00:00",
-      "venue": "Neptune Theatre",
+      "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Aug 3"
-    },
-    {
-      "name": "Daniel Donato's Cosmic Country",
-      "date": "2026-08-03",
-      "time": "20:00:00",
-      "venue": "Airport Tavern",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon Aug 3"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-08-03",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Aug 3"
+      "genre": "Pop",
+      "date_pretty": "Tue Aug 4"
     }
   ]
 }

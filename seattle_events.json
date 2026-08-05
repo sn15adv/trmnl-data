@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Garden Brothers Circus",
-    "date": "2026-08-04",
-    "time": "16:30:00",
-    "venue": "The Outlet Collection Seattle",
+    "name": "Joseph and the Amazing Technicolor Dreamcoat",
+    "date": "2026-08-05",
+    "time": "14:00:00",
+    "venue": "Taproot Theatre",
     "segment": "Arts & Theatre",
-    "genre": "",
-    "date_pretty": "Tue Aug 4"
+    "genre": "Theatre",
+    "date_pretty": "Wed Aug 5"
   },
   "others": [
     {
+      "name": "Garden Brothers Circus",
+      "date": "2026-08-05",
+      "time": "16:30:00",
+      "venue": "The Outlet Collection Seattle",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Wed Aug 5"
+    },
+    {
       "name": "Everett AquaSox vs. Vancouver Canadians",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "",
       "venue": "Funko Field",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Tue Aug 4"
+      "date_pretty": "Wed Aug 5"
     },
     {
       "name": "Chateau Ste Michelle: Tables & Cabanas - Tedeschi ",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "18:00:00",
       "venue": "Chateau Ste Michelle Winery",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Tue Aug 4"
+      "date_pretty": "Wed Aug 5"
     },
     {
       "name": "Tedeschi Trucks Band: Future Soul 2026 Tour",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "18:00:00",
       "venue": "Chateau Ste Michelle Winery",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Tue Aug 4"
+      "date_pretty": "Wed Aug 5"
+    },
+    {
+      "name": "Meghan Trainor: The Get In Girl Tour",
+      "date": "2026-08-05",
+      "time": "18:30:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Wed Aug 5"
+    },
+    {
+      "name": "Motionless In White: The Sweat and Blood Tour",
+      "date": "2026-08-05",
+      "time": "18:30:00",
+      "venue": "White River Amphitheatre",
+      "segment": "Music",
+      "genre": "Metal",
+      "date_pretty": "Wed Aug 5"
     },
     {
       "name": "Seattle Mariners vs. Detroit Tigers",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "time": "18:40:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Tue Aug 4"
-    },
-    {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-08-04",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Aug 4"
-    },
-    {
-      "name": "Garden Brothers Circus",
-      "date": "2026-08-04",
-      "time": "19:30:00",
-      "venue": "The Outlet Collection Seattle",
-      "segment": "Arts & Theatre",
-      "genre": "",
-      "date_pretty": "Tue Aug 4"
-    },
-    {
-      "name": "The Strike, Kids That Fly",
-      "date": "2026-08-04",
-      "time": "20:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Tue Aug 4"
+      "date_pretty": "Wed Aug 5"
     }
   ]
 }

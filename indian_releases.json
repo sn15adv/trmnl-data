@@ -1,22 +1,22 @@
 {
   "hero": {
-    "title": "DC",
-    "original_title": "டி சி",
+    "title": "Vishwanath & Sons",
+    "original_title": "விஸ்வநாத் & சன்ஸ்",
     "language": "Tamil",
     "rating": 0.0,
-    "release_date": "2026-08-07",
-    "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in t",
+    "release_date": "2026-08-14",
+    "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that th",
     "genres": [
-      "Romance",
-      "Action",
-      "Drama"
+      "Family",
+      "Drama",
+      "Romance"
     ]
   },
   "others": [
     {
-      "title": "Vishwanath & Sons",
+      "title": "DC",
       "language": "Tamil",
-      "release_date": "2026-08-14"
+      "release_date": "2026-08-07"
     },
     {
       "title": "Toxic",
@@ -29,9 +29,9 @@
       "release_date": "2026-08-13"
     },
     {
-      "title": "Unmadham",
-      "language": "Malayalam",
-      "release_date": "2026-07-31"
+      "title": "Awarapan 2",
+      "language": "Hindi",
+      "release_date": "2026-08-14"
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Everett AquaSox vs. Vancouver Canadians",
-    "date": "2026-08-07",
-    "time": "",
-    "venue": "Funko Field",
-    "segment": "Sports",
-    "genre": "Miscellaneous",
-    "date_pretty": "Fri Aug 7"
+    "name": "Garden Brothers Circus",
+    "date": "2026-08-08",
+    "time": "13:30:00",
+    "venue": "The Outlet Collection Seattle",
+    "segment": "Arts & Theatre",
+    "genre": "",
+    "date_pretty": "Sat Aug 8"
   },
   "others": [
     {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - Dark Star",
-      "date": "2026-08-07",
-      "time": "18:00:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Aug 7"
+      "name": "Joseph and the Amazing Technicolor Dreamcoat",
+      "date": "2026-08-08",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Aug 8"
     },
     {
-      "name": "Dark Star Orchestra",
-      "date": "2026-08-07",
-      "time": "18:00:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Aug 7"
+      "name": "Garden Brothers Circus",
+      "date": "2026-08-08",
+      "time": "16:30:00",
+      "venue": "The Outlet Collection Seattle",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Sat Aug 8"
     },
     {
-      "name": "Gavin Adcock w/ Jake Worthington",
-      "date": "2026-08-07",
-      "time": "18:00:00",
-      "venue": "Dune Peninsula",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Fri Aug 7"
+      "name": "Everett AquaSox vs. Vancouver Canadians",
+      "date": "2026-08-08",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sat Aug 8"
     },
     {
-      "name": "Anthony Gomes \"Praise The Loud\" 2026 World Tour",
-      "date": "2026-08-07",
-      "time": "18:30:00",
-      "venue": "The Crocodile",
+      "name": "Seahawks Football Fest",
+      "date": "2026-08-08",
+      "time": "17:20:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sat Aug 8"
+    },
+    {
+      "name": "GRAPEVINE GROOVE: AN EARLY EVENING MOTOWN-INSPIRED",
+      "date": "2026-08-08",
+      "time": "18:00:00",
+      "venue": "Nectar Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Aug 8"
+    },
+    {
+      "name": "Thee Sacred Souls",
+      "date": "2026-08-08",
+      "time": "18:00:00",
+      "venue": "Remlinger Farms",
       "segment": "Music",
-      "genre": "Jazz",
-      "date_pretty": "Fri Aug 7"
+      "genre": "R&B",
+      "date_pretty": "Sat Aug 8"
     },
     {
       "name": "Seattle Mariners vs. Tampa Bay Rays",
-      "date": "2026-08-07",
-      "time": "18:45:00",
+      "date": "2026-08-08",
+      "time": "18:50:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Fri Aug 7"
-    },
-    {
-      "name": "Earthquake",
-      "date": "2026-08-07",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Aug 7"
-    },
-    {
-      "name": "More Music @ The Moore",
-      "date": "2026-08-07",
-      "time": "19:30:00",
-      "venue": "Moore Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Dance",
-      "date_pretty": "Fri Aug 7"
+      "date_pretty": "Sat Aug 8"
     }
   ]
 }

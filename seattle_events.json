@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Garden Brothers Circus",
-    "date": "2026-08-08",
-    "time": "13:30:00",
-    "venue": "The Outlet Collection Seattle",
-    "segment": "Arts & Theatre",
-    "genre": "",
-    "date_pretty": "Sat Aug 8"
+    "name": "Seattle Sounders FC vs. Queretaro FC",
+    "date": "2026-08-09",
+    "time": "12:30:00",
+    "venue": "Lumen Field",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "date_pretty": "Sun Aug 9"
   },
   "others": [
     {
-      "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-08-08",
-      "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sat Aug 8"
-    },
-    {
       "name": "Garden Brothers Circus",
-      "date": "2026-08-08",
-      "time": "16:30:00",
+      "date": "2026-08-09",
+      "time": "13:00:00",
       "venue": "The Outlet Collection Seattle",
       "segment": "Arts & Theatre",
       "genre": "",
-      "date_pretty": "Sat Aug 8"
+      "date_pretty": "Sun Aug 9"
+    },
+    {
+      "name": "Seattle Mariners vs. Tampa Bay Rays",
+      "date": "2026-08-09",
+      "time": "13:10:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun Aug 9"
+    },
+    {
+      "name": "Garden Brothers Circus",
+      "date": "2026-08-09",
+      "time": "16:00:00",
+      "venue": "The Outlet Collection Seattle",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Sun Aug 9"
     },
     {
       "name": "Everett AquaSox vs. Vancouver Canadians",
-      "date": "2026-08-08",
+      "date": "2026-08-09",
       "time": "",
       "venue": "Funko Field",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Sat Aug 8"
+      "date_pretty": "Sun Aug 9"
     },
     {
-      "name": "Seahawks Football Fest",
-      "date": "2026-08-08",
-      "time": "17:20:00",
+      "name": "Seattle Reign FC vs. Angel City FC",
+      "date": "2026-08-09",
+      "time": "18:00:00",
       "venue": "Lumen Field",
       "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sat Aug 8"
+      "genre": "Soccer",
+      "date_pretty": "Sun Aug 9"
     },
     {
-      "name": "GRAPEVINE GROOVE: AN EARLY EVENING MOTOWN-INSPIRED",
-      "date": "2026-08-08",
-      "time": "18:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Aug 8"
-    },
-    {
-      "name": "Thee Sacred Souls",
-      "date": "2026-08-08",
-      "time": "18:00:00",
-      "venue": "Remlinger Farms",
+      "name": "Chateau Ste Michelle: Tables & Cabanas - Sarah Mcl",
+      "date": "2026-08-09",
+      "time": "19:00:00",
+      "venue": "Chateau Ste Michelle Winery",
       "segment": "Music",
-      "genre": "R&B",
-      "date_pretty": "Sat Aug 8"
+      "genre": "Rock",
+      "date_pretty": "Sun Aug 9"
     },
     {
-      "name": "Seattle Mariners vs. Tampa Bay Rays",
-      "date": "2026-08-08",
-      "time": "18:50:00",
-      "venue": "T-Mobile Park",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Sat Aug 8"
+      "name": "Sarah McLachlan - Better Broken Tour",
+      "date": "2026-08-09",
+      "time": "19:00:00",
+      "venue": "Chateau Ste Michelle Winery",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sun Aug 9"
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Seattle Sounders FC vs. Queretaro FC",
-    "date": "2026-08-09",
-    "time": "12:30:00",
-    "venue": "Lumen Field",
-    "segment": "Sports",
-    "genre": "Soccer",
-    "date_pretty": "Sun Aug 9"
+    "name": "Super Funny Comedy Festival | Public All-Access Pa",
+    "date": "2026-08-10",
+    "time": "08:00:00",
+    "venue": "Nate Jackson's Super Funny Comedy C",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Mon Aug 10"
   },
   "others": [
     {
-      "name": "Garden Brothers Circus",
-      "date": "2026-08-09",
-      "time": "13:00:00",
-      "venue": "The Outlet Collection Seattle",
-      "segment": "Arts & Theatre",
+      "name": "Super Funny Comedy Festival Artist Registration",
+      "date": "2026-08-10",
+      "time": "08:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sun Aug 9"
+      "date_pretty": "Mon Aug 10"
     },
     {
-      "name": "Seattle Mariners vs. Tampa Bay Rays",
-      "date": "2026-08-09",
-      "time": "13:10:00",
-      "venue": "T-Mobile Park",
+      "name": "Seattle Storm vs. Chicago Sky",
+      "date": "2026-08-10",
+      "time": "19:00:00",
+      "venue": "Climate Pledge Arena",
       "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Sun Aug 9"
+      "genre": "Basketball",
+      "date_pretty": "Mon Aug 10"
     },
     {
-      "name": "Garden Brothers Circus",
-      "date": "2026-08-09",
-      "time": "16:00:00",
-      "venue": "The Outlet Collection Seattle",
-      "segment": "Arts & Theatre",
+      "name": "Festival Monday Mic",
+      "date": "2026-08-10",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sun Aug 9"
+      "date_pretty": "Mon Aug 10"
     },
     {
-      "name": "Everett AquaSox vs. Vancouver Canadians",
-      "date": "2026-08-09",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Aug 9"
-    },
-    {
-      "name": "Seattle Reign FC vs. Angel City FC",
-      "date": "2026-08-09",
-      "time": "18:00:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Sun Aug 9"
-    },
-    {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - Sarah Mcl",
-      "date": "2026-08-09",
-      "time": "19:00:00",
-      "venue": "Chateau Ste Michelle Winery",
+      "name": "Yeat: The LOVE/LYFE Tour",
+      "date": "2026-08-10",
+      "time": "19:30:00",
+      "venue": "WAMU Theater",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Aug 9"
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Mon Aug 10"
     },
     {
-      "name": "Sarah McLachlan - Better Broken Tour",
-      "date": "2026-08-09",
-      "time": "19:00:00",
-      "venue": "Chateau Ste Michelle Winery",
+      "name": "WAMU Theater Amplified Access: Yeat (Not an Event ",
+      "date": "2026-08-10",
+      "time": "19:30:00",
+      "venue": "WAMU Theater",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Aug 10"
+    },
+    {
+      "name": "Alex Amen w/ Fallen Oaks, Robert Leslie (partially",
+      "date": "2026-08-10",
+      "time": "19:30:00",
+      "venue": "Tractor",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Aug 9"
+      "genre": "Folk",
+      "date_pretty": "Mon Aug 10"
+    },
+    {
+      "name": "Comedy Bang! Bang! Ground Beefing Tour 2026",
+      "date": "2026-08-10",
+      "time": "20:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Mon Aug 10"
     }
   ]
 }

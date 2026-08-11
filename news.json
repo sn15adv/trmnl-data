@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "At least 132 killed in Colombia's largest  earthquake in years"
+    },
+    {
+      "title": "Canada flight cancelled after child refuses to wear seat belt"
+    },
+    {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia"
     },
     {
@@ -8,9 +14,6 @@
     },
     {
       "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes"
-    },
-    {
-      "title": "Canada flight cancelled after child refuses to wear seat belt"
     },
     {
       "title": "30 years later, a former gang member will stand trial for Tupac's murder"
@@ -26,9 +29,6 @@
     },
     {
       "title": "New train service connects Finland and Sweden for first time in decades"
-    },
-    {
-      "title": "Russian court bars only anti-war party from standing in parliamentary elections"
     }
   ]
 }

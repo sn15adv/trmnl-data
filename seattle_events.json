@@ -19,58 +19,58 @@
       "date_pretty": "Mon Aug 10"
     },
     {
-      "name": "Seattle Storm vs. Chicago Sky",
-      "date": "2026-08-10",
-      "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
+      "name": "Tacoma Rainiers vs. Reno Aces",
+      "date": "2026-08-11",
+      "time": "12:05:00",
+      "venue": "Cheney Stadium",
       "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Mon Aug 10"
+      "genre": "Baseball",
+      "date_pretty": "Tue Aug 11"
     },
     {
-      "name": "Festival Monday Mic",
-      "date": "2026-08-10",
+      "name": "CMF Presents: Base Camp Featuring ZZ Top & Cheap T",
+      "date": "2026-08-11",
+      "time": "16:00:00",
+      "venue": "Marymoor Park",
+      "segment": "Miscellaneous",
+      "genre": "Community/Civic",
+      "date_pretty": "Tue Aug 11"
+    },
+    {
+      "name": "Everett AquaSox vs. Spokane Indians",
+      "date": "2026-08-11",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Tue Aug 11"
+    },
+    {
+      "name": "ZZ Top with Special Guest Cheap Trick",
+      "date": "2026-08-11",
+      "time": "18:00:00",
+      "venue": "Marymoor Live - Presented By Toyota",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Aug 11"
+    },
+    {
+      "name": "Super Funny Karaoke",
+      "date": "2026-08-11",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Mon Aug 10"
-    },
-    {
-      "name": "Yeat: The LOVE/LYFE Tour",
-      "date": "2026-08-10",
-      "time": "19:30:00",
-      "venue": "WAMU Theater",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Mon Aug 10"
+      "genre": "R&B",
+      "date_pretty": "Tue Aug 11"
     },
     {
-      "name": "WAMU Theater Amplified Access: Yeat (Not an Event ",
-      "date": "2026-08-10",
-      "time": "19:30:00",
-      "venue": "WAMU Theater",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Aug 10"
-    },
-    {
-      "name": "Alex Amen w/ Fallen Oaks, Robert Leslie (partially",
-      "date": "2026-08-10",
+      "name": "Cottage Corpse, I-90 Fiasco & Athleisure",
+      "date": "2026-08-11",
       "time": "19:30:00",
       "venue": "Tractor",
       "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Mon Aug 10"
-    },
-    {
-      "name": "Comedy Bang! Bang! Ground Beefing Tour 2026",
-      "date": "2026-08-10",
-      "time": "20:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Mon Aug 10"
+      "genre": "Rock",
+      "date_pretty": "Tue Aug 11"
     }
   ]
 }

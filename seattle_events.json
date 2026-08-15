@@ -19,58 +19,58 @@
       "date_pretty": "Mon Aug 10"
     },
     {
+      "name": "Joseph and the Amazing Technicolor Dreamcoat",
+      "date": "2026-08-15",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Aug 15"
+    },
+    {
       "name": "Everett AquaSox vs. Spokane Indians",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "time": "",
       "venue": "Funko Field",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Fri Aug 14"
+      "date_pretty": "Sat Aug 15"
     },
     {
-      "name": "Ella Red w/ Zoe Ko",
-      "date": "2026-08-14",
-      "time": "18:00:00",
-      "venue": "Barboza",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Aug 14"
+      "name": "Preseason Game: Seattle Seahawks v Dallas Cowboys",
+      "date": "2026-08-15",
+      "time": "17:00:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sat Aug 15"
     },
     {
-      "name": "Men At Work plus special guest Toad the Wet Sprock",
-      "date": "2026-08-14",
+      "name": "Trans Music Showcase",
+      "date": "2026-08-15",
+      "time": "17:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Sat Aug 15"
+    },
+    {
+      "name": "Joe Russo's Almost Dead",
+      "date": "2026-08-15",
       "time": "18:00:00",
       "venue": "Remlinger Farms",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Aug 14"
+      "genre": "Undefined",
+      "date_pretty": "Sat Aug 15"
     },
     {
-      "name": "Seattle Reign FC vs. Chicago Stars FC",
-      "date": "2026-08-14",
-      "time": "19:00:00",
-      "venue": "Lumen Field",
+      "name": "Tacoma Rainiers vs. Reno Aces",
+      "date": "2026-08-15",
+      "time": "18:05:00",
+      "venue": "Cheney Stadium",
       "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Fri Aug 14"
-    },
-    {
-      "name": "Seattle Storm vs. Portland Fire",
-      "date": "2026-08-14",
-      "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Fri Aug 14"
-    },
-    {
-      "name": "Ali Wong Live",
-      "date": "2026-08-14",
-      "time": "19:00:00",
-      "venue": "McCaw Hall",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Aug 14"
+      "genre": "Baseball",
+      "date_pretty": "Sat Aug 15"
     }
   ]
 }

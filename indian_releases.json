@@ -1,15 +1,15 @@
 {
   "hero": {
-    "title": "DC",
-    "original_title": "டிசி",
-    "language": "Tamil",
-    "rating": 8.0,
-    "release_date": "2026-08-07",
-    "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in t",
+    "title": "Awarapan 2",
+    "original_title": "आवारापन २",
+    "language": "Hindi",
+    "rating": 0.0,
+    "release_date": "2026-08-14",
+    "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destin",
     "genres": [
-      "Romance",
       "Action",
-      "Drama"
+      "Drama",
+      "Romance"
     ]
   },
   "others": [
@@ -17,6 +17,11 @@
       "title": "Vishwanath & Sons",
       "language": "Tamil",
       "release_date": "2026-08-14"
+    },
+    {
+      "title": "Pyaar Prema Kalyanam",
+      "language": "Tamil",
+      "release_date": "2026-08-21"
     },
     {
       "title": "Toxic: A Fairy Tale For Grown-",
@@ -27,11 +32,6 @@
       "title": "Batwara 1947",
       "language": "Hindi",
       "release_date": "2026-08-13"
-    },
-    {
-      "title": "Awarapan 2",
-      "language": "Hindi",
-      "release_date": "2026-08-14"
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Super Funny Comedy Festival | Public All-Access Pa",
-    "date": "2026-08-10",
-    "time": "08:00:00",
+    "name": "Brunch By Ness",
+    "date": "2026-08-16",
+    "time": "10:00:00",
     "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
+    "segment": "Miscellaneous",
     "genre": "",
-    "date_pretty": "Mon Aug 10"
+    "date_pretty": "Sun Aug 16"
   },
   "others": [
     {
-      "name": "Super Funny Comedy Festival Artist Registration",
-      "date": "2026-08-10",
-      "time": "08:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Mon Aug 10"
+      "name": "Tacoma Rainiers vs. Reno Aces",
+      "date": "2026-08-16",
+      "time": "13:35:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun Aug 16"
     },
     {
-      "name": "Joseph and the Amazing Technicolor Dreamcoat",
-      "date": "2026-08-15",
+      "name": "Seattle Storm vs. Chicago Sky",
+      "date": "2026-08-16",
       "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sat Aug 15"
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Sun Aug 16"
+    },
+    {
+      "name": "Sayless Sundays",
+      "date": "2026-08-16",
+      "time": "14:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Sun Aug 16"
     },
     {
       "name": "Everett AquaSox vs. Spokane Indians",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "time": "",
       "venue": "Funko Field",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Sat Aug 15"
+      "date_pretty": "Sun Aug 16"
     },
     {
-      "name": "Preseason Game: Seattle Seahawks v Dallas Cowboys",
-      "date": "2026-08-15",
+      "name": "The Beths w/ Beach Bunny",
+      "date": "2026-08-16",
       "time": "17:00:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sat Aug 15"
-    },
-    {
-      "name": "Trans Music Showcase",
-      "date": "2026-08-15",
-      "time": "17:00:00",
-      "venue": "Chop Suey",
+      "venue": "Woodland Park Zoo",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Aug 15"
+      "genre": "Other",
+      "date_pretty": "Sun Aug 16"
     },
     {
-      "name": "Joe Russo's Almost Dead",
-      "date": "2026-08-15",
-      "time": "18:00:00",
-      "venue": "Remlinger Farms",
-      "segment": "Music",
-      "genre": "Undefined",
-      "date_pretty": "Sat Aug 15"
+      "name": "Ryan Charles (21+ Event)",
+      "date": "2026-08-16",
+      "time": "19:00:00",
+      "venue": "Nectar Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sun Aug 16"
     },
     {
-      "name": "Tacoma Rainiers vs. Reno Aces",
-      "date": "2026-08-15",
-      "time": "18:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Sat Aug 15"
+      "name": "The BIG Cheese!",
+      "date": "2026-08-16",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sun Aug 16"
     }
   ]
 }

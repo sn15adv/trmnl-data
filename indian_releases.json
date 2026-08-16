@@ -1,21 +1,25 @@
 {
   "hero": {
-    "title": "Awarapan 2",
-    "original_title": "आवारापन २",
-    "language": "Hindi",
-    "rating": 0.0,
+    "title": "Vishwanath & Sons",
+    "original_title": "விஸ்வநாத் & சன்ஸ்",
+    "language": "Tamil",
+    "rating": 8.7,
     "release_date": "2026-08-14",
-    "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destin",
+    "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that th",
     "genres": [
-      "Action",
       "Drama",
       "Romance"
     ]
   },
   "others": [
     {
-      "title": "Vishwanath & Sons",
-      "language": "Tamil",
+      "title": "Batwara 1947",
+      "language": "Hindi",
+      "release_date": "2026-08-13"
+    },
+    {
+      "title": "Awarapan 2",
+      "language": "Hindi",
       "release_date": "2026-08-14"
     },
     {
@@ -27,11 +31,6 @@
       "title": "Toxic: A Fairy Tale For Grown-",
       "language": "Kannada",
       "release_date": "2026-08-25"
-    },
-    {
-      "title": "Batwara 1947",
-      "language": "Hindi",
-      "release_date": "2026-08-13"
     }
   ]
 }

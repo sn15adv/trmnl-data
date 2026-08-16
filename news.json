@@ -1,10 +1,13 @@
 {
   "articles": [
     {
-      "title": "Rescuers search for survivors of powerful Indonesia earthquake"
+      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine"
     },
     {
-      "title": "Hawaii battles strong winds and rain as Hurricane Lala threat looms"
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue"
+    },
+    {
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain"
     },
     {
       "title": "Twelve killed as Polish bus veers off Hungarian motorway"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Australian state to launch gun buyback after Bondi Beach attack"
-    },
-    {
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand"
     }
   ]
 }

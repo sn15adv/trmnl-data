@@ -1,59 +1,14 @@
 {
   "hero": {
-    "name": "Fink",
-    "date": "2026-08-17",
-    "time": "20:00:00",
-    "venue": "The Crocodile",
-    "segment": "Music",
-    "genre": "Folk",
-    "date_pretty": "Mon Aug 17"
+    "name": "Paint and Sip (Snail)",
+    "date": "2026-08-18",
+    "time": "15:30:00",
+    "venue": "Nate Jackson's Super Funny Comedy C",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Tue Aug 18"
   },
   "others": [
-    {
-      "name": "Corbyn Besson and Soulidified: The Pop'n Out Tour",
-      "date": "2026-08-17",
-      "time": "20:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Mon Aug 17"
-    },
-    {
-      "name": "Tractor Presents: Sean Hayes w/ guests at The Suns",
-      "date": "2026-08-17",
-      "time": "20:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Mon Aug 17"
-    },
-    {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-08-17",
-      "time": "",
-      "venue": "Lumen Field Stadium Tours",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Aug 17"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-08-17",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Aug 17"
-    },
-    {
-      "name": "Paint and Sip (Snail)",
-      "date": "2026-08-18",
-      "time": "15:30:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Aug 18"
-    },
     {
       "name": "Chateau Ste Michelle: Tables & Cabanas - O.A.R.",
       "date": "2026-08-18",
@@ -70,6 +25,51 @@
       "venue": "Chateau Ste Michelle Winery",
       "segment": "Music",
       "genre": "Rock",
+      "date_pretty": "Tue Aug 18"
+    },
+    {
+      "name": "TOTO + Christopher Cross + The Romantics",
+      "date": "2026-08-18",
+      "time": "18:45:00",
+      "venue": "White River Amphitheatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Aug 18"
+    },
+    {
+      "name": "Hulvey - \"Could Be Tonight\" Tour",
+      "date": "2026-08-18",
+      "time": "19:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Tue Aug 18"
+    },
+    {
+      "name": "Raised By TV Events Presents: Mario Kart N64 Tourn",
+      "date": "2026-08-18",
+      "time": "19:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Tue Aug 18"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-08-18",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Aug 18"
+    },
+    {
+      "name": "Little Shop of Horrors 40th Anniv. Screening Hoste",
+      "date": "2026-08-18",
+      "time": "19:30:00",
+      "venue": "The 5th Avenue Theatre",
+      "segment": "Film",
+      "genre": "Comedy",
       "date_pretty": "Tue Aug 18"
     }
   ]

@@ -13,14 +13,14 @@
   },
   "others": [
     {
-      "title": "Batwara 1947",
-      "language": "Hindi",
-      "release_date": "2026-08-13"
-    },
-    {
       "title": "Awarapan 2",
       "language": "Hindi",
       "release_date": "2026-08-14"
+    },
+    {
+      "title": "Batwara 1947",
+      "language": "Hindi",
+      "release_date": "2026-08-13"
     },
     {
       "title": "Pyaar Prema Kalyanam",
@@ -30,7 +30,7 @@
     {
       "title": "Toxic: A Fairy Tale For Grown-",
       "language": "Kannada",
-      "release_date": "2026-08-25"
+      "release_date": "2026-08-26"
     }
   ]
 }

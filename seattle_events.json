@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Paint and Sip (Snail)",
-    "date": "2026-08-18",
-    "time": "15:30:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Tue Aug 18"
+    "name": "CMF Presents: Base Camp Featuring Trombone Shorty ",
+    "date": "2026-08-19",
+    "time": "16:00:00",
+    "venue": "Marymoor Park",
+    "segment": "Miscellaneous",
+    "genre": "Community/Civic",
+    "date_pretty": "Wed Aug 19"
   },
   "others": [
     {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - O.A.R.",
-      "date": "2026-08-18",
-      "time": "18:30:00",
-      "venue": "Chateau Ste Michelle Winery",
+      "name": "Trombone Shorty & Orleans Avenue And St. Paul & Th",
+      "date": "2026-08-19",
+      "time": "17:30:00",
+      "venue": "Marymoor Live - Presented By Toyota",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Tue Aug 18"
+      "genre": "Jazz",
+      "date_pretty": "Wed Aug 19"
     },
     {
-      "name": "O.A.R. Three Decades Tour",
-      "date": "2026-08-18",
-      "time": "18:30:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Tue Aug 18"
-    },
-    {
-      "name": "TOTO + Christopher Cross + The Romantics",
-      "date": "2026-08-18",
-      "time": "18:45:00",
-      "venue": "White River Amphitheatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Tue Aug 18"
-    },
-    {
-      "name": "Hulvey - \"Could Be Tonight\" Tour",
-      "date": "2026-08-18",
-      "time": "19:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Tue Aug 18"
-    },
-    {
-      "name": "Raised By TV Events Presents: Mario Kart N64 Tourn",
-      "date": "2026-08-18",
-      "time": "19:00:00",
-      "venue": "Clock-Out Lounge",
+      "name": "WAMU Theater Amplified Access: Goose (Not an Event",
+      "date": "2026-08-19",
+      "time": "18:00:00",
+      "venue": "WAMU Theater",
       "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Tue Aug 18"
+      "genre": "Undefined",
+      "date_pretty": "Wed Aug 19"
     },
     {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-08-18",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Aug 18"
+      "name": "Goose",
+      "date": "2026-08-19",
+      "time": "18:00:00",
+      "venue": "WAMU Theater",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Aug 19"
     },
     {
-      "name": "Little Shop of Horrors 40th Anniv. Screening Hoste",
-      "date": "2026-08-18",
+      "name": "Seattle Sounders FC vs. Austin FC",
+      "date": "2026-08-19",
+      "time": "18:30:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Wed Aug 19"
+    },
+    {
+      "name": "Willowake, Growing Pains",
+      "date": "2026-08-19",
       "time": "19:30:00",
-      "venue": "The 5th Avenue Theatre",
-      "segment": "Film",
-      "genre": "Comedy",
-      "date_pretty": "Tue Aug 18"
+      "venue": "Baba Yaga",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed Aug 19"
+    },
+    {
+      "name": "Quicksand w/ Bane",
+      "date": "2026-08-19",
+      "time": "19:30:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Wed Aug 19"
+    },
+    {
+      "name": "Dale Watson and His Lone Stars w/ DJ Marvelette",
+      "date": "2026-08-19",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Wed Aug 19"
     }
   ]
 }

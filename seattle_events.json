@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "CMF Presents: Base Camp Featuring Trombone Shorty ",
-    "date": "2026-08-19",
-    "time": "16:00:00",
-    "venue": "Marymoor Park",
-    "segment": "Miscellaneous",
-    "genre": "Community/Civic",
-    "date_pretty": "Wed Aug 19"
+    "name": "Maryjo",
+    "date": "2026-08-20",
+    "time": "19:00:00",
+    "venue": "Barboza",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Thu Aug 20"
   },
   "others": [
     {
-      "name": "Trombone Shorty & Orleans Avenue And St. Paul & Th",
-      "date": "2026-08-19",
-      "time": "17:30:00",
-      "venue": "Marymoor Live - Presented By Toyota",
-      "segment": "Music",
-      "genre": "Jazz",
-      "date_pretty": "Wed Aug 19"
-    },
-    {
-      "name": "WAMU Theater Amplified Access: Goose (Not an Event",
-      "date": "2026-08-19",
-      "time": "18:00:00",
-      "venue": "WAMU Theater",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Wed Aug 19"
-    },
-    {
-      "name": "Goose",
-      "date": "2026-08-19",
-      "time": "18:00:00",
-      "venue": "WAMU Theater",
+      "name": "Desperado - The Eagles Tribute",
+      "date": "2026-08-20",
+      "time": "19:00:00",
+      "venue": "Suquamish Clearwater Resort Lawn",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Wed Aug 19"
+      "date_pretty": "Thu Aug 20"
     },
     {
-      "name": "Seattle Sounders FC vs. Austin FC",
-      "date": "2026-08-19",
-      "time": "18:30:00",
-      "venue": "Lumen Field",
+      "name": "Washington Huskies Mens Soccer vs. San Diego Torer",
+      "date": "2026-08-20",
+      "time": "19:30:00",
+      "venue": "Husky Soccer Stadium",
       "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Wed Aug 19"
+      "genre": "Miscellaneous",
+      "date_pretty": "Thu Aug 20"
     },
     {
-      "name": "Willowake, Growing Pains",
-      "date": "2026-08-19",
-      "time": "19:30:00",
-      "venue": "Baba Yaga",
+      "name": "Gillian Welch & David Rawlings Play Grateful Dead ",
+      "date": "2026-08-20",
+      "time": "20:00:00",
+      "venue": "Moore Theatre",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Aug 19"
+      "genre": "Rock",
+      "date_pretty": "Thu Aug 20"
     },
     {
-      "name": "Quicksand w/ Bane",
-      "date": "2026-08-19",
-      "time": "19:30:00",
-      "venue": "The Showbox",
+      "name": "Gallant, Stefan Mahendra",
+      "date": "2026-08-20",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "R&B",
+      "date_pretty": "Thu Aug 20"
+    },
+    {
+      "name": "Ruby Mimosa Presents: BurlesKaraoke",
+      "date": "2026-08-20",
+      "time": "20:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Aug 20"
+    },
+    {
+      "name": "FRANC MOODY plus DJ Max Gain (21+ Event)",
+      "date": "2026-08-20",
+      "time": "20:00:00",
+      "venue": "Nectar Lounge",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Wed Aug 19"
+      "date_pretty": "Thu Aug 20"
     },
     {
-      "name": "Dale Watson and His Lone Stars w/ DJ Marvelette",
-      "date": "2026-08-19",
-      "time": "19:30:00",
+      "name": "Bijoux Cone, Erica Rose & The Ragged School, Blast",
+      "date": "2026-08-20",
+      "time": "20:00:00",
       "venue": "Tractor",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Aug 19"
+      "genre": "Alternative",
+      "date_pretty": "Thu Aug 20"
     }
   ]
 }

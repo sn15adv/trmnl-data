@@ -1,6 +1,9 @@
 {
   "articles": [
     {
+      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight"
+    },
+    {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation"
     },
     {
@@ -16,19 +19,16 @@
       "title": "Former Liberian vice president charged in drug-trafficking probe"
     },
     {
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash"
-    },
-    {
       "title": "Israel opens up bids for highly-sensitive West Bank settlement project"
     },
     {
       "title": "Sacked Ukrainian defence minister calls for presidential election"
     },
     {
-      "title": "Missing teen hiker found dead in Australian bush after eight-day search"
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash"
     },
     {
-      "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts"
+      "title": "Missing teen hiker found dead in Australian bush after eight-day search"
     }
   ]
 }

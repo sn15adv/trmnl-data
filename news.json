@@ -1,16 +1,13 @@
 {
   "articles": [
     {
+      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests"
+    },
+    {
       "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project"
     },
     {
       "title": "How much could Trump's 'economic D-Day' hurt Iran?"
-    },
-    {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office"
-    },
-    {
-      "title": "Why the US economy is ringing alarm bells"
     },
     {
       "title": "Hong Kong's Tiananmen activists guilty in national security trial"
@@ -29,6 +26,9 @@
     },
     {
       "title": "Japan executes man who killed five in Pachinko parlour fire"
+    },
+    {
+      "title": "Como mayor hit by electric bike and issues blanket ban in Italian city"
     }
   ]
 }

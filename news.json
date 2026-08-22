@@ -1,16 +1,19 @@
 {
   "articles": [
     {
+      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms"
+    },
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements"
+    },
+    {
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests"
     },
     {
-      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say"
+      "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say"
     },
     {
       "title": "One killed in sword attack at Swedish school"
-    },
-    {
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial"
     },
     {
       "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza"
@@ -19,16 +22,13 @@
       "title": "Two injured in stabbing attack at Canada Sikh temple"
     },
     {
-      "title": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections"
-    },
-    {
       "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots"
     },
     {
       "title": "Germany investigates Russia links to weapons cache discovered in woods, reports say"
     },
     {
-      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands"
+      "title": "Hong Kong's Tiananmen activists guilty in national security trial"
     }
   ]
 }

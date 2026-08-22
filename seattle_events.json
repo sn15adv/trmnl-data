@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "CMF Presents: Base Camp Featuring NEEDTOBREATHE",
-    "date": "2026-08-21",
-    "time": "16:30:00",
-    "venue": "Marymoor Park",
-    "segment": "Miscellaneous",
-    "genre": "Community/Civic",
-    "date_pretty": "Fri Aug 21"
+    "name": "Drag Brunch",
+    "date": "2026-08-22",
+    "time": "12:00:00",
+    "venue": "Nate Jackson's Super Funny Comedy C",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Sat Aug 22"
   },
   "others": [
     {
+      "name": "Matinee Show: Willy Braun (of Reckless Kelly) - pa",
+      "date": "2026-08-22",
+      "time": "14:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Sat Aug 22"
+    },
+    {
+      "name": "CMF Presents: Base Camp Featuring Alison Krauss & ",
+      "date": "2026-08-22",
+      "time": "16:00:00",
+      "venue": "Marymoor Park",
+      "segment": "Miscellaneous",
+      "genre": "Community/Civic",
+      "date_pretty": "Sat Aug 22"
+    },
+    {
+      "name": "Seattle Mariners vs. Chicago Cubs",
+      "date": "2026-08-22",
+      "time": "16:15:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sat Aug 22"
+    },
+    {
+      "name": "Faisal Kapadia (21 and Over)",
+      "date": "2026-08-22",
+      "time": "17:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Sat Aug 22"
+    },
+    {
+      "name": "ANONA, Glass Cannons, Karismata",
+      "date": "2026-08-22",
+      "time": "17:30:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Sat Aug 22"
+    },
+    {
       "name": "Earlybirds Club",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "time": "18:00:00",
       "venue": "The Crocodile",
       "segment": "Music",
       "genre": "Dance/Electronic",
-      "date_pretty": "Fri Aug 21"
+      "date_pretty": "Sat Aug 22"
     },
     {
-      "name": "NEEDTOBREATHE: The Long Surrender Tour",
-      "date": "2026-08-21",
-      "time": "18:30:00",
-      "venue": "Marymoor Live - Presented By Toyota",
+      "name": "I Wanna Dance with Somebody:80s Party! (21+ Event)",
+      "date": "2026-08-22",
+      "time": "18:00:00",
+      "venue": "Nectar Lounge",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Aug 21"
-    },
-    {
-      "name": "CRASHING OUT LIVE",
-      "date": "2026-08-21",
-      "time": "19:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Multimedia",
-      "date_pretty": "Fri Aug 21"
-    },
-    {
-      "name": "Washington Huskies Womens Volleyball vs. Montana S",
-      "date": "2026-08-21",
-      "time": "19:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri Aug 21"
-    },
-    {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - Gipsy Kin",
-      "date": "2026-08-21",
-      "time": "19:00:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Latin",
-      "date_pretty": "Fri Aug 21"
-    },
-    {
-      "name": "Gipsy Kings featuring Nicolas Reyes",
-      "date": "2026-08-21",
-      "time": "19:00:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Latin",
-      "date_pretty": "Fri Aug 21"
-    },
-    {
-      "name": "Nate Jackson",
-      "date": "2026-08-21",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Aug 21"
+      "genre": "Other",
+      "date_pretty": "Sat Aug 22"
     }
   ]
 }

@@ -1,27 +1,18 @@
 {
   "hero": {
-    "title": "Vishwanath & Sons",
-    "original_title": "விஸ்வநாத் & சன்ஸ்",
+    "title": "Pyaar Prema Kalyanam",
+    "original_title": "ப்யார் ப்ரேமா கல்யாணம்",
     "language": "Tamil",
-    "rating": 8.4,
-    "release_date": "2026-08-14",
-    "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that th",
+    "rating": 0.0,
+    "release_date": "2026-08-21",
+    "overview": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof.",
     "genres": [
-      "Drama",
-      "Romance"
+      "Romance",
+      "Comedy",
+      "Drama"
     ]
   },
   "others": [
-    {
-      "title": "Awarapan 2",
-      "language": "Hindi",
-      "release_date": "2026-08-14"
-    },
-    {
-      "title": "Pyaar Prema Kalyanam",
-      "language": "Tamil",
-      "release_date": "2026-08-21"
-    },
     {
       "title": "Toxic: A Fairy Tale for Grown-",
       "language": "Kannada",
@@ -31,6 +22,16 @@
       "title": "Khalifa: The Ruler",
       "language": "Malayalam",
       "release_date": "2026-08-20"
+    },
+    {
+      "title": "Irumudi",
+      "language": "Telugu",
+      "release_date": "2026-08-20"
+    },
+    {
+      "title": "Bethlehem Kudumba Unit",
+      "language": "Malayalam",
+      "release_date": "2026-08-21"
     }
   ]
 }

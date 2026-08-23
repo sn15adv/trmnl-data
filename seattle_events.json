@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Drag Brunch",
-    "date": "2026-08-22",
-    "time": "12:00:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Sat Aug 22"
+    "name": "Harry Potter and the Cursed Child (Touring)",
+    "date": "2026-08-23",
+    "time": "13:00:00",
+    "venue": "Paramount Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "date_pretty": "Sun Aug 23"
   },
   "others": [
     {
-      "name": "Matinee Show: Willy Braun (of Reckless Kelly) - pa",
-      "date": "2026-08-22",
-      "time": "14:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Aug 22"
-    },
-    {
-      "name": "CMF Presents: Base Camp Featuring Alison Krauss & ",
-      "date": "2026-08-22",
-      "time": "16:00:00",
-      "venue": "Marymoor Park",
-      "segment": "Miscellaneous",
-      "genre": "Community/Civic",
-      "date_pretty": "Sat Aug 22"
-    },
-    {
       "name": "Seattle Mariners vs. Chicago Cubs",
-      "date": "2026-08-22",
-      "time": "16:15:00",
+      "date": "2026-08-23",
+      "time": "13:10:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Sat Aug 22"
+      "date_pretty": "Sun Aug 23"
     },
     {
-      "name": "Faisal Kapadia (21 and Over)",
-      "date": "2026-08-22",
+      "name": "Jane Lynch",
+      "date": "2026-08-23",
       "time": "17:00:00",
-      "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Sat Aug 22"
+      "venue": "Federal Way PAEC",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sun Aug 23"
     },
     {
-      "name": "ANONA, Glass Cannons, Karismata",
-      "date": "2026-08-22",
-      "time": "17:30:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Aug 22"
-    },
-    {
-      "name": "Earlybirds Club",
-      "date": "2026-08-22",
+      "name": "Raised By TV Events Presents: all ages The Office ",
+      "date": "2026-08-23",
       "time": "18:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Sat Aug 22"
+      "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Sun Aug 23"
     },
     {
-      "name": "I Wanna Dance with Somebody:80s Party! (21+ Event)",
-      "date": "2026-08-22",
-      "time": "18:00:00",
-      "venue": "Nectar Lounge",
+      "name": "Harry Potter and the Cursed Child (Touring)",
+      "date": "2026-08-23",
+      "time": "19:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sun Aug 23"
+    },
+    {
+      "name": "CAKE",
+      "date": "2026-08-23",
+      "time": "19:00:00",
+      "venue": "Remlinger Farms",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Sat Aug 22"
+      "genre": "Rock",
+      "date_pretty": "Sun Aug 23"
+    },
+    {
+      "name": "Tim Shropshire",
+      "date": "2026-08-23",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sun Aug 23"
+    },
+    {
+      "name": "Muse - The Wow! Signal Tour",
+      "date": "2026-08-23",
+      "time": "19:00:00",
+      "venue": "White River Amphitheatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sun Aug 23"
     }
   ]
 }

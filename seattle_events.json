@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Harry Potter and the Cursed Child (Touring)",
-    "date": "2026-08-23",
-    "time": "13:00:00",
-    "venue": "Paramount Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Theatre",
-    "date_pretty": "Sun Aug 23"
+    "name": "Seattle Mariners vs. Philadelphia Phillies",
+    "date": "2026-08-24",
+    "time": "18:40:00",
+    "venue": "T-Mobile Park",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Mon Aug 24"
   },
   "others": [
     {
-      "name": "Seattle Mariners vs. Chicago Cubs",
-      "date": "2026-08-23",
-      "time": "13:10:00",
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-08-24",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Aug 24"
+    },
+    {
+      "name": "Everett AquaSox vs. Eugene Emeralds",
+      "date": "2026-08-25",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Tue Aug 25"
+    },
+    {
+      "name": "Seattle Mariners vs. Philadelphia Phillies",
+      "date": "2026-08-25",
+      "time": "18:40:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Sun Aug 23"
+      "date_pretty": "Tue Aug 25"
     },
     {
-      "name": "Jane Lynch",
-      "date": "2026-08-23",
-      "time": "17:00:00",
-      "venue": "Federal Way PAEC",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Aug 23"
-    },
-    {
-      "name": "Raised By TV Events Presents: all ages The Office ",
-      "date": "2026-08-23",
-      "time": "18:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Sun Aug 23"
-    },
-    {
-      "name": "Harry Potter and the Cursed Child (Touring)",
-      "date": "2026-08-23",
+      "name": "SCRAMBLER JAM!",
+      "date": "2026-08-25",
       "time": "19:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Aug 23"
-    },
-    {
-      "name": "CAKE",
-      "date": "2026-08-23",
-      "time": "19:00:00",
-      "venue": "Remlinger Farms",
+      "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Aug 23"
+      "genre": "Other",
+      "date_pretty": "Tue Aug 25"
     },
     {
-      "name": "Tim Shropshire",
-      "date": "2026-08-23",
+      "name": "Bikini Trill w/ Jon Wiilde",
+      "date": "2026-08-25",
+      "time": "19:00:00",
+      "venue": "Barboza",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Aug 25"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-08-25",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sun Aug 23"
+      "date_pretty": "Tue Aug 25"
     },
     {
-      "name": "Muse - The Wow! Signal Tour",
-      "date": "2026-08-23",
-      "time": "19:00:00",
-      "venue": "White River Amphitheatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Aug 23"
+      "name": "Tacoma Rainiers vs. Salt Lake Bees",
+      "date": "2026-08-25",
+      "time": "19:05:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Tue Aug 25"
     }
   ]
 }

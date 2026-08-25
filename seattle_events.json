@@ -1,32 +1,14 @@
 {
   "hero": {
-    "name": "Seattle Mariners vs. Philadelphia Phillies",
-    "date": "2026-08-24",
-    "time": "18:40:00",
-    "venue": "T-Mobile Park",
+    "name": "Everett AquaSox vs. Eugene Emeralds",
+    "date": "2026-08-25",
+    "time": "",
+    "venue": "Funko Field",
     "segment": "Sports",
-    "genre": "Baseball",
-    "date_pretty": "Mon Aug 24"
+    "genre": "Miscellaneous",
+    "date_pretty": "Tue Aug 25"
   },
   "others": [
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-08-24",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Aug 24"
-    },
-    {
-      "name": "Everett AquaSox vs. Eugene Emeralds",
-      "date": "2026-08-25",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Tue Aug 25"
-    },
     {
       "name": "Seattle Mariners vs. Philadelphia Phillies",
       "date": "2026-08-25",
@@ -70,6 +52,24 @@
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
+      "date_pretty": "Tue Aug 25"
+    },
+    {
+      "name": "Harry Potter and the Cursed Child (Touring)",
+      "date": "2026-08-25",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Tue Aug 25"
+    },
+    {
+      "name": "J. Cole: The Fall-Off Tour",
+      "date": "2026-08-25",
+      "time": "20:00:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
       "date_pretty": "Tue Aug 25"
     }
   ]

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Seattle Mariners vs. Philadelphia Phillies",
-    "date": "2026-08-26",
-    "time": "13:10:00",
-    "venue": "T-Mobile Park",
-    "segment": "Sports",
-    "genre": "Baseball",
-    "date_pretty": "Wed Aug 26"
+    "name": "Max Amini Live in Seattle",
+    "date": "2026-08-27",
+    "time": "18:00:00",
+    "venue": "McCaw Hall",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "date_pretty": "Thu Aug 27"
   },
   "others": [
     {
-      "name": "Everett AquaSox vs. Eugene Emeralds",
-      "date": "2026-08-26",
-      "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Wed Aug 26"
-    },
-    {
-      "name": "KAROL G - VIAJANDO POR EL MUNDO TROPITOUR",
-      "date": "2026-08-26",
-      "time": "19:00:00",
-      "venue": "Lumen Field",
-      "segment": "Music",
-      "genre": "Latin",
-      "date_pretty": "Wed Aug 26"
-    },
-    {
-      "name": "Seattle Storm vs. Toronto Tempo",
-      "date": "2026-08-26",
-      "time": "19:00:00",
+      "name": "The Red Clay Strays",
+      "date": "2026-08-27",
+      "time": "18:30:00",
       "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Wed Aug 26"
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Thu Aug 27"
+    },
+    {
+      "name": "KUBLAII with Daughters of Venus, Roy G. Biv (21+ E",
+      "date": "2026-08-27",
+      "time": "19:00:00",
+      "venue": "Nectar Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Aug 27"
+    },
+    {
+      "name": "The Heart of Rock and Roll -  Huey Lewis Tribute",
+      "date": "2026-08-27",
+      "time": "19:00:00",
+      "venue": "Suquamish Clearwater Resort Lawn",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Thu Aug 27"
     },
     {
       "name": "Tacoma Rainiers vs. Salt Lake Bees",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "time": "19:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Wed Aug 26"
+      "date_pretty": "Thu Aug 27"
     },
     {
       "name": "Harry Potter and the Cursed Child (Touring)",
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Wed Aug 26"
+      "date_pretty": "Thu Aug 27"
     },
     {
-      "name": "Little Stranger (21 and Over)",
-      "date": "2026-08-26",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Aug 26"
+      "name": "Washington Huskies Mens Soccer vs. Portland Pilots",
+      "date": "2026-08-27",
+      "time": "19:30:00",
+      "venue": "Husky Soccer Stadium",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Thu Aug 27"
     },
     {
-      "name": "Crow Kid, Wearing Hats, The Mural Project",
-      "date": "2026-08-26",
+      "name": "Impulse Noise, Ectopic Pregnancy, Distest, MIDWEST",
+      "date": "2026-08-27",
       "time": "20:00:00",
       "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Aug 26"
+      "genre": "Rock",
+      "date_pretty": "Thu Aug 27"
     }
   ]
 }

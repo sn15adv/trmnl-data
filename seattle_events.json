@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Max Amini Live in Seattle",
-    "date": "2026-08-27",
-    "time": "18:00:00",
-    "venue": "McCaw Hall",
-    "segment": "Arts & Theatre",
-    "genre": "Comedy",
-    "date_pretty": "Thu Aug 27"
+    "name": "Washington Huskies Womens Volleyball vs. UC Irvine",
+    "date": "2026-08-28",
+    "time": "",
+    "venue": "Alaska Airlines Arena at Hec Edmund",
+    "segment": "Sports",
+    "genre": "Miscellaneous",
+    "date_pretty": "Fri Aug 28"
   },
   "others": [
     {
-      "name": "The Red Clay Strays",
-      "date": "2026-08-27",
-      "time": "18:30:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Thu Aug 27"
-    },
-    {
-      "name": "KUBLAII with Daughters of Venus, Roy G. Biv (21+ E",
-      "date": "2026-08-27",
-      "time": "19:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Aug 27"
-    },
-    {
-      "name": "The Heart of Rock and Roll -  Huey Lewis Tribute",
-      "date": "2026-08-27",
-      "time": "19:00:00",
-      "venue": "Suquamish Clearwater Resort Lawn",
+      "name": "Black Marble, The Serfs",
+      "date": "2026-08-28",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Thu Aug 27"
+      "date_pretty": "Fri Aug 28"
+    },
+    {
+      "name": "Monster Trucks",
+      "date": "2026-08-28",
+      "time": "18:55:00",
+      "venue": "Evergreen State Fair",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Aug 28"
+    },
+    {
+      "name": "The Strokes - Reality Awaits North America",
+      "date": "2026-08-28",
+      "time": "19:00:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Fri Aug 28"
+    },
+    {
+      "name": "Toast - The Best of Bread",
+      "date": "2026-08-28",
+      "time": "19:00:00",
+      "venue": "Rialto Theater",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Fri Aug 28"
     },
     {
       "name": "Tacoma Rainiers vs. Salt Lake Bees",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "19:05:00",
       "venue": "Cheney Stadium",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Thu Aug 27"
+      "date_pretty": "Fri Aug 28"
     },
     {
       "name": "Harry Potter and the Cursed Child (Touring)",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Thu Aug 27"
+      "date_pretty": "Fri Aug 28"
     },
     {
-      "name": "Washington Huskies Mens Soccer vs. Portland Pilots",
-      "date": "2026-08-27",
+      "name": "Jordan Jensen",
+      "date": "2026-08-28",
       "time": "19:30:00",
-      "venue": "Husky Soccer Stadium",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Thu Aug 27"
-    },
-    {
-      "name": "Impulse Noise, Ectopic Pregnancy, Distest, MIDWEST",
-      "date": "2026-08-27",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Thu Aug 27"
+      "venue": "Moore Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Fri Aug 28"
     }
   ]
 }

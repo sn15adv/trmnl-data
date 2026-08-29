@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Washington Huskies Womens Volleyball vs. UC Irvine",
-    "date": "2026-08-28",
-    "time": "",
-    "venue": "Alaska Airlines Arena at Hec Edmund",
-    "segment": "Sports",
-    "genre": "Miscellaneous",
-    "date_pretty": "Fri Aug 28"
+    "name": "Harry Potter and the Cursed Child (Touring)",
+    "date": "2026-08-29",
+    "time": "13:30:00",
+    "venue": "Paramount Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "date_pretty": "Sat Aug 29"
   },
   "others": [
     {
-      "name": "Black Marble, The Serfs",
-      "date": "2026-08-28",
-      "time": "18:00:00",
+      "name": "Seattle Sounders FC vs. Chicago Fire FC",
+      "date": "2026-08-29",
+      "time": "13:30:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Sat Aug 29"
+    },
+    {
+      "name": "GAS WORKS DAY PARTY",
+      "date": "2026-08-29",
+      "time": "15:00:00",
+      "venue": "Gas Works Park",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Aug 29"
+    },
+    {
+      "name": "Washington Huskies Womens Volleyball vs. San Diego",
+      "date": "2026-08-29",
+      "time": "",
+      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sat Aug 29"
+    },
+    {
+      "name": "Bingo Loco - 21+",
+      "date": "2026-08-29",
+      "time": "17:00:00",
       "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Aug 28"
+      "genre": "Other",
+      "date_pretty": "Sat Aug 29"
+    },
+    {
+      "name": "Katzman & Coach Seattle Rampage featuring Who Is S",
+      "date": "2026-08-29",
+      "time": "17:30:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Sat Aug 29"
+    },
+    {
+      "name": "Gabriel Iglesias",
+      "date": "2026-08-29",
+      "time": "17:30:00",
+      "venue": "Muckleshoot Casino Events Center",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sat Aug 29"
     },
     {
       "name": "Monster Trucks",
-      "date": "2026-08-28",
-      "time": "18:55:00",
+      "date": "2026-08-29",
+      "time": "17:55:00",
       "venue": "Evergreen State Fair",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Fri Aug 28"
-    },
-    {
-      "name": "The Strokes - Reality Awaits North America",
-      "date": "2026-08-28",
-      "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Aug 28"
-    },
-    {
-      "name": "Toast - The Best of Bread",
-      "date": "2026-08-28",
-      "time": "19:00:00",
-      "venue": "Rialto Theater",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Aug 28"
-    },
-    {
-      "name": "Tacoma Rainiers vs. Salt Lake Bees",
-      "date": "2026-08-28",
-      "time": "19:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Fri Aug 28"
-    },
-    {
-      "name": "Harry Potter and the Cursed Child (Touring)",
-      "date": "2026-08-28",
-      "time": "19:30:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Fri Aug 28"
-    },
-    {
-      "name": "Jordan Jensen",
-      "date": "2026-08-28",
-      "time": "19:30:00",
-      "venue": "Moore Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Aug 28"
+      "date_pretty": "Sat Aug 29"
     }
   ]
 }

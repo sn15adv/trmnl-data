@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Harry Potter and the Cursed Child (Touring)",
+    "name": "Bingo Loco presents Name That Song",
     "date": "2026-08-29",
-    "time": "13:30:00",
-    "venue": "Paramount Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Theatre",
+    "time": "21:30:00",
+    "venue": "The Crocodile",
+    "segment": "Miscellaneous",
+    "genre": "",
     "date_pretty": "Sat Aug 29"
   },
   "others": [
     {
-      "name": "Seattle Sounders FC vs. Chicago Fire FC",
-      "date": "2026-08-29",
-      "time": "13:30:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Sat Aug 29"
+      "name": "Harry Potter and the Cursed Child (Touring)",
+      "date": "2026-08-30",
+      "time": "13:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sun Aug 30"
     },
     {
-      "name": "GAS WORKS DAY PARTY",
-      "date": "2026-08-29",
-      "time": "15:00:00",
-      "venue": "Gas Works Park",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Aug 29"
-    },
-    {
-      "name": "Washington Huskies Womens Volleyball vs. San Diego",
-      "date": "2026-08-29",
-      "time": "",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "name": "Everett Silvertips vs. Seattle Thunderbirds",
+      "date": "2026-08-30",
+      "time": "13:00:00",
+      "venue": "Angel of The Winds Arena",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Sat Aug 29"
+      "date_pretty": "Sun Aug 30"
     },
     {
-      "name": "Bingo Loco - 21+",
-      "date": "2026-08-29",
-      "time": "17:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Sat Aug 29"
+      "name": "Tacoma Rainiers vs. Salt Lake Bees",
+      "date": "2026-08-30",
+      "time": "13:35:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun Aug 30"
     },
     {
-      "name": "Katzman & Coach Seattle Rampage featuring Who Is S",
-      "date": "2026-08-29",
-      "time": "17:30:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Aug 29"
-    },
-    {
-      "name": "Gabriel Iglesias",
-      "date": "2026-08-29",
-      "time": "17:30:00",
-      "venue": "Muckleshoot Casino Events Center",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Sat Aug 29"
+      "name": "Seattle Storm vs. Los Angeles Sparks",
+      "date": "2026-08-30",
+      "time": "14:00:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Sun Aug 30"
     },
     {
       "name": "Monster Trucks",
-      "date": "2026-08-29",
-      "time": "17:55:00",
+      "date": "2026-08-30",
+      "time": "14:55:00",
       "venue": "Evergreen State Fair",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Sat Aug 29"
+      "date_pretty": "Sun Aug 30"
+    },
+    {
+      "name": "Seattle Reign FC vs. Houston Dash",
+      "date": "2026-08-30",
+      "time": "16:00:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Sun Aug 30"
+    },
+    {
+      "name": "Everett AquaSox vs. Eugene Emeralds",
+      "date": "2026-08-30",
+      "time": "",
+      "venue": "Funko Field",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sun Aug 30"
     }
   ]
 }

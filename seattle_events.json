@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Bingo Loco presents Name That Song",
-    "date": "2026-08-29",
-    "time": "21:30:00",
-    "venue": "The Crocodile",
-    "segment": "Miscellaneous",
-    "genre": "",
-    "date_pretty": "Sat Aug 29"
+    "name": "Noah Kahan: The Great Divide Tour ",
+    "date": "2026-08-31",
+    "time": "18:30:00",
+    "venue": "T-Mobile Park",
+    "segment": "Music",
+    "genre": "Rock",
+    "date_pretty": "Mon Aug 31"
   },
   "others": [
     {
-      "name": "Harry Potter and the Cursed Child (Touring)",
-      "date": "2026-08-30",
-      "time": "13:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Aug 30"
-    },
-    {
-      "name": "Everett Silvertips vs. Seattle Thunderbirds",
-      "date": "2026-08-30",
-      "time": "13:00:00",
-      "venue": "Angel of The Winds Arena",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Aug 30"
-    },
-    {
-      "name": "Tacoma Rainiers vs. Salt Lake Bees",
-      "date": "2026-08-30",
-      "time": "13:35:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Sun Aug 30"
-    },
-    {
-      "name": "Seattle Storm vs. Los Angeles Sparks",
-      "date": "2026-08-30",
-      "time": "14:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Sun Aug 30"
-    },
-    {
-      "name": "Monster Trucks",
-      "date": "2026-08-30",
-      "time": "14:55:00",
+      "name": "Lee Brice",
+      "date": "2026-08-31",
+      "time": "19:30:00",
       "venue": "Evergreen State Fair",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Aug 30"
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Mon Aug 31"
     },
     {
-      "name": "Seattle Reign FC vs. Houston Dash",
-      "date": "2026-08-30",
-      "time": "16:00:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Sun Aug 30"
+      "name": "ANJA HUWE (XMAL DEUTSCHLAND) w/ 2Libras",
+      "date": "2026-08-31",
+      "time": "20:00:00",
+      "venue": "Baba Yaga",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Mon Aug 31"
     },
     {
-      "name": "Everett AquaSox vs. Eugene Emeralds",
-      "date": "2026-08-30",
+      "name": "PC Master",
+      "date": "2026-08-31",
+      "time": "20:00:00",
+      "venue": "Paramount Theatre    Loge",
+      "segment": "",
+      "genre": "",
+      "date_pretty": "Mon Aug 31"
+    },
+    {
+      "name": "Willie Watson + Erin Rae",
+      "date": "2026-08-31",
+      "time": "20:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Folk",
+      "date_pretty": "Mon Aug 31"
+    },
+    {
+      "name": "Lumen Field Stadium Tours",
+      "date": "2026-08-31",
       "time": "",
-      "venue": "Funko Field",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Aug 30"
+      "venue": "Lumen Field Stadium Tours",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Aug 31"
+    },
+    {
+      "name": "Art Workshop: Planet Small Things (Foodie Edition)",
+      "date": "2026-09-01",
+      "time": "15:30:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Sep 1"
+    },
+    {
+      "name": "Nitzer Ebb (21 and Over)",
+      "date": "2026-09-01",
+      "time": "19:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Sep 1"
     }
   ]
 }

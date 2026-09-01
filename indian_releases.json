@@ -3,7 +3,7 @@
     "title": "Toxic: A Fairy Tale for Grown-ups",
     "original_title": "ಟಾಕ್ಸಿಕ್",
     "language": "Kannada",
-    "rating": 7.1,
+    "rating": 7.2,
     "release_date": "2026-08-26",
     "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
     "genres": [
@@ -24,14 +24,14 @@
       "release_date": "2026-08-28"
     },
     {
-      "title": "Hi!",
-      "language": "Tamil",
-      "release_date": "2026-08-28"
-    },
-    {
       "title": "I'm Game",
       "language": "Malayalam",
       "release_date": "2026-09-03"
+    },
+    {
+      "title": "Hi!",
+      "language": "Tamil",
+      "release_date": "2026-08-28"
     }
   ]
 }

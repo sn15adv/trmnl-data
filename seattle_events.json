@@ -1,73 +1,73 @@
 {
   "hero": {
-    "name": "Noah Kahan: The Great Divide Tour ",
-    "date": "2026-08-31",
-    "time": "18:30:00",
-    "venue": "T-Mobile Park",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Mon Aug 31"
+    "name": "Art Workshop: Planet Small Things (Foodie Edition)",
+    "date": "2026-09-01",
+    "time": "15:30:00",
+    "venue": "Nate Jackson's Super Funny Comedy C",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Tue Sep 1"
   },
   "others": [
     {
-      "name": "Lee Brice",
-      "date": "2026-08-31",
-      "time": "19:30:00",
-      "venue": "Evergreen State Fair",
+      "name": "Nitzer Ebb (21 and Over)",
+      "date": "2026-09-01",
+      "time": "19:00:00",
+      "venue": "Neumos",
       "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Mon Aug 31"
+      "genre": "Other",
+      "date_pretty": "Tue Sep 1"
     },
     {
-      "name": "ANJA HUWE (XMAL DEUTSCHLAND) w/ 2Libras",
-      "date": "2026-08-31",
-      "time": "20:00:00",
-      "venue": "Baba Yaga",
+      "name": "Tame Impala - The Deadbeat Tour ",
+      "date": "2026-09-01",
+      "time": "19:00:00",
+      "venue": "Climate Pledge Arena",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Mon Aug 31"
+      "date_pretty": "Tue Sep 1"
     },
     {
-      "name": "PC Master",
-      "date": "2026-08-31",
-      "time": "20:00:00",
-      "venue": "Paramount Theatre    Loge",
-      "segment": "",
-      "genre": "",
-      "date_pretty": "Mon Aug 31"
-    },
-    {
-      "name": "Willie Watson + Erin Rae",
-      "date": "2026-08-31",
-      "time": "20:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Mon Aug 31"
-    },
-    {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-08-31",
-      "time": "",
-      "venue": "Lumen Field Stadium Tours",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Aug 31"
-    },
-    {
-      "name": "Art Workshop: Planet Small Things (Foodie Edition)",
+      "name": "Tight Five Tuesdays Open Mic!",
       "date": "2026-09-01",
-      "time": "15:30:00",
+      "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
       "date_pretty": "Tue Sep 1"
     },
     {
-      "name": "Nitzer Ebb (21 and Over)",
+      "name": "Harry Potter and the Cursed Child (Touring)",
       "date": "2026-09-01",
-      "time": "19:00:00",
-      "venue": "Neumos",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Tue Sep 1"
+    },
+    {
+      "name": "Sir Mix a Lot",
+      "date": "2026-09-01",
+      "time": "19:30:00",
+      "venue": "Evergreen State Fair",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Tue Sep 1"
+    },
+    {
+      "name": "Brenn!",
+      "date": "2026-09-01",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Tue Sep 1"
+    },
+    {
+      "name": "BRENN! - AMATEUR AT BEST WORLD TOUR",
+      "date": "2026-09-01",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
       "segment": "Music",
       "genre": "Other",
       "date_pretty": "Tue Sep 1"

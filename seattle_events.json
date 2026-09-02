@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Art Workshop: Planet Small Things (Foodie Edition)",
-    "date": "2026-09-01",
-    "time": "15:30:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Tue Sep 1"
+    "name": "Tame Impala - The Deadbeat Tour ",
+    "date": "2026-09-02",
+    "time": "19:00:00",
+    "venue": "Climate Pledge Arena",
+    "segment": "Music",
+    "genre": "Rock",
+    "date_pretty": "Wed Sep 2"
   },
   "others": [
     {
-      "name": "Nitzer Ebb (21 and Over)",
-      "date": "2026-09-01",
+      "name": "Chateau Ste Michelle: Tables & Cabanas - Tori Amos",
+      "date": "2026-09-02",
       "time": "19:00:00",
-      "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Sep 1"
-    },
-    {
-      "name": "Tame Impala - The Deadbeat Tour ",
-      "date": "2026-09-01",
-      "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
+      "venue": "Chateau Ste Michelle Winery",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Tue Sep 1"
+      "date_pretty": "Wed Sep 2"
     },
     {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-09-01",
+      "name": "Tori Amos: In Times of Dragons Tour",
+      "date": "2026-09-02",
       "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Sep 1"
+      "venue": "Chateau Ste Michelle Winery",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Sep 2"
     },
     {
       "name": "Harry Potter and the Cursed Child (Touring)",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Tue Sep 1"
+      "date_pretty": "Wed Sep 2"
     },
     {
-      "name": "Sir Mix a Lot",
-      "date": "2026-09-01",
-      "time": "19:30:00",
-      "venue": "Evergreen State Fair",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Tue Sep 1"
-    },
-    {
-      "name": "Brenn!",
-      "date": "2026-09-01",
+      "name": "Rushadicus: the infamous cello goblin",
+      "date": "2026-09-02",
       "time": "20:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Tue Sep 1"
-    },
-    {
-      "name": "BRENN! - AMATEUR AT BEST WORLD TOUR",
-      "date": "2026-09-01",
-      "time": "20:00:00",
-      "venue": "The Crocodile",
+      "venue": "Chop Suey",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Tue Sep 1"
+      "date_pretty": "Wed Sep 2"
+    },
+    {
+      "name": "FunkyFrogBait Presents: Internet Kid (The Comedy T",
+      "date": "2026-09-02",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Wed Sep 2"
+    },
+    {
+      "name": "Josh Tatofi",
+      "date": "2026-09-02",
+      "time": "20:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Music",
+      "genre": "World",
+      "date_pretty": "Wed Sep 2"
+    },
+    {
+      "name": "Armchair Boogie",
+      "date": "2026-09-02",
+      "time": "20:00:00",
+      "venue": "Nectar Lounge",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Wed Sep 2"
     }
   ]
 }

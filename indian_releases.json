@@ -1,23 +1,18 @@
 {
   "hero": {
-    "title": "Toxic: A Fairy Tale for Grown-ups",
-    "original_title": "ಟಾಕ್ಸಿಕ್",
-    "language": "Kannada",
-    "rating": 7.7,
-    "release_date": "2026-08-26",
-    "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+    "title": "Once More",
+    "original_title": "ஒன்ஸ் மோர்",
+    "language": "Tamil",
+    "rating": 0.0,
+    "release_date": "2026-08-28",
+    "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other",
     "genres": [
-      "Action",
-      "Crime",
-      "Drama"
+      "Music",
+      "Romance",
+      "Comedy"
     ]
   },
   "others": [
-    {
-      "title": "Once More",
-      "language": "Tamil",
-      "release_date": "2026-08-28"
-    },
     {
       "title": "Babita Singh Reporting",
       "language": "Hindi",
@@ -29,9 +24,14 @@
       "release_date": "2026-09-03"
     },
     {
-      "title": "Hi!",
-      "language": "Tamil",
-      "release_date": "2026-08-28"
+      "title": "The Paradise",
+      "language": "Telugu",
+      "release_date": "2026-09-24"
+    },
+    {
+      "title": "Mirzapur: The Movie",
+      "language": "Hindi",
+      "release_date": "2026-09-04"
     }
   ]
 }

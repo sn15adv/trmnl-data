@@ -1,21 +1,21 @@
 {
   "hero": {
-    "title": "Once More",
-    "original_title": "ஒன்ஸ் மோர்",
-    "language": "Tamil",
-    "rating": 0.0,
-    "release_date": "2026-08-28",
-    "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other",
+    "title": "Gandhari",
+    "original_title": "गांधारी",
+    "language": "Hindi",
+    "rating": 5.8,
+    "release_date": "2026-09-03",
+    "overview": "When a mother loses her eyesight and her daughter in a kidnapping, she takes matters into her own hands to hunt down those responsible.",
     "genres": [
-      "Music",
-      "Romance",
-      "Comedy"
+      "Action",
+      "Drama",
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "Babita Singh Reporting",
-      "language": "Hindi",
+      "title": "Once More",
+      "language": "Tamil",
       "release_date": "2026-08-28"
     },
     {
@@ -24,14 +24,14 @@
       "release_date": "2026-09-03"
     },
     {
-      "title": "The Paradise",
-      "language": "Telugu",
-      "release_date": "2026-09-24"
+      "title": "Babita Singh Reporting",
+      "language": "Hindi",
+      "release_date": "2026-08-28"
     },
     {
-      "title": "Mirzapur: The Movie",
-      "language": "Hindi",
-      "release_date": "2026-09-04"
+      "title": "Meesaya Murukku 2",
+      "language": "Tamil",
+      "release_date": "2026-09-25"
     }
   ]
 }

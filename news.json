@@ -1,10 +1,13 @@
 {
   "articles": [
     {
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority"
+    },
+    {
       "title": "Zelensky says he expects war to continue into winter after talks with US envoys"
     },
     {
-      "title": "German far-right set for big win in eastern state, projections show"
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain"
     },
     {
       "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Trump signs order to remove endangered species protection for grey wolves"
-    },
-    {
-      "title": "At least two dead in blast at Bolivia military barracks"
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Bumbershoot",
-    "date": "2026-09-05",
-    "time": "13:00:00",
-    "venue": "Seattle Center Grounds",
-    "segment": "Miscellaneous",
-    "genre": "Fairs & Festivals",
-    "date_pretty": "Sat Sep 5"
+    "name": "PRESEASON: SUN 9/6 WEN VS VAN NOON",
+    "date": "2026-09-06",
+    "time": "12:00:00",
+    "venue": "Angel Of The Winds Arena",
+    "segment": "Sports",
+    "genre": "Hockey",
+    "date_pretty": "Sun Sep 6"
   },
   "others": [
     {
       "name": "Harry Potter and the Cursed Child (Touring)",
-      "date": "2026-09-05",
-      "time": "13:30:00",
+      "date": "2026-09-06",
+      "time": "13:00:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Sat Sep 5"
+      "date_pretty": "Sun Sep 6"
     },
     {
-      "name": "PRESEASON: SAT 9/5 SEA VS SPO 2:00PM",
-      "date": "2026-09-05",
-      "time": "14:00:00",
+      "name": "Bumbershoot",
+      "date": "2026-09-06",
+      "time": "13:00:00",
+      "venue": "Seattle Center Grounds",
+      "segment": "Miscellaneous",
+      "genre": "Fairs & Festivals",
+      "date_pretty": "Sun Sep 6"
+    },
+    {
+      "name": "Washington Huskies Football vs. Washington State  ",
+      "date": "2026-09-06",
+      "time": "13:00:00",
+      "venue": "Husky Stadium-WA",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sun Sep 6"
+    },
+    {
+      "name": "Seattle Mariners vs. Athletics",
+      "date": "2026-09-06",
+      "time": "13:10:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sun Sep 6"
+    },
+    {
+      "name": "Purple Disco Machine + Gigamesh (21+ Event)",
+      "date": "2026-09-06",
+      "time": "16:00:00",
+      "venue": "Victory Hall at The Boxyard",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Sun Sep 6"
+    },
+    {
+      "name": "PRESEASON: SUN 9/6 EVT VS SEA 4:00PM",
+      "date": "2026-09-06",
+      "time": "16:00:00",
       "venue": "Angel Of The Winds Arena",
       "segment": "Sports",
       "genre": "Hockey",
-      "date_pretty": "Sat Sep 5"
+      "date_pretty": "Sun Sep 6"
     },
     {
-      "name": "Paint and Sip",
-      "date": "2026-09-05",
-      "time": "15:30:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Sep 5"
-    },
-    {
-      "name": "Seattle Sounders FC vs. Red Bull New York",
-      "date": "2026-09-05",
-      "time": "17:30:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Sat Sep 5"
-    },
-    {
-      "name": "Coga - Combat Games",
-      "date": "2026-09-05",
-      "time": "18:00:00",
-      "venue": "Suquamish Clearwater Casino Event C",
-      "segment": "Sports",
-      "genre": "Martial Arts",
-      "date_pretty": "Sat Sep 5"
-    },
-    {
-      "name": "PRESEASON: SAT 9/5 EVT VS POR 6:00PM",
-      "date": "2026-09-05",
-      "time": "18:00:00",
-      "venue": "Angel Of The Winds Arena",
-      "segment": "Sports",
-      "genre": "Hockey",
-      "date_pretty": "Sat Sep 5"
-    },
-    {
-      "name": "Everett Silvertips vs. Portland Winterhawks",
-      "date": "2026-09-05",
-      "time": "18:00:00",
+      "name": "Everett Silvertips vs. Seattle Thunderbirds",
+      "date": "2026-09-06",
+      "time": "16:00:00",
       "venue": "Angel of The Winds Arena",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Sat Sep 5"
+      "date_pretty": "Sun Sep 6"
     }
   ]
 }

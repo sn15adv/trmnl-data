@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "PRESEASON: SUN 9/6 WEN VS VAN NOON",
-    "date": "2026-09-06",
-    "time": "12:00:00",
-    "venue": "Angel Of The Winds Arena",
-    "segment": "Sports",
-    "genre": "Hockey",
-    "date_pretty": "Sun Sep 6"
+    "name": "RODEO Monday",
+    "date": "2026-09-07",
+    "time": "14:00:00",
+    "venue": "Evergreen State Fair",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Mon Sep 7"
   },
   "others": [
     {
-      "name": "Harry Potter and the Cursed Child (Touring)",
-      "date": "2026-09-06",
-      "time": "13:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Sep 6"
+      "name": "Tractor Square Dance! Featuring Three Forks of Can",
+      "date": "2026-09-07",
+      "time": "18:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Mon Sep 7"
     },
     {
-      "name": "Bumbershoot",
-      "date": "2026-09-06",
-      "time": "13:00:00",
-      "venue": "Seattle Center Grounds",
+      "name": "16Volt and Acumen Nation",
+      "date": "2026-09-07",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Mon Sep 7"
+    },
+    {
+      "name": "Lumen Field Stadium Tours",
+      "date": "2026-09-07",
+      "time": "",
+      "venue": "Lumen Field Stadium Tours",
       "segment": "Miscellaneous",
-      "genre": "Fairs & Festivals",
-      "date_pretty": "Sun Sep 6"
+      "genre": "Undefined",
+      "date_pretty": "Mon Sep 7"
     },
     {
-      "name": "Washington Huskies Football vs. Washington State  ",
-      "date": "2026-09-06",
-      "time": "13:00:00",
-      "venue": "Husky Stadium-WA",
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-09-07",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Sep 7"
+    },
+    {
+      "name": "Tacoma Rainiers vs. El Paso Chihuahuas",
+      "date": "2026-09-08",
+      "time": "12:05:00",
+      "venue": "Cheney Stadium",
       "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sun Sep 6"
+      "genre": "Baseball",
+      "date_pretty": "Tue Sep 8"
     },
     {
-      "name": "Seattle Mariners vs. Athletics",
-      "date": "2026-09-06",
-      "time": "13:10:00",
+      "name": "Lumen Field Stadium Tours",
+      "date": "2026-09-08",
+      "time": "16:30:00",
+      "venue": "Lumen Field Stadium Tours",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Tue Sep 8"
+    },
+    {
+      "name": "Seattle Mariners vs. Texas Rangers",
+      "date": "2026-09-08",
+      "time": "18:40:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Sun Sep 6"
-    },
-    {
-      "name": "Purple Disco Machine + Gigamesh (21+ Event)",
-      "date": "2026-09-06",
-      "time": "16:00:00",
-      "venue": "Victory Hall at The Boxyard",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Sun Sep 6"
-    },
-    {
-      "name": "PRESEASON: SUN 9/6 EVT VS SEA 4:00PM",
-      "date": "2026-09-06",
-      "time": "16:00:00",
-      "venue": "Angel Of The Winds Arena",
-      "segment": "Sports",
-      "genre": "Hockey",
-      "date_pretty": "Sun Sep 6"
-    },
-    {
-      "name": "Everett Silvertips vs. Seattle Thunderbirds",
-      "date": "2026-09-06",
-      "time": "16:00:00",
-      "venue": "Angel of The Winds Arena",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Sep 6"
+      "date_pretty": "Tue Sep 8"
     }
   ]
 }

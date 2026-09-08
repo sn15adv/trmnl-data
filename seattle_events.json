@@ -1,59 +1,14 @@
 {
   "hero": {
-    "name": "RODEO Monday",
-    "date": "2026-09-07",
-    "time": "14:00:00",
-    "venue": "Evergreen State Fair",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Mon Sep 7"
+    "name": "Tacoma Rainiers vs. El Paso Chihuahuas",
+    "date": "2026-09-08",
+    "time": "12:05:00",
+    "venue": "Cheney Stadium",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Tue Sep 8"
   },
   "others": [
-    {
-      "name": "Tractor Square Dance! Featuring Three Forks of Can",
-      "date": "2026-09-07",
-      "time": "18:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Mon Sep 7"
-    },
-    {
-      "name": "16Volt and Acumen Nation",
-      "date": "2026-09-07",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Mon Sep 7"
-    },
-    {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-09-07",
-      "time": "",
-      "venue": "Lumen Field Stadium Tours",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Sep 7"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-09-07",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Sep 7"
-    },
-    {
-      "name": "Tacoma Rainiers vs. El Paso Chihuahuas",
-      "date": "2026-09-08",
-      "time": "12:05:00",
-      "venue": "Cheney Stadium",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Tue Sep 8"
-    },
     {
       "name": "Lumen Field Stadium Tours",
       "date": "2026-09-08",
@@ -70,6 +25,51 @@
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
+      "date_pretty": "Tue Sep 8"
+    },
+    {
+      "name": "Kamelot: Dark Asylum World Tour",
+      "date": "2026-09-08",
+      "time": "19:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Sep 8"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-09-08",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Sep 8"
+    },
+    {
+      "name": "Harry Potter and the Cursed Child (Touring)",
+      "date": "2026-09-08",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Tue Sep 8"
+    },
+    {
+      "name": "Kelela",
+      "date": "2026-09-08",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "R&B",
+      "date_pretty": "Tue Sep 8"
+    },
+    {
+      "name": "Isaiah Falls",
+      "date": "2026-09-08",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Undefined",
+      "genre": "",
       "date_pretty": "Tue Sep 8"
     }
   ]

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Harry Potter and the Cursed Child (Touring)",
-    "date": "2026-09-11",
-    "time": "13:30:00",
-    "venue": "Paramount Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Theatre",
-    "date_pretty": "Fri Sep 11"
+    "name": "Puyallup Rodeo",
+    "date": "2026-09-12",
+    "time": "13:00:00",
+    "venue": "Washington State Fair",
+    "segment": "Sports",
+    "genre": "Miscellaneous",
+    "date_pretty": "Sat Sep 12"
   },
   "others": [
     {
-      "name": "CMF Presents: Base Camp Featuring Squeeze",
-      "date": "2026-09-11",
-      "time": "17:00:00",
-      "venue": "Marymoor Park",
-      "segment": "Miscellaneous",
-      "genre": "Community/Civic",
-      "date_pretty": "Fri Sep 11"
+      "name": "Harry Potter and the Cursed Child (Touring)",
+      "date": "2026-09-12",
+      "time": "13:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Sep 12"
     },
     {
-      "name": "SQUEEZE - TRIED, TESTED AND TRIXIES w/ Adam Ant an",
-      "date": "2026-09-11",
-      "time": "18:00:00",
-      "venue": "Marymoor Live - Presented By Toyota",
+      "name": "KBCS Presents: An Afternoon w/ Eilen Jewell - Part",
+      "date": "2026-09-12",
+      "time": "14:00:00",
+      "venue": "Tractor",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Sep 11"
+      "genre": "Folk",
+      "date_pretty": "Sat Sep 12"
+    },
+    {
+      "name": "Tacoma Rainiers vs. El Paso Chihuahuas",
+      "date": "2026-09-12",
+      "time": "15:00:00",
+      "venue": "Cheney Stadium",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sat Sep 12"
+    },
+    {
+      "name": "Washington Huskies Football vs. Utah State Aggies ",
+      "date": "2026-09-12",
+      "time": "",
+      "venue": "Husky Stadium-WA",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sat Sep 12"
+    },
+    {
+      "name": "Seattle Reign FC vs. Bay FC",
+      "date": "2026-09-12",
+      "time": "17:00:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Sat Sep 12"
+    },
+    {
+      "name": "ROLLING QUARTZ MY TURN 2026 TOUR in Seattle",
+      "date": "2026-09-12",
+      "time": "17:00:00",
+      "venue": "Substation",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Sat Sep 12"
     },
     {
       "name": "Puyallup Rodeo, PRCA Cinch Playoff Wild Card with ",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "time": "18:30:00",
       "venue": "Washington State Fair",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Fri Sep 11"
-    },
-    {
-      "name": "Five Finger Death Punch",
-      "date": "2026-09-11",
-      "time": "18:45:00",
-      "venue": "White River Amphitheatre",
-      "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Fri Sep 11"
-    },
-    {
-      "name": "CONFESSIONS: A Madonna + Disco Pop Night - Ages 21",
-      "date": "2026-09-11",
-      "time": "19:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Sep 11"
-    },
-    {
-      "name": "KATHY GRIFFIN: New Face, New Tour - Premium Experi",
-      "date": "2026-09-11",
-      "time": "19:00:00",
-      "venue": "Pantages Theater",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Fri Sep 11"
-    },
-    {
-      "name": "KATHY GRIFFIN: New Face, New Tour",
-      "date": "2026-09-11",
-      "time": "19:00:00",
-      "venue": "Pantages Theater",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Sep 11"
+      "date_pretty": "Sat Sep 12"
     }
   ]
 }

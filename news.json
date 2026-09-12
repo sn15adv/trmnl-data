@@ -1,16 +1,19 @@
 {
   "articles": [
     {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down"
+    },
+    {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq"
     },
     {
       "title": "A united Ireland would be 'fantastic' says Trump during Irish visit"
     },
     {
-      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC"
+      "title": "French officials investigate if malicious act caused train derailment"
     },
     {
-      "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing"
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC"
     },
     {
       "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders"
@@ -19,16 +22,13 @@
       "title": "Record heatwaves in France set to make champagne stronger"
     },
     {
+      "title": "Teen boy rescued after days adrift in Alaskan waters"
+    },
+    {
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing"
+    },
+    {
       "title": "Arrest made over the death of black woman found hanged from tree in Mississippi"
-    },
-    {
-      "title": "Tragic death of woman who testified against father in notorious mafia murder of mother"
-    },
-    {
-      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial"
-    },
-    {
-      "title": "Passenger train derails in France leaving at least 44 injured"
     }
   ]
 }

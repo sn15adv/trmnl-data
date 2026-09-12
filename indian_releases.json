@@ -14,6 +14,16 @@
   },
   "others": [
     {
+      "title": "Haiwaan",
+      "language": "Hindi",
+      "release_date": "2026-09-11"
+    },
+    {
+      "title": "Sardar 2",
+      "language": "Tamil",
+      "release_date": "2026-09-10"
+    },
+    {
       "title": "Meesaya Murukku 2",
       "language": "Tamil",
       "release_date": "2026-09-25"
@@ -22,16 +32,6 @@
       "title": "Drishyam: The Conclusion",
       "language": "Hindi",
       "release_date": "2026-10-02"
-    },
-    {
-      "title": "Sardar 2",
-      "language": "Tamil",
-      "release_date": "2026-09-10"
-    },
-    {
-      "title": "The Paradise",
-      "language": "Telugu",
-      "release_date": "2026-09-24"
     }
   ]
 }

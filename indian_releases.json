@@ -1,18 +1,22 @@
 {
   "hero": {
-    "title": "The Vvaan",
-    "original_title": "द वन",
-    "language": "Hindi",
-    "rating": 0.0,
-    "release_date": "2026-09-25",
-    "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his p",
+    "title": "Mandaadi",
+    "original_title": "மண்டாடி",
+    "language": "Tamil",
+    "rating": 9.0,
+    "release_date": "2026-09-10",
+    "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
     "genres": [
       "Action",
-      "Adventure",
-      "Thriller"
+      "Drama"
     ]
   },
   "others": [
+    {
+      "title": "The Vvaan",
+      "language": "Hindi",
+      "release_date": "2026-09-25"
+    },
     {
       "title": "Haiwaan",
       "language": "Hindi",
@@ -27,11 +31,6 @@
       "title": "Meesaya Murukku 2",
       "language": "Tamil",
       "release_date": "2026-09-25"
-    },
-    {
-      "title": "Drishyam: The Conclusion",
-      "language": "Hindi",
-      "release_date": "2026-10-02"
     }
   ]
 }

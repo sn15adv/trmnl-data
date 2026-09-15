@@ -1,75 +1,75 @@
 {
   "hero": {
-    "name": "Mustard Service, Pity Party (Girls Club) , Manwolv",
-    "date": "2026-09-14",
+    "name": "A Chorus Line",
+    "date": "2026-09-15",
     "time": "19:00:00",
-    "venue": "The Crocodile",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Mon Sep 14"
+    "venue": "5th Avenue Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "date_pretty": "Tue Sep 15"
   },
   "others": [
     {
-      "name": "greek",
-      "date": "2026-09-14",
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-09-15",
       "time": "19:00:00",
-      "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Sep 14"
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Sep 15"
     },
     {
-      "name": "Yacht Rock Revue",
-      "date": "2026-09-14",
+      "name": "Sub Urban: The Bell Tolls Tour",
+      "date": "2026-09-15",
       "time": "19:30:00",
-      "venue": "Washington State Fair",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon Sep 14"
-    },
-    {
-      "name": "Boys Go To Jupiter, Alt Bloom",
-      "date": "2026-09-14",
-      "time": "20:00:00",
       "venue": "Baba Yaga",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon Sep 14"
+      "genre": "Alternative",
+      "date_pretty": "Tue Sep 15"
     },
     {
-      "name": "Clock-Out Lounge Presents: Collide-O-Scope",
-      "date": "2026-09-14",
+      "name": "Boz Scaggs Rhythm Review 2026",
+      "date": "2026-09-15",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Sep 15"
+    },
+    {
+      "name": "Dogstar - 21+",
+      "date": "2026-09-15",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Sep 15"
+    },
+    {
+      "name": "Cynthia Brothers and Shannon Koyano Present: The V",
+      "date": "2026-09-15",
       "time": "20:00:00",
       "venue": "Clock-Out Lounge",
-      "segment": "Arts & Theatre",
-      "genre": "Classical",
-      "date_pretty": "Mon Sep 14"
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Tue Sep 15"
     },
     {
-      "name": "Record Club",
-      "date": "2026-09-14",
+      "name": "Public Image Ltd: This Is Not The Last Tour",
+      "date": "2026-09-15",
       "time": "20:00:00",
-      "venue": "Tractor",
+      "venue": "Neptune Theatre",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Mon Sep 14"
+      "genre": "Rock",
+      "date_pretty": "Tue Sep 15"
     },
     {
       "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "time": "",
       "venue": "T-Mobile Park",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Mon Sep 14"
-    },
-    {
-      "name": "A Chorus Line",
-      "date": "2026-09-15",
-      "time": "19:00:00",
-      "venue": "5th Avenue Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
       "date_pretty": "Tue Sep 15"
     }
   ]

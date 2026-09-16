@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "A Chorus Line",
-    "date": "2026-09-15",
-    "time": "19:00:00",
+    "date": "2026-09-16",
+    "time": "19:30:00",
     "venue": "5th Avenue Theatre",
     "segment": "Arts & Theatre",
     "genre": "Theatre",
-    "date_pretty": "Tue Sep 15"
+    "date_pretty": "Wed Sep 16"
   },
   "others": [
     {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-09-15",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Sep 15"
-    },
-    {
-      "name": "Sub Urban: The Bell Tolls Tour",
-      "date": "2026-09-15",
-      "time": "19:30:00",
-      "venue": "Baba Yaga",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Tue Sep 15"
-    },
-    {
-      "name": "Boz Scaggs Rhythm Review 2026",
-      "date": "2026-09-15",
+      "name": "Dan and Phil: Hard Launch World Tour",
+      "date": "2026-09-16",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Tue Sep 15"
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Wed Sep 16"
     },
     {
-      "name": "Dogstar - 21+",
-      "date": "2026-09-15",
-      "time": "20:00:00",
-      "venue": "The Showbox",
+      "name": "The Kenny Wayne Shepherd Band",
+      "date": "2026-09-16",
+      "time": "19:30:00",
+      "venue": "Moore Theatre",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Tue Sep 15"
+      "date_pretty": "Wed Sep 16"
     },
     {
-      "name": "Cynthia Brothers and Shannon Koyano Present: The V",
-      "date": "2026-09-15",
-      "time": "20:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
+      "name": "Conscience",
+      "date": "2026-09-16",
+      "time": "19:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Tue Sep 15"
+      "date_pretty": "Wed Sep 16"
     },
     {
-      "name": "Public Image Ltd: This Is Not The Last Tour",
-      "date": "2026-09-15",
-      "time": "20:00:00",
-      "venue": "Neptune Theatre",
+      "name": "American Postcards, Peter Donovan, Whiskey Class",
+      "date": "2026-09-16",
+      "time": "19:30:00",
+      "venue": "Tractor",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Tue Sep 15"
+      "genre": "Alternative",
+      "date_pretty": "Wed Sep 16"
     },
     {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-09-15",
-      "time": "",
-      "venue": "T-Mobile Park",
+      "name": "WAMU Theater Amplified Access: Foster The People (",
+      "date": "2026-09-16",
+      "time": "20:00:00",
+      "venue": "WAMU Theater",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Tue Sep 15"
+      "date_pretty": "Wed Sep 16"
+    },
+    {
+      "name": "Foster The People: Good Mourning Sunshine Tour",
+      "date": "2026-09-16",
+      "time": "20:00:00",
+      "venue": "WAMU Theater",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Sep 16"
+    },
+    {
+      "name": "Loe Shimmy w/ Lakeyah",
+      "date": "2026-09-16",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Wed Sep 16"
     }
   ]
 }

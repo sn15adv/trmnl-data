@@ -1,32 +1,32 @@
 {
   "hero": {
-    "title": "Spider-Man: Brand New Day",
-    "rating": 7.8,
-    "runtime": "2h 25m",
-    "release_date": "2026-07-31",
-    "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to ",
+    "title": "Coyote vs. Acme",
+    "rating": 7.6,
+    "runtime": "1h 43m",
+    "release_date": "2026-08-28",
+    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
     "genres": [
-      "Science Fiction",
-      "Action",
-      "Adventure"
+      "Comedy",
+      "Adventure",
+      "Family"
     ]
   },
   "others": [
     {
-      "title": "Coyote vs. Acme",
-      "rating": 7.6
-    },
-    {
       "title": "Colony",
       "rating": 8.1
+    },
+    {
+      "title": "The End of Oak Street",
+      "rating": 6.8
     },
     {
       "title": "Mutiny",
       "rating": 6.4
     },
     {
-      "title": "The End of Oak Street",
-      "rating": 6.5
+      "title": "Vishwanath & Sons",
+      "rating": 7.3
     }
   ]
 }

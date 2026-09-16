@@ -1,16 +1,19 @@
 {
   "articles": [
     {
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms"
+    },
+    {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped"
     },
     {
-      "title": "Denmark says Russian warship fired flares at military helicopter"
+      "title": "Three killed after LA news helicopter crashes while covering deadly bus collision"
+    },
+    {
+      "title": "US limits visas for South African officials over alleged anti-white discrimination"
     },
     {
       "title": "What weapon could the US have put into space?"
-    },
-    {
-      "title": "South African president vows justice as more women's bodies found near Johannesburg"
     },
     {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says"
@@ -19,16 +22,13 @@
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms"
     },
     {
+      "title": "Denmark says Russian warship fired flares at military helicopter"
+    },
+    {
+      "title": "South African president vows justice as more women's bodies found near Johannesburg"
+    },
+    {
       "title": "Suspected sabotage causes major Netherlands rail disruption"
-    },
-    {
-      "title": "Five takeaways from Canada's push to woo the world's richest investors"
-    },
-    {
-      "title": "Nigeria arrests alleged Mexican drug kingpin at international airport"
-    },
-    {
-      "title": "Ash from Mount Etna grounds flights at Sicily airport"
     }
   ]
 }

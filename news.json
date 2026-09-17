@@ -1,16 +1,25 @@
 {
   "articles": [
     {
+      "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds"
+    },
+    {
       "title": "US interest rates raised for first time in three years"
     },
     {
-      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC"
+      "title": "Snapchat open to putting time limits on teens, boss tells BBC"
+    },
+    {
+      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter"
     },
     {
       "title": "Photos show widespread damage at US sites from Iranian attacks"
     },
     {
       "title": "EU chief backs plan for Canada to become 'associate member'"
+    },
+    {
+      "title": "International students, 'visa hoppers' and backpackers targeted in Australia migration crackdown"
     },
     {
       "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt"
@@ -20,15 +29,6 @@
     },
     {
       "title": "Michelin-starred Seoul restaurant fined for using ants as garnish"
-    },
-    {
-      "title": "Eight German state premiers back Merz amid speculation over future"
-    },
-    {
-      "title": "Trump chief of staff Susie Wiles announces she's cancer-free"
-    },
-    {
-      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms"
     }
   ]
 }

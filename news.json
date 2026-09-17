@@ -1,13 +1,19 @@
 {
   "articles": [
     {
+      "title": "Canada welcomes EU proposal to become 'associate member'"
+    },
+    {
+      "title": "Ninth woman's body found as South African police investigate string of deaths"
+    },
+    {
       "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds"
     },
     {
       "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft"
     },
     {
-      "title": "Ninth woman's body found as South African police investigate string of deaths"
+      "title": "Swedish PM Kristersson resigns after election loss"
     },
     {
       "title": "EU announces plan to restrict social media access for under-15s"
@@ -16,19 +22,13 @@
       "title": "Aztec document goes on display in Mexico after 186 years abroad"
     },
     {
-      "title": "River home to 500 crocodiles chosen as Olympic rowing venue"
+      "title": "Klopp wants to 'reclaim' flag amid German elections"
     },
     {
       "title": "US interest rates raised for first time in three years"
     },
     {
-      "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter"
-    },
-    {
       "title": "Abducted South African journalist found dead with gunshot wounds"
-    },
-    {
-      "title": "One dead after torrential rain and flash floods hit Barcelona region"
     }
   ]
 }

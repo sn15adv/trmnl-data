@@ -1,17 +1,22 @@
 {
   "hero": {
-    "title": "Mandaadi",
-    "original_title": "மண்டாடி",
-    "language": "Tamil",
-    "rating": 8.0,
-    "release_date": "2026-09-10",
-    "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
+    "title": "Bokshi",
+    "original_title": "Bokshi",
+    "language": "Hindi",
+    "rating": 0.0,
+    "release_date": "2026-10-09",
+    "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her",
     "genres": [
-      "Action",
+      "Horror",
       "Drama"
     ]
   },
   "others": [
+    {
+      "title": "Drishyam: The Conclusion",
+      "language": "Hindi",
+      "release_date": "2026-10-02"
+    },
     {
       "title": "Haiwaan",
       "language": "Hindi",
@@ -23,14 +28,9 @@
       "release_date": "2026-09-25"
     },
     {
-      "title": "Drishyam: The Conclusion",
-      "language": "Hindi",
-      "release_date": "2026-10-02"
-    },
-    {
-      "title": "Meesaya Murukku 2",
-      "language": "Tamil",
-      "release_date": "2026-09-25"
+      "title": "The Paradise",
+      "language": "Telugu",
+      "release_date": "2026-09-23"
     }
   ]
 }

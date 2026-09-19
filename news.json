@@ -1,16 +1,22 @@
 {
   "articles": [
     {
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles"
+    },
+    {
       "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'"
     },
     {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles"
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married"
     },
     {
       "title": "Journalists denied White House access after Trump banned some media outlets"
     },
     {
       "title": "Converse pulls 'deeply upsetting' advert after backlash"
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar"
     },
     {
       "title": "Google's Gemini AI hacked three companies in security test"
@@ -23,12 +29,6 @@
     },
     {
       "title": "Shark attack prompts rare kill order in Western Australia as victim named"
-    },
-    {
-      "title": "Millions without power as Cuba hit by latest major blackout"
-    },
-    {
-      "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque"
     }
   ]
 }

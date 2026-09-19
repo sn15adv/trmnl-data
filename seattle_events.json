@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "The Frights: You Are Going To Hate This 10 Year An",
-    "date": "2026-09-18",
-    "time": "18:00:00",
-    "venue": "The Crocodile",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Fri Sep 18"
+    "name": "Drag Brunch",
+    "date": "2026-09-19",
+    "time": "12:00:00",
+    "venue": "Nate Jackson's Super Funny Comedy C",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Sat Sep 19"
   },
   "others": [
     {
-      "name": "When Chai Met Toast: Joy of Little Things Tour",
-      "date": "2026-09-18",
-      "time": "18:00:00",
-      "venue": "The Fremont Abbey",
+      "name": "School Of Rock Issaquah Presents: Unsung Heroes of",
+      "date": "2026-09-19",
+      "time": "12:30:00",
+      "venue": "Clock-Out Lounge",
       "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Fri Sep 18"
-    },
-    {
-      "name": "Marlon Magnee",
-      "date": "2026-09-18",
-      "time": "18:30:00",
-      "venue": "Barboza",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Sep 18"
-    },
-    {
-      "name": "BECK: RIDE LONESOME TOUR",
-      "date": "2026-09-18",
-      "time": "19:00:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Sep 18"
-    },
-    {
-      "name": "Chateau Ste Michelle: Tables & Cabanas - Beck",
-      "date": "2026-09-18",
-      "time": "19:00:00",
-      "venue": "Chateau Ste Michelle Winery",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Sep 18"
-    },
-    {
-      "name": "OMEGA X 2026 TOUR: NO LIMIT in [Seattle]",
-      "date": "2026-09-18",
-      "time": "19:00:00",
-      "venue": "Edmonds Center For the Arts -Leo Pr",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Fri Sep 18"
-    },
-    {
-      "name": "Guy Torry",
-      "date": "2026-09-18",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Sep 18"
+      "genre": "Other",
+      "date_pretty": "Sat Sep 19"
     },
     {
       "name": "A Chorus Line",
-      "date": "2026-09-18",
-      "time": "19:30:00",
+      "date": "2026-09-19",
+      "time": "13:30:00",
       "venue": "5th Avenue Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Fri Sep 18"
+      "date_pretty": "Sat Sep 19"
+    },
+    {
+      "name": "Matinee Show: Bobby Bare, Jr. w/ Hoist the King (p",
+      "date": "2026-09-19",
+      "time": "13:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sat Sep 19"
+    },
+    {
+      "name": "Conscience",
+      "date": "2026-09-19",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Sep 19"
+    },
+    {
+      "name": "Katie Boyle",
+      "date": "2026-09-19",
+      "time": "15:00:00",
+      "venue": "Tacoma Comedy Club",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Sep 19"
+    },
+    {
+      "name": "School Of Rock Issaquah & Downtown Present: Sound ",
+      "date": "2026-09-19",
+      "time": "15:30:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Sat Sep 19"
+    },
+    {
+      "name": "Washington Huskies Football vs. Eastern Washington",
+      "date": "2026-09-19",
+      "time": "16:15:00",
+      "venue": "Husky Stadium-WA",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sat Sep 19"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Coyote vs. Acme",
-    "rating": 7.5,
+    "rating": 7.6,
     "runtime": "1h 43m",
     "release_date": "2026-08-28",
     "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
@@ -17,16 +17,16 @@
       "rating": 6.9
     },
     {
+      "title": "Resident Evil",
+      "rating": 7.6
+    },
+    {
       "title": "Colony",
       "rating": 8.1
     },
     {
       "title": "Mutiny",
       "rating": 6.4
-    },
-    {
-      "title": "Resident Evil",
-      "rating": 7.6
     }
   ]
 }

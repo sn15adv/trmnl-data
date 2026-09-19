@@ -1,36 +1,36 @@
 {
   "hero": {
-    "title": "Bokshi",
-    "original_title": "Bokshi",
+    "title": "Lust Stories 3",
+    "original_title": "Lust Stories 3",
     "language": "Hindi",
-    "rating": 0.0,
-    "release_date": "2026-10-09",
-    "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her",
+    "rating": 8.5,
+    "release_date": "2026-09-18",
+    "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human c",
     "genres": [
-      "Horror",
+      "Romance",
       "Drama"
     ]
   },
   "others": [
     {
+      "title": "Bokshi",
+      "language": "Hindi",
+      "release_date": "2026-10-09"
+    },
+    {
+      "title": "The Dark Heaven",
+      "language": "Tamil",
+      "release_date": "2026-09-18"
+    },
+    {
+      "title": "Vibe",
+      "language": "Hindi",
+      "release_date": "2026-09-18"
+    },
+    {
       "title": "Drishyam: The Conclusion",
       "language": "Hindi",
       "release_date": "2026-10-02"
-    },
-    {
-      "title": "Haiwaan",
-      "language": "Hindi",
-      "release_date": "2026-09-11"
-    },
-    {
-      "title": "The Vvaan",
-      "language": "Hindi",
-      "release_date": "2026-09-25"
-    },
-    {
-      "title": "The Paradise",
-      "language": "Telugu",
-      "release_date": "2026-09-23"
     }
   ]
 }

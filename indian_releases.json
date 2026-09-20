@@ -3,7 +3,7 @@
     "title": "Lust Stories 3",
     "original_title": "Lust Stories 3",
     "language": "Hindi",
-    "rating": 8.5,
+    "rating": 7.0,
     "release_date": "2026-09-18",
     "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human c",
     "genres": [
@@ -13,24 +13,24 @@
   },
   "others": [
     {
-      "title": "Bokshi",
-      "language": "Hindi",
-      "release_date": "2026-10-09"
-    },
-    {
       "title": "The Dark Heaven",
       "language": "Tamil",
       "release_date": "2026-09-18"
     },
     {
-      "title": "Vibe",
+      "title": "Bokshi",
       "language": "Hindi",
-      "release_date": "2026-09-18"
+      "release_date": "2026-10-09"
     },
     {
-      "title": "Drishyam: The Conclusion",
-      "language": "Hindi",
-      "release_date": "2026-10-02"
+      "title": "Meesaya Murukku 2",
+      "language": "Tamil",
+      "release_date": "2026-09-25"
+    },
+    {
+      "title": "The Paradise",
+      "language": "Telugu",
+      "release_date": "2026-09-23"
     }
   ]
 }

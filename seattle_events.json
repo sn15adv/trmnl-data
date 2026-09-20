@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Drag Brunch",
-    "date": "2026-09-19",
-    "time": "12:00:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Sat Sep 19"
+    "name": "A Chorus Line",
+    "date": "2026-09-20",
+    "time": "13:30:00",
+    "venue": "5th Avenue Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Theatre",
+    "date_pretty": "Sun Sep 20"
   },
   "others": [
     {
-      "name": "School Of Rock Issaquah Presents: Unsung Heroes of",
-      "date": "2026-09-19",
-      "time": "12:30:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Sat Sep 19"
+      "name": "Halwa by Amit Tandon",
+      "date": "2026-09-20",
+      "time": "18:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sun Sep 20"
     },
     {
       "name": "A Chorus Line",
-      "date": "2026-09-19",
-      "time": "13:30:00",
+      "date": "2026-09-20",
+      "time": "19:00:00",
       "venue": "5th Avenue Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Sat Sep 19"
+      "date_pretty": "Sun Sep 20"
     },
     {
-      "name": "Matinee Show: Bobby Bare, Jr. w/ Hoist the King (p",
-      "date": "2026-09-19",
-      "time": "13:30:00",
+      "name": "Guy Torry",
+      "date": "2026-09-20",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sun Sep 20"
+    },
+    {
+      "name": "Ariel Posen w/ Zach Person",
+      "date": "2026-09-20",
+      "time": "19:30:00",
       "venue": "Tractor",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Sat Sep 19"
+      "date_pretty": "Sun Sep 20"
     },
     {
-      "name": "Conscience",
-      "date": "2026-09-19",
-      "time": "14:00:00",
-      "venue": "Taproot Theatre",
+      "name": "LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN ",
+      "date": "2026-09-20",
+      "time": "19:30:00",
+      "venue": "Tacoma Dome",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Sun Sep 20"
+    },
+    {
+      "name": "ALI (21+ Event)",
+      "date": "2026-09-20",
+      "time": "20:00:00",
+      "venue": "Baba Yaga",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sat Sep 19"
+      "date_pretty": "Sun Sep 20"
     },
     {
-      "name": "Katie Boyle",
-      "date": "2026-09-19",
-      "time": "15:00:00",
-      "venue": "Tacoma Comedy Club",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Sep 19"
-    },
-    {
-      "name": "School Of Rock Issaquah & Downtown Present: Sound ",
-      "date": "2026-09-19",
-      "time": "15:30:00",
-      "venue": "Clock-Out Lounge",
+      "name": "American Aquarium",
+      "date": "2026-09-20",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Sat Sep 19"
-    },
-    {
-      "name": "Washington Huskies Football vs. Eastern Washington",
-      "date": "2026-09-19",
-      "time": "16:15:00",
-      "venue": "Husky Stadium-WA",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sat Sep 19"
+      "date_pretty": "Sun Sep 20"
     }
   ]
 }

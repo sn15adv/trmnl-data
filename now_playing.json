@@ -1,23 +1,23 @@
 {
   "hero": {
-    "title": "Coyote vs. Acme",
-    "rating": 7.6,
-    "runtime": "1h 43m",
-    "release_date": "2026-08-28",
-    "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+    "title": "Resident Evil",
+    "rating": 7.3,
+    "runtime": "1h 35m",
+    "release_date": "2026-09-18",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "genres": [
-      "Comedy",
-      "Adventure",
-      "Family"
+      "Horror",
+      "Science Fiction",
+      "Adventure"
     ]
   },
   "others": [
     {
       "title": "The End of Oak Street",
-      "rating": 6.9
+      "rating": 7.0
     },
     {
-      "title": "Resident Evil",
+      "title": "Coyote vs. Acme",
       "rating": 7.6
     },
     {

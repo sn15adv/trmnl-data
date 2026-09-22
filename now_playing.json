@@ -1,24 +1,24 @@
 {
   "hero": {
-    "title": "The End of Oak Street",
-    "rating": 7.0,
-    "runtime": "1h 40m",
-    "release_date": "2026-08-14",
-    "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking ",
+    "title": "Resident Evil",
+    "rating": 7.3,
+    "runtime": "1h 35m",
+    "release_date": "2026-09-18",
+    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "genres": [
+      "Horror",
       "Science Fiction",
-      "Mystery",
-      "Thriller"
+      "Adventure"
     ]
   },
   "others": [
     {
-      "title": "Resident Evil",
-      "rating": 7.3
+      "title": "The End of Oak Street",
+      "rating": 7.0
     },
     {
       "title": "Coyote vs. Acme",
-      "rating": 7.6
+      "rating": 7.5
     },
     {
       "title": "Colony",

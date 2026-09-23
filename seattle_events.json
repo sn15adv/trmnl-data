@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Conscience",
-    "date": "2026-09-22",
-    "time": "14:00:00",
-    "venue": "Taproot Theatre",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Tue Sep 22"
+    "name": "Seattle Sounders FC vs. Real Salt Lake",
+    "date": "2026-09-23",
+    "time": "18:30:00",
+    "venue": "Lumen Field",
+    "segment": "Sports",
+    "genre": "Soccer",
+    "date_pretty": "Wed Sep 23"
   },
   "others": [
     {
-      "name": "Raised By TV Events Presents: all ages LOTR films ",
-      "date": "2026-09-22",
-      "time": "18:30:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Tue Sep 22"
-    },
-    {
       "name": "Seattle Mariners vs. Houston Astros",
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "time": "18:40:00",
       "venue": "T-Mobile Park",
       "segment": "Sports",
       "genre": "Baseball",
-      "date_pretty": "Tue Sep 22"
+      "date_pretty": "Wed Sep 23"
     },
     {
-      "name": "SCRAMBLER JAM!",
-      "date": "2026-09-22",
+      "name": "LAUNDRY DAY",
+      "date": "2026-09-23",
       "time": "19:00:00",
-      "venue": "Chop Suey",
+      "venue": "Barboza",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Tue Sep 22"
+      "date_pretty": "Wed Sep 23"
     },
     {
-      "name": "Joanne McNally",
-      "date": "2026-09-22",
+      "name": "Seattle Storm vs. Dallas Wings",
+      "date": "2026-09-23",
       "time": "19:00:00",
-      "venue": "The Crocodile",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Tue Sep 22"
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Wed Sep 23"
     },
     {
-      "name": "Lauren Anderson w/ XKYLAR",
-      "date": "2026-09-22",
+      "name": "Revocation w/ Defeated Sanity",
+      "date": "2026-09-23",
       "time": "19:00:00",
-      "venue": "Neumos",
+      "venue": "El Corazon",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Tue Sep 22"
+      "date_pretty": "Wed Sep 23"
     },
     {
-      "name": "Citizen w/ Anxious",
-      "date": "2026-09-22",
+      "name": "Trash Talk with Chris Crayzie",
+      "date": "2026-09-23",
       "time": "19:00:00",
-      "venue": "Showbox SODO",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Sep 22"
-    },
-    {
-      "name": "Raynes and David Wimbish & The Collection (21+ Eve",
-      "date": "2026-09-22",
-      "time": "19:00:00",
-      "venue": "Nectar Lounge",
+      "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Tue Sep 22"
+      "date_pretty": "Wed Sep 23"
+    },
+    {
+      "name": "A Chorus Line",
+      "date": "2026-09-23",
+      "time": "19:30:00",
+      "venue": "5th Avenue Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Wed Sep 23"
+    },
+    {
+      "name": "Conscience",
+      "date": "2026-09-23",
+      "time": "19:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Wed Sep 23"
     }
   ]
 }

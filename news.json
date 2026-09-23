@@ -1,16 +1,25 @@
 {
   "articles": [
     {
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet"
+    },
+    {
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says"
+    },
+    {
       "title": "Iran's president tells Trump it will never 'bend the knee'"
     },
     {
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war"
     },
     {
-      "title": "White House rolling out red carpet for historic Xi Jinping visit"
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction"
     },
     {
       "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage"
+    },
+    {
+      "title": "UK survivor of Canadian poison seller says he exploited her despair"
     },
     {
       "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'"
@@ -20,15 +29,6 @@
     },
     {
       "title": "Poland accuses Russian military helicopter of violating its airspace"
-    },
-    {
-      "title": "Reports of violence against women in Gaza surge, UN agency finds"
-    },
-    {
-      "title": "Eleven killed in mass shooting at house in South Africa"
-    },
-    {
-      "title": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing"
     }
   ]
 }

@@ -13,10 +13,6 @@
   },
   "others": [
     {
-      "title": "The End of Oak Street",
-      "rating": 7.0
-    },
-    {
       "title": "Coyote vs. Acme",
       "rating": 7.5
     },
@@ -27,6 +23,10 @@
     {
       "title": "Mutiny",
       "rating": 6.4
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasm",
+      "rating": 6.5
     }
   ]
 }

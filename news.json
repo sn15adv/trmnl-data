@@ -1,6 +1,9 @@
 {
   "articles": [
     {
+      "title": "OpenAI bots meddled with multiple US government agency sites"
+    },
+    {
       "title": "Iran offers US deal to reopen Strait of Hormuz in seven days"
     },
     {
@@ -13,7 +16,7 @@
       "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach"
     },
     {
-      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly"
+      "title": "White House bars CNN from travelling with Trump on Air Force One"
     },
     {
       "title": "Black woman found hanging from tree was dead before body was 'staged', police say"
@@ -26,9 +29,6 @@
     },
     {
       "title": "Supreme Court allows Trump to use controversial database to check voter citizenship"
-    },
-    {
-      "title": "Trump's plans for massive arch move ahead"
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Seattle Reign FC vs. Boston Legacy FC",
-    "date": "2026-09-25",
-    "time": "17:30:00",
-    "venue": "Lumen Field",
-    "segment": "Sports",
-    "genre": "Soccer",
-    "date_pretty": "Fri Sep 25"
+    "name": "School Of Rock West Seattle Presents: Nu Metal (Al",
+    "date": "2026-09-26",
+    "time": "12:30:00",
+    "venue": "Clock-Out Lounge",
+    "segment": "Music",
+    "genre": "Rock",
+    "date_pretty": "Sat Sep 26"
   },
   "others": [
     {
-      "name": "deca joins: 2026 World Tour - A Brief Stop",
-      "date": "2026-09-25",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Fri Sep 25"
+      "name": "A Chorus Line",
+      "date": "2026-09-26",
+      "time": "13:30:00",
+      "venue": "5th Avenue Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Sep 26"
     },
     {
-      "name": "Johnny Huynh",
-      "date": "2026-09-25",
-      "time": "18:00:00",
-      "venue": "Barboza",
+      "name": "Conscience",
+      "date": "2026-09-26",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Fri Sep 25"
+      "date_pretty": "Sat Sep 26"
     },
     {
-      "name": "Big Thief: Somersault Slide 360 Tour",
-      "date": "2026-09-25",
-      "time": "18:00:00",
-      "venue": "Remlinger Farms",
+      "name": "Seattle Sounders FC vs. Minnesota United FC",
+      "date": "2026-09-26",
+      "time": "17:30:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Sat Sep 26"
+    },
+    {
+      "name": "Sucralose, Linzy Collins, Hank Lemon",
+      "date": "2026-09-26",
+      "time": "17:30:00",
+      "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Sep 25"
+      "genre": "Alternative",
+      "date_pretty": "Sat Sep 26"
     },
     {
-      "name": "Candlebox - Can't Quit You Tour, Fall 2026",
-      "date": "2026-09-25",
-      "time": "19:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Sep 25"
+      "name": "Seattle Thunderbirds vs. Prince George Cougars",
+      "date": "2026-09-26",
+      "time": "18:05:00",
+      "venue": "accesso ShoWare Center",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sat Sep 26"
     },
     {
-      "name": "Madeon presents Victory Live (18+)",
-      "date": "2026-09-25",
-      "time": "19:00:00",
-      "venue": "WAMU Theater",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Fri Sep 25"
+      "name": "Seattle Mariners vs. Los Angeles Angels",
+      "date": "2026-09-26",
+      "time": "18:40:00",
+      "venue": "T-Mobile Park",
+      "segment": "Sports",
+      "genre": "Baseball",
+      "date_pretty": "Sat Sep 26"
     },
     {
-      "name": "WAMU Theater Amplified Access: Madeon (Not an Even",
-      "date": "2026-09-25",
+      "name": "BUNT. (21+)",
+      "date": "2026-09-26",
       "time": "19:00:00",
-      "venue": "WAMU Theater",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Fri Sep 25"
-    },
-    {
-      "name": "THE B-52s * DEVO:  COSMIC DE-EVOLUTION TOUR",
-      "date": "2026-09-25",
-      "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Sep 25"
+      "venue": "Pioneer Square",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Sep 26"
     }
   ]
 }

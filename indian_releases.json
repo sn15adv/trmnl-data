@@ -1,14 +1,15 @@
 {
   "hero": {
-    "title": "Lust Stories 3",
-    "original_title": "लस्ट स्टोरीज़ ३",
+    "title": "The Vvaan",
+    "original_title": "द वन",
     "language": "Hindi",
-    "rating": 6.3,
-    "release_date": "2026-09-18",
-    "overview": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human c",
+    "rating": 9.4,
+    "release_date": "2026-09-25",
+    "overview": "A rational urban man defies his ancestral forbidden forest and awakens a divine goddess, only to realise that not only do some powers exist beyond logic but he must rise as the village’s only saviour ",
     "genres": [
-      "Romance",
-      "Drama"
+      "Action",
+      "Adventure",
+      "Thriller"
     ]
   },
   "others": [
@@ -18,9 +19,9 @@
       "release_date": "2026-09-23"
     },
     {
-      "title": "The Dark Heaven",
+      "title": "Meesaya Murukku 2",
       "language": "Tamil",
-      "release_date": "2026-09-18"
+      "release_date": "2026-09-25"
     },
     {
       "title": "Udta Teer",
@@ -28,9 +29,9 @@
       "release_date": "2026-10-09"
     },
     {
-      "title": "Zakir Khan: Papa Yaar",
+      "title": "Don't Be Shy!",
       "language": "Hindi",
-      "release_date": "2026-09-18"
+      "release_date": "2026-09-25"
     }
   ]
 }

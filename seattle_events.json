@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "School Of Rock West Seattle Presents: Nu Metal (Al",
-    "date": "2026-09-26",
-    "time": "12:30:00",
-    "venue": "Clock-Out Lounge",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Sat Sep 26"
+    "name": "Seattle Mariners vs. Los Angeles Angels",
+    "date": "2026-09-27",
+    "time": "12:10:00",
+    "venue": "T-Mobile Park",
+    "segment": "Sports",
+    "genre": "Baseball",
+    "date_pretty": "Sun Sep 27"
   },
   "others": [
     {
+      "name": "School of Rock West Seattle Presents: I Heart The ",
+      "date": "2026-09-27",
+      "time": "12:30:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sun Sep 27"
+    },
+    {
       "name": "A Chorus Line",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "time": "13:30:00",
       "venue": "5th Avenue Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Sat Sep 26"
+      "date_pretty": "Sun Sep 27"
     },
     {
-      "name": "Conscience",
-      "date": "2026-09-26",
+      "name": "Hamlet",
+      "date": "2026-09-27",
       "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Sep 26"
+      "venue": "Union Arts Center",
+      "segment": "Arts & Theatre",
+      "genre": "Performance Art",
+      "date_pretty": "Sun Sep 27"
     },
     {
-      "name": "Seattle Sounders FC vs. Minnesota United FC",
-      "date": "2026-09-26",
-      "time": "17:30:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Sat Sep 26"
-    },
-    {
-      "name": "Sucralose, Linzy Collins, Hank Lemon",
-      "date": "2026-09-26",
-      "time": "17:30:00",
-      "venue": "Chop Suey",
+      "name": "School of Rock West Seattle Presents: Best of the ",
+      "date": "2026-09-27",
+      "time": "15:30:00",
+      "venue": "Clock-Out Lounge",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Sep 26"
+      "genre": "Rock",
+      "date_pretty": "Sun Sep 27"
     },
     {
-      "name": "Seattle Thunderbirds vs. Prince George Cougars",
-      "date": "2026-09-26",
-      "time": "18:05:00",
-      "venue": "accesso ShoWare Center",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sat Sep 26"
+      "name": "Psychostick w/ Galactic Empire",
+      "date": "2026-09-27",
+      "time": "18:00:00",
+      "venue": "Barboza",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Sun Sep 27"
     },
     {
-      "name": "Seattle Mariners vs. Los Angeles Angels",
-      "date": "2026-09-26",
-      "time": "18:40:00",
-      "venue": "T-Mobile Park",
-      "segment": "Sports",
-      "genre": "Baseball",
-      "date_pretty": "Sat Sep 26"
+      "name": "THE KEHLANI WORLD TOUR: North America",
+      "date": "2026-09-27",
+      "time": "18:30:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Music",
+      "genre": "R&B",
+      "date_pretty": "Sun Sep 27"
     },
     {
-      "name": "BUNT. (21+)",
-      "date": "2026-09-26",
+      "name": "A Chorus Line",
+      "date": "2026-09-27",
       "time": "19:00:00",
-      "venue": "Pioneer Square",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Sep 26"
+      "venue": "5th Avenue Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sun Sep 27"
     }
   ]
 }

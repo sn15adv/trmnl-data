@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Seattle Mariners vs. Los Angeles Angels",
-    "date": "2026-09-27",
-    "time": "12:10:00",
-    "venue": "T-Mobile Park",
-    "segment": "Sports",
-    "genre": "Baseball",
-    "date_pretty": "Sun Sep 27"
+    "name": "Wind Walkers w/ If Not For Me",
+    "date": "2026-09-28",
+    "time": "18:30:00",
+    "venue": "Neumos",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Mon Sep 28"
   },
   "others": [
     {
-      "name": "School of Rock West Seattle Presents: I Heart The ",
-      "date": "2026-09-27",
-      "time": "12:30:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Sep 27"
-    },
-    {
-      "name": "A Chorus Line",
-      "date": "2026-09-27",
-      "time": "13:30:00",
-      "venue": "5th Avenue Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Sep 27"
-    },
-    {
-      "name": "Hamlet",
-      "date": "2026-09-27",
-      "time": "14:00:00",
-      "venue": "Union Arts Center",
-      "segment": "Arts & Theatre",
-      "genre": "Performance Art",
-      "date_pretty": "Sun Sep 27"
-    },
-    {
-      "name": "School of Rock West Seattle Presents: Best of the ",
-      "date": "2026-09-27",
-      "time": "15:30:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Sep 27"
-    },
-    {
-      "name": "Psychostick w/ Galactic Empire",
-      "date": "2026-09-27",
-      "time": "18:00:00",
-      "venue": "Barboza",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Sun Sep 27"
-    },
-    {
-      "name": "THE KEHLANI WORLD TOUR: North America",
-      "date": "2026-09-27",
+      "name": "$uicideboy$ present Grey Day Tour 2026 w. Shorelin",
+      "date": "2026-09-28",
       "time": "18:30:00",
       "venue": "Climate Pledge Arena",
       "segment": "Music",
-      "genre": "R&B",
-      "date_pretty": "Sun Sep 27"
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Mon Sep 28"
     },
     {
-      "name": "A Chorus Line",
-      "date": "2026-09-27",
+      "name": "Raised By TV Events Presents: all ages Friends Tri",
+      "date": "2026-09-28",
+      "time": "18:30:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Mon Sep 28"
+    },
+    {
+      "name": "Tractor Square Dance! Sparklebrite w/ Suzanne Gira",
+      "date": "2026-09-28",
+      "time": "18:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Mon Sep 28"
+    },
+    {
+      "name": "Silent Movie Mondays - Metropolis (1927)",
+      "date": "2026-09-28",
       "time": "19:00:00",
-      "venue": "5th Avenue Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Sep 27"
+      "venue": "Paramount Theatre",
+      "segment": "Film",
+      "genre": "Miscellaneous",
+      "date_pretty": "Mon Sep 28"
+    },
+    {
+      "name": "Igorrr: North American Tour 2026",
+      "date": "2026-09-28",
+      "time": "19:30:00",
+      "venue": "Neptune Theatre",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "date_pretty": "Mon Sep 28"
+    },
+    {
+      "name": "Mike D",
+      "date": "2026-09-28",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Mon Sep 28"
+    },
+    {
+      "name": "POiSON GiRL FRiEND, RIP Swirl",
+      "date": "2026-09-28",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "date_pretty": "Mon Sep 28"
     }
   ]
 }

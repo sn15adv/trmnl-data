@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Wind Walkers w/ If Not For Me",
-    "date": "2026-09-28",
+    "name": "Killswitch Engage",
+    "date": "2026-09-29",
     "time": "18:30:00",
-    "venue": "Neumos",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Mon Sep 28"
+    "venue": "Neptune Theatre",
+    "segment": "Music",
+    "genre": "Rock",
+    "date_pretty": "Tue Sep 29"
   },
   "others": [
     {
-      "name": "$uicideboy$ present Grey Day Tour 2026 w. Shorelin",
-      "date": "2026-09-28",
+      "name": "Killswitch Engage - MOVED TO THE NEPTUNE",
+      "date": "2026-09-29",
       "time": "18:30:00",
-      "venue": "Climate Pledge Arena",
+      "venue": "Neptune Theatre",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Mon Sep 28"
+      "genre": "Rock",
+      "date_pretty": "Tue Sep 29"
     },
     {
-      "name": "Raised By TV Events Presents: all ages Friends Tri",
-      "date": "2026-09-28",
-      "time": "18:30:00",
+      "name": "Raised By TV Events Presents: Community Trivia Nig",
+      "date": "2026-09-29",
+      "time": "19:00:00",
       "venue": "Clock-Out Lounge",
       "segment": "Miscellaneous",
       "genre": "",
-      "date_pretty": "Mon Sep 28"
+      "date_pretty": "Tue Sep 29"
     },
     {
-      "name": "Tractor Square Dance! Sparklebrite w/ Suzanne Gira",
-      "date": "2026-09-28",
-      "time": "18:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Mon Sep 28"
-    },
-    {
-      "name": "Silent Movie Mondays - Metropolis (1927)",
-      "date": "2026-09-28",
+      "name": "West 22nd",
+      "date": "2026-09-29",
       "time": "19:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Film",
-      "genre": "Miscellaneous",
-      "date_pretty": "Mon Sep 28"
+      "venue": "Nectar Lounge",
+      "segment": "Music",
+      "genre": "Folk",
+      "date_pretty": "Tue Sep 29"
     },
     {
-      "name": "Igorrr: North American Tour 2026",
-      "date": "2026-09-28",
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-09-29",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Sep 29"
+    },
+    {
+      "name": "JESSE BARRERA, ALBERT POSIS, Gabe Bondoc",
+      "date": "2026-09-29",
       "time": "19:30:00",
-      "venue": "Neptune Theatre",
+      "venue": "Baba Yaga",
       "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Mon Sep 28"
+      "genre": "Pop",
+      "date_pretty": "Tue Sep 29"
     },
     {
-      "name": "Mike D",
-      "date": "2026-09-28",
-      "time": "20:00:00",
-      "venue": "The Showbox",
+      "name": "UNDERTALE: Determination Symphony with the Seattle",
+      "date": "2026-09-29",
+      "time": "19:30:00",
+      "venue": "Taper Auditorium",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Mon Sep 28"
+      "genre": "Classical",
+      "date_pretty": "Tue Sep 29"
     },
     {
-      "name": "POiSON GiRL FRiEND, RIP Swirl",
-      "date": "2026-09-28",
-      "time": "20:00:00",
-      "venue": "The Crocodile",
+      "name": "Snarky Puppy",
+      "date": "2026-09-29",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
       "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Mon Sep 28"
+      "genre": "Jazz",
+      "date_pretty": "Tue Sep 29"
     }
   ]
 }

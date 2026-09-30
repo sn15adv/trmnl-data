@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Killswitch Engage",
-    "date": "2026-09-29",
-    "time": "18:30:00",
-    "venue": "Neptune Theatre",
-    "segment": "Music",
-    "genre": "Rock",
-    "date_pretty": "Tue Sep 29"
+    "name": "Hamlet",
+    "date": "2026-09-30",
+    "time": "19:00:00",
+    "venue": "Union Arts Center",
+    "segment": "Arts & Theatre",
+    "genre": "Performance Art",
+    "date_pretty": "Wed Sep 30"
   },
   "others": [
     {
-      "name": "Killswitch Engage - MOVED TO THE NEPTUNE",
-      "date": "2026-09-29",
-      "time": "18:30:00",
-      "venue": "Neptune Theatre",
+      "name": "Bilmuri - Kinda Hard Tour",
+      "date": "2026-09-30",
+      "time": "19:00:00",
+      "venue": "Paramount Theatre",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Tue Sep 29"
+      "date_pretty": "Wed Sep 30"
     },
     {
-      "name": "Raised By TV Events Presents: Community Trivia Nig",
-      "date": "2026-09-29",
+      "name": "Hail The Sun w/ A Lot Like Birds",
+      "date": "2026-09-30",
       "time": "19:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Tue Sep 29"
+      "venue": "El Corazon",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Wed Sep 30"
     },
     {
-      "name": "West 22nd",
-      "date": "2026-09-29",
+      "name": "EMAROSA with VEAUX, dreamfone (21+ Event)",
+      "date": "2026-09-30",
       "time": "19:00:00",
       "venue": "Nectar Lounge",
       "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Tue Sep 29"
+      "genre": "Other",
+      "date_pretty": "Wed Sep 30"
     },
     {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-09-29",
+      "name": "\"The Hayley Williams Show\"",
+      "date": "2026-09-30",
       "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Sep 29"
-    },
-    {
-      "name": "JESSE BARRERA, ALBERT POSIS, Gabe Bondoc",
-      "date": "2026-09-29",
-      "time": "19:30:00",
-      "venue": "Baba Yaga",
+      "venue": "White River Amphitheatre",
       "segment": "Music",
       "genre": "Pop",
-      "date_pretty": "Tue Sep 29"
+      "date_pretty": "Wed Sep 30"
     },
     {
-      "name": "UNDERTALE: Determination Symphony with the Seattle",
-      "date": "2026-09-29",
+      "name": "A.J. Croce Presents CROCE PLAYS CROCE",
+      "date": "2026-09-30",
       "time": "19:30:00",
-      "venue": "Taper Auditorium",
+      "venue": "Moore Theatre",
       "segment": "Music",
-      "genre": "Classical",
-      "date_pretty": "Tue Sep 29"
+      "genre": "Rock",
+      "date_pretty": "Wed Sep 30"
     },
     {
-      "name": "Snarky Puppy",
-      "date": "2026-09-29",
+      "name": "Conscience",
+      "date": "2026-09-30",
       "time": "19:30:00",
-      "venue": "Paramount Theatre",
+      "venue": "Taproot Theatre",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Wed Sep 30"
+    },
+    {
+      "name": "Jim E. Brown (21+ Event)",
+      "date": "2026-09-30",
+      "time": "20:00:00",
+      "venue": "Baba Yaga",
       "segment": "Music",
-      "genre": "Jazz",
-      "date_pretty": "Tue Sep 29"
+      "genre": "Folk",
+      "date_pretty": "Wed Sep 30"
     }
   ]
 }

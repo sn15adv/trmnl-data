@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "Hamlet",
-    "date": "2026-09-30",
-    "time": "19:00:00",
+    "date": "2026-10-01",
+    "time": "14:00:00",
     "venue": "Union Arts Center",
     "segment": "Arts & Theatre",
     "genre": "Performance Art",
-    "date_pretty": "Wed Sep 30"
+    "date_pretty": "Thu Oct 1"
   },
   "others": [
     {
-      "name": "Bilmuri - Kinda Hard Tour",
-      "date": "2026-09-30",
+      "name": "Seattle Sounders FC vs. Sporting Kansas City",
+      "date": "2026-10-01",
+      "time": "18:30:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Thu Oct 1"
+    },
+    {
+      "name": "SOMBR - You Are The Reason Tour",
+      "date": "2026-10-01",
       "time": "19:00:00",
-      "venue": "Paramount Theatre",
+      "venue": "Climate Pledge Arena",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Wed Sep 30"
+      "date_pretty": "Thu Oct 1"
     },
     {
-      "name": "Hail The Sun w/ A Lot Like Birds",
-      "date": "2026-09-30",
+      "name": "Sisa Grey",
+      "date": "2026-10-01",
       "time": "19:00:00",
-      "venue": "El Corazon",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Sep 30"
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Oct 1"
     },
     {
-      "name": "EMAROSA with VEAUX, dreamfone (21+ Event)",
-      "date": "2026-09-30",
-      "time": "19:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Sep 30"
-    },
-    {
-      "name": "\"The Hayley Williams Show\"",
-      "date": "2026-09-30",
-      "time": "19:00:00",
-      "venue": "White River Amphitheatre",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Wed Sep 30"
-    },
-    {
-      "name": "A.J. Croce Presents CROCE PLAYS CROCE",
-      "date": "2026-09-30",
+      "name": "Punch Brothers",
+      "date": "2026-10-01",
       "time": "19:30:00",
       "venue": "Moore Theatre",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Sep 30"
+      "genre": "Country",
+      "date_pretty": "Thu Oct 1"
     },
     {
       "name": "Conscience",
-      "date": "2026-09-30",
+      "date": "2026-10-01",
       "time": "19:30:00",
       "venue": "Taproot Theatre",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Wed Sep 30"
+      "date_pretty": "Thu Oct 1"
     },
     {
-      "name": "Jim E. Brown (21+ Event)",
-      "date": "2026-09-30",
+      "name": "YHWH NAILGUN",
+      "date": "2026-10-01",
       "time": "20:00:00",
-      "venue": "Baba Yaga",
+      "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Wed Sep 30"
+      "genre": "Alternative",
+      "date_pretty": "Thu Oct 1"
+    },
+    {
+      "name": "YHWH Nailgun",
+      "date": "2026-10-01",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Oct 1"
     }
   ]
 }

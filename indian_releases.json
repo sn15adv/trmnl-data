@@ -14,24 +14,24 @@
   },
   "others": [
     {
-      "title": "Udta Teer",
-      "language": "Hindi",
-      "release_date": "2026-10-09"
-    },
-    {
       "title": "Don't Be Shy!",
       "language": "Hindi",
       "release_date": "2026-09-25"
     },
     {
+      "title": "Drishyam: The Conclusion",
+      "language": "Hindi",
+      "release_date": "2026-10-02"
+    },
+    {
+      "title": "Udta Teer",
+      "language": "Hindi",
+      "release_date": "2026-10-23"
+    },
+    {
       "title": "Jailer 2",
       "language": "Tamil",
       "release_date": "2026-10-15"
-    },
-    {
-      "title": "Dorothy",
-      "language": "Tamil",
-      "release_date": "2026-09-25"
     }
   ]
 }

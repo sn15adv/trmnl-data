@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Hamlet",
-    "date": "2026-10-01",
-    "time": "14:00:00",
-    "venue": "Union Arts Center",
+    "name": "Bluey's Big Play",
+    "date": "2026-10-02",
+    "time": "18:00:00",
+    "venue": "The 5th Avenue Theatre",
     "segment": "Arts & Theatre",
-    "genre": "Performance Art",
-    "date_pretty": "Thu Oct 1"
+    "genre": "Children's Theatre",
+    "date_pretty": "Fri Oct 2"
   },
   "others": [
     {
-      "name": "Seattle Sounders FC vs. Sporting Kansas City",
-      "date": "2026-10-01",
+      "name": "Son Lux, mmeadows",
+      "date": "2026-10-02",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Fri Oct 2"
+    },
+    {
+      "name": "Tyler Childers - Snipe Hunt",
+      "date": "2026-10-02",
       "time": "18:30:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Fri Oct 2"
+    },
+    {
+      "name": "Jim Gaffigan: Everything is Wonderful!",
+      "date": "2026-10-02",
+      "time": "19:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Fri Oct 2"
+    },
+    {
+      "name": "Seattle Reign FC vs. North Carolina Courage",
+      "date": "2026-10-02",
+      "time": "19:00:00",
       "venue": "Lumen Field",
       "segment": "Sports",
       "genre": "Soccer",
-      "date_pretty": "Thu Oct 1"
+      "date_pretty": "Fri Oct 2"
     },
     {
-      "name": "SOMBR - You Are The Reason Tour",
-      "date": "2026-10-01",
+      "name": "Washington Huskies Mens Soccer vs. Wisconsin Badge",
+      "date": "2026-10-02",
       "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Thu Oct 1"
+      "venue": "Husky Soccer Stadium",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Oct 2"
     },
     {
-      "name": "Sisa Grey",
-      "date": "2026-10-01",
+      "name": "Washington Huskies Womens Volleyball vs. Illinois ",
+      "date": "2026-10-02",
       "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Oct 1"
+      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Oct 2"
     },
     {
-      "name": "Punch Brothers",
-      "date": "2026-10-01",
-      "time": "19:30:00",
-      "venue": "Moore Theatre",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Thu Oct 1"
-    },
-    {
-      "name": "Conscience",
-      "date": "2026-10-01",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Oct 1"
-    },
-    {
-      "name": "YHWH NAILGUN",
-      "date": "2026-10-01",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Thu Oct 1"
-    },
-    {
-      "name": "YHWH Nailgun",
-      "date": "2026-10-01",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Oct 1"
+      "name": "Seattle Thunderbirds vs. Wenatchee Wild",
+      "date": "2026-10-02",
+      "time": "19:05:00",
+      "venue": "accesso ShoWare Center",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Oct 2"
     }
   ]
 }

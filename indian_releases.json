@@ -1,27 +1,22 @@
 {
   "hero": {
-    "title": "Meesaya Murukku 2",
-    "original_title": "மீசைய முருக்கு 2",
-    "language": "Tamil",
-    "rating": 0.0,
-    "release_date": "2026-09-25",
-    "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his ",
+    "title": "Drishyam: The Conclusion",
+    "original_title": "दृश्यम्: द कन्क्लूजन",
+    "language": "Hindi",
+    "rating": 10.0,
+    "release_date": "2026-10-02",
+    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save hi",
     "genres": [
-      "Comedy",
-      "Romance",
-      "Drama"
+      "Thriller",
+      "Drama",
+      "Mystery"
     ]
   },
   "others": [
     {
-      "title": "Don't Be Shy!",
-      "language": "Hindi",
-      "release_date": "2026-09-25"
-    },
-    {
-      "title": "Drishyam: The Conclusion",
-      "language": "Hindi",
-      "release_date": "2026-10-02"
+      "title": "Jailer 2",
+      "language": "Tamil",
+      "release_date": "2026-10-15"
     },
     {
       "title": "Udta Teer",
@@ -29,9 +24,14 @@
       "release_date": "2026-10-23"
     },
     {
-      "title": "Jailer 2",
+      "title": "Baththa",
       "language": "Tamil",
-      "release_date": "2026-10-15"
+      "release_date": "2026-10-01"
+    },
+    {
+      "title": "Sigma",
+      "language": "Tamil",
+      "release_date": "2026-10-02"
     }
   ]
 }

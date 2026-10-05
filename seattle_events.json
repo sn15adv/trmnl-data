@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Bluey's Big Play: Sensory-Accessible Performance",
-    "date": "2026-10-04",
-    "time": "11:00:00",
-    "venue": "The 5th Avenue Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Children's Theatre",
-    "date_pretty": "Sun Oct 4"
+    "name": "Lumen Field Stadium Tours",
+    "date": "2026-10-05",
+    "time": "16:30:00",
+    "venue": "Lumen Field Stadium Tours",
+    "segment": "Miscellaneous",
+    "genre": "Undefined",
+    "date_pretty": "Mon Oct 5"
   },
   "others": [
     {
-      "name": "School of Rock West Seattle Presents: Strokes vs H",
-      "date": "2026-10-04",
-      "time": "12:30:00",
+      "name": "Raised By TV Events Presents: all ages LOTR films ",
+      "date": "2026-10-05",
+      "time": "18:30:00",
       "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
+      "genre": "",
+      "date_pretty": "Mon Oct 5"
+    },
+    {
+      "name": "Judah and The Lion",
+      "date": "2026-10-05",
+      "time": "19:30:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Mon Oct 5"
+    },
+    {
+      "name": "Radio Ranch w/ Evan Wallace, Brooklyn Del and the ",
+      "date": "2026-10-05",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Folk",
+      "date_pretty": "Mon Oct 5"
+    },
+    {
+      "name": "Calvin Love, Scott Yoder, Lilo Sanchez",
+      "date": "2026-10-05",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Sun Oct 4"
+      "date_pretty": "Mon Oct 5"
     },
     {
-      "name": "Seattle Seahawks vs. Los Angeles Chargers",
-      "date": "2026-10-04",
-      "time": "13:25:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sun Oct 4"
-    },
-    {
-      "name": "Seahawks Viewing Party ",
-      "date": "2026-10-04",
-      "time": "13:25:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sun Oct 4"
-    },
-    {
-      "name": "Ennio Morricone: The Official Symphonic Experience",
-      "date": "2026-10-04",
-      "time": "14:00:00",
-      "venue": "Taper Auditorium",
+      "name": "Chinese Football, Plash",
+      "date": "2026-10-05",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Classical",
-      "date_pretty": "Sun Oct 4"
+      "genre": "Alternative",
+      "date_pretty": "Mon Oct 5"
     },
     {
-      "name": "Washington Huskies Womens Volleyball vs. Purdue Bo",
-      "date": "2026-10-04",
-      "time": "14:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Oct 4"
+      "name": "DOMi & JD BECK",
+      "date": "2026-10-05",
+      "time": "20:00:00",
+      "venue": "Neumos",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Mon Oct 5"
     },
     {
-      "name": "Bluey's Big Play",
-      "date": "2026-10-04",
-      "time": "15:00:00",
-      "venue": "The 5th Avenue Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Children's Theatre",
-      "date_pretty": "Sun Oct 4"
-    },
-    {
-      "name": "School of Rock West Seattle Presents: Sounds of Se",
-      "date": "2026-10-04",
-      "time": "15:30:00",
-      "venue": "Clock-Out Lounge",
+      "name": "The Living Tombstone - Ages 21+",
+      "date": "2026-10-05",
+      "time": "20:00:00",
+      "venue": "Showbox SODO",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Sun Oct 4"
+      "genre": "Dance/Electronic",
+      "date_pretty": "Mon Oct 5"
     }
   ]
 }

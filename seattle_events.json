@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Lumen Field Stadium Tours",
-    "date": "2026-10-05",
-    "time": "16:30:00",
-    "venue": "Lumen Field Stadium Tours",
-    "segment": "Miscellaneous",
-    "genre": "Undefined",
-    "date_pretty": "Mon Oct 5"
+    "name": "Dying Fetus w/ Sanguisugabogg",
+    "date": "2026-10-06",
+    "time": "18:30:00",
+    "venue": "Showbox SODO",
+    "segment": "Music",
+    "genre": "Other",
+    "date_pretty": "Tue Oct 6"
   },
   "others": [
     {
-      "name": "Raised By TV Events Presents: all ages LOTR films ",
-      "date": "2026-10-05",
-      "time": "18:30:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Mon Oct 5"
+      "name": "Seattle Kraken vs. Vegas Golden Knights",
+      "date": "2026-10-06",
+      "time": "18:40:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Hockey",
+      "date_pretty": "Tue Oct 6"
     },
     {
-      "name": "Judah and The Lion",
-      "date": "2026-10-05",
-      "time": "19:30:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Mon Oct 5"
+      "name": "Ilana Glazer Live!",
+      "date": "2026-10-06",
+      "time": "19:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Tue Oct 6"
     },
     {
-      "name": "Radio Ranch w/ Evan Wallace, Brooklyn Del and the ",
-      "date": "2026-10-05",
-      "time": "19:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Mon Oct 5"
-    },
-    {
-      "name": "Calvin Love, Scott Yoder, Lilo Sanchez",
-      "date": "2026-10-05",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Oct 5"
-    },
-    {
-      "name": "Chinese Football, Plash",
-      "date": "2026-10-05",
-      "time": "20:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Mon Oct 5"
-    },
-    {
-      "name": "DOMi & JD BECK",
-      "date": "2026-10-05",
-      "time": "20:00:00",
-      "venue": "Neumos",
+      "name": "Ecca Vandal",
+      "date": "2026-10-06",
+      "time": "19:00:00",
+      "venue": "Barboza",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Mon Oct 5"
+      "date_pretty": "Tue Oct 6"
     },
     {
-      "name": "The Living Tombstone - Ages 21+",
-      "date": "2026-10-05",
-      "time": "20:00:00",
-      "venue": "Showbox SODO",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Mon Oct 5"
+      "name": "Free spooky movie night- The Love Witch (2016)",
+      "date": "2026-10-06",
+      "time": "19:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 6"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-10-06",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 6"
+    },
+    {
+      "name": "Water for Elephants (Touring)",
+      "date": "2026-10-06",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Tue Oct 6"
+    },
+    {
+      "name": "Magic Theater Presents: Battle Royale",
+      "date": "2026-10-06",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 6"
     }
   ]
 }

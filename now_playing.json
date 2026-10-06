@@ -13,20 +13,20 @@
   },
   "others": [
     {
-      "title": "Coyote vs. Acme",
-      "rating": 7.5
+      "title": "The Fix",
+      "rating": 6.9
     },
     {
       "title": "Runner",
       "rating": 8.3
     },
     {
-      "title": "The Fix",
-      "rating": 7.1
+      "title": "Coyote vs. Acme",
+      "rating": 7.5
     },
     {
       "title": "Digger",
-      "rating": 7.4
+      "rating": 7.5
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Dying Fetus w/ Sanguisugabogg",
-    "date": "2026-10-06",
-    "time": "18:30:00",
-    "venue": "Showbox SODO",
-    "segment": "Music",
-    "genre": "Other",
-    "date_pretty": "Tue Oct 6"
+    "name": "Conscience",
+    "date": "2026-10-07",
+    "time": "14:00:00",
+    "venue": "Taproot Theatre",
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Wed Oct 7"
   },
   "others": [
     {
-      "name": "Seattle Kraken vs. Vegas Golden Knights",
-      "date": "2026-10-06",
-      "time": "18:40:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Hockey",
-      "date_pretty": "Tue Oct 6"
+      "name": "Movements w/ Balance & Composure",
+      "date": "2026-10-07",
+      "time": "19:00:00",
+      "venue": "Showbox SODO",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Wed Oct 7"
     },
     {
-      "name": "Ilana Glazer Live!",
-      "date": "2026-10-06",
+      "name": "Smoke On the Mountain",
+      "date": "2026-10-07",
       "time": "19:00:00",
-      "venue": "Moore Theatre",
+      "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Tue Oct 6"
+      "genre": "Miscellaneous",
+      "date_pretty": "Wed Oct 7"
     },
     {
-      "name": "Ecca Vandal",
-      "date": "2026-10-06",
-      "time": "19:00:00",
-      "venue": "Barboza",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Oct 6"
-    },
-    {
-      "name": "Free spooky movie night- The Love Witch (2016)",
-      "date": "2026-10-06",
-      "time": "19:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Oct 6"
-    },
-    {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-10-06",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Oct 6"
+      "name": "Castle Rat w/ Unto Others",
+      "date": "2026-10-07",
+      "time": "19:30:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Oct 7"
     },
     {
       "name": "Water for Elephants (Touring)",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Tue Oct 6"
+      "date_pretty": "Wed Oct 7"
     },
     {
-      "name": "Magic Theater Presents: Battle Royale",
-      "date": "2026-10-06",
-      "time": "19:30:00",
+      "name": "Lucia Flores-Wiseman, MANISHA, Mirabai Kukathas",
+      "date": "2026-10-07",
+      "time": "20:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed Oct 7"
+    },
+    {
+      "name": "Jane Remover: Live Exhibit",
+      "date": "2026-10-07",
+      "time": "20:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Oct 7"
+    },
+    {
+      "name": "Aaron Lee Tasjan w/ Madeleine Kelson (partially se",
+      "date": "2026-10-07",
+      "time": "20:00:00",
       "venue": "Tractor",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Oct 6"
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed Oct 7"
     }
   ]
 }

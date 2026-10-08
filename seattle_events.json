@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Conscience",
-    "date": "2026-10-07",
-    "time": "14:00:00",
-    "venue": "Taproot Theatre",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Wed Oct 7"
+    "name": "Taking Back Sunday w/ Thrice",
+    "date": "2026-10-08",
+    "time": "18:00:00",
+    "venue": "Dune Peninsula",
+    "segment": "Music",
+    "genre": "Alternative",
+    "date_pretty": "Thu Oct 8"
   },
   "others": [
     {
-      "name": "Movements w/ Balance & Composure",
-      "date": "2026-10-07",
-      "time": "19:00:00",
-      "venue": "Showbox SODO",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Oct 7"
-    },
-    {
       "name": "Smoke On the Mountain",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "time": "19:00:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Wed Oct 7"
+      "date_pretty": "Thu Oct 8"
     },
     {
-      "name": "Castle Rat w/ Unto Others",
-      "date": "2026-10-07",
-      "time": "19:30:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Oct 7"
+      "name": "Dave Chappelle",
+      "date": "2026-10-08",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Thu Oct 8"
     },
     {
       "name": "Water for Elephants (Touring)",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Wed Oct 7"
+      "date_pretty": "Thu Oct 8"
     },
     {
-      "name": "Lucia Flores-Wiseman, MANISHA, Mirabai Kukathas",
-      "date": "2026-10-07",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
+      "name": "Hammerfall",
+      "date": "2026-10-08",
+      "time": "19:30:00",
+      "venue": "El Corazon",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Oct 7"
+      "genre": "Metal",
+      "date_pretty": "Thu Oct 8"
     },
     {
-      "name": "Jane Remover: Live Exhibit",
-      "date": "2026-10-07",
+      "name": "Conscience",
+      "date": "2026-10-08",
+      "time": "19:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Oct 8"
+    },
+    {
+      "name": "YG: THE GENTLEMEN'S CLUB TOUR",
+      "date": "2026-10-08",
+      "time": "19:30:00",
+      "venue": "Angel Of The Winds Arena",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Thu Oct 8"
+    },
+    {
+      "name": "STING 3.0 Tour",
+      "date": "2026-10-08",
       "time": "20:00:00",
-      "venue": "Neptune Theatre",
+      "venue": "Benaroya Hall - S. Mark Taper Audit",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Wed Oct 7"
-    },
-    {
-      "name": "Aaron Lee Tasjan w/ Madeleine Kelson (partially se",
-      "date": "2026-10-07",
-      "time": "20:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Oct 7"
+      "date_pretty": "Thu Oct 8"
     }
   ]
 }

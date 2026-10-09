@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Taking Back Sunday w/ Thrice",
-    "date": "2026-10-08",
-    "time": "18:00:00",
-    "venue": "Dune Peninsula",
-    "segment": "Music",
-    "genre": "Alternative",
-    "date_pretty": "Thu Oct 8"
+    "name": "Lumen Field Stadium Tours",
+    "date": "2026-10-09",
+    "time": "16:30:00",
+    "venue": "Lumen Field Stadium Tours",
+    "segment": "Miscellaneous",
+    "genre": "Undefined",
+    "date_pretty": "Fri Oct 9"
   },
   "others": [
     {
+      "name": "French Police, Social Order",
+      "date": "2026-10-09",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Fri Oct 9"
+    },
+    {
+      "name": "Militarie Gun w/ Softcult",
+      "date": "2026-10-09",
+      "time": "18:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Fri Oct 9"
+    },
+    {
+      "name": "Love Spells",
+      "date": "2026-10-09",
+      "time": "18:00:00",
+      "venue": "Barboza",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Fri Oct 9"
+    },
+    {
+      "name": "Washington Huskies Football vs. Iowa Hawkeyes Foot",
+      "date": "2026-10-09",
+      "time": "18:00:00",
+      "venue": "Husky Stadium-WA",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Fri Oct 9"
+    },
+    {
+      "name": "KiNG MALA (21+ Event)",
+      "date": "2026-10-09",
+      "time": "18:00:00",
+      "venue": "Substation Seattle",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Fri Oct 9"
+    },
+    {
+      "name": "Highly Suspect w/ Passengers Unknown",
+      "date": "2026-10-09",
+      "time": "18:30:00",
+      "venue": "Temple Theatre-WA",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Fri Oct 9"
+    },
+    {
       "name": "Smoke On the Mountain",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "time": "19:00:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Thu Oct 8"
-    },
-    {
-      "name": "Dave Chappelle",
-      "date": "2026-10-08",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Thu Oct 8"
-    },
-    {
-      "name": "Water for Elephants (Touring)",
-      "date": "2026-10-08",
-      "time": "19:30:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Thu Oct 8"
-    },
-    {
-      "name": "Hammerfall",
-      "date": "2026-10-08",
-      "time": "19:30:00",
-      "venue": "El Corazon",
-      "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Thu Oct 8"
-    },
-    {
-      "name": "Conscience",
-      "date": "2026-10-08",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Oct 8"
-    },
-    {
-      "name": "YG: THE GENTLEMEN'S CLUB TOUR",
-      "date": "2026-10-08",
-      "time": "19:30:00",
-      "venue": "Angel Of The Winds Arena",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Thu Oct 8"
-    },
-    {
-      "name": "STING 3.0 Tour",
-      "date": "2026-10-08",
-      "time": "20:00:00",
-      "venue": "Benaroya Hall - S. Mark Taper Audit",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Thu Oct 8"
+      "date_pretty": "Fri Oct 9"
     }
   ]
 }

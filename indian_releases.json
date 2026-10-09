@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Drishyam: The Conclusion",
-    "original_title": "दृश्यम्: आख़िरी हिस्सा",
+    "original_title": "दृश्यम: आखिरी हिस्सा",
     "language": "Hindi",
     "rating": 7.6,
     "release_date": "2026-10-02",
@@ -19,6 +19,11 @@
       "release_date": "2026-10-15"
     },
     {
+      "title": "Ranabaali",
+      "language": "Telugu",
+      "release_date": "2026-10-16"
+    },
+    {
       "title": "Udta Teer",
       "language": "Hindi",
       "release_date": "2026-10-23"
@@ -27,11 +32,6 @@
       "title": "Pooja Meri Jaan",
       "language": "Hindi",
       "release_date": "2026-10-02"
-    },
-    {
-      "title": "Baththa",
-      "language": "Tamil",
-      "release_date": "2026-10-01"
     }
   ]
 }

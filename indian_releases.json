@@ -1,27 +1,26 @@
 {
   "hero": {
-    "title": "Drishyam: The Conclusion",
-    "original_title": "दृश्यम: आखिरी हिस्सा",
-    "language": "Hindi",
-    "rating": 7.6,
-    "release_date": "2026-10-02",
-    "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save hi",
+    "title": "Jailer 2",
+    "original_title": "ஜெயிலர் 2",
+    "language": "Tamil",
+    "rating": 0.0,
+    "release_date": "2026-10-15",
+    "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new ene",
     "genres": [
-      "Thriller",
-      "Drama",
-      "Mystery"
+      "Action",
+      "Comedy"
     ]
   },
   "others": [
     {
-      "title": "Jailer 2",
-      "language": "Tamil",
-      "release_date": "2026-10-15"
-    },
-    {
       "title": "Ranabaali",
       "language": "Telugu",
       "release_date": "2026-10-16"
+    },
+    {
+      "title": "Reporting Live",
+      "language": "Hindi",
+      "release_date": "2026-10-09"
     },
     {
       "title": "Udta Teer",
@@ -29,9 +28,9 @@
       "release_date": "2026-10-23"
     },
     {
-      "title": "Pooja Meri Jaan",
+      "title": "Almari",
       "language": "Hindi",
-      "release_date": "2026-10-02"
+      "release_date": "2026-10-07"
     }
   ]
 }

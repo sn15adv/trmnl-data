@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Lumen Field Stadium Tours",
-    "date": "2026-10-09",
-    "time": "16:30:00",
-    "venue": "Lumen Field Stadium Tours",
-    "segment": "Miscellaneous",
-    "genre": "Undefined",
-    "date_pretty": "Fri Oct 9"
+    "name": "Smoke On the Mountain",
+    "date": "2026-10-10",
+    "time": "13:30:00",
+    "venue": "Taproot Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Miscellaneous",
+    "date_pretty": "Sat Oct 10"
   },
   "others": [
     {
-      "name": "French Police, Social Order",
-      "date": "2026-10-09",
+      "name": "Water for Elephants (Touring)",
+      "date": "2026-10-10",
+      "time": "14:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sat Oct 10"
+    },
+    {
+      "name": "Conscience",
+      "date": "2026-10-10",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Oct 10"
+    },
+    {
+      "name": "Gaurav Kapoor",
+      "date": "2026-10-10",
+      "time": "17:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sat Oct 10"
+    },
+    {
+      "name": "Lumen Field Stadium Tours",
+      "date": "2026-10-10",
+      "time": "17:30:00",
+      "venue": "Lumen Field Stadium Tours",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Sat Oct 10"
+    },
+    {
+      "name": "FINAL NOTICE: Emanuel Brown, Saynave, 2kMANSON & D",
+      "date": "2026-10-10",
+      "time": "17:30:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Sat Oct 10"
+    },
+    {
+      "name": "KISHI BASHI: Sonderlust 10th Anniversary Tour w/ G",
+      "date": "2026-10-10",
       "time": "18:00:00",
       "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Oct 9"
+      "genre": "Alternative",
+      "date_pretty": "Sat Oct 10"
     },
     {
-      "name": "Militarie Gun w/ Softcult",
-      "date": "2026-10-09",
-      "time": "18:00:00",
-      "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Oct 9"
-    },
-    {
-      "name": "Love Spells",
-      "date": "2026-10-09",
-      "time": "18:00:00",
-      "venue": "Barboza",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Oct 9"
-    },
-    {
-      "name": "Washington Huskies Football vs. Iowa Hawkeyes Foot",
-      "date": "2026-10-09",
-      "time": "18:00:00",
-      "venue": "Husky Stadium-WA",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Fri Oct 9"
-    },
-    {
-      "name": "KiNG MALA (21+ Event)",
-      "date": "2026-10-09",
-      "time": "18:00:00",
-      "venue": "Substation Seattle",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Oct 9"
-    },
-    {
-      "name": "Highly Suspect w/ Passengers Unknown",
-      "date": "2026-10-09",
-      "time": "18:30:00",
-      "venue": "Temple Theatre-WA",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Oct 9"
-    },
-    {
-      "name": "Smoke On the Mountain",
-      "date": "2026-10-09",
+      "name": "Kai Wachi",
+      "date": "2026-10-10",
       "time": "19:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri Oct 9"
+      "venue": "WAMU Theater",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "date_pretty": "Sat Oct 10"
     }
   ]
 }

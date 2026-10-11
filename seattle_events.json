@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Smoke On the Mountain",
-    "date": "2026-10-10",
-    "time": "13:30:00",
-    "venue": "Taproot Theatre",
+    "name": "Water for Elephants (Touring)",
+    "date": "2026-10-11",
+    "time": "13:00:00",
+    "venue": "Paramount Theatre",
     "segment": "Arts & Theatre",
-    "genre": "Miscellaneous",
-    "date_pretty": "Sat Oct 10"
+    "genre": "Theatre",
+    "date_pretty": "Sun Oct 11"
   },
   "others": [
     {
-      "name": "Water for Elephants (Touring)",
-      "date": "2026-10-10",
-      "time": "14:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sat Oct 10"
+      "name": "Seattle Seahawks vs. San Francisco 49ers",
+      "date": "2026-10-11",
+      "time": "13:25:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sun Oct 11"
     },
     {
-      "name": "Conscience",
-      "date": "2026-10-10",
+      "name": "Seahawks Viewing Party ",
+      "date": "2026-10-11",
+      "time": "13:25:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sun Oct 11"
+    },
+    {
+      "name": "Tacoma Opera Presents: Die Walküre",
+      "date": "2026-10-11",
       "time": "14:00:00",
-      "venue": "Taproot Theatre",
+      "venue": "Pantages Theater",
+      "segment": "Arts & Theatre",
+      "genre": "Opera",
+      "date_pretty": "Sun Oct 11"
+    },
+    {
+      "name": "Jeff Goldblum & the Mildred Snitzer Orchestra with",
+      "date": "2026-10-11",
+      "time": "16:00:00",
+      "venue": "Taper Auditorium",
+      "segment": "Music",
+      "genre": "Classical",
+      "date_pretty": "Sun Oct 11"
+    },
+    {
+      "name": "*SOLD OUT* Clock-Out Lounge Presents: Sunday Funda",
+      "date": "2026-10-11",
+      "time": "16:00:00",
+      "venue": "Clock-Out Lounge",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sat Oct 10"
+      "date_pretty": "Sun Oct 11"
     },
     {
-      "name": "Gaurav Kapoor",
-      "date": "2026-10-10",
-      "time": "17:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Sat Oct 10"
-    },
-    {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-10-10",
-      "time": "17:30:00",
-      "venue": "Lumen Field Stadium Tours",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Sat Oct 10"
-    },
-    {
-      "name": "FINAL NOTICE: Emanuel Brown, Saynave, 2kMANSON & D",
-      "date": "2026-10-10",
+      "name": "Dearheart, The Requisite, Glass Cannons",
+      "date": "2026-10-11",
       "time": "17:30:00",
       "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Sat Oct 10"
+      "genre": "Rock",
+      "date_pretty": "Sun Oct 11"
     },
     {
-      "name": "KISHI BASHI: Sonderlust 10th Anniversary Tour w/ G",
-      "date": "2026-10-10",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Oct 10"
-    },
-    {
-      "name": "Kai Wachi",
-      "date": "2026-10-10",
-      "time": "19:00:00",
-      "venue": "WAMU Theater",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Sat Oct 10"
+      "name": "Water for Elephants (Touring)",
+      "date": "2026-10-11",
+      "time": "18:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Sun Oct 11"
     }
   ]
 }

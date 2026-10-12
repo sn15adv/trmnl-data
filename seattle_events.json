@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Water for Elephants (Touring)",
-    "date": "2026-10-11",
-    "time": "13:00:00",
-    "venue": "Paramount Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Theatre",
-    "date_pretty": "Sun Oct 11"
+    "name": "Lumen Field Stadium Tours",
+    "date": "2026-10-12",
+    "time": "16:30:00",
+    "venue": "Lumen Field Stadium Tours",
+    "segment": "Miscellaneous",
+    "genre": "Undefined",
+    "date_pretty": "Mon Oct 12"
   },
   "others": [
     {
-      "name": "Seattle Seahawks vs. San Francisco 49ers",
-      "date": "2026-10-11",
-      "time": "13:25:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sun Oct 11"
-    },
-    {
-      "name": "Seahawks Viewing Party ",
-      "date": "2026-10-11",
-      "time": "13:25:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sun Oct 11"
-    },
-    {
-      "name": "Tacoma Opera Presents: Die Walküre",
-      "date": "2026-10-11",
-      "time": "14:00:00",
-      "venue": "Pantages Theater",
-      "segment": "Arts & Theatre",
-      "genre": "Opera",
-      "date_pretty": "Sun Oct 11"
-    },
-    {
-      "name": "Jeff Goldblum & the Mildred Snitzer Orchestra with",
-      "date": "2026-10-11",
-      "time": "16:00:00",
-      "venue": "Taper Auditorium",
+      "name": "Kelsey Lu",
+      "date": "2026-10-12",
+      "time": "19:00:00",
+      "venue": "Neumos",
       "segment": "Music",
-      "genre": "Classical",
-      "date_pretty": "Sun Oct 11"
+      "genre": "Other",
+      "date_pretty": "Mon Oct 12"
     },
     {
-      "name": "*SOLD OUT* Clock-Out Lounge Presents: Sunday Funda",
-      "date": "2026-10-11",
-      "time": "16:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sun Oct 11"
-    },
-    {
-      "name": "Dearheart, The Requisite, Glass Cannons",
-      "date": "2026-10-11",
-      "time": "17:30:00",
-      "venue": "Chop Suey",
+      "name": "RUSH: Fifty Something",
+      "date": "2026-10-12",
+      "time": "19:30:00",
+      "venue": "Climate Pledge Arena",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Sun Oct 11"
+      "date_pretty": "Mon Oct 12"
     },
     {
-      "name": "Water for Elephants (Touring)",
-      "date": "2026-10-11",
-      "time": "18:30:00",
-      "venue": "Paramount Theatre",
+      "name": "Boy Harsher w/ True Blue",
+      "date": "2026-10-12",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Mon Oct 12"
+    },
+    {
+      "name": "Clock-Out Lounge Presents: Collide-O-Scope",
+      "date": "2026-10-12",
+      "time": "20:00:00",
+      "venue": "Clock-Out Lounge",
       "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Oct 11"
+      "genre": "Classical",
+      "date_pretty": "Mon Oct 12"
+    },
+    {
+      "name": "Lou Hazel w/ Ray Wolff (partially seated)",
+      "date": "2026-10-12",
+      "time": "20:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Folk",
+      "date_pretty": "Mon Oct 12"
+    },
+    {
+      "name": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock)",
+      "date": "2026-10-12",
+      "time": "20:30:00",
+      "venue": "Showbox SODO",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Mon Oct 12"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-10-12",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Oct 12"
     }
   ]
 }

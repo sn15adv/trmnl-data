@@ -1,21 +1,21 @@
 {
   "hero": {
-    "title": "Jailer 2",
-    "original_title": "ஜெயிலர் 2",
-    "language": "Tamil",
-    "rating": 0.0,
-    "release_date": "2026-10-15",
-    "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new ene",
+    "title": "Reporting Live",
+    "original_title": "रिपोर्टिंग लाइव",
+    "language": "Hindi",
+    "rating": 8.3,
+    "release_date": "2026-10-09",
+    "overview": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
     "genres": [
-      "Action",
-      "Comedy"
+      "Crime",
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "Reporting Live",
-      "language": "Hindi",
-      "release_date": "2026-10-09"
+      "title": "Jailer 2",
+      "language": "Tamil",
+      "release_date": "2026-10-15"
     },
     {
       "title": "Ranabaali",
@@ -23,9 +23,9 @@
       "release_date": "2026-10-16"
     },
     {
-      "title": "Udta Teer",
-      "language": "Hindi",
-      "release_date": "2026-10-23"
+      "title": "Comrade Kalyan",
+      "language": "Telugu",
+      "release_date": "2026-10-09"
     },
     {
       "title": "Almari",

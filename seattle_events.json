@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Lumen Field Stadium Tours",
-    "date": "2026-10-12",
-    "time": "16:30:00",
-    "venue": "Lumen Field Stadium Tours",
-    "segment": "Miscellaneous",
-    "genre": "Undefined",
-    "date_pretty": "Mon Oct 12"
+    "name": "Smoke On the Mountain",
+    "date": "2026-10-13",
+    "time": "14:00:00",
+    "venue": "Taproot Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Miscellaneous",
+    "date_pretty": "Tue Oct 13"
   },
   "others": [
     {
-      "name": "Kelsey Lu",
-      "date": "2026-10-12",
+      "name": "Hayden Everett - Ages 21+",
+      "date": "2026-10-13",
       "time": "19:00:00",
       "venue": "Neumos",
       "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon Oct 12"
+      "genre": "Alternative",
+      "date_pretty": "Tue Oct 13"
     },
     {
-      "name": "RUSH: Fifty Something",
-      "date": "2026-10-12",
-      "time": "19:30:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Oct 12"
+      "name": "amelie farren w/ Lilith Max",
+      "date": "2026-10-13",
+      "time": "19:00:00",
+      "venue": "The Vera Project",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 13"
     },
     {
-      "name": "Boy Harsher w/ True Blue",
-      "date": "2026-10-12",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Mon Oct 12"
-    },
-    {
-      "name": "Clock-Out Lounge Presents: Collide-O-Scope",
-      "date": "2026-10-12",
-      "time": "20:00:00",
+      "name": "Free spooky movie night- A Girl Walks Home Alone a",
+      "date": "2026-10-13",
+      "time": "19:00:00",
       "venue": "Clock-Out Lounge",
-      "segment": "Arts & Theatre",
-      "genre": "Classical",
-      "date_pretty": "Mon Oct 12"
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 13"
     },
     {
-      "name": "Lou Hazel w/ Ray Wolff (partially seated)",
-      "date": "2026-10-12",
-      "time": "20:00:00",
-      "venue": "Tractor",
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-10-13",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 13"
+    },
+    {
+      "name": "Seattle Thunderbirds vs. Vancouver Giants",
+      "date": "2026-10-13",
+      "time": "19:05:00",
+      "venue": "accesso ShoWare Center",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Tue Oct 13"
+    },
+    {
+      "name": "Paige Fish",
+      "date": "2026-10-13",
+      "time": "19:30:00",
+      "venue": "Baba Yaga",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 13"
+    },
+    {
+      "name": "Lila Downs: Cambias mi Mundo",
+      "date": "2026-10-13",
+      "time": "19:30:00",
+      "venue": "Moore Theatre",
       "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Mon Oct 12"
-    },
-    {
-      "name": "Sex Pistols (Steve Jones, Paul Cook, Glen Matlock)",
-      "date": "2026-10-12",
-      "time": "20:30:00",
-      "venue": "Showbox SODO",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Oct 12"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-10-12",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Oct 12"
+      "genre": "World",
+      "date_pretty": "Tue Oct 13"
     }
   ]
 }

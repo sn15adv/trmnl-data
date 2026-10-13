@@ -3,7 +3,7 @@
     "title": "Reporting Live",
     "original_title": "रिपोर्टिंग लाइव",
     "language": "Hindi",
-    "rating": 8.3,
+    "rating": 8.1,
     "release_date": "2026-10-09",
     "overview": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
     "genres": [
@@ -18,19 +18,19 @@
       "release_date": "2026-10-15"
     },
     {
-      "title": "Ranabaali",
-      "language": "Telugu",
-      "release_date": "2026-10-16"
-    },
-    {
       "title": "Comrade Kalyan",
       "language": "Telugu",
       "release_date": "2026-10-09"
     },
     {
-      "title": "Almari",
+      "title": "Ranabaali",
+      "language": "Telugu",
+      "release_date": "2026-10-16"
+    },
+    {
+      "title": "Udta Teer",
       "language": "Hindi",
-      "release_date": "2026-10-07"
+      "release_date": "2026-10-23"
     }
   ]
 }

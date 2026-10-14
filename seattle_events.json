@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Smoke On the Mountain",
-    "date": "2026-10-13",
+    "name": "Conscience",
+    "date": "2026-10-14",
     "time": "14:00:00",
     "venue": "Taproot Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Miscellaneous",
-    "date_pretty": "Tue Oct 13"
+    "segment": "Undefined",
+    "genre": "",
+    "date_pretty": "Wed Oct 14"
   },
   "others": [
     {
-      "name": "Hayden Everett - Ages 21+",
-      "date": "2026-10-13",
+      "name": "Jenna Raine",
+      "date": "2026-10-14",
       "time": "19:00:00",
-      "venue": "Neumos",
+      "venue": "Barboza",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Tue Oct 13"
+      "genre": "Rock",
+      "date_pretty": "Wed Oct 14"
     },
     {
-      "name": "amelie farren w/ Lilith Max",
-      "date": "2026-10-13",
+      "name": "Washington Huskies Mens Soccer vs. Seattle Univers",
+      "date": "2026-10-14",
       "time": "19:00:00",
-      "venue": "The Vera Project",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Oct 13"
-    },
-    {
-      "name": "Free spooky movie night- A Girl Walks Home Alone a",
-      "date": "2026-10-13",
-      "time": "19:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Oct 13"
-    },
-    {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-10-13",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Oct 13"
-    },
-    {
-      "name": "Seattle Thunderbirds vs. Vancouver Giants",
-      "date": "2026-10-13",
-      "time": "19:05:00",
-      "venue": "accesso ShoWare Center",
+      "venue": "Husky Soccer Stadium",
       "segment": "Sports",
       "genre": "Miscellaneous",
-      "date_pretty": "Tue Oct 13"
+      "date_pretty": "Wed Oct 14"
     },
     {
-      "name": "Paige Fish",
-      "date": "2026-10-13",
-      "time": "19:30:00",
-      "venue": "Baba Yaga",
+      "name": "Flor de Toloache (21+ Event)",
+      "date": "2026-10-14",
+      "time": "19:00:00",
+      "venue": "Nectar Lounge",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Tue Oct 13"
+      "date_pretty": "Wed Oct 14"
     },
     {
-      "name": "Lila Downs: Cambias mi Mundo",
-      "date": "2026-10-13",
+      "name": "Smoke On the Mountain",
+      "date": "2026-10-14",
+      "time": "19:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Wed Oct 14"
+    },
+    {
+      "name": "Conscience",
+      "date": "2026-10-14",
       "time": "19:30:00",
-      "venue": "Moore Theatre",
+      "venue": "Taproot Theatre",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Wed Oct 14"
+    },
+    {
+      "name": "She Wants Revenge - Ages 21+",
+      "date": "2026-10-14",
+      "time": "20:00:00",
+      "venue": "The Showbox",
       "segment": "Music",
-      "genre": "World",
-      "date_pretty": "Tue Oct 13"
+      "genre": "Alternative",
+      "date_pretty": "Wed Oct 14"
+    },
+    {
+      "name": "Cameron Whitcomb - Kingdom of Fear Tour",
+      "date": "2026-10-14",
+      "time": "20:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Wed Oct 14"
     }
   ]
 }

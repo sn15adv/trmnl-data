@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Conscience",
-    "date": "2026-10-14",
-    "time": "14:00:00",
-    "venue": "Taproot Theatre",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Wed Oct 14"
+    "name": "Converge w/ The Heiress",
+    "date": "2026-10-15",
+    "time": "19:00:00",
+    "venue": "El Corazon",
+    "segment": "Music",
+    "genre": "Rock",
+    "date_pretty": "Thu Oct 15"
   },
   "others": [
     {
-      "name": "Jenna Raine",
-      "date": "2026-10-14",
-      "time": "19:00:00",
-      "venue": "Barboza",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Oct 14"
-    },
-    {
-      "name": "Washington Huskies Mens Soccer vs. Seattle Univers",
-      "date": "2026-10-14",
-      "time": "19:00:00",
-      "venue": "Husky Soccer Stadium",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Wed Oct 14"
-    },
-    {
-      "name": "Flor de Toloache (21+ Event)",
-      "date": "2026-10-14",
-      "time": "19:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Wed Oct 14"
-    },
-    {
       "name": "Smoke On the Mountain",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "time": "19:00:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Wed Oct 14"
+      "date_pretty": "Thu Oct 15"
+    },
+    {
+      "name": "Rick Glassman",
+      "date": "2026-10-15",
+      "time": "19:00:00",
+      "venue": "Tacoma Comedy Club",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Oct 15"
+    },
+    {
+      "name": "You Look Like - Roast Battle",
+      "date": "2026-10-15",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Oct 15"
+    },
+    {
+      "name": "Rocky Horror Picture Spooktacular Tour with Patric",
+      "date": "2026-10-15",
+      "time": "19:30:00",
+      "venue": "The 5th Avenue Theatre",
+      "segment": "Film",
+      "genre": "Music",
+      "date_pretty": "Thu Oct 15"
+    },
+    {
+      "name": "Doja Cat - Tour Ma Vie World Tour",
+      "date": "2026-10-15",
+      "time": "19:30:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Thu Oct 15"
     },
     {
       "name": "Conscience",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "time": "19:30:00",
       "venue": "Taproot Theatre",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Wed Oct 14"
+      "date_pretty": "Thu Oct 15"
     },
     {
-      "name": "She Wants Revenge - Ages 21+",
-      "date": "2026-10-14",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Oct 14"
-    },
-    {
-      "name": "Cameron Whitcomb - Kingdom of Fear Tour",
-      "date": "2026-10-14",
-      "time": "20:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Wed Oct 14"
+      "name": "GIRLS N' ROSES (Guns N' Roses Tribute) - Ages 21+",
+      "date": "2026-10-15",
+      "time": "19:30:00",
+      "venue": "Nectar Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Oct 15"
     }
   ]
 }

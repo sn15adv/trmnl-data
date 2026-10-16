@@ -18,19 +18,19 @@
       "release_date": "2026-10-14"
     },
     {
-      "title": "Ramayana",
+      "title": "Ramayana: Rise of a Legend",
       "language": "Hindi",
       "release_date": "2026-11-05"
-    },
-    {
-      "title": "Udta Teer",
-      "language": "Hindi",
-      "release_date": "2026-10-23"
     },
     {
       "title": "Ranabaali",
       "language": "Telugu",
       "release_date": "2026-10-15"
+    },
+    {
+      "title": "Udta Teer",
+      "language": "Hindi",
+      "release_date": "2026-10-23"
     }
   ]
 }

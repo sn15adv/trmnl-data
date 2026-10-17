@@ -1,22 +1,17 @@
 {
   "hero": {
-    "title": "Reporting Live",
-    "original_title": "रिपोर्टिंग लाइव",
-    "language": "Hindi",
-    "rating": 8.1,
-    "release_date": "2026-10-09",
-    "overview": "A young reporter and her reluctant cameraman chase a story, only to get entangled in an illegal sand-mining racket run by a ruthless syndicate.",
+    "title": "Jailer 2",
+    "original_title": "ஜெயிலர் 2",
+    "language": "Tamil",
+    "rating": 8.0,
+    "release_date": "2026-10-14",
+    "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new ene",
     "genres": [
-      "Crime",
-      "Thriller"
+      "Action",
+      "Comedy"
     ]
   },
   "others": [
-    {
-      "title": "Jailer 2",
-      "language": "Tamil",
-      "release_date": "2026-10-14"
-    },
     {
       "title": "Ramayana: Rise of a Legend",
       "language": "Hindi",
@@ -26,6 +21,11 @@
       "title": "Ranabaali",
       "language": "Telugu",
       "release_date": "2026-10-15"
+    },
+    {
+      "title": "Nayyi Navelli",
+      "language": "Hindi",
+      "release_date": "2026-10-16"
     },
     {
       "title": "Udta Teer",

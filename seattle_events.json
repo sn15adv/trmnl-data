@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Lumen Field Stadium Tours",
-    "date": "2026-10-16",
-    "time": "16:30:00",
-    "venue": "Lumen Field Stadium Tours",
-    "segment": "Miscellaneous",
-    "genre": "Undefined",
-    "date_pretty": "Fri Oct 16"
+    "name": "Smoke On the Mountain",
+    "date": "2026-10-17",
+    "time": "13:30:00",
+    "venue": "Taproot Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Miscellaneous",
+    "date_pretty": "Sat Oct 17"
   },
   "others": [
     {
-      "name": "Earlybirds Club - Ages 21+",
-      "date": "2026-10-16",
-      "time": "18:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Fri Oct 16"
-    },
-    {
-      "name": "Sawyer Hill",
-      "date": "2026-10-16",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
+      "name": "Conscience",
+      "date": "2026-10-17",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Fri Oct 16"
+      "date_pretty": "Sat Oct 17"
     },
     {
-      "name": "Sawyer Hill - Everybody’s Home, Nobody’s Happy Wor",
-      "date": "2026-10-16",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
+      "name": "Maria Bamford",
+      "date": "2026-10-17",
+      "time": "16:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sat Oct 17"
+    },
+    {
+      "name": "Trans Music Showcase",
+      "date": "2026-10-17",
+      "time": "16:30:00",
+      "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Oct 16"
+      "genre": "Alternative",
+      "date_pretty": "Sat Oct 17"
     },
     {
-      "name": "Bebe Stockwell",
-      "date": "2026-10-16",
-      "time": "18:30:00",
-      "venue": "Barboza",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Oct 16"
-    },
-    {
-      "name": "Jim Henson's Labyrinth: In Concert 40th Anniversar",
-      "date": "2026-10-16",
-      "time": "19:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Film",
-      "genre": "Family",
-      "date_pretty": "Fri Oct 16"
-    },
-    {
-      "name": "Washington Huskies Womens Volleyball vs. Rutgers S",
-      "date": "2026-10-16",
-      "time": "19:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri Oct 16"
-    },
-    {
-      "name": "KIEFER with Shibo (21+ Event)",
-      "date": "2026-10-16",
-      "time": "19:00:00",
+      "name": "Bangers Before Bed - Ages 21+",
+      "date": "2026-10-17",
+      "time": "17:00:00",
       "venue": "Nectar Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Oct 17"
+    },
+    {
+      "name": "*EARLY* Grindhaus w/ Bosco, Willow Pill, Tenderoni",
+      "date": "2026-10-17",
+      "time": "18:00:00",
+      "venue": "The Crocodile",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Oct 17"
+    },
+    {
+      "name": "Gnash (21+)",
+      "date": "2026-10-17",
+      "time": "18:00:00",
+      "venue": "Neumos",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Fri Oct 16"
+      "date_pretty": "Sat Oct 17"
+    },
+    {
+      "name": "Rick Glassman",
+      "date": "2026-10-17",
+      "time": "18:00:00",
+      "venue": "Tacoma Comedy Club",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Oct 17"
     }
   ]
 }

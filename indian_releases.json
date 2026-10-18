@@ -3,7 +3,7 @@
     "title": "Jailer 2",
     "original_title": "ஜெயிலர் 2",
     "language": "Tamil",
-    "rating": 8.0,
+    "rating": 7.7,
     "release_date": "2026-10-14",
     "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new ene",
     "genres": [
@@ -13,14 +13,14 @@
   },
   "others": [
     {
-      "title": "Ramayana: Rise of a Legend",
-      "language": "Hindi",
-      "release_date": "2026-11-05"
-    },
-    {
       "title": "Ranabaali",
       "language": "Telugu",
       "release_date": "2026-10-15"
+    },
+    {
+      "title": "Ramayana: Rise of a Legend",
+      "language": "Hindi",
+      "release_date": "2026-11-05"
     },
     {
       "title": "Nayyi Navelli",
@@ -28,9 +28,9 @@
       "release_date": "2026-10-16"
     },
     {
-      "title": "Udta Teer",
+      "title": "Prahaar: The Untold Story of U",
       "language": "Hindi",
-      "release_date": "2026-10-23"
+      "release_date": "2026-10-16"
     }
   ]
 }

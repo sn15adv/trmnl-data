@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Smoke On the Mountain",
-    "date": "2026-10-17",
-    "time": "13:30:00",
-    "venue": "Taproot Theatre",
-    "segment": "Arts & Theatre",
+    "name": "Washington Huskies Womens Volleyball vs. Indiana H",
+    "date": "2026-10-18",
+    "time": "14:00:00",
+    "venue": "Alaska Airlines Arena at Hec Edmund",
+    "segment": "Sports",
     "genre": "Miscellaneous",
-    "date_pretty": "Sat Oct 17"
+    "date_pretty": "Sun Oct 18"
   },
   "others": [
     {
-      "name": "Conscience",
-      "date": "2026-10-17",
-      "time": "14:00:00",
-      "venue": "Taproot Theatre",
-      "segment": "Undefined",
+      "name": "Raised By TV Events Presents: all ages Bob's Burge",
+      "date": "2026-10-18",
+      "time": "18:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Miscellaneous",
       "genre": "",
-      "date_pretty": "Sat Oct 17"
+      "date_pretty": "Sun Oct 18"
     },
     {
-      "name": "Maria Bamford",
-      "date": "2026-10-17",
-      "time": "16:00:00",
+      "name": "Georgian National Ballet Sukhishvili",
+      "date": "2026-10-18",
+      "time": "19:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Dance",
+      "date_pretty": "Sun Oct 18"
+    },
+    {
+      "name": "Cheekface w/ special guest Waitress & Dude York",
+      "date": "2026-10-18",
+      "time": "19:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Sun Oct 18"
+    },
+    {
+      "name": "Two Dykes and a Mic: Soaking Wet Tour",
+      "date": "2026-10-18",
+      "time": "19:00:00",
       "venue": "Neptune Theatre",
       "segment": "Arts & Theatre",
       "genre": "Comedy",
-      "date_pretty": "Sat Oct 17"
+      "date_pretty": "Sun Oct 18"
     },
     {
-      "name": "Trans Music Showcase",
-      "date": "2026-10-17",
-      "time": "16:30:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sat Oct 17"
+      "name": "Damon Williams",
+      "date": "2026-10-18",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sun Oct 18"
     },
     {
-      "name": "Bangers Before Bed - Ages 21+",
-      "date": "2026-10-17",
-      "time": "17:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Oct 17"
-    },
-    {
-      "name": "*EARLY* Grindhaus w/ Bosco, Willow Pill, Tenderoni",
-      "date": "2026-10-17",
-      "time": "18:00:00",
-      "venue": "The Crocodile",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Oct 17"
-    },
-    {
-      "name": "Gnash (21+)",
-      "date": "2026-10-17",
-      "time": "18:00:00",
-      "venue": "Neumos",
+      "name": "Mom Jeans",
+      "date": "2026-10-18",
+      "time": "19:30:00",
+      "venue": "Showbox SODO",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Sat Oct 17"
+      "date_pretty": "Sun Oct 18"
     },
     {
-      "name": "Rick Glassman",
-      "date": "2026-10-17",
-      "time": "18:00:00",
-      "venue": "Tacoma Comedy Club",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Sat Oct 17"
+      "name": "Lauren Ash: The Call Me When You Get This Tour",
+      "date": "2026-10-18",
+      "time": "19:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Sun Oct 18"
     }
   ]
 }

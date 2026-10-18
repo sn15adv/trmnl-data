@@ -1,32 +1,32 @@
 {
   "hero": {
-    "title": "Resident Evil",
-    "rating": 7.3,
-    "runtime": "1h 35m",
-    "release_date": "2026-09-18",
-    "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+    "title": "Hope",
+    "rating": 6.9,
+    "runtime": "2h 37m",
+    "release_date": "2026-09-09",
+    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems",
     "genres": [
-      "Horror",
       "Science Fiction",
-      "Adventure"
+      "Mystery",
+      "Action"
     ]
   },
   "others": [
     {
+      "title": "Resident Evil",
+      "rating": 7.3
+    },
+    {
       "title": "Animals",
-      "rating": 7.2
-    },
-    {
-      "title": "Hope",
-      "rating": 6.9
-    },
-    {
-      "title": "Runner",
-      "rating": 8.3
+      "rating": 7.1
     },
     {
       "title": "The Fix",
       "rating": 6.7
+    },
+    {
+      "title": "Runner",
+      "rating": 8.3
     }
   ]
 }

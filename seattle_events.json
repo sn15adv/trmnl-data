@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Washington Huskies Womens Volleyball vs. Indiana H",
-    "date": "2026-10-18",
-    "time": "14:00:00",
-    "venue": "Alaska Airlines Arena at Hec Edmund",
-    "segment": "Sports",
-    "genre": "Miscellaneous",
-    "date_pretty": "Sun Oct 18"
+    "name": "Lumen Field Stadium Tours",
+    "date": "2026-10-19",
+    "time": "16:30:00",
+    "venue": "Lumen Field Stadium Tours",
+    "segment": "Miscellaneous",
+    "genre": "Undefined",
+    "date_pretty": "Mon Oct 19"
   },
   "others": [
     {
-      "name": "Raised By TV Events Presents: all ages Bob's Burge",
-      "date": "2026-10-18",
-      "time": "18:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Sun Oct 18"
-    },
-    {
-      "name": "Georgian National Ballet Sukhishvili",
-      "date": "2026-10-18",
+      "name": "Daniel Sloss: BITTER  (Brand New Tour!)",
+      "date": "2026-10-19",
       "time": "19:00:00",
       "venue": "Moore Theatre",
       "segment": "Arts & Theatre",
-      "genre": "Dance",
-      "date_pretty": "Sun Oct 18"
-    },
-    {
-      "name": "Cheekface w/ special guest Waitress & Dude York",
-      "date": "2026-10-18",
-      "time": "19:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sun Oct 18"
-    },
-    {
-      "name": "Two Dykes and a Mic: Soaking Wet Tour",
-      "date": "2026-10-18",
-      "time": "19:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Arts & Theatre",
       "genre": "Comedy",
-      "date_pretty": "Sun Oct 18"
+      "date_pretty": "Mon Oct 19"
     },
     {
-      "name": "Damon Williams",
-      "date": "2026-10-18",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Sun Oct 18"
-    },
-    {
-      "name": "Mom Jeans",
-      "date": "2026-10-18",
+      "name": "Barbara Kingsolver",
+      "date": "2026-10-19",
       "time": "19:30:00",
-      "venue": "Showbox SODO",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Sun Oct 18"
+      "venue": "Benaroya Hall",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Mon Oct 19"
     },
     {
-      "name": "Lauren Ash: The Call Me When You Get This Tour",
-      "date": "2026-10-18",
+      "name": "SiM",
+      "date": "2026-10-19",
+      "time": "19:30:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Metal",
+      "date_pretty": "Mon Oct 19"
+    },
+    {
+      "name": "Tractor Tavern & Sonic Boom Record Club",
+      "date": "2026-10-19",
       "time": "19:30:00",
       "venue": "Tractor",
       "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Sun Oct 18"
+      "genre": "Alternative",
+      "date_pretty": "Mon Oct 19"
+    },
+    {
+      "name": "Sara Bareilles: The Good Grief Tour",
+      "date": "2026-10-19",
+      "time": "19:45:00",
+      "venue": "Paramount Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Mon Oct 19"
+    },
+    {
+      "name": "Daniel Sloss: BITTER  (Brand New Tour!)",
+      "date": "2026-10-19",
+      "time": "21:30:00",
+      "venue": "Moore Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Mon Oct 19"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-10-19",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Oct 19"
     }
   ]
 }

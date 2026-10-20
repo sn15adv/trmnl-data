@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Lumen Field Stadium Tours",
-    "date": "2026-10-19",
-    "time": "16:30:00",
-    "venue": "Lumen Field Stadium Tours",
-    "segment": "Miscellaneous",
-    "genre": "Undefined",
-    "date_pretty": "Mon Oct 19"
+    "name": "Seattle Kraken vs. Detroit Red Wings",
+    "date": "2026-10-20",
+    "time": "18:40:00",
+    "venue": "Climate Pledge Arena",
+    "segment": "Sports",
+    "genre": "Hockey",
+    "date_pretty": "Tue Oct 20"
   },
   "others": [
     {
-      "name": "Daniel Sloss: BITTER  (Brand New Tour!)",
-      "date": "2026-10-19",
+      "name": "WAMU Theater Amplified Access: Rise Against (Not a",
+      "date": "2026-10-20",
       "time": "19:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Mon Oct 19"
-    },
-    {
-      "name": "Barbara Kingsolver",
-      "date": "2026-10-19",
-      "time": "19:30:00",
-      "venue": "Benaroya Hall",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Mon Oct 19"
-    },
-    {
-      "name": "SiM",
-      "date": "2026-10-19",
-      "time": "19:30:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Mon Oct 19"
-    },
-    {
-      "name": "Tractor Tavern & Sonic Boom Record Club",
-      "date": "2026-10-19",
-      "time": "19:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Mon Oct 19"
-    },
-    {
-      "name": "Sara Bareilles: The Good Grief Tour",
-      "date": "2026-10-19",
-      "time": "19:45:00",
-      "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Oct 19"
-    },
-    {
-      "name": "Daniel Sloss: BITTER  (Brand New Tour!)",
-      "date": "2026-10-19",
-      "time": "21:30:00",
-      "venue": "Moore Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Mon Oct 19"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-10-19",
-      "time": "",
-      "venue": "T-Mobile Park",
+      "venue": "WAMU Theater",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Mon Oct 19"
+      "date_pretty": "Tue Oct 20"
+    },
+    {
+      "name": "Rise Against: Ricochet 2026",
+      "date": "2026-10-20",
+      "time": "19:00:00",
+      "venue": "WAMU Theater",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Oct 20"
+    },
+    {
+      "name": "Bear Ghost w/ Sarah and the Safe Word",
+      "date": "2026-10-20",
+      "time": "19:00:00",
+      "venue": "El Corazon",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 20"
+    },
+    {
+      "name": "Free spooky movie night- Cemetery Man (1996)",
+      "date": "2026-10-20",
+      "time": "19:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 20"
+    },
+    {
+      "name": "Celtic Thunder",
+      "date": "2026-10-20",
+      "time": "19:00:00",
+      "venue": "Federal Way PAEC",
+      "segment": "Music",
+      "genre": "World",
+      "date_pretty": "Tue Oct 20"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-10-20",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Oct 20"
+    },
+    {
+      "name": "An Evening with Bill Nye",
+      "date": "2026-10-20",
+      "time": "19:30:00",
+      "venue": "The 5th Avenue Theatre",
+      "segment": "Miscellaneous",
+      "genre": "Community/Civic",
+      "date_pretty": "Tue Oct 20"
     }
   ]
 }

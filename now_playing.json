@@ -1,32 +1,31 @@
 {
   "hero": {
-    "title": "Hope",
-    "rating": 6.9,
-    "runtime": "2h 37m",
-    "release_date": "2026-09-09",
-    "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems",
+    "title": "Street Fighter",
+    "rating": 6.3,
+    "runtime": "2h 0m",
+    "release_date": "2026-10-16",
+    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and f",
     "genres": [
-      "Science Fiction",
-      "Mystery",
-      "Action"
+      "Action",
+      "Fantasy"
     ]
   },
   "others": [
     {
+      "title": "Hope",
+      "rating": 6.9
+    },
+    {
+      "title": "Other Mommy",
+      "rating": 6.0
+    },
+    {
+      "title": "Whalefall",
+      "rating": 6.6
+    },
+    {
       "title": "The Fix",
-      "rating": 6.8
-    },
-    {
-      "title": "Animals",
-      "rating": 7.0
-    },
-    {
-      "title": "Runner",
-      "rating": 8.3
-    },
-    {
-      "title": "Resident Evil",
-      "rating": 7.3
+      "rating": 6.6
     }
   ]
 }

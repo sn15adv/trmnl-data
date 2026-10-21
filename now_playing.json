@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Street Fighter",
-    "rating": 6.3,
+    "rating": 6.2,
     "runtime": "2h 0m",
     "release_date": "2026-10-16",
     "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and f",
@@ -12,20 +12,20 @@
   },
   "others": [
     {
-      "title": "Hope",
-      "rating": 6.9
-    },
-    {
       "title": "Other Mommy",
-      "rating": 6.0
+      "rating": 5.9
     },
     {
       "title": "Whalefall",
-      "rating": 6.6
+      "rating": 6.5
     },
     {
-      "title": "The Fix",
-      "rating": 6.6
+      "title": "The Social Reckoning",
+      "rating": 7.0
+    },
+    {
+      "title": "Digger",
+      "rating": 7.5
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "The War and Treaty",
-    "date": "2026-10-21",
+    "name": "Seattle Kraken vs. Utah Mammoth",
+    "date": "2026-10-22",
     "time": "19:00:00",
-    "venue": "The Crocodile",
-    "segment": "Music",
-    "genre": "Other",
-    "date_pretty": "Wed Oct 21"
+    "venue": "Climate Pledge Arena",
+    "segment": "Sports",
+    "genre": "Hockey",
+    "date_pretty": "Thu Oct 22"
   },
   "others": [
     {
-      "name": "The War and Treaty, Blank Page, Jordan Babbs",
-      "date": "2026-10-21",
-      "time": "19:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Wed Oct 21"
-    },
-    {
       "name": "Smoke On the Mountain",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "time": "19:00:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Wed Oct 21"
+      "date_pretty": "Thu Oct 22"
     },
     {
-      "name": "Celtic Thunder",
-      "date": "2026-10-21",
+      "name": "MOUNTAIN HOLLER & THE WESTERN DAWN - Ages 21+",
+      "date": "2026-10-22",
       "time": "19:00:00",
-      "venue": "Federal Way PAEC",
-      "segment": "Music",
-      "genre": "World",
-      "date_pretty": "Wed Oct 21"
-    },
-    {
-      "name": "Trash Talk with Chris Crayzie",
-      "date": "2026-10-21",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
+      "venue": "Nectar Lounge",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Wed Oct 21"
+      "date_pretty": "Thu Oct 22"
     },
     {
-      "name": "Demon Hunter",
-      "date": "2026-10-21",
+      "name": "Disney On Ice presents Jump In",
+      "date": "2026-10-22",
+      "time": "19:00:00",
+      "venue": "accesso ShoWare Center",
+      "segment": "Miscellaneous",
+      "genre": "Ice Shows",
+      "date_pretty": "Thu Oct 22"
+    },
+    {
+      "name": "Lyle Lovett and his Small Large Band",
+      "date": "2026-10-22",
       "time": "19:30:00",
-      "venue": "El Corazon",
+      "venue": "The 5th Avenue Theatre",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Oct 21"
+      "genre": "Country",
+      "date_pretty": "Thu Oct 22"
     },
     {
       "name": "Conscience",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "time": "19:30:00",
       "venue": "Taproot Theatre",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Wed Oct 21"
+      "date_pretty": "Thu Oct 22"
     },
     {
-      "name": "India Ramey w/ special guests: Brittany Collins, T",
-      "date": "2026-10-21",
+      "name": "Where's Beth + Lilly Miller + Coach Phillips",
+      "date": "2026-10-22",
       "time": "19:30:00",
       "venue": "Tractor",
       "segment": "Music",
+      "genre": "Folk",
+      "date_pretty": "Thu Oct 22"
+    },
+    {
+      "name": "Shakey Graves w/ Wild Pink",
+      "date": "2026-10-22",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
       "genre": "Country",
-      "date_pretty": "Wed Oct 21"
+      "date_pretty": "Thu Oct 22"
     }
   ]
 }

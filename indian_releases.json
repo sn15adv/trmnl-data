@@ -1,22 +1,18 @@
 {
   "hero": {
-    "title": "Jailer 2",
-    "original_title": "ஜெயிலர் 2",
-    "language": "Tamil",
-    "rating": 8.0,
-    "release_date": "2026-10-14",
-    "overview": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new ene",
+    "title": "Ramayana: Rise of a Legend",
+    "original_title": "रामायण",
+    "language": "Hindi",
+    "rating": 0.0,
+    "release_date": "2026-11-05",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater chal",
     "genres": [
+      "Fantasy",
       "Action",
-      "Comedy"
+      "Adventure"
     ]
   },
   "others": [
-    {
-      "title": "Ramayana: Rise of a Legend",
-      "language": "Hindi",
-      "release_date": "2026-11-05"
-    },
     {
       "title": "Ranabaali",
       "language": "Telugu",
@@ -31,6 +27,11 @@
       "title": "Prahaar: The Untold Story of U",
       "language": "Hindi",
       "release_date": "2026-10-16"
+    },
+    {
+      "title": "Udta Teer",
+      "language": "Hindi",
+      "release_date": "2026-10-23"
     }
   ]
 }

@@ -14,11 +14,6 @@
   },
   "others": [
     {
-      "title": "Ranabaali",
-      "language": "Telugu",
-      "release_date": "2026-10-15"
-    },
-    {
       "title": "Nayyi Navelli",
       "language": "Hindi",
       "release_date": "2026-10-16"
@@ -30,6 +25,11 @@
     },
     {
       "title": "Udta Teer",
+      "language": "Hindi",
+      "release_date": "2026-10-23"
+    },
+    {
+      "title": "Gajab Raat",
       "language": "Hindi",
       "release_date": "2026-10-23"
     }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Seattle Kraken vs. Utah Mammoth",
-    "date": "2026-10-22",
-    "time": "19:00:00",
-    "venue": "Climate Pledge Arena",
-    "segment": "Sports",
-    "genre": "Hockey",
-    "date_pretty": "Thu Oct 22"
+    "name": "Lumen Field Stadium Tours",
+    "date": "2026-10-23",
+    "time": "16:30:00",
+    "venue": "Lumen Field Stadium Tours",
+    "segment": "Miscellaneous",
+    "genre": "Undefined",
+    "date_pretty": "Fri Oct 23"
   },
   "others": [
     {
+      "name": "Disney On Ice presents Jump In",
+      "date": "2026-10-23",
+      "time": "18:30:00",
+      "venue": "accesso ShoWare Center",
+      "segment": "Miscellaneous",
+      "genre": "Ice Shows",
+      "date_pretty": "Fri Oct 23"
+    },
+    {
+      "name": "Pigeons Playing Ping Pong (21 and Over)",
+      "date": "2026-10-23",
+      "time": "19:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Fri Oct 23"
+    },
+    {
+      "name": "Havok w/ Hellripper",
+      "date": "2026-10-23",
+      "time": "19:00:00",
+      "venue": "El Corazon",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Fri Oct 23"
+    },
+    {
+      "name": "Dadi Freyr",
+      "date": "2026-10-23",
+      "time": "19:00:00",
+      "venue": "Showbox SODO",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Fri Oct 23"
+    },
+    {
       "name": "Smoke On the Mountain",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "time": "19:00:00",
       "venue": "Taproot Theatre",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Thu Oct 22"
+      "date_pretty": "Fri Oct 23"
     },
     {
-      "name": "MOUNTAIN HOLLER & THE WESTERN DAWN - Ages 21+",
-      "date": "2026-10-22",
+      "name": "Left It In The River Tour with Jamie MacDonald",
+      "date": "2026-10-23",
       "time": "19:00:00",
-      "venue": "Nectar Lounge",
+      "venue": "Pantages Theater",
+      "segment": "Music",
+      "genre": "Religious",
+      "date_pretty": "Fri Oct 23"
+    },
+    {
+      "name": "Jenna Davis",
+      "date": "2026-10-23",
+      "time": "19:00:00",
+      "venue": "Steel Creek",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Thu Oct 22"
-    },
-    {
-      "name": "Disney On Ice presents Jump In",
-      "date": "2026-10-22",
-      "time": "19:00:00",
-      "venue": "accesso ShoWare Center",
-      "segment": "Miscellaneous",
-      "genre": "Ice Shows",
-      "date_pretty": "Thu Oct 22"
-    },
-    {
-      "name": "Lyle Lovett and his Small Large Band",
-      "date": "2026-10-22",
-      "time": "19:30:00",
-      "venue": "The 5th Avenue Theatre",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Thu Oct 22"
-    },
-    {
-      "name": "Conscience",
-      "date": "2026-10-22",
-      "time": "19:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Oct 22"
-    },
-    {
-      "name": "Where's Beth + Lilly Miller + Coach Phillips",
-      "date": "2026-10-22",
-      "time": "19:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Thu Oct 22"
-    },
-    {
-      "name": "Shakey Graves w/ Wild Pink",
-      "date": "2026-10-22",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Thu Oct 22"
+      "date_pretty": "Fri Oct 23"
     }
   ]
 }

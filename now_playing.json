@@ -13,19 +13,19 @@
   "others": [
     {
       "title": "Other Mommy",
-      "rating": 5.9
+      "rating": 5.8
+    },
+    {
+      "title": "Clayface",
+      "rating": 7.5
     },
     {
       "title": "Whalefall",
       "rating": 6.5
     },
     {
-      "title": "Clayface",
+      "title": "Resident Evil",
       "rating": 7.3
-    },
-    {
-      "title": "Animals",
-      "rating": 7.0
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Ramayana: Rise of a Legend",
-    "original_title": "रामायण",
+    "original_title": "रामायणम",
     "language": "Hindi",
     "rating": 0.0,
     "release_date": "2026-11-05",
@@ -14,14 +14,9 @@
   },
   "others": [
     {
-      "title": "Nayyi Navelli",
+      "title": "Gajab Raat",
       "language": "Hindi",
-      "release_date": "2026-10-16"
-    },
-    {
-      "title": "Prahaar: The Untold Story of U",
-      "language": "Hindi",
-      "release_date": "2026-10-16"
+      "release_date": "2026-10-23"
     },
     {
       "title": "Udta Teer",
@@ -29,9 +24,14 @@
       "release_date": "2026-10-23"
     },
     {
-      "title": "Gajab Raat",
+      "title": "Pehla Pyaar Doosri Baar",
       "language": "Hindi",
       "release_date": "2026-10-23"
+    },
+    {
+      "title": "418",
+      "language": "Telugu",
+      "release_date": "2026-10-22"
     }
   ]
 }

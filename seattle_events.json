@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Lumen Field Stadium Tours",
-    "date": "2026-10-23",
-    "time": "16:30:00",
-    "venue": "Lumen Field Stadium Tours",
+    "name": "Disney On Ice presents Jump In",
+    "date": "2026-10-24",
+    "time": "11:00:00",
+    "venue": "accesso ShoWare Center",
     "segment": "Miscellaneous",
-    "genre": "Undefined",
-    "date_pretty": "Fri Oct 23"
+    "genre": "Ice Shows",
+    "date_pretty": "Sat Oct 24"
   },
   "others": [
     {
+      "name": "Lenny Pearce - Toddler Rave World Tour",
+      "date": "2026-10-24",
+      "time": "12:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "date_pretty": "Sat Oct 24"
+    },
+    {
+      "name": "Smoke On the Mountain",
+      "date": "2026-10-24",
+      "time": "13:30:00",
+      "venue": "Taproot Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sat Oct 24"
+    },
+    {
+      "name": "Conscience",
+      "date": "2026-10-24",
+      "time": "14:00:00",
+      "venue": "Taproot Theatre",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Sat Oct 24"
+    },
+    {
       "name": "Disney On Ice presents Jump In",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
+      "time": "15:00:00",
+      "venue": "accesso ShoWare Center",
+      "segment": "Miscellaneous",
+      "genre": "Ice Shows",
+      "date_pretty": "Sat Oct 24"
+    },
+    {
+      "name": "Lumen Field Stadium Tours",
+      "date": "2026-10-24",
+      "time": "16:30:00",
+      "venue": "Lumen Field Stadium Tours",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Sat Oct 24"
+    },
+    {
+      "name": "Disney On Ice presents Jump In",
+      "date": "2026-10-24",
       "time": "18:30:00",
       "venue": "accesso ShoWare Center",
       "segment": "Miscellaneous",
       "genre": "Ice Shows",
-      "date_pretty": "Fri Oct 23"
+      "date_pretty": "Sat Oct 24"
     },
     {
-      "name": "Pigeons Playing Ping Pong (21 and Over)",
-      "date": "2026-10-23",
+      "name": "Laura Ramoso: The Calm Down Tour",
+      "date": "2026-10-24",
       "time": "19:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Oct 23"
-    },
-    {
-      "name": "Havok w/ Hellripper",
-      "date": "2026-10-23",
-      "time": "19:00:00",
-      "venue": "El Corazon",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Oct 23"
-    },
-    {
-      "name": "Dadi Freyr",
-      "date": "2026-10-23",
-      "time": "19:00:00",
-      "venue": "Showbox SODO",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Oct 23"
-    },
-    {
-      "name": "Smoke On the Mountain",
-      "date": "2026-10-23",
-      "time": "19:00:00",
-      "venue": "Taproot Theatre",
+      "venue": "The 5th Avenue Theatre",
       "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri Oct 23"
-    },
-    {
-      "name": "Left It In The River Tour with Jamie MacDonald",
-      "date": "2026-10-23",
-      "time": "19:00:00",
-      "venue": "Pantages Theater",
-      "segment": "Music",
-      "genre": "Religious",
-      "date_pretty": "Fri Oct 23"
-    },
-    {
-      "name": "Jenna Davis",
-      "date": "2026-10-23",
-      "time": "19:00:00",
-      "venue": "Steel Creek",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Oct 23"
+      "genre": "Comedy",
+      "date_pretty": "Sat Oct 24"
     }
   ]
 }

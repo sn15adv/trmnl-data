@@ -1,22 +1,21 @@
 {
   "hero": {
-    "title": "Ramayana: Rise of a Legend",
-    "original_title": "रामायणम",
+    "title": "Gajab Raat",
+    "original_title": "ग़ज़ब रात",
     "language": "Hindi",
-    "rating": 0.0,
-    "release_date": "2026-11-05",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater chal",
+    "rating": 5.9,
+    "release_date": "2026-10-23",
+    "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
     "genres": [
-      "Fantasy",
-      "Action",
-      "Adventure"
+      "Thriller",
+      "Crime"
     ]
   },
   "others": [
     {
-      "title": "Gajab Raat",
+      "title": "Ramayana: Rise of a Legend",
       "language": "Hindi",
-      "release_date": "2026-10-23"
+      "release_date": "2026-11-04"
     },
     {
       "title": "Udta Teer",
@@ -29,9 +28,9 @@
       "release_date": "2026-10-23"
     },
     {
-      "title": "418",
-      "language": "Telugu",
-      "release_date": "2026-10-22"
+      "title": "Tu Hai Meri Kiran",
+      "language": "Hindi",
+      "release_date": "2026-10-23"
     }
   ]
 }

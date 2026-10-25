@@ -1,31 +1,32 @@
 {
   "hero": {
-    "title": "Street Fighter",
-    "rating": 6.4,
-    "runtime": "2h 0m",
-    "release_date": "2026-10-16",
-    "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and f",
+    "title": "Clayface",
+    "rating": 7.6,
+    "runtime": "1h 49m",
+    "release_date": "2026-10-23",
+    "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothi",
     "genres": [
-      "Action",
-      "Fantasy"
+      "Horror",
+      "Thriller",
+      "Science Fiction"
     ]
   },
   "others": [
     {
-      "title": "Clayface",
-      "rating": 7.6
+      "title": "Street Fighter",
+      "rating": 6.4
+    },
+    {
+      "title": "Buddy",
+      "rating": 7.1
+    },
+    {
+      "title": "Other Mommy",
+      "rating": 5.9
     },
     {
       "title": "Resident Evil",
       "rating": 7.3
-    },
-    {
-      "title": "Other Mommy",
-      "rating": 5.8
-    },
-    {
-      "title": "Whalefall",
-      "rating": 6.6
     }
   ]
 }

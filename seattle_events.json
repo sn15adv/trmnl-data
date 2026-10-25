@@ -1,76 +1,76 @@
 {
   "hero": {
     "name": "Disney On Ice presents Jump In",
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "time": "11:00:00",
     "venue": "accesso ShoWare Center",
     "segment": "Miscellaneous",
     "genre": "Ice Shows",
-    "date_pretty": "Sat Oct 24"
+    "date_pretty": "Sun Oct 25"
   },
   "others": [
     {
-      "name": "Lenny Pearce - Toddler Rave World Tour",
-      "date": "2026-10-24",
-      "time": "12:30:00",
-      "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "date_pretty": "Sat Oct 24"
+      "name": "Washington Huskies Mens Basketball vs. Washington ",
+      "date": "2026-10-25",
+      "time": "13:00:00",
+      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Sun Oct 25"
     },
     {
-      "name": "Smoke On the Mountain",
-      "date": "2026-10-24",
-      "time": "13:30:00",
-      "venue": "Taproot Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sat Oct 24"
-    },
-    {
-      "name": "Conscience",
-      "date": "2026-10-24",
+      "name": "Table 17",
+      "date": "2026-10-25",
       "time": "14:00:00",
-      "venue": "Taproot Theatre",
+      "venue": "Union Arts Center",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sat Oct 24"
+      "date_pretty": "Sun Oct 25"
     },
     {
       "name": "Disney On Ice presents Jump In",
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "time": "15:00:00",
       "venue": "accesso ShoWare Center",
       "segment": "Miscellaneous",
       "genre": "Ice Shows",
-      "date_pretty": "Sat Oct 24"
+      "date_pretty": "Sun Oct 25"
     },
     {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-10-24",
-      "time": "16:30:00",
-      "venue": "Lumen Field Stadium Tours",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Sat Oct 24"
-    },
-    {
-      "name": "Disney On Ice presents Jump In",
-      "date": "2026-10-24",
-      "time": "18:30:00",
-      "venue": "accesso ShoWare Center",
-      "segment": "Miscellaneous",
-      "genre": "Ice Shows",
-      "date_pretty": "Sat Oct 24"
-    },
-    {
-      "name": "Laura Ramoso: The Calm Down Tour",
-      "date": "2026-10-24",
-      "time": "19:00:00",
-      "venue": "The 5th Avenue Theatre",
+      "name": "TYSA presents: A Night At the Movies - Costume Con",
+      "date": "2026-10-25",
+      "time": "15:00:00",
+      "venue": "Pantages Theater",
       "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Sat Oct 24"
+      "genre": "Classical",
+      "date_pretty": "Sun Oct 25"
+    },
+    {
+      "name": "Seattle Seahawks vs. Kansas City Chiefs",
+      "date": "2026-10-25",
+      "time": "17:20:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sun Oct 25"
+    },
+    {
+      "name": "Seahawks vs Chiefs Viewing Party",
+      "date": "2026-10-25",
+      "time": "17:20:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sun Oct 25"
+    },
+    {
+      "name": "Big Ass Truck",
+      "date": "2026-10-25",
+      "time": "18:30:00",
+      "venue": "El Corazon",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Sun Oct 25"
     }
   ]
 }

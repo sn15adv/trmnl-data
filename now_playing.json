@@ -13,20 +13,20 @@
   },
   "others": [
     {
+      "title": "Buddy",
+      "rating": 7.0
+    },
+    {
       "title": "Street Fighter",
       "rating": 6.4
     },
     {
-      "title": "Buddy",
-      "rating": 7.1
-    },
-    {
-      "title": "Other Mommy",
-      "rating": 5.9
-    },
-    {
       "title": "Resident Evil",
       "rating": 7.3
+    },
+    {
+      "title": "Animals",
+      "rating": 7.0
     }
   ]
 }

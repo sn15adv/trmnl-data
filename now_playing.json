@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Clayface",
-    "rating": 7.6,
+    "rating": 7.5,
     "runtime": "1h 49m",
     "release_date": "2026-10-23",
     "overview": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothi",
@@ -17,16 +17,16 @@
       "rating": 7.0
     },
     {
-      "title": "Street Fighter",
-      "rating": 6.4
-    },
-    {
       "title": "Resident Evil",
       "rating": 7.3
     },
     {
-      "title": "Animals",
-      "rating": 7.0
+      "title": "Street Fighter",
+      "rating": 6.4
+    },
+    {
+      "title": "Wildwood",
+      "rating": 8.6
     }
   ]
 }

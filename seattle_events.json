@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Lumen Field Stadium Tours",
-    "date": "2026-10-26",
-    "time": "16:30:00",
-    "venue": "Lumen Field Stadium Tours",
+    "name": "Raised By TV Events Presents: all ages Twilight Fi",
+    "date": "2026-10-27",
+    "time": "18:30:00",
+    "venue": "Clock-Out Lounge",
     "segment": "Miscellaneous",
-    "genre": "Undefined",
-    "date_pretty": "Mon Oct 26"
+    "genre": "",
+    "date_pretty": "Tue Oct 27"
   },
   "others": [
     {
-      "name": "A TWINK AND A REDHEAD",
-      "date": "2026-10-26",
-      "time": "18:00:00",
-      "venue": "The Fremont Abbey",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Mon Oct 26"
-    },
-    {
-      "name": "Raised By TV Events Presents: all ages Simpsons Tr",
-      "date": "2026-10-26",
-      "time": "18:30:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Miscellaneous",
-      "genre": "",
-      "date_pretty": "Mon Oct 26"
-    },
-    {
-      "name": "Tractor Square Dance! Mississippi Hotdogs w/ David",
-      "date": "2026-10-26",
-      "time": "18:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Mon Oct 26"
-    },
-    {
-      "name": "bleood",
-      "date": "2026-10-26",
+      "name": "Table 17",
+      "date": "2026-10-27",
       "time": "19:00:00",
-      "venue": "Neumos",
+      "venue": "Union Arts Center",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Mon Oct 26"
+      "date_pretty": "Tue Oct 27"
     },
     {
-      "name": "Kacey Musgraves - Middle of Nowhere Tour ",
-      "date": "2026-10-26",
-      "time": "19:30:00",
-      "venue": "Climate Pledge Arena",
+      "name": "Skillet: Comatose 20 Years, Still Screaming Tour",
+      "date": "2026-10-27",
+      "time": "19:00:00",
+      "venue": "Moore Theatre",
       "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Mon Oct 26"
+      "genre": "Rock",
+      "date_pretty": "Tue Oct 27"
     },
     {
-      "name": "Amble",
-      "date": "2026-10-26",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Folk",
-      "date_pretty": "Mon Oct 26"
-    },
-    {
-      "name": "Frankie Cosmos - Celebrating 10 Years of Next Thin",
-      "date": "2026-10-26",
-      "time": "20:00:00",
+      "name": "Pouya w/ Ramirez",
+      "date": "2026-10-27",
+      "time": "19:00:00",
       "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Mon Oct 26"
+      "genre": "World",
+      "date_pretty": "Tue Oct 27"
+    },
+    {
+      "name": "SCRAMBLER JAM!",
+      "date": "2026-10-27",
+      "time": "19:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Oct 27"
+    },
+    {
+      "name": "Protomartyr (21 and Over)",
+      "date": "2026-10-27",
+      "time": "19:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Oct 27"
+    },
+    {
+      "name": "Basement w/ High Vis",
+      "date": "2026-10-27",
+      "time": "19:00:00",
+      "venue": "Showbox SODO",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Oct 27"
+    },
+    {
+      "name": "SOLD OUT! Steven Curtis Chapman: SPEECHLESS 25th A",
+      "date": "2026-10-27",
+      "time": "19:00:00",
+      "venue": "New Life Church",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Oct 27"
     }
   ]
 }

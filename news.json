@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "High-speed train crash kills at least 68 people in Spain"
+    },
+    {
+      "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election"
+    },
+    {
       "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show"
     },
     {
@@ -13,6 +19,9 @@
       "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says"
     },
     {
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe"
+    },
+    {
       "title": "Tanzania celebrates first natural gas discovery in more than 10 years"
     },
     {
@@ -20,15 +29,6 @@
     },
     {
       "title": "Ceasefire extended across Ukraine's Kherson region, officials say"
-    },
-    {
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins"
-    },
-    {
-      "title": "Dutch zookeeper dies after being mauled by leopard"
-    },
-    {
-      "title": "Norway and Finland leaders hold rare call with Putin"
     }
   ]
 }

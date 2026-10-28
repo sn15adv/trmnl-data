@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Raised By TV Events Presents: all ages Twilight Fi",
-    "date": "2026-10-27",
-    "time": "18:30:00",
-    "venue": "Clock-Out Lounge",
-    "segment": "Miscellaneous",
+    "name": "Table 17",
+    "date": "2026-10-28",
+    "time": "19:00:00",
+    "venue": "Union Arts Center",
+    "segment": "Undefined",
     "genre": "",
-    "date_pretty": "Tue Oct 27"
+    "date_pretty": "Wed Oct 28"
   },
   "others": [
     {
-      "name": "Table 17",
-      "date": "2026-10-27",
+      "name": "Seattle Kraken vs. Toronto Maple Leafs",
+      "date": "2026-10-28",
       "time": "19:00:00",
-      "venue": "Union Arts Center",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Tue Oct 27"
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Hockey",
+      "date_pretty": "Wed Oct 28"
     },
     {
-      "name": "Skillet: Comatose 20 Years, Still Screaming Tour",
-      "date": "2026-10-27",
-      "time": "19:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Tue Oct 27"
-    },
-    {
-      "name": "Pouya w/ Ramirez",
-      "date": "2026-10-27",
-      "time": "19:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "World",
-      "date_pretty": "Tue Oct 27"
-    },
-    {
-      "name": "SCRAMBLER JAM!",
-      "date": "2026-10-27",
-      "time": "19:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Oct 27"
-    },
-    {
-      "name": "Protomartyr (21 and Over)",
-      "date": "2026-10-27",
-      "time": "19:00:00",
-      "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Oct 27"
-    },
-    {
-      "name": "Basement w/ High Vis",
-      "date": "2026-10-27",
+      "name": "Catch Your Breath w/ TX2",
+      "date": "2026-10-28",
       "time": "19:00:00",
       "venue": "Showbox SODO",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Tue Oct 27"
+      "genre": "Alternative",
+      "date_pretty": "Wed Oct 28"
     },
     {
-      "name": "SOLD OUT! Steven Curtis Chapman: SPEECHLESS 25th A",
-      "date": "2026-10-27",
-      "time": "19:00:00",
-      "venue": "New Life Church",
+      "name": "The Haunt (21+ Event)",
+      "date": "2026-10-28",
+      "time": "19:30:00",
+      "venue": "Baba Yaga",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Tue Oct 27"
+      "date_pretty": "Wed Oct 28"
+    },
+    {
+      "name": "Seattle Sounders FC vs. Houston Dynamo",
+      "date": "2026-10-28",
+      "time": "19:30:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Wed Oct 28"
+    },
+    {
+      "name": "Fenix Flexin",
+      "date": "2026-10-28",
+      "time": "19:30:00",
+      "venue": "El Corazon",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Wed Oct 28"
+    },
+    {
+      "name": "Medium Build",
+      "date": "2026-10-28",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed Oct 28"
+    },
+    {
+      "name": "Julia Jacklin: North America Tour 2026",
+      "date": "2026-10-28",
+      "time": "20:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Oct 28"
     }
   ]
 }

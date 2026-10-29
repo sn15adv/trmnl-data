@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Table 17",
-    "date": "2026-10-28",
+    "name": "An Evening with Eric Idle: Idle in Provence",
+    "date": "2026-10-29",
     "time": "19:00:00",
-    "venue": "Union Arts Center",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Wed Oct 28"
+    "venue": "Neptune Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "date_pretty": "Thu Oct 29"
   },
   "others": [
     {
-      "name": "Seattle Kraken vs. Toronto Maple Leafs",
-      "date": "2026-10-28",
+      "name": "SON ROMPE PERA with Lobo Lara - Ages 21+",
+      "date": "2026-10-29",
       "time": "19:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Hockey",
-      "date_pretty": "Wed Oct 28"
-    },
-    {
-      "name": "Catch Your Breath w/ TX2",
-      "date": "2026-10-28",
-      "time": "19:00:00",
-      "venue": "Showbox SODO",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Oct 28"
-    },
-    {
-      "name": "The Haunt (21+ Event)",
-      "date": "2026-10-28",
-      "time": "19:30:00",
-      "venue": "Baba Yaga",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Oct 28"
-    },
-    {
-      "name": "Seattle Sounders FC vs. Houston Dynamo",
-      "date": "2026-10-28",
-      "time": "19:30:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Wed Oct 28"
-    },
-    {
-      "name": "Fenix Flexin",
-      "date": "2026-10-28",
-      "time": "19:30:00",
-      "venue": "El Corazon",
+      "venue": "Nectar Lounge",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Wed Oct 28"
+      "date_pretty": "Thu Oct 29"
     },
     {
-      "name": "Medium Build",
-      "date": "2026-10-28",
+      "name": "Tacoma City Theaters: Movie Series -  The Nightmar",
+      "date": "2026-10-29",
+      "time": "19:00:00",
+      "venue": "Theatre On the Square",
+      "segment": "Film",
+      "genre": "Miscellaneous",
+      "date_pretty": "Thu Oct 29"
+    },
+    {
+      "name": "Ralph Barbosa",
+      "date": "2026-10-29",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Oct 29"
+    },
+    {
+      "name": "Disney On Ice presents Jump In!",
+      "date": "2026-10-29",
+      "time": "19:00:00",
+      "venue": "Angel Of The Winds Arena",
+      "segment": "Miscellaneous",
+      "genre": "Ice Shows",
+      "date_pretty": "Thu Oct 29"
+    },
+    {
+      "name": "Mon Laferte - Femme Fatale Tour",
+      "date": "2026-10-29",
+      "time": "20:00:00",
+      "venue": "The 5th Avenue Theatre",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Thu Oct 29"
+    },
+    {
+      "name": "Everclear (21 and Over)",
+      "date": "2026-10-29",
       "time": "20:00:00",
       "venue": "The Showbox",
       "segment": "Music",
       "genre": "Alternative",
-      "date_pretty": "Wed Oct 28"
+      "date_pretty": "Thu Oct 29"
     },
     {
-      "name": "Julia Jacklin: North America Tour 2026",
-      "date": "2026-10-28",
+      "name": "Frankie and the Witch Fingers (21+ Event)",
+      "date": "2026-10-29",
       "time": "20:00:00",
-      "venue": "Moore Theatre",
+      "venue": "Baba Yaga",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Oct 28"
+      "genre": "Other",
+      "date_pretty": "Thu Oct 29"
     }
   ]
 }

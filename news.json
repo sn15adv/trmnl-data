@@ -1,13 +1,16 @@
 {
   "articles": [
     {
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
+    },
+    {
       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution"
     },
     {
-      "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens"
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire"
     },
     {
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities"
+      "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities"
     },
     {
       "title": "Spain transport minister says he won't resign over high-speed rail disaster"
@@ -16,19 +19,16 @@
       "title": "Pope Leo XIV becomes first pontiff to vote in a US election"
     },
     {
-      "title": "US tech stocks see sharp falls over AI cost fears"
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn"
+    },
+    {
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister"
+    },
+    {
+      "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage"
     },
     {
       "title": "Democratic senator blames Egypt press crackdown on US military aid decision"
-    },
-    {
-      "title": "Mushroom murderer fails to overturn convictions in Australian court challenge"
-    },
-    {
-      "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery"
-    },
-    {
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot"
     }
   ]
 }

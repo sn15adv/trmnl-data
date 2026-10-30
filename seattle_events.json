@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "An Evening with Eric Idle: Idle in Provence",
-    "date": "2026-10-29",
-    "time": "19:00:00",
-    "venue": "Neptune Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Comedy",
-    "date_pretty": "Thu Oct 29"
+    "name": "Boo! Seattle",
+    "date": "2026-10-30",
+    "time": "12:00:00",
+    "venue": "WAMU Theater",
+    "segment": "Music",
+    "genre": "Undefined",
+    "date_pretty": "Fri Oct 30"
   },
   "others": [
     {
-      "name": "SON ROMPE PERA with Lobo Lara - Ages 21+",
-      "date": "2026-10-29",
-      "time": "19:00:00",
+      "name": "Lumen Field Stadium Tours",
+      "date": "2026-10-30",
+      "time": "16:30:00",
+      "venue": "Lumen Field Stadium Tours",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Fri Oct 30"
+    },
+    {
+      "name": "Lindstrom and the Limit - Ages 21+",
+      "date": "2026-10-30",
+      "time": "17:30:00",
       "venue": "Nectar Lounge",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Thu Oct 29"
-    },
-    {
-      "name": "Tacoma City Theaters: Movie Series -  The Nightmar",
-      "date": "2026-10-29",
-      "time": "19:00:00",
-      "venue": "Theatre On the Square",
-      "segment": "Film",
-      "genre": "Miscellaneous",
-      "date_pretty": "Thu Oct 29"
-    },
-    {
-      "name": "Ralph Barbosa",
-      "date": "2026-10-29",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Thu Oct 29"
+      "date_pretty": "Fri Oct 30"
     },
     {
-      "name": "Disney On Ice presents Jump In!",
-      "date": "2026-10-29",
+      "name": "Kurt Travis",
+      "date": "2026-10-30",
       "time": "19:00:00",
-      "venue": "Angel Of The Winds Arena",
-      "segment": "Miscellaneous",
-      "genre": "Ice Shows",
-      "date_pretty": "Thu Oct 29"
-    },
-    {
-      "name": "Mon Laferte - Femme Fatale Tour",
-      "date": "2026-10-29",
-      "time": "20:00:00",
-      "venue": "The 5th Avenue Theatre",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Thu Oct 29"
-    },
-    {
-      "name": "Everclear (21 and Over)",
-      "date": "2026-10-29",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Thu Oct 29"
-    },
-    {
-      "name": "Frankie and the Witch Fingers (21+ Event)",
-      "date": "2026-10-29",
-      "time": "20:00:00",
-      "venue": "Baba Yaga",
+      "venue": "El Corazon",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Thu Oct 29"
+      "date_pretty": "Fri Oct 30"
+    },
+    {
+      "name": "Washington Huskies Mens Soccer vs. Maryland Terrap",
+      "date": "2026-10-30",
+      "time": "19:00:00",
+      "venue": "Husky Soccer Stadium",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Oct 30"
+    },
+    {
+      "name": "Washington Huskies Womens Volleyball vs. Iowa Hawk",
+      "date": "2026-10-30",
+      "time": "19:00:00",
+      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Oct 30"
+    },
+    {
+      "name": "Cumbia de Muertos V - Tractor, Conor Byrne Pub, Cl",
+      "date": "2026-10-30",
+      "time": "19:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "World",
+      "date_pretty": "Fri Oct 30"
+    },
+    {
+      "name": "Rainier Rumble Boxing",
+      "date": "2026-10-30",
+      "time": "19:00:00",
+      "venue": "Muckleshoot Casino Events Center",
+      "segment": "Sports",
+      "genre": "Boxing",
+      "date_pretty": "Fri Oct 30"
     }
   ]
 }

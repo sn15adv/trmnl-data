@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Boo! Seattle",
-    "date": "2026-10-30",
-    "time": "12:00:00",
-    "venue": "WAMU Theater",
-    "segment": "Music",
-    "genre": "Undefined",
-    "date_pretty": "Fri Oct 30"
+    "name": "Halloween Spooktacular w/ Seattle Symphony",
+    "date": "2026-10-31",
+    "time": "11:00:00",
+    "venue": "Taper Auditorium",
+    "segment": "Arts & Theatre",
+    "genre": "Miscellaneous",
+    "date_pretty": "Sat Oct 31"
   },
   "others": [
     {
+      "name": "Halloween Spooktacular!",
+      "date": "2026-10-31",
+      "time": "11:00:00",
+      "venue": "Taper Auditorium",
+      "segment": "Music",
+      "genre": "Classical",
+      "date_pretty": "Sat Oct 31"
+    },
+    {
+      "name": "Boo! Seattle",
+      "date": "2026-10-31",
+      "time": "12:00:00",
+      "venue": "WAMU Theater",
+      "segment": "Music",
+      "genre": "Undefined",
+      "date_pretty": "Sat Oct 31"
+    },
+    {
+      "name": "Dance Theatre of Harlem",
+      "date": "2026-10-31",
+      "time": "13:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Dance",
+      "date_pretty": "Sat Oct 31"
+    },
+    {
+      "name": "\"A Special Tribute to Dr. Ralph Stanley\" Starring ",
+      "date": "2026-10-31",
+      "time": "13:30:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Country",
+      "date_pretty": "Sat Oct 31"
+    },
+    {
+      "name": "Tacoma City Ballet Presents: Dracula",
+      "date": "2026-10-31",
+      "time": "14:00:00",
+      "venue": "Pantages Theater",
+      "segment": "Arts & Theatre",
+      "genre": "Dance",
+      "date_pretty": "Sat Oct 31"
+    },
+    {
+      "name": "Disney On Ice presents Jump In!",
+      "date": "2026-10-31",
+      "time": "14:30:00",
+      "venue": "Angel Of The Winds Arena",
+      "segment": "Miscellaneous",
+      "genre": "Ice Shows",
+      "date_pretty": "Sat Oct 31"
+    },
+    {
       "name": "Lumen Field Stadium Tours",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "time": "16:30:00",
       "venue": "Lumen Field Stadium Tours",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Fri Oct 30"
-    },
-    {
-      "name": "Lindstrom and the Limit - Ages 21+",
-      "date": "2026-10-30",
-      "time": "17:30:00",
-      "venue": "Nectar Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Fri Oct 30"
-    },
-    {
-      "name": "Kurt Travis",
-      "date": "2026-10-30",
-      "time": "19:00:00",
-      "venue": "El Corazon",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Oct 30"
-    },
-    {
-      "name": "Washington Huskies Mens Soccer vs. Maryland Terrap",
-      "date": "2026-10-30",
-      "time": "19:00:00",
-      "venue": "Husky Soccer Stadium",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri Oct 30"
-    },
-    {
-      "name": "Washington Huskies Womens Volleyball vs. Iowa Hawk",
-      "date": "2026-10-30",
-      "time": "19:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri Oct 30"
-    },
-    {
-      "name": "Cumbia de Muertos V - Tractor, Conor Byrne Pub, Cl",
-      "date": "2026-10-30",
-      "time": "19:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "World",
-      "date_pretty": "Fri Oct 30"
-    },
-    {
-      "name": "Rainier Rumble Boxing",
-      "date": "2026-10-30",
-      "time": "19:00:00",
-      "venue": "Muckleshoot Casino Events Center",
-      "segment": "Sports",
-      "genre": "Boxing",
-      "date_pretty": "Fri Oct 30"
+      "date_pretty": "Sat Oct 31"
     }
   ]
 }

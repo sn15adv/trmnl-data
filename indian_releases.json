@@ -1,36 +1,37 @@
 {
   "hero": {
-    "title": "Gajab Raat",
-    "original_title": "ग़ज़ब रात",
+    "title": "Ramayana: Rise of a Legend",
+    "original_title": "रामायणम",
     "language": "Hindi",
-    "rating": 4.4,
-    "release_date": "2026-10-23",
-    "overview": "A corrupt, troubled cop's night spirals out of control when a reluctant act of mercy toward an injured girl pulls him into a deadly web of crime.",
+    "rating": 10.0,
+    "release_date": "2026-11-04",
+    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater chal",
     "genres": [
-      "Thriller",
-      "Crime"
+      "Fantasy",
+      "Action",
+      "Adventure"
     ]
   },
   "others": [
     {
-      "title": "Ramayana: Rise of a Legend",
-      "language": "Hindi",
-      "release_date": "2026-11-04"
-    },
-    {
-      "title": "Udta Teer",
-      "language": "Hindi",
-      "release_date": "2026-10-23"
-    },
-    {
-      "title": "Pehla Pyaar Doosri Baar",
-      "language": "Hindi",
-      "release_date": "2026-10-23"
-    },
-    {
       "title": "ENE Repeat",
       "language": "Telugu",
       "release_date": "2026-11-19"
+    },
+    {
+      "title": "Meethe Mein Kya Hai",
+      "language": "Hindi",
+      "release_date": "2026-10-30"
+    },
+    {
+      "title": "Scene",
+      "language": "Tamil",
+      "release_date": "2026-11-06"
+    },
+    {
+      "title": "Disco",
+      "language": "Malayalam",
+      "release_date": "2026-11-06"
     }
   ]
 }

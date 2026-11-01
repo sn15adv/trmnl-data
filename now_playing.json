@@ -14,19 +14,19 @@
   "others": [
     {
       "title": "Verity",
-      "rating": 6.6
+      "rating": 6.8
+    },
+    {
+      "title": "Buddy",
+      "rating": 7.0
     },
     {
       "title": "Clayface",
       "rating": 7.5
     },
     {
-      "title": "Buddy",
-      "rating": 7.1
-    },
-    {
       "title": "The Mongoose",
-      "rating": 6.7
+      "rating": 7.7
     }
   ]
 }

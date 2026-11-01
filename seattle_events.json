@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Halloween Spooktacular w/ Seattle Symphony",
-    "date": "2026-10-31",
+    "name": "Disney On Ice presents Jump In!",
+    "date": "2026-11-01",
     "time": "11:00:00",
-    "venue": "Taper Auditorium",
-    "segment": "Arts & Theatre",
-    "genre": "Miscellaneous",
-    "date_pretty": "Sat Oct 31"
+    "venue": "Angel Of The Winds Arena",
+    "segment": "Miscellaneous",
+    "genre": "Ice Shows",
+    "date_pretty": "Sun Nov 1"
   },
   "others": [
     {
-      "name": "Halloween Spooktacular!",
-      "date": "2026-10-31",
-      "time": "11:00:00",
-      "venue": "Taper Auditorium",
-      "segment": "Music",
-      "genre": "Classical",
-      "date_pretty": "Sat Oct 31"
-    },
-    {
-      "name": "Boo! Seattle",
-      "date": "2026-10-31",
+      "name": "Washington Huskies Womens Volleyball vs. Maryland ",
+      "date": "2026-11-01",
       "time": "12:00:00",
-      "venue": "WAMU Theater",
-      "segment": "Music",
+      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sun Nov 1"
+    },
+    {
+      "name": "Kiana Lodge Sip & Succulent Pumpkin Workshop",
+      "date": "2026-11-01",
+      "time": "13:15:00",
+      "venue": "Kiana Lodge",
+      "segment": "Miscellaneous",
+      "genre": "Special Interest/Hobby",
+      "date_pretty": "Sun Nov 1"
+    },
+    {
+      "name": "Seattle Reign FC vs. Orlando Pride",
+      "date": "2026-11-01",
+      "time": "14:00:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Sun Nov 1"
+    },
+    {
+      "name": "Tacoma City Ballet Presents: Dracula - Premium Exp",
+      "date": "2026-11-01",
+      "time": "14:00:00",
+      "venue": "Pantages Theater",
+      "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Sat Oct 31"
-    },
-    {
-      "name": "Dance Theatre of Harlem",
-      "date": "2026-10-31",
-      "time": "13:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Dance",
-      "date_pretty": "Sat Oct 31"
-    },
-    {
-      "name": "\"A Special Tribute to Dr. Ralph Stanley\" Starring ",
-      "date": "2026-10-31",
-      "time": "13:30:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Sat Oct 31"
+      "date_pretty": "Sun Nov 1"
     },
     {
       "name": "Tacoma City Ballet Presents: Dracula",
-      "date": "2026-10-31",
+      "date": "2026-11-01",
       "time": "14:00:00",
       "venue": "Pantages Theater",
       "segment": "Arts & Theatre",
       "genre": "Dance",
-      "date_pretty": "Sat Oct 31"
+      "date_pretty": "Sun Nov 1"
     },
     {
       "name": "Disney On Ice presents Jump In!",
-      "date": "2026-10-31",
-      "time": "14:30:00",
+      "date": "2026-11-01",
+      "time": "15:00:00",
       "venue": "Angel Of The Winds Arena",
       "segment": "Miscellaneous",
       "genre": "Ice Shows",
-      "date_pretty": "Sat Oct 31"
+      "date_pretty": "Sun Nov 1"
     },
     {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-10-31",
-      "time": "16:30:00",
-      "venue": "Lumen Field Stadium Tours",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Sat Oct 31"
+      "name": "Terry Fator",
+      "date": "2026-11-01",
+      "time": "17:00:00",
+      "venue": "Muckleshoot Casino Events Center",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sun Nov 1"
     }
   ]
 }

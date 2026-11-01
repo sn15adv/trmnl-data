@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Ramayana: Rise of a Legend",
-    "original_title": "रामायणम",
+    "original_title": "रामायणम्",
     "language": "Hindi",
     "rating": 10.0,
     "release_date": "2026-11-04",
@@ -14,9 +14,9 @@
   },
   "others": [
     {
-      "title": "ENE Repeat",
-      "language": "Telugu",
-      "release_date": "2026-11-19"
+      "title": "Scene",
+      "language": "Tamil",
+      "release_date": "2026-11-06"
     },
     {
       "title": "Meethe Mein Kya Hai",
@@ -24,9 +24,9 @@
       "release_date": "2026-10-30"
     },
     {
-      "title": "Scene",
-      "language": "Tamil",
-      "release_date": "2026-11-06"
+      "title": "ENE Repeat",
+      "language": "Telugu",
+      "release_date": "2026-11-19"
     },
     {
       "title": "Disco",

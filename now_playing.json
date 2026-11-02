@@ -1,10 +1,10 @@
 {
   "hero": {
     "title": "Wildwood",
-    "rating": 8.7,
+    "rating": 8.6,
     "runtime": "2h 12m",
     "release_date": "2026-10-23",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted ba",
+    "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Port",
     "genres": [
       "Animation",
       "Adventure",
@@ -14,19 +14,19 @@
   "others": [
     {
       "title": "Verity",
-      "rating": 6.8
+      "rating": 6.9
     },
     {
       "title": "Buddy",
       "rating": 7.0
     },
     {
-      "title": "Clayface",
+      "title": "The Mongoose",
       "rating": 7.5
     },
     {
-      "title": "The Mongoose",
-      "rating": 7.7
+      "title": "Clayface",
+      "rating": 7.5
     }
   ]
 }

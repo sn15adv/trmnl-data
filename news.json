@@ -1,7 +1,16 @@
 {
   "articles": [
     {
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says"
+      "title": "Americans head to the polls for elections that could define Trump's closing chapter"
+    },
+    {
+      "title": "US strikes Iran ahead of midterm elections"
+    },
+    {
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes"
+    },
+    {
+      "title": "Russian bombing kills 29 people at Ukraine aid centre, Kyiv says"
     },
     {
       "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace"
@@ -10,25 +19,16 @@
       "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators"
     },
     {
+      "title": "Asian Cup postponed in wake of attacks on Saudi Arabia"
+    },
+    {
       "title": "Shop freezers in seven European countries hit by cyber-attack"
     },
     {
       "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire"
     },
     {
-      "title": "Legal challenge to Australia's social media ban to start in High Court"
-    },
-    {
-      "title": "North Korea denies being behind record $6.3bn Binance hack"
-    },
-    {
-      "title": "Man guilty of stealing cash from farm owned by South African president"
-    },
-    {
-      "title": "Dutch police offer record €2m reward in hunt for drug lord"
-    },
-    {
-      "title": "Trump to remove Rwanda and South Africa from US trade deal"
+      "title": "Major test for Australia's social media ban begins in High Court"
     }
   ]
 }

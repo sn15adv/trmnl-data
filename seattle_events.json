@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Washington Huskies Womens Basketball vs. UC San Di",
-    "date": "2026-11-02",
-    "time": "",
-    "venue": "Alaska Airlines Arena at Hec Edmund",
-    "segment": "Sports",
-    "genre": "Basketball",
-    "date_pretty": "Mon Nov 2"
+    "name": "Election Night Party- hosted by Rob Foxcurran",
+    "date": "2026-11-03",
+    "time": "18:30:00",
+    "venue": "Clock-Out Lounge",
+    "segment": "Miscellaneous",
+    "genre": "",
+    "date_pretty": "Tue Nov 3"
   },
   "others": [
     {
-      "name": "Seattle Seahawks vs. Chicago Bears",
-      "date": "2026-11-02",
-      "time": "17:15:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Mon Nov 2"
-    },
-    {
-      "name": "Monday Night Football- Seahawks vs Bears viewing p",
-      "date": "2026-11-02",
-      "time": "17:15:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Mon Nov 2"
-    },
-    {
-      "name": "Seahawks Viewing Party ",
-      "date": "2026-11-02",
-      "time": "17:15:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Mon Nov 2"
-    },
-    {
-      "name": "Washington Huskies Mens Basketball vs. Colgate Uni",
-      "date": "2026-11-02",
+      "name": "Icon for Hire",
+      "date": "2026-11-03",
       "time": "19:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Mon Nov 2"
+      "venue": "El Corazon",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Tue Nov 3"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-11-03",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Nov 3"
     },
     {
       "name": "Battling Bloodsuckers - National Geographic Live",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "time": "19:30:00",
       "venue": "Benaroya Hall",
       "segment": "Miscellaneous",
       "genre": "Hobby/Special Interest Expos",
-      "date_pretty": "Mon Nov 2"
+      "date_pretty": "Tue Nov 3"
     },
     {
-      "name": "Sienna Spiro",
-      "date": "2026-11-02",
+      "name": "Oh, Mary! (Touring)",
+      "date": "2026-11-03",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
+      "date_pretty": "Tue Nov 3"
+    },
+    {
+      "name": "Pinhead Gunpowder",
+      "date": "2026-11-03",
       "time": "20:00:00",
       "venue": "The Showbox",
       "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Mon Nov 2"
+      "genre": "Other",
+      "date_pretty": "Tue Nov 3"
     },
     {
-      "name": "Tractor Presents Greg Freeman",
-      "date": "2026-11-02",
+      "name": "Jessie Reyez: A Little Vengeance Tour",
+      "date": "2026-11-03",
       "time": "20:00:00",
-      "venue": "Tractor",
+      "venue": "WAMU Theater",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Mon Nov 2"
+      "genre": "R&B",
+      "date_pretty": "Tue Nov 3"
+    },
+    {
+      "name": "WAMU Theater Amplified: Jessie Reyez (Not an Event",
+      "date": "2026-11-03",
+      "time": "20:00:00",
+      "venue": "WAMU Theater",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Tue Nov 3"
     }
   ]
 }

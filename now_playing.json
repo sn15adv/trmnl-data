@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Wildwood",
-    "rating": 8.6,
+    "rating": 8.5,
     "runtime": "2h 12m",
     "release_date": "2026-10-23",
     "overview": "After her baby brother is abducted by a murder of crows, headstrong teenager Prue McKeel launches a desperate rescue mission into the Impassable Wilderness, an enchanted forest hidden just beyond Port",
@@ -26,7 +26,7 @@
     },
     {
       "title": "Clayface",
-      "rating": 7.5
+      "rating": 7.4
     }
   ]
 }

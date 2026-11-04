@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Election Night Party- hosted by Rob Foxcurran",
-    "date": "2026-11-03",
+    "name": "Raised By TV Events Presents: all ages Scooby Doo ",
+    "date": "2026-11-04",
     "time": "18:30:00",
     "venue": "Clock-Out Lounge",
     "segment": "Miscellaneous",
     "genre": "",
-    "date_pretty": "Tue Nov 3"
+    "date_pretty": "Wed Nov 4"
   },
   "others": [
     {
-      "name": "Icon for Hire",
-      "date": "2026-11-03",
+      "name": "Plini - An Unnameable Desire North American Tour w",
+      "date": "2026-11-04",
       "time": "19:00:00",
-      "venue": "El Corazon",
+      "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Tue Nov 3"
+      "genre": "Rock",
+      "date_pretty": "Wed Nov 4"
     },
     {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-11-03",
+      "name": "King Buffalo (21 and Over)",
+      "date": "2026-11-04",
+      "time": "19:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Wed Nov 4"
+    },
+    {
+      "name": "Seattle Kraken vs. Calgary Flames",
+      "date": "2026-11-04",
+      "time": "19:00:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Hockey",
+      "date_pretty": "Wed Nov 4"
+    },
+    {
+      "name": "Women United Comedy Night",
+      "date": "2026-11-04",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Tue Nov 3"
-    },
-    {
-      "name": "Battling Bloodsuckers - National Geographic Live",
-      "date": "2026-11-03",
-      "time": "19:30:00",
-      "venue": "Benaroya Hall",
-      "segment": "Miscellaneous",
-      "genre": "Hobby/Special Interest Expos",
-      "date_pretty": "Tue Nov 3"
+      "date_pretty": "Wed Nov 4"
     },
     {
       "name": "Oh, Mary! (Touring)",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "time": "19:30:00",
       "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
       "genre": "Theatre",
-      "date_pretty": "Tue Nov 3"
+      "date_pretty": "Wed Nov 4"
     },
     {
-      "name": "Pinhead Gunpowder",
-      "date": "2026-11-03",
+      "name": "The Best One Yet - Ages 21+",
+      "date": "2026-11-04",
       "time": "20:00:00",
       "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Nov 3"
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Wed Nov 4"
     },
     {
-      "name": "Jessie Reyez: A Little Vengeance Tour",
-      "date": "2026-11-03",
+      "name": "Best, The Linens, Deep Contact",
+      "date": "2026-11-04",
       "time": "20:00:00",
-      "venue": "WAMU Theater",
+      "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "R&B",
-      "date_pretty": "Tue Nov 3"
-    },
-    {
-      "name": "WAMU Theater Amplified: Jessie Reyez (Not an Event",
-      "date": "2026-11-03",
-      "time": "20:00:00",
-      "venue": "WAMU Theater",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Tue Nov 3"
+      "genre": "Alternative",
+      "date_pretty": "Wed Nov 4"
     }
   ]
 }

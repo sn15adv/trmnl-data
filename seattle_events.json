@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Raised By TV Events Presents: all ages Scooby Doo ",
-    "date": "2026-11-04",
-    "time": "18:30:00",
-    "venue": "Clock-Out Lounge",
-    "segment": "Miscellaneous",
+    "name": "heavens to betsy (21 and Over)",
+    "date": "2026-11-05",
+    "time": "19:00:00",
+    "venue": "Neumos",
+    "segment": "Undefined",
     "genre": "",
-    "date_pretty": "Wed Nov 4"
+    "date_pretty": "Thu Nov 5"
   },
   "others": [
     {
-      "name": "Plini - An Unnameable Desire North American Tour w",
-      "date": "2026-11-04",
-      "time": "19:00:00",
-      "venue": "The Crocodile",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Nov 4"
-    },
-    {
-      "name": "King Buffalo (21 and Over)",
-      "date": "2026-11-04",
-      "time": "19:00:00",
-      "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Nov 4"
-    },
-    {
-      "name": "Seattle Kraken vs. Calgary Flames",
-      "date": "2026-11-04",
+      "name": "Teddy Swims: The UGLY Tour",
+      "date": "2026-11-05",
       "time": "19:00:00",
       "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Hockey",
-      "date_pretty": "Wed Nov 4"
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Thu Nov 5"
     },
     {
-      "name": "Women United Comedy Night",
-      "date": "2026-11-04",
+      "name": "Washington Huskies Womens Basketball vs. Pacific T",
+      "date": "2026-11-05",
+      "time": "19:00:00",
+      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Thu Nov 5"
+    },
+    {
+      "name": "SOLD OUT! Tauren Wells: Air1 Worship Now Tour - Ki",
+      "date": "2026-11-05",
+      "time": "19:00:00",
+      "venue": "Pursuit Kirkland",
+      "segment": "Music",
+      "genre": "Religious",
+      "date_pretty": "Thu Nov 5"
+    },
+    {
+      "name": "Jason Salmon",
+      "date": "2026-11-05",
+      "time": "19:00:00",
+      "venue": "Tacoma Comedy Club",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Nov 5"
+    },
+    {
+      "name": "Rosebud Baker",
+      "date": "2026-11-05",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Wed Nov 4"
-    },
-    {
-      "name": "Oh, Mary! (Touring)",
-      "date": "2026-11-04",
-      "time": "19:30:00",
-      "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Wed Nov 4"
+      "genre": "Comedy",
+      "date_pretty": "Thu Nov 5"
     },
     {
-      "name": "The Best One Yet - Ages 21+",
-      "date": "2026-11-04",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Wed Nov 4"
-    },
-    {
-      "name": "Best, The Linens, Deep Contact",
-      "date": "2026-11-04",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
+      "name": "Pentatonix: Christmas in the City Tour ",
+      "date": "2026-11-05",
+      "time": "19:00:00",
+      "venue": "Tacoma Dome",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Nov 4"
+      "genre": "Rock",
+      "date_pretty": "Thu Nov 5"
+    },
+    {
+      "name": "Seattle Symphony",
+      "date": "2026-11-05",
+      "time": "19:30:00",
+      "venue": "Taper Auditorium",
+      "segment": "Music",
+      "genre": "Classical",
+      "date_pretty": "Thu Nov 5"
     }
   ]
 }

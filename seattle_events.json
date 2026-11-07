@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Women's Basketball vs UC Riverside",
-    "date": "2026-11-06",
-    "time": "18:00:00",
-    "venue": "Seattle University Redhawk Center",
+    "name": "Washington Huskies Football vs. Penn State Nittany",
+    "date": "2026-11-07",
+    "time": "12:30:00",
+    "venue": "Husky Stadium-WA",
     "segment": "Sports",
-    "genre": "Basketball",
-    "date_pretty": "Fri Nov 6"
+    "genre": "Football",
+    "date_pretty": "Sat Nov 7"
   },
   "others": [
     {
-      "name": "Periphery - A Pale White Dot US Tour",
-      "date": "2026-11-06",
-      "time": "18:30:00",
-      "venue": "Moore Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Nov 6"
-    },
-    {
-      "name": "Washington Huskies Womens Volleyball vs. Northwest",
-      "date": "2026-11-06",
-      "time": "19:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Fri Nov 6"
-    },
-    {
-      "name": "Rosebud Baker",
-      "date": "2026-11-06",
-      "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
+      "name": "Oh, Mary! (Touring)",
+      "date": "2026-11-07",
+      "time": "14:00:00",
+      "venue": "Paramount Theatre",
       "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Nov 6"
+      "genre": "Theatre",
+      "date_pretty": "Sat Nov 7"
     },
     {
-      "name": "Everett Silvertips vs. Medicine Hat Tigers",
-      "date": "2026-11-06",
-      "time": "19:05:00",
-      "venue": "Angel Of The Winds Arena",
+      "name": "Seattle Kraken vs. New York Rangers",
+      "date": "2026-11-07",
+      "time": "14:00:00",
+      "venue": "Climate Pledge Arena",
       "segment": "Sports",
       "genre": "Hockey",
-      "date_pretty": "Fri Nov 6"
+      "date_pretty": "Sat Nov 7"
     },
     {
-      "name": "Davide De Pierro",
-      "date": "2026-11-06",
-      "time": "19:30:00",
-      "venue": "Triple Door",
-      "segment": "Arts & Theatre",
-      "genre": "Multimedia",
-      "date_pretty": "Fri Nov 6"
-    },
-    {
-      "name": "Davide De Pierro",
-      "date": "2026-11-06",
-      "time": "19:30:00",
-      "venue": "Triple Door",
-      "segment": "Miscellaneous",
-      "genre": "Hobby/Special Interest Expos",
-      "date_pretty": "Fri Nov 6"
-    },
-    {
-      "name": "Roger Clyne and The Peacemakers w/ Buffalo Jones, ",
-      "date": "2026-11-06",
-      "time": "19:30:00",
+      "name": "Matinee Show with Chris Smither (solo) - partially",
+      "date": "2026-11-07",
+      "time": "14:00:00",
       "venue": "Tractor",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Nov 6"
+      "genre": "Other",
+      "date_pretty": "Sat Nov 7"
+    },
+    {
+      "name": "Seattle Sounders FC vs. Los Angeles Football Club",
+      "date": "2026-11-07",
+      "time": "16:00:00",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Sat Nov 7"
+    },
+    {
+      "name": "MATRIARCH: A Turn-Up & Turn-In Dance Night!",
+      "date": "2026-11-07",
+      "time": "18:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "date_pretty": "Sat Nov 7"
+    },
+    {
+      "name": "Lilyisthatyou - The Flowers Have Feelings Tour w/ ",
+      "date": "2026-11-07",
+      "time": "18:00:00",
+      "venue": "Substation",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Sat Nov 7"
+    },
+    {
+      "name": "Maz Jobrani",
+      "date": "2026-11-07",
+      "time": "18:00:00",
+      "venue": "Tacoma Comedy Club",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Sat Nov 7"
     }
   ]
 }

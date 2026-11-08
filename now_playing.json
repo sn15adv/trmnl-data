@@ -14,19 +14,19 @@
   "others": [
     {
       "title": "The Mongoose",
-      "rating": 5.9
-    },
-    {
-      "title": "Verity",
-      "rating": 7.0
+      "rating": 5.8
     },
     {
       "title": "Godzilla Minus Zero",
       "rating": 8.1
     },
     {
-      "title": "Buddy",
-      "rating": 6.9
+      "title": "Verity",
+      "rating": 7.0
+    },
+    {
+      "title": "La Bola Negra",
+      "rating": 8.1
     }
   ]
 }

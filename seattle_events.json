@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Oh, Mary! (Touring)",
-    "date": "2026-11-08",
-    "time": "13:00:00",
-    "venue": "Paramount Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Theatre",
-    "date_pretty": "Sun Nov 8"
+    "name": "Washington Huskies Mens Basketball vs. Mississippi",
+    "date": "2026-11-09",
+    "time": "19:00:00",
+    "venue": "Alaska Airlines Arena at Hec Edmund",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "date_pretty": "Mon Nov 9"
   },
   "others": [
     {
-      "name": "Seattle Seahawks vs. Arizona Cardinals",
-      "date": "2026-11-08",
-      "time": "13:25:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sun Nov 8"
+      "name": "Lucy Bedroque w/ pinponpanpon",
+      "date": "2026-11-09",
+      "time": "20:00:00",
+      "venue": "The Showbox",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Mon Nov 9"
     },
     {
-      "name": "Seahawks Viewing Party ",
-      "date": "2026-11-08",
-      "time": "13:25:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sun Nov 8"
+      "name": "Derek Hough Dance For The Holidays",
+      "date": "2026-11-09",
+      "time": "20:00:00",
+      "venue": "McCaw Hall",
+      "segment": "Arts & Theatre",
+      "genre": "Dance",
+      "date_pretty": "Mon Nov 9"
     },
     {
-      "name": "Washington Huskies Womens Volleyball vs. Nebraska ",
-      "date": "2026-11-08",
-      "time": "15:30:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Nov 8"
+      "name": "Clock-Out Lounge Presents: Collide-O-Scope",
+      "date": "2026-11-09",
+      "time": "20:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Arts & Theatre",
+      "genre": "Classical",
+      "date_pretty": "Mon Nov 9"
     },
     {
-      "name": "Clock-Out Lounge Presents: all ages Sunday Funday-",
-      "date": "2026-11-08",
-      "time": "16:00:00",
+      "name": "Collide-O-Scope",
+      "date": "2026-11-09",
+      "time": "20:00:00",
       "venue": "Clock-Out Lounge",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sun Nov 8"
+      "date_pretty": "Mon Nov 9"
     },
     {
-      "name": "Everett Silvertips vs. Tri-City Americans",
-      "date": "2026-11-08",
-      "time": "16:05:00",
-      "venue": "Angel Of The Winds Arena",
-      "segment": "Sports",
-      "genre": "Hockey",
-      "date_pretty": "Sun Nov 8"
-    },
-    {
-      "name": "Crab",
-      "date": "2026-11-08",
-      "time": "18:00:00",
-      "venue": "Nectar Lounge",
+      "name": "River Shook w/ Ismay",
+      "date": "2026-11-09",
+      "time": "20:00:00",
+      "venue": "Tractor",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Sun Nov 8"
+      "genre": "Country",
+      "date_pretty": "Mon Nov 9"
     },
     {
-      "name": "Oh, Mary! (Touring)",
-      "date": "2026-11-08",
-      "time": "18:30:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Theatre",
-      "date_pretty": "Sun Nov 8"
+      "name": "Jon Spencer",
+      "date": "2026-11-09",
+      "time": "20:00:00",
+      "venue": "Sunset Tavern",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Mon Nov 9"
+    },
+    {
+      "name": "Lumen Field Stadium Tours",
+      "date": "2026-11-09",
+      "time": "",
+      "venue": "Lumen Field Stadium Tours",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Nov 9"
     }
   ]
 }

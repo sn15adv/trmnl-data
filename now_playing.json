@@ -1,32 +1,31 @@
 {
   "hero": {
-    "title": "Wildwood",
-    "rating": 8.5,
-    "runtime": "2h 12m",
-    "release_date": "2026-10-23",
-    "overview": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted ba",
+    "title": "The Mongoose",
+    "rating": 5.6,
+    "runtime": "1h 39m",
+    "release_date": "2026-10-30",
+    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fasc",
     "genres": [
-      "Animation",
-      "Adventure",
-      "Fantasy"
+      "Action",
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "The Mongoose",
-      "rating": 5.8
-    },
-    {
       "title": "Godzilla Minus Zero",
-      "rating": 8.1
+      "rating": 7.9
     },
     {
       "title": "Verity",
       "rating": 7.0
     },
     {
-      "title": "La Bola Negra",
-      "rating": 8.1
+      "title": "Wildwood",
+      "rating": 8.5
+    },
+    {
+      "title": "Beware Boiúna",
+      "rating": 6.2
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Washington Huskies Mens Basketball vs. Mississippi",
-    "date": "2026-11-09",
-    "time": "19:00:00",
-    "venue": "Alaska Airlines Arena at Hec Edmund",
-    "segment": "Sports",
-    "genre": "Basketball",
-    "date_pretty": "Mon Nov 9"
+    "name": "Raised By TV Events Presents: all ages Seinfeld Tr",
+    "date": "2026-11-10",
+    "time": "18:30:00",
+    "venue": "Clock-Out Lounge",
+    "segment": "Miscellaneous",
+    "genre": "",
+    "date_pretty": "Tue Nov 10"
   },
   "others": [
     {
-      "name": "Lucy Bedroque w/ pinponpanpon",
-      "date": "2026-11-09",
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-11-10",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Nov 10"
+    },
+    {
+      "name": "Seattle Thunderbirds vs. Victoria Royals",
+      "date": "2026-11-10",
+      "time": "19:05:00",
+      "venue": "accesso ShoWare Center",
+      "segment": "Sports",
+      "genre": "Miscellaneous",
+      "date_pretty": "Tue Nov 10"
+    },
+    {
+      "name": "L7 - 21 and Over",
+      "date": "2026-11-10",
       "time": "20:00:00",
       "venue": "The Showbox",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Mon Nov 9"
-    },
-    {
-      "name": "Derek Hough Dance For The Holidays",
-      "date": "2026-11-09",
-      "time": "20:00:00",
-      "venue": "McCaw Hall",
-      "segment": "Arts & Theatre",
-      "genre": "Dance",
-      "date_pretty": "Mon Nov 9"
-    },
-    {
-      "name": "Clock-Out Lounge Presents: Collide-O-Scope",
-      "date": "2026-11-09",
-      "time": "20:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Arts & Theatre",
-      "genre": "Classical",
-      "date_pretty": "Mon Nov 9"
-    },
-    {
-      "name": "Collide-O-Scope",
-      "date": "2026-11-09",
-      "time": "20:00:00",
-      "venue": "Clock-Out Lounge",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Mon Nov 9"
-    },
-    {
-      "name": "River Shook w/ Ismay",
-      "date": "2026-11-09",
-      "time": "20:00:00",
-      "venue": "Tractor",
       "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Mon Nov 9"
+      "genre": "Alternative",
+      "date_pretty": "Tue Nov 10"
     },
     {
-      "name": "Jon Spencer",
-      "date": "2026-11-09",
+      "name": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
+      "date": "2026-11-10",
       "time": "20:00:00",
-      "venue": "Sunset Tavern",
+      "venue": "Paramount Theatre",
       "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Nov 9"
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Tue Nov 10"
     },
     {
-      "name": "Lumen Field Stadium Tours",
-      "date": "2026-11-09",
-      "time": "",
-      "venue": "Lumen Field Stadium Tours",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Nov 9"
+      "name": "Syd: Beard Tour",
+      "date": "2026-11-10",
+      "time": "20:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Tue Nov 10"
+    },
+    {
+      "name": "Syd - Early Entry VIP Upgrade",
+      "date": "2026-11-10",
+      "time": "20:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Tue Nov 10"
+    },
+    {
+      "name": "Tank and The Bangas - The Last Balloon Tour 2026 w",
+      "date": "2026-11-10",
+      "time": "20:00:00",
+      "venue": "The Crocodile",
+      "segment": "Music",
+      "genre": "R&B",
+      "date_pretty": "Tue Nov 10"
     }
   ]
 }

@@ -1,27 +1,28 @@
 {
   "hero": {
-    "title": "The Mongoose",
-    "rating": 5.6,
-    "runtime": "1h 39m",
-    "release_date": "2026-10-30",
-    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fasc",
+    "title": "Godzilla Minus Zero",
+    "rating": 8.0,
+    "runtime": "2h 15m",
+    "release_date": "2026-11-03",
+    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. J",
     "genres": [
-      "Action",
-      "Thriller"
+      "Science Fiction",
+      "Horror",
+      "Action"
     ]
   },
   "others": [
     {
-      "title": "Godzilla Minus Zero",
-      "rating": 7.9
+      "title": "The Mongoose",
+      "rating": 5.7
     },
     {
       "title": "Verity",
       "rating": 7.0
     },
     {
-      "title": "Wildwood",
-      "rating": 8.5
+      "title": "Ramayana: Rise of a Legend",
+      "rating": 7.7
     },
     {
       "title": "Beware Boiúna",

@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Godzilla Minus Zero",
-    "rating": 8.0,
+    "rating": 7.8,
     "runtime": "2h 15m",
     "release_date": "2026-11-03",
     "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. J",
@@ -13,20 +13,20 @@
   },
   "others": [
     {
-      "title": "The Mongoose",
-      "rating": 5.7
-    },
-    {
-      "title": "Verity",
-      "rating": 7.0
-    },
-    {
       "title": "Ramayana: Rise of a Legend",
-      "rating": 7.7
+      "rating": 7.8
     },
     {
-      "title": "Beware Boiúna",
-      "rating": 6.2
+      "title": "The Mongoose",
+      "rating": 5.9
+    },
+    {
+      "title": "Other Mommy",
+      "rating": 5.8
+    },
+    {
+      "title": "La Bola Negra",
+      "rating": 8.0
     }
   ]
 }

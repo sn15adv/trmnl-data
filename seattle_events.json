@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Raised By TV Events Presents: all ages Seinfeld Tr",
-    "date": "2026-11-10",
-    "time": "18:30:00",
-    "venue": "Clock-Out Lounge",
-    "segment": "Miscellaneous",
-    "genre": "",
-    "date_pretty": "Tue Nov 10"
+    "name": "Men's Basketball vs UTSA",
+    "date": "2026-11-11",
+    "time": "19:00:00",
+    "venue": "Seattle University Redhawk Center",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "date_pretty": "Wed Nov 11"
   },
   "others": [
     {
-      "name": "Tight Five Tuesdays Open Mic!",
-      "date": "2026-11-10",
+      "name": "Veteran's Day Show with Paul Ogata",
+      "date": "2026-11-11",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Tue Nov 10"
+      "date_pretty": "Wed Nov 11"
     },
     {
-      "name": "Seattle Thunderbirds vs. Victoria Royals",
-      "date": "2026-11-10",
-      "time": "19:05:00",
-      "venue": "accesso ShoWare Center",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Tue Nov 10"
-    },
-    {
-      "name": "L7 - 21 and Over",
-      "date": "2026-11-10",
+      "name": "Allison Russell - Ages 21+",
+      "date": "2026-11-11",
       "time": "20:00:00",
       "venue": "The Showbox",
       "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Tue Nov 10"
+      "genre": "Other",
+      "date_pretty": "Wed Nov 11"
     },
     {
-      "name": "ISAIAH RASHAD: Lil Sunny's Awful Road Trip",
-      "date": "2026-11-10",
+      "name": "Not For Radio - A Summer In The Forest: North Amer",
+      "date": "2026-11-11",
       "time": "20:00:00",
       "venue": "Paramount Theatre",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Tue Nov 10"
+      "genre": "Pop",
+      "date_pretty": "Wed Nov 11"
     },
     {
-      "name": "Syd: Beard Tour",
-      "date": "2026-11-10",
+      "name": "Bao Bella, Vallenato Panamericano, Good Enough",
+      "date": "2026-11-11",
       "time": "20:00:00",
-      "venue": "Moore Theatre",
+      "venue": "Chop Suey",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Tue Nov 10"
+      "genre": "Alternative",
+      "date_pretty": "Wed Nov 11"
     },
     {
-      "name": "Syd - Early Entry VIP Upgrade",
-      "date": "2026-11-10",
-      "time": "20:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Tue Nov 10"
-    },
-    {
-      "name": "Tank and The Bangas - The Last Balloon Tour 2026 w",
-      "date": "2026-11-10",
+      "name": "Armand Hammer, Sha Ray, DJ Haram",
+      "date": "2026-11-11",
       "time": "20:00:00",
       "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "R&B",
-      "date_pretty": "Tue Nov 10"
+      "genre": "Hip-Hop/Rap",
+      "date_pretty": "Wed Nov 11"
+    },
+    {
+      "name": "KEXP Presents! An Evening with Craig Finn & The Ba",
+      "date": "2026-11-11",
+      "time": "20:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Wed Nov 11"
+    },
+    {
+      "name": "Alex Cameron",
+      "date": "2026-11-11",
+      "time": "20:00:00",
+      "venue": "Sunset Tavern",
+      "segment": "Music",
+      "genre": "Alternative",
+      "date_pretty": "Wed Nov 11"
     }
   ]
 }

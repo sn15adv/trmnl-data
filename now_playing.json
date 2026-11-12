@@ -1,28 +1,26 @@
 {
   "hero": {
-    "title": "Godzilla Minus Zero",
-    "rating": 7.8,
-    "runtime": "2h 15m",
-    "release_date": "2026-11-03",
-    "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. J",
+    "title": "Other Mommy",
+    "rating": 5.9,
+    "runtime": "1h 33m",
+    "release_date": "2026-10-09",
+    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
     "genres": [
-      "Science Fiction",
-      "Horror",
-      "Action"
+      "Horror"
     ]
   },
   "others": [
     {
-      "title": "Ramayana: Rise of a Legend",
+      "title": "Godzilla Minus Zero",
       "rating": 7.8
     },
     {
-      "title": "The Mongoose",
-      "rating": 5.9
+      "title": "Ramayana: Rise of a Legend",
+      "rating": 7.6
     },
     {
-      "title": "Other Mommy",
-      "rating": 5.8
+      "title": "The Mongoose",
+      "rating": 6.1
     },
     {
       "title": "La Bola Negra",

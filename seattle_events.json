@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Men's Basketball vs UTSA",
-    "date": "2026-11-11",
+    "name": "Brett Goldstein: Sex, Death & Small Talk",
+    "date": "2026-11-12",
     "time": "19:00:00",
-    "venue": "Seattle University Redhawk Center",
-    "segment": "Sports",
-    "genre": "Basketball",
-    "date_pretty": "Wed Nov 11"
+    "venue": "Moore Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "date_pretty": "Thu Nov 12"
   },
   "others": [
     {
-      "name": "Veteran's Day Show with Paul Ogata",
-      "date": "2026-11-11",
+      "name": "Personalized Signed Tour Poster",
+      "date": "2026-11-12",
       "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Wed Nov 11"
+      "venue": "Moore Theatre",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Thu Nov 12"
     },
     {
-      "name": "Allison Russell - Ages 21+",
-      "date": "2026-11-11",
-      "time": "20:00:00",
-      "venue": "The Showbox",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Wed Nov 11"
-    },
-    {
-      "name": "Not For Radio - A Summer In The Forest: North Amer",
-      "date": "2026-11-11",
-      "time": "20:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Wed Nov 11"
-    },
-    {
-      "name": "Bao Bella, Vallenato Panamericano, Good Enough",
-      "date": "2026-11-11",
-      "time": "20:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Nov 11"
-    },
-    {
-      "name": "Armand Hammer, Sha Ray, DJ Haram",
-      "date": "2026-11-11",
-      "time": "20:00:00",
+      "name": "Nekrogoblikon, Aborted, Signs of the Swarm, Party ",
+      "date": "2026-11-12",
+      "time": "19:00:00",
       "venue": "The Crocodile",
       "segment": "Music",
+      "genre": "Metal",
+      "date_pretty": "Thu Nov 12"
+    },
+    {
+      "name": "Strongboi w/ Salami Rose Joe Louis",
+      "date": "2026-11-12",
+      "time": "19:00:00",
+      "venue": "Neumos",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Nov 12"
+    },
+    {
+      "name": "Henry Lau",
+      "date": "2026-11-12",
+      "time": "19:00:00",
+      "venue": "McCaw Hall",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Thu Nov 12"
+    },
+    {
+      "name": "Static Dress",
+      "date": "2026-11-12",
+      "time": "19:00:00",
+      "venue": "El Corazon",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Thu Nov 12"
+    },
+    {
+      "name": "The Residency: A Night of NW Hip Hop",
+      "date": "2026-11-12",
+      "time": "19:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Music",
       "genre": "Hip-Hop/Rap",
-      "date_pretty": "Wed Nov 11"
+      "date_pretty": "Thu Nov 12"
     },
     {
-      "name": "KEXP Presents! An Evening with Craig Finn & The Ba",
-      "date": "2026-11-11",
-      "time": "20:00:00",
-      "venue": "Tractor",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Wed Nov 11"
-    },
-    {
-      "name": "Alex Cameron",
-      "date": "2026-11-11",
-      "time": "20:00:00",
-      "venue": "Sunset Tavern",
-      "segment": "Music",
-      "genre": "Alternative",
-      "date_pretty": "Wed Nov 11"
+      "name": "Washington Huskies Womens Basketball vs. CSU Baker",
+      "date": "2026-11-12",
+      "time": "19:00:00",
+      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Thu Nov 12"
     }
   ]
 }

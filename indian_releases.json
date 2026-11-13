@@ -1,27 +1,22 @@
 {
   "hero": {
-    "title": "Ramayana: Rise of a Legend",
-    "original_title": "रामायणम्",
-    "language": "Hindi",
-    "rating": 7.5,
-    "release_date": "2026-11-05",
-    "overview": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater chal",
+    "title": "Mookuthi Amman 2",
+    "original_title": "மூக்குத்தி அம்மன் 2",
+    "language": "Tamil",
+    "rating": 0.0,
+    "release_date": "2026-11-06",
+    "overview": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.",
     "genres": [
       "Fantasy",
-      "Action",
-      "Adventure"
+      "Drama",
+      "Comedy"
     ]
   },
   "others": [
     {
-      "title": "Mookuthi Amman 2",
-      "language": "Tamil",
-      "release_date": "2026-11-06"
-    },
-    {
-      "title": "Scene",
-      "language": "Tamil",
-      "release_date": "2026-11-05"
+      "title": "DNK",
+      "language": "Telugu",
+      "release_date": "2026-11-12"
     },
     {
       "title": "Disco",
@@ -29,9 +24,14 @@
       "release_date": "2026-11-06"
     },
     {
-      "title": "DNK",
-      "language": "Telugu",
+      "title": "Parivarik ManuRanjan",
+      "language": "Hindi",
       "release_date": "2026-11-12"
+    },
+    {
+      "title": "Nooru Kodi Vaanavil",
+      "language": "Tamil",
+      "release_date": "2026-11-06"
     }
   ]
 }

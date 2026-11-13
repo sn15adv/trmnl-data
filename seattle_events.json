@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Brett Goldstein: Sex, Death & Small Talk",
-    "date": "2026-11-12",
+    "name": "World Ballet Company: Swan Lake with LIVE Orchestr",
+    "date": "2026-11-13",
     "time": "19:00:00",
-    "venue": "Moore Theatre",
+    "venue": "Paramount Theatre",
     "segment": "Arts & Theatre",
-    "genre": "Comedy",
-    "date_pretty": "Thu Nov 12"
+    "genre": "Dance",
+    "date_pretty": "Fri Nov 13"
   },
   "others": [
     {
+      "name": "Brett Goldstein: Sex, Death & Small Talk",
+      "date": "2026-11-13",
+      "time": "19:00:00",
+      "venue": "Moore Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Fri Nov 13"
+    },
+    {
       "name": "Personalized Signed Tour Poster",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "time": "19:00:00",
       "venue": "Moore Theatre",
       "segment": "Miscellaneous",
       "genre": "Undefined",
-      "date_pretty": "Thu Nov 12"
+      "date_pretty": "Fri Nov 13"
     },
     {
-      "name": "Nekrogoblikon, Aborted, Signs of the Swarm, Party ",
-      "date": "2026-11-12",
+      "name": "Son Volt, Kelly Willis",
+      "date": "2026-11-13",
       "time": "19:00:00",
       "venue": "The Crocodile",
       "segment": "Music",
-      "genre": "Metal",
-      "date_pretty": "Thu Nov 12"
+      "genre": "Alternative",
+      "date_pretty": "Fri Nov 13"
     },
     {
-      "name": "Strongboi w/ Salami Rose Joe Louis",
-      "date": "2026-11-12",
-      "time": "19:00:00",
-      "venue": "Neumos",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Nov 12"
-    },
-    {
-      "name": "Henry Lau",
-      "date": "2026-11-12",
-      "time": "19:00:00",
-      "venue": "McCaw Hall",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Thu Nov 12"
-    },
-    {
-      "name": "Static Dress",
-      "date": "2026-11-12",
-      "time": "19:00:00",
-      "venue": "El Corazon",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Thu Nov 12"
-    },
-    {
-      "name": "The Residency: A Night of NW Hip Hop",
-      "date": "2026-11-12",
+      "name": "Foy Vance World Tour | 2026 & 2027",
+      "date": "2026-11-13",
       "time": "19:00:00",
       "venue": "Neptune Theatre",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "date_pretty": "Thu Nov 12"
+      "genre": "Rock",
+      "date_pretty": "Fri Nov 13"
     },
     {
-      "name": "Washington Huskies Womens Basketball vs. CSU Baker",
-      "date": "2026-11-12",
+      "name": "Caroline Rhea",
+      "date": "2026-11-13",
       "time": "19:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "venue": "Tacoma Comedy Club",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Nov 13"
+    },
+    {
+      "name": "TK Kirkland",
+      "date": "2026-11-13",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Fri Nov 13"
+    },
+    {
+      "name": "Skate America - Men's Short Program & Pairs Short ",
+      "date": "2026-11-13",
+      "time": "19:00:00",
+      "venue": "Angel Of The Winds Arena",
       "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Thu Nov 12"
+      "genre": "Ice Skating",
+      "date_pretty": "Fri Nov 13"
     }
   ]
 }

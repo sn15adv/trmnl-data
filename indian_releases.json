@@ -1,37 +1,36 @@
 {
   "hero": {
-    "title": "Mookuthi Amman 2",
-    "original_title": "மூக்குத்தி அம்மன் 2",
-    "language": "Tamil",
+    "title": "DNK",
+    "original_title": "డీఎన్‌కే",
+    "language": "Telugu",
     "rating": 0.0,
-    "release_date": "2026-11-06",
-    "overview": "A queen sacrifices herself to protect her son, the prince, from invading enemies.Mookuthi Amman returns to protect the child and confronts a mysterious woman who embodies a new and dangerous evil.",
+    "release_date": "2026-11-12",
+    "overview": "A young man with a compulsive stealing habit brings trouble upon his family, who must deal with the consequences of his actions.",
     "genres": [
-      "Fantasy",
-      "Drama",
-      "Comedy"
+      "Comedy",
+      "Crime"
     ]
   },
   "others": [
-    {
-      "title": "DNK",
-      "language": "Telugu",
-      "release_date": "2026-11-12"
-    },
-    {
-      "title": "Disco",
-      "language": "Malayalam",
-      "release_date": "2026-11-06"
-    },
     {
       "title": "Parivarik ManuRanjan",
       "language": "Hindi",
       "release_date": "2026-11-12"
     },
     {
-      "title": "Nooru Kodi Vaanavil",
+      "title": "Itllu Arjuna",
+      "language": "Telugu",
+      "release_date": "2026-11-12"
+    },
+    {
+      "title": "O.M: Operation Mole",
       "language": "Tamil",
-      "release_date": "2026-11-06"
+      "release_date": "2026-11-20"
+    },
+    {
+      "title": "Blind Game",
+      "language": "Hindi",
+      "release_date": "2026-11-11"
     }
   ]
 }

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Drag Brunch",
-    "date": "2026-11-14",
-    "time": "12:00:00",
-    "venue": "Nate Jackson's Super Funny Comedy C",
-    "segment": "Undefined",
-    "genre": "",
-    "date_pretty": "Sat Nov 14"
+    "name": "Men's Basketball vs Idaho State",
+    "date": "2026-11-15",
+    "time": "13:00:00",
+    "venue": "Seattle University Redhawk Center",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "date_pretty": "Sun Nov 15"
   },
   "others": [
     {
+      "name": "Ghost Stories",
+      "date": "2026-11-15",
+      "time": "13:00:00",
+      "venue": "McCaw Hall",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Sun Nov 15"
+    },
+    {
+      "name": "Seahawks Viewing Party ",
+      "date": "2026-11-15",
+      "time": "13:05:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Sports",
+      "genre": "Football",
+      "date_pretty": "Sun Nov 15"
+    },
+    {
       "name": "Table 17",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "time": "14:00:00",
       "venue": "Union Arts Center",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sat Nov 14"
+      "date_pretty": "Sun Nov 15"
     },
     {
-      "name": "Ghost Stories",
-      "date": "2026-11-14",
+      "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
+      "date": "2026-11-15",
       "time": "14:00:00",
-      "venue": "McCaw Hall",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sat Nov 14"
-    },
-    {
-      "name": "KEXP Presents! Matinee Show: Fred Eaglesmith Retur",
-      "date": "2026-11-14",
-      "time": "14:00:00",
-      "venue": "Tractor",
+      "venue": "Climate Pledge Arena",
       "segment": "Music",
       "genre": "Country",
-      "date_pretty": "Sat Nov 14"
+      "date_pretty": "Sun Nov 15"
     },
     {
-      "name": "Skate America - Rhythm Dance and Women's Short Pro",
-      "date": "2026-11-14",
-      "time": "14:00:00",
-      "venue": "Angel Of The Winds Arena",
-      "segment": "Sports",
-      "genre": "Ice Skating",
-      "date_pretty": "Sat Nov 14"
+      "name": "Moonlight Princesses - Tribute to Demon Hunters - ",
+      "date": "2026-11-15",
+      "time": "16:00:00",
+      "venue": "Pantages Theater",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Sun Nov 15"
     },
     {
-      "name": "The Sejongs, Yost, Hank Webster",
-      "date": "2026-11-14",
+      "name": "Moonlight Princesses - Tribute to Demon Hunters",
+      "date": "2026-11-15",
+      "time": "16:00:00",
+      "venue": "Pantages Theater",
+      "segment": "Music",
+      "genre": "Pop",
+      "date_pretty": "Sun Nov 15"
+    },
+    {
+      "name": "Motel Dolores, Side Hustle, Sex Mitten",
+      "date": "2026-11-15",
       "time": "17:30:00",
       "venue": "Chop Suey",
       "segment": "Music",
       "genre": "Alternative",
-      "date_pretty": "Sat Nov 14"
-    },
-    {
-      "name": "Caroline Rhea",
-      "date": "2026-11-14",
-      "time": "18:00:00",
-      "venue": "Tacoma Comedy Club",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sat Nov 14"
-    },
-    {
-      "name": "Seattle Thunderbirds vs. Spokane Chiefs",
-      "date": "2026-11-14",
-      "time": "18:05:00",
-      "venue": "accesso ShoWare Center",
-      "segment": "Sports",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sat Nov 14"
+      "date_pretty": "Sun Nov 15"
     }
   ]
 }

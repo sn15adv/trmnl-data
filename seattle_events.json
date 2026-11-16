@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Men's Basketball vs Idaho State",
-    "date": "2026-11-15",
-    "time": "13:00:00",
-    "venue": "Seattle University Redhawk Center",
-    "segment": "Sports",
-    "genre": "Basketball",
-    "date_pretty": "Sun Nov 15"
+    "name": "Arch Enemy w/ The Black Dahlia Murder",
+    "date": "2026-11-16",
+    "time": "18:00:00",
+    "venue": "The Showbox",
+    "segment": "Music",
+    "genre": "Dance/Electronic",
+    "date_pretty": "Mon Nov 16"
   },
   "others": [
     {
-      "name": "Ghost Stories",
-      "date": "2026-11-15",
-      "time": "13:00:00",
-      "venue": "McCaw Hall",
-      "segment": "Arts & Theatre",
-      "genre": "Miscellaneous",
-      "date_pretty": "Sun Nov 15"
+      "name": "Underoath - Define the Great Line 20th Anniversary",
+      "date": "2026-11-16",
+      "time": "18:30:00",
+      "venue": "Paramount Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Mon Nov 16"
     },
     {
-      "name": "Seahawks Viewing Party ",
-      "date": "2026-11-15",
-      "time": "13:05:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Sports",
-      "genre": "Football",
-      "date_pretty": "Sun Nov 15"
+      "name": "Bayonne",
+      "date": "2026-11-16",
+      "time": "19:00:00",
+      "venue": "Barboza",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Mon Nov 16"
     },
     {
-      "name": "Table 17",
-      "date": "2026-11-15",
-      "time": "14:00:00",
-      "venue": "Union Arts Center",
+      "name": "Story of the Year w/ Silverstein",
+      "date": "2026-11-16",
+      "time": "19:00:00",
+      "venue": "Showbox SODO",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Mon Nov 16"
+    },
+    {
+      "name": "DAMAG3 with The Neighborhood Kids - Ages 21+",
+      "date": "2026-11-16",
+      "time": "19:00:00",
+      "venue": "Nectar Lounge",
       "segment": "Undefined",
       "genre": "",
-      "date_pretty": "Sun Nov 15"
+      "date_pretty": "Mon Nov 16"
     },
     {
-      "name": "Garth Brooks - Blame It All On My Roots Arena Tour",
-      "date": "2026-11-15",
-      "time": "14:00:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Sun Nov 15"
-    },
-    {
-      "name": "Moonlight Princesses - Tribute to Demon Hunters - ",
-      "date": "2026-11-15",
-      "time": "16:00:00",
-      "venue": "Pantages Theater",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Sun Nov 15"
-    },
-    {
-      "name": "Moonlight Princesses - Tribute to Demon Hunters",
-      "date": "2026-11-15",
-      "time": "16:00:00",
-      "venue": "Pantages Theater",
-      "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Sun Nov 15"
-    },
-    {
-      "name": "Motel Dolores, Side Hustle, Sex Mitten",
-      "date": "2026-11-15",
-      "time": "17:30:00",
-      "venue": "Chop Suey",
+      "name": "Tractor Tavern & Sonic Boom Record Club",
+      "date": "2026-11-16",
+      "time": "19:30:00",
+      "venue": "Tractor",
       "segment": "Music",
       "genre": "Alternative",
-      "date_pretty": "Sun Nov 15"
+      "date_pretty": "Mon Nov 16"
+    },
+    {
+      "name": "Olivia O'Brien",
+      "date": "2026-11-16",
+      "time": "20:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Mon Nov 16"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-11-16",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Nov 16"
     }
   ]
 }

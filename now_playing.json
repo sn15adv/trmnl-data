@@ -1,30 +1,31 @@
 {
   "hero": {
-    "title": "Other Mommy",
+    "title": "The Mongoose",
     "rating": 6.4,
-    "runtime": "1h 33m",
-    "release_date": "2026-10-09",
-    "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "runtime": "1h 39m",
+    "release_date": "2026-10-30",
+    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fasc",
     "genres": [
-      "Horror"
+      "Action",
+      "Thriller"
     ]
   },
   "others": [
-    {
-      "title": "The Mongoose",
-      "rating": 6.3
-    },
     {
       "title": "Godzilla Minus Zero",
       "rating": 7.7
     },
     {
-      "title": "Ghost Soldier",
-      "rating": 9.0
+      "title": "Ebenezer",
+      "rating": 7.6
     },
     {
-      "title": "Ebenezer",
-      "rating": 7.7
+      "title": "Ramayana: Rise of a Legend",
+      "rating": 7.5
+    },
+    {
+      "title": "Ghost Soldier",
+      "rating": 9.1
     }
   ]
 }

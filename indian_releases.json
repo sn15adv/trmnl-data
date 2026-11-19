@@ -13,14 +13,14 @@
   },
   "others": [
     {
-      "title": "Parivarik ManuRanjan",
-      "language": "Hindi",
-      "release_date": "2026-11-12"
-    },
-    {
       "title": "O.M: Operation Mole",
       "language": "Tamil",
       "release_date": "2026-11-19"
+    },
+    {
+      "title": "Parivarik ManuRanjan",
+      "language": "Hindi",
+      "release_date": "2026-11-12"
     },
     {
       "title": "Yeh Prem Mol Liya",
@@ -28,9 +28,9 @@
       "release_date": "2026-11-27"
     },
     {
-      "title": "Itllu Arjuna",
-      "language": "Telugu",
-      "release_date": "2026-11-12"
+      "title": "Pei Pidichirukku",
+      "language": "Tamil",
+      "release_date": "2026-11-27"
     }
   ]
 }

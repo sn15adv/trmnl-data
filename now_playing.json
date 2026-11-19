@@ -1,31 +1,32 @@
 {
   "hero": {
-    "title": "The Mongoose",
-    "rating": 6.4,
-    "runtime": "1h 39m",
-    "release_date": "2026-10-30",
-    "overview": "A falsely accused war hero with nothing to lose leads police on an epic televised cross-country car chase, helped by members of his former Special Forces Army battalion and closely monitored by a fasc",
+    "title": "The Hunger Games: Sunrise on the Reaping",
+    "rating": 7.5,
+    "runtime": "2h 39m",
+    "release_date": "2026-11-20",
+    "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "genres": [
+      "Science Fiction",
       "Action",
-      "Thriller"
+      "Adventure"
     ]
   },
   "others": [
     {
-      "title": "Godzilla Minus Zero",
-      "rating": 7.7
-    },
-    {
-      "title": "Ebenezer",
-      "rating": 7.6
+      "title": "The Mongoose",
+      "rating": 6.4
     },
     {
       "title": "Ramayana: Rise of a Legend",
       "rating": 7.5
     },
     {
-      "title": "Ghost Soldier",
-      "rating": 9.1
+      "title": "Ebenezer",
+      "rating": 7.6
+    },
+    {
+      "title": "Godzilla Minus Zero",
+      "rating": 7.7
     }
   ]
 }

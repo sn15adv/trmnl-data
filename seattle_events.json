@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Raised By TV Events Presents: all ages Friends Tha",
-    "date": "2026-11-18",
-    "time": "18:30:00",
-    "venue": "Clock-Out Lounge",
-    "segment": "Miscellaneous",
-    "genre": "",
-    "date_pretty": "Wed Nov 18"
+    "name": "Washington Huskies Mens Basketball vs. Utah Tech T",
+    "date": "2026-11-19",
+    "time": "18:00:00",
+    "venue": "Alaska Airlines Arena at Hec Edmund",
+    "segment": "Sports",
+    "genre": "Basketball",
+    "date_pretty": "Thu Nov 19"
   },
   "others": [
     {
-      "name": "State Champs w/ Cartel",
-      "date": "2026-11-18",
+      "name": "Seattle Kraken vs. Vancouver Canucks",
+      "date": "2026-11-19",
+      "time": "18:40:00",
+      "venue": "Climate Pledge Arena",
+      "segment": "Sports",
+      "genre": "Hockey",
+      "date_pretty": "Thu Nov 19"
+    },
+    {
+      "name": "Seattle Sounders FC vs. Real Salt Lake",
+      "date": "2026-11-19",
       "time": "19:00:00",
-      "venue": "The Showbox",
+      "venue": "Lumen Field",
+      "segment": "Sports",
+      "genre": "Soccer",
+      "date_pretty": "Thu Nov 19"
+    },
+    {
+      "name": "Julien Baker",
+      "date": "2026-11-19",
+      "time": "19:00:00",
+      "venue": "Neumos",
       "segment": "Music",
-      "genre": "Pop",
-      "date_pretty": "Wed Nov 18"
+      "genre": "Other",
+      "date_pretty": "Thu Nov 19"
     },
     {
-      "name": "Jervis Campbell (21+ Event)",
-      "date": "2026-11-18",
+      "name": "Tacoma City Theaters: Movie Series - Planes, Train",
+      "date": "2026-11-19",
       "time": "19:00:00",
-      "venue": "Barboza",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Wed Nov 18"
+      "venue": "Theatre On the Square",
+      "segment": "Film",
+      "genre": "Miscellaneous",
+      "date_pretty": "Thu Nov 19"
     },
     {
-      "name": "Louie TheSinger",
-      "date": "2026-11-18",
-      "time": "19:00:00",
-      "venue": "Nectar Lounge",
-      "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Wed Nov 18"
-    },
-    {
-      "name": "Trash Talk with Chris Crayzie",
-      "date": "2026-11-18",
+      "name": "KevOnStage",
+      "date": "2026-11-19",
       "time": "19:00:00",
       "venue": "Nate Jackson's Super Funny Comedy C",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Wed Nov 18"
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Thu Nov 19"
     },
     {
-      "name": "Washington State Cougars vs. Hawai'i Rainbow Warri",
-      "date": "2026-11-18",
-      "time": "19:00:00",
-      "venue": "Angel Of The Winds Arena",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Wed Nov 18"
-    },
-    {
-      "name": "KINO (21 and Over)",
-      "date": "2026-11-18",
-      "time": "20:00:00",
-      "venue": "Showbox SODO",
-      "segment": "Undefined",
-      "genre": "",
-      "date_pretty": "Wed Nov 18"
-    },
-    {
-      "name": "Todd Rundgren: DAMNED IF I DO TOUR",
-      "date": "2026-11-18",
-      "time": "20:00:00",
-      "venue": "Neptune Theatre",
+      "name": "Straight No Chaser",
+      "date": "2026-11-19",
+      "time": "19:30:00",
+      "venue": "Paramount Theatre",
       "segment": "Music",
       "genre": "Rock",
-      "date_pretty": "Wed Nov 18"
+      "date_pretty": "Thu Nov 19"
+    },
+    {
+      "name": "Rodrigo y Gabriela - OurHome Tour",
+      "date": "2026-11-19",
+      "time": "19:30:00",
+      "venue": "Moore Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Thu Nov 19"
     }
   ]
 }

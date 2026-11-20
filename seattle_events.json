@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Washington Huskies Mens Basketball vs. Utah Tech T",
-    "date": "2026-11-19",
-    "time": "18:00:00",
-    "venue": "Alaska Airlines Arena at Hec Edmund",
-    "segment": "Sports",
-    "genre": "Basketball",
-    "date_pretty": "Thu Nov 19"
+    "name": "JOSH JOHNSON'S COMEDY BAND CAMP",
+    "date": "2026-11-20",
+    "time": "19:00:00",
+    "venue": "Paramount Theatre",
+    "segment": "Arts & Theatre",
+    "genre": "Comedy",
+    "date_pretty": "Fri Nov 20"
   },
   "others": [
     {
-      "name": "Seattle Kraken vs. Vancouver Canucks",
-      "date": "2026-11-19",
-      "time": "18:40:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Hockey",
-      "date_pretty": "Thu Nov 19"
-    },
-    {
-      "name": "Seattle Sounders FC vs. Real Salt Lake",
-      "date": "2026-11-19",
+      "name": "COMEDY BAND CAMP ESSENTIALS UPGRADE",
+      "date": "2026-11-20",
       "time": "19:00:00",
-      "venue": "Lumen Field",
-      "segment": "Sports",
-      "genre": "Soccer",
-      "date_pretty": "Thu Nov 19"
+      "venue": "Paramount Theatre",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Fri Nov 20"
     },
     {
       "name": "Julien Baker",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "time": "19:00:00",
       "venue": "Neumos",
       "segment": "Music",
       "genre": "Other",
-      "date_pretty": "Thu Nov 19"
+      "date_pretty": "Fri Nov 20"
     },
     {
-      "name": "Tacoma City Theaters: Movie Series - Planes, Train",
-      "date": "2026-11-19",
+      "name": "Fear Factory",
+      "date": "2026-11-20",
       "time": "19:00:00",
-      "venue": "Theatre On the Square",
-      "segment": "Film",
-      "genre": "Miscellaneous",
-      "date_pretty": "Thu Nov 19"
+      "venue": "El Corazon",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Fri Nov 20"
     },
     {
-      "name": "KevOnStage",
-      "date": "2026-11-19",
+      "name": "Phoebe Robinson",
+      "date": "2026-11-20",
       "time": "19:00:00",
-      "venue": "Nate Jackson's Super Funny Comedy C",
+      "venue": "Neptune Theatre",
       "segment": "Arts & Theatre",
       "genre": "Comedy",
-      "date_pretty": "Thu Nov 19"
+      "date_pretty": "Fri Nov 20"
     },
     {
-      "name": "Straight No Chaser",
-      "date": "2026-11-19",
-      "time": "19:30:00",
-      "venue": "Paramount Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Thu Nov 19"
+      "name": "Washington Huskies Womens Basketball vs. Stanford ",
+      "date": "2026-11-20",
+      "time": "19:00:00",
+      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "segment": "Sports",
+      "genre": "Basketball",
+      "date_pretty": "Fri Nov 20"
     },
     {
-      "name": "Rodrigo y Gabriela - OurHome Tour",
-      "date": "2026-11-19",
-      "time": "19:30:00",
-      "venue": "Moore Theatre",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Thu Nov 19"
+      "name": "Sumo + Sushi - Seattle [Bellevue]",
+      "date": "2026-11-20",
+      "time": "19:00:00",
+      "venue": "Meydenbauer Center",
+      "segment": "Miscellaneous",
+      "genre": "Food & Drink",
+      "date_pretty": "Fri Nov 20"
+    },
+    {
+      "name": "Aries Spears",
+      "date": "2026-11-20",
+      "time": "19:00:00",
+      "venue": "Tacoma Comedy Club",
+      "segment": "Arts & Theatre",
+      "genre": "Miscellaneous",
+      "date_pretty": "Fri Nov 20"
     }
   ]
 }

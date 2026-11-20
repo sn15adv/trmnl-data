@@ -1,31 +1,32 @@
 {
   "hero": {
-    "title": "DNK",
-    "original_title": "డీఎన్‌కే",
-    "language": "Telugu",
+    "title": "O.M: Operation Mole",
+    "original_title": "ஓ.ம்: ஆபரேஷன் மோல்",
+    "language": "Tamil",
     "rating": 0.0,
-    "release_date": "2026-11-12",
-    "overview": "A young man with a compulsive stealing habit brings trouble upon his family, who must deal with the consequences of his actions.",
+    "release_date": "2026-11-19",
+    "overview": "Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task ",
     "genres": [
-      "Comedy",
-      "Crime"
+      "Crime",
+      "Action",
+      "Thriller"
     ]
   },
   "others": [
     {
-      "title": "O.M: Operation Mole",
-      "language": "Tamil",
-      "release_date": "2026-11-19"
-    },
-    {
-      "title": "Parivarik ManuRanjan",
-      "language": "Hindi",
-      "release_date": "2026-11-12"
-    },
-    {
       "title": "Yeh Prem Mol Liya",
       "language": "Hindi",
       "release_date": "2026-11-27"
+    },
+    {
+      "title": "Bachelor Party D'eux",
+      "language": "Malayalam",
+      "release_date": "2026-11-19"
+    },
+    {
+      "title": "ENE Repeat",
+      "language": "Telugu",
+      "release_date": "2026-11-18"
     },
     {
       "title": "Pei Pidichirukku",

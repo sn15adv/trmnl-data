@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "JOSH JOHNSON'S COMEDY BAND CAMP",
-    "date": "2026-11-20",
-    "time": "19:00:00",
-    "venue": "Paramount Theatre",
-    "segment": "Arts & Theatre",
-    "genre": "Comedy",
-    "date_pretty": "Fri Nov 20"
+    "name": "Washington Huskies Football vs. Indiana Hoosiers F",
+    "date": "2026-11-21",
+    "time": "12:30:00",
+    "venue": "Husky Stadium-WA",
+    "segment": "Sports",
+    "genre": "Football",
+    "date_pretty": "Sat Nov 21"
   },
   "others": [
     {
-      "name": "COMEDY BAND CAMP ESSENTIALS UPGRADE",
-      "date": "2026-11-20",
-      "time": "19:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Fri Nov 20"
-    },
-    {
-      "name": "Julien Baker",
-      "date": "2026-11-20",
-      "time": "19:00:00",
-      "venue": "Neumos",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Fri Nov 20"
-    },
-    {
-      "name": "Fear Factory",
-      "date": "2026-11-20",
-      "time": "19:00:00",
-      "venue": "El Corazon",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Fri Nov 20"
-    },
-    {
-      "name": "Phoebe Robinson",
-      "date": "2026-11-20",
-      "time": "19:00:00",
-      "venue": "Neptune Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Fri Nov 20"
-    },
-    {
-      "name": "Washington Huskies Womens Basketball vs. Stanford ",
-      "date": "2026-11-20",
-      "time": "19:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
-      "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Fri Nov 20"
-    },
-    {
       "name": "Sumo + Sushi - Seattle [Bellevue]",
-      "date": "2026-11-20",
-      "time": "19:00:00",
+      "date": "2026-11-21",
+      "time": "16:00:00",
       "venue": "Meydenbauer Center",
       "segment": "Miscellaneous",
       "genre": "Food & Drink",
-      "date_pretty": "Fri Nov 20"
+      "date_pretty": "Sat Nov 21"
+    },
+    {
+      "name": "JOSH JOHNSON'S COMEDY BAND CAMP",
+      "date": "2026-11-21",
+      "time": "17:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sat Nov 21"
+    },
+    {
+      "name": "COMEDY BAND CAMP ESSENTIALS UPGRADE",
+      "date": "2026-11-21",
+      "time": "17:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Sat Nov 21"
+    },
+    {
+      "name": "Everett Silvertips vs. Seattle Thunderbirds",
+      "date": "2026-11-21",
+      "time": "18:05:00",
+      "venue": "Angel Of The Winds Arena",
+      "segment": "Sports",
+      "genre": "Hockey",
+      "date_pretty": "Sat Nov 21"
+    },
+    {
+      "name": "Emily Catalano",
+      "date": "2026-11-21",
+      "time": "18:30:00",
+      "venue": "Neptune Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sat Nov 21"
     },
     {
       "name": "Aries Spears",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "time": "19:00:00",
       "venue": "Tacoma Comedy Club",
       "segment": "Arts & Theatre",
       "genre": "Miscellaneous",
-      "date_pretty": "Fri Nov 20"
+      "date_pretty": "Sat Nov 21"
+    },
+    {
+      "name": "Reg Thomas",
+      "date": "2026-11-21",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Arts & Theatre",
+      "genre": "Comedy",
+      "date_pretty": "Sat Nov 21"
     }
   ]
 }

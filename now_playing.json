@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "The Hunger Games: Sunrise on the Reaping",
-    "rating": 7.6,
+    "rating": 7.7,
     "runtime": "2h 38m",
     "release_date": "2026-11-20",
     "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quel",
@@ -17,16 +17,16 @@
       "rating": 7.4
     },
     {
-      "title": "The Mongoose",
-      "rating": 6.5
-    },
-    {
       "title": "Ghost Soldier",
-      "rating": 8.9
+      "rating": 9.0
     },
     {
       "title": "Godzilla Minus Zero",
       "rating": 7.7
+    },
+    {
+      "title": "The Mongoose",
+      "rating": 6.5
     }
   ]
 }

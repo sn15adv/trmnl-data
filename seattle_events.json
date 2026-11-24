@@ -1,59 +1,14 @@
 {
   "hero": {
-    "name": "Tractor Square Dance! Wonderland w/ Amy Carroll ca",
-    "date": "2026-11-23",
-    "time": "18:30:00",
-    "venue": "Tractor",
-    "segment": "Miscellaneous",
-    "genre": "",
-    "date_pretty": "Mon Nov 23"
+    "name": "SCRAMBLER JAM!",
+    "date": "2026-11-24",
+    "time": "19:00:00",
+    "venue": "Chop Suey",
+    "segment": "Music",
+    "genre": "Other",
+    "date_pretty": "Tue Nov 24"
   },
   "others": [
-    {
-      "name": "Seattle Kraken vs. Anaheim Ducks",
-      "date": "2026-11-23",
-      "time": "18:40:00",
-      "venue": "Climate Pledge Arena",
-      "segment": "Sports",
-      "genre": "Hockey",
-      "date_pretty": "Mon Nov 23"
-    },
-    {
-      "name": "Gwar (21 and Over)",
-      "date": "2026-11-23",
-      "time": "19:45:00",
-      "venue": "Showbox SODO",
-      "segment": "Music",
-      "genre": "Rock",
-      "date_pretty": "Mon Nov 23"
-    },
-    {
-      "name": "Seattle Mariners Ballpark Tour",
-      "date": "2026-11-23",
-      "time": "",
-      "venue": "T-Mobile Park",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Nov 23"
-    },
-    {
-      "name": "All Access Pass – Climate Pledge Arena Tours",
-      "date": "2026-11-23",
-      "time": "",
-      "venue": "Climate Pledge Arena",
-      "segment": "Miscellaneous",
-      "genre": "Undefined",
-      "date_pretty": "Mon Nov 23"
-    },
-    {
-      "name": "SCRAMBLER JAM!",
-      "date": "2026-11-24",
-      "time": "19:00:00",
-      "venue": "Chop Suey",
-      "segment": "Music",
-      "genre": "Other",
-      "date_pretty": "Tue Nov 24"
-    },
     {
       "name": "Emma Ruth Rundle (21 and Over)",
       "date": "2026-11-24",
@@ -70,6 +25,51 @@
       "venue": "Showbox SODO",
       "segment": "Music",
       "genre": "Rock",
+      "date_pretty": "Tue Nov 24"
+    },
+    {
+      "name": "Tuesdays With Kev- Valerie and Her Week of Wonders",
+      "date": "2026-11-24",
+      "time": "19:00:00",
+      "venue": "Clock-Out Lounge",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Nov 24"
+    },
+    {
+      "name": "Senses Fail Presents Still Searching",
+      "date": "2026-11-24",
+      "time": "19:00:00",
+      "venue": "Neptune Theatre",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Nov 24"
+    },
+    {
+      "name": "Ballard Food Bank Benefit featuring Mike Frazier &",
+      "date": "2026-11-24",
+      "time": "19:00:00",
+      "venue": "Tractor",
+      "segment": "Music",
+      "genre": "Folk",
+      "date_pretty": "Tue Nov 24"
+    },
+    {
+      "name": "Tight Five Tuesdays Open Mic!",
+      "date": "2026-11-24",
+      "time": "19:00:00",
+      "venue": "Nate Jackson's Super Funny Comedy C",
+      "segment": "Undefined",
+      "genre": "",
+      "date_pretty": "Tue Nov 24"
+    },
+    {
+      "name": "Prateek Kuhad: Full Moon Chamber Tour (Acoustic)",
+      "date": "2026-11-24",
+      "time": "19:30:00",
+      "venue": "Moore Theatre",
+      "segment": "Music",
+      "genre": "Pop",
       "date_pretty": "Tue Nov 24"
     }
   ]

@@ -1,76 +1,76 @@
 {
   "hero": {
-    "name": "Sip, Snip & String: Build Your Own Fresh 10 Foot H",
-    "date": "2026-11-22",
-    "time": "13:15:00",
-    "venue": "Kiana Lodge",
+    "name": "Tractor Square Dance! Wonderland w/ Amy Carroll ca",
+    "date": "2026-11-23",
+    "time": "18:30:00",
+    "venue": "Tractor",
     "segment": "Miscellaneous",
-    "genre": "Holiday",
-    "date_pretty": "Sun Nov 22"
+    "genre": "",
+    "date_pretty": "Mon Nov 23"
   },
   "others": [
     {
-      "name": "Sumo + Sushi - Seattle [Bellevue]",
-      "date": "2026-11-22",
-      "time": "13:30:00",
-      "venue": "Meydenbauer Center",
-      "segment": "Miscellaneous",
-      "genre": "Food & Drink",
-      "date_pretty": "Sun Nov 22"
-    },
-    {
-      "name": "NUTCRACKER! Magical Christmas Ballet",
-      "date": "2026-11-22",
-      "time": "14:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Dance",
-      "date_pretty": "Sun Nov 22"
-    },
-    {
-      "name": "Washington Huskies Womens Basketball vs. Cal Poly ",
-      "date": "2026-11-22",
-      "time": "14:00:00",
-      "venue": "Alaska Airlines Arena at Hec Edmund",
+      "name": "Seattle Kraken vs. Anaheim Ducks",
+      "date": "2026-11-23",
+      "time": "18:40:00",
+      "venue": "Climate Pledge Arena",
       "segment": "Sports",
-      "genre": "Basketball",
-      "date_pretty": "Sun Nov 22"
+      "genre": "Hockey",
+      "date_pretty": "Mon Nov 23"
     },
     {
-      "name": "JOSH JOHNSON'S COMEDY BAND CAMP",
-      "date": "2026-11-22",
-      "time": "17:00:00",
-      "venue": "Paramount Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Comedy",
-      "date_pretty": "Sun Nov 22"
-    },
-    {
-      "name": "Sumo + Sushi - Seattle [Bellevue]",
-      "date": "2026-11-22",
-      "time": "17:00:00",
-      "venue": "Meydenbauer Center",
-      "segment": "Miscellaneous",
-      "genre": "Food & Drink",
-      "date_pretty": "Sun Nov 22"
-    },
-    {
-      "name": "NUTCRACKER! Magical Christmas Ballet",
-      "date": "2026-11-22",
-      "time": "18:00:00",
-      "venue": "Moore Theatre",
-      "segment": "Arts & Theatre",
-      "genre": "Dance",
-      "date_pretty": "Sun Nov 22"
-    },
-    {
-      "name": "Jim Lauderdale w/ guests (partially seated)",
-      "date": "2026-11-22",
-      "time": "18:00:00",
-      "venue": "Tractor",
+      "name": "Gwar (21 and Over)",
+      "date": "2026-11-23",
+      "time": "19:45:00",
+      "venue": "Showbox SODO",
       "segment": "Music",
-      "genre": "Country",
-      "date_pretty": "Sun Nov 22"
+      "genre": "Rock",
+      "date_pretty": "Mon Nov 23"
+    },
+    {
+      "name": "Seattle Mariners Ballpark Tour",
+      "date": "2026-11-23",
+      "time": "",
+      "venue": "T-Mobile Park",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Nov 23"
+    },
+    {
+      "name": "All Access Pass – Climate Pledge Arena Tours",
+      "date": "2026-11-23",
+      "time": "",
+      "venue": "Climate Pledge Arena",
+      "segment": "Miscellaneous",
+      "genre": "Undefined",
+      "date_pretty": "Mon Nov 23"
+    },
+    {
+      "name": "SCRAMBLER JAM!",
+      "date": "2026-11-24",
+      "time": "19:00:00",
+      "venue": "Chop Suey",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Nov 24"
+    },
+    {
+      "name": "Emma Ruth Rundle (21 and Over)",
+      "date": "2026-11-24",
+      "time": "19:00:00",
+      "venue": "Neumos",
+      "segment": "Music",
+      "genre": "Other",
+      "date_pretty": "Tue Nov 24"
+    },
+    {
+      "name": "Saosin (21 and Over)",
+      "date": "2026-11-24",
+      "time": "19:00:00",
+      "venue": "Showbox SODO",
+      "segment": "Music",
+      "genre": "Rock",
+      "date_pretty": "Tue Nov 24"
     }
   ]
 }

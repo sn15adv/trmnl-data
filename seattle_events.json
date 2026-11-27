@@ -1,32 +1,14 @@
 {
   "hero": {
-    "name": "Closed for Thanksgiving",
-    "date": "2026-11-26",
-    "time": "00:00:00",
-    "venue": "Clock-Out Lounge",
+    "name": "Get Festive With It - Tree Lighting",
+    "date": "2026-11-27",
+    "time": "16:00:00",
+    "venue": "Suquamish Clearwater Resort Lawn",
     "segment": "Miscellaneous",
-    "genre": "",
-    "date_pretty": "Thu Nov 26"
+    "genre": "Holiday",
+    "date_pretty": "Fri Nov 27"
   },
   "others": [
-    {
-      "name": "George Balanchine's The Nutcracker",
-      "date": "2026-11-27",
-      "time": "14:00:00",
-      "venue": "McCaw Hall",
-      "segment": "Arts & Theatre",
-      "genre": "",
-      "date_pretty": "Fri Nov 27"
-    },
-    {
-      "name": "Get Festive With It - Tree Lighting",
-      "date": "2026-11-27",
-      "time": "16:00:00",
-      "venue": "Suquamish Clearwater Resort Lawn",
-      "segment": "Miscellaneous",
-      "genre": "Holiday",
-      "date_pretty": "Fri Nov 27"
-    },
     {
       "name": "The Amity Affliction w/ blessthefall",
       "date": "2026-11-27",
@@ -70,6 +52,24 @@
       "venue": "5th Avenue Theatre",
       "segment": "Undefined",
       "genre": "",
+      "date_pretty": "Fri Nov 27"
+    },
+    {
+      "name": "George Balanchine's The Nutcracker",
+      "date": "2026-11-27",
+      "time": "19:30:00",
+      "venue": "McCaw Hall",
+      "segment": "Arts & Theatre",
+      "genre": "",
+      "date_pretty": "Fri Nov 27"
+    },
+    {
+      "name": "The Outsiders (Touring)",
+      "date": "2026-11-27",
+      "time": "20:00:00",
+      "venue": "Paramount Theatre",
+      "segment": "Arts & Theatre",
+      "genre": "Theatre",
       "date_pretty": "Fri Nov 27"
     }
   ]

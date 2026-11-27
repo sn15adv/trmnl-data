@@ -1,35 +1,34 @@
 {
   "hero": {
-    "title": "O.M: Operation Mole",
-    "original_title": "ஓ.ம்: ஆபரேஷன் மோல்",
-    "language": "Tamil",
-    "rating": 7.8,
-    "release_date": "2026-11-19",
-    "overview": "Set across the temple corridors of Tirupati and Tiruvannamalai, an elite undercover operative infiltrates a sprawling transnational red sanders syndicate. As criminal politics escalate, a covert task ",
+    "title": "Aakasamlo Oka Tara",
+    "original_title": "ఆకాశం లో ఒక తార",
+    "language": "Telugu",
+    "rating": 8.0,
+    "release_date": "2026-11-20",
+    "overview": "A girl from a remote village dreams of becoming an astronaut and wishes to defy the odds and doubts from those around her.",
     "genres": [
-      "Crime",
-      "Action",
-      "Thriller"
+      "Drama",
+      "Romance"
     ]
   },
   "others": [
-    {
-      "title": "Aakasamlo Oka Tara",
-      "language": "Telugu",
-      "release_date": "2026-11-20"
-    },
     {
       "title": "Yeh Prem Mol Liya",
       "language": "Hindi",
       "release_date": "2026-11-27"
     },
     {
-      "title": "Bachelor Party D'eux",
-      "language": "Malayalam",
-      "release_date": "2026-11-19"
+      "title": "Appa Kutty",
+      "language": "Tamil",
+      "release_date": "2026-11-20"
     },
     {
-      "title": "Appa Kutty",
+      "title": "Delhi 2021",
+      "language": "Hindi",
+      "release_date": "2026-11-25"
+    },
+    {
+      "title": "Sathyavan Savithiri",
       "language": "Tamil",
       "release_date": "2026-11-20"
     }
